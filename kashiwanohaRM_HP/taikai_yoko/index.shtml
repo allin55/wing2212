@@ -1,0 +1,412 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<!-- レスポンシブ -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+<title>大会要項｜柏の葉リレーマラソン</title>
+<meta name="keywords" content="柏の葉リレーマラソン,柏の葉公園,親睦合同練習会">
+<meta name="description" content="柏の葉リレーマラソンはウイング・アスリートクラブの主催ではなく、柏の葉リレーマラソン実行委員会が主催しています。柏の葉リレーマラソンの大会要項です。">
+
+<!-- Bootstrap -->
+<link href="../css/bootstrap.min.css" rel="stylesheet">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<link href="../css/style.css" rel="stylesheet">
+
+<!-- アイコン読み出し-->
+<link rel="icon" href="../img/favicon.ico">
+
+</head>
+<body>
+<!-- #page -->
+<div id="page" class="container">
+
+	<!-- #header 画面上部のヘッダー=================================== -->
+	<!--SSI追加。ヘッダー、外部ファイル読み出し -->
+	<!--#include virtual="/kashiwanohaRM_HP/ssi/header.html"  -->
+	<!-- #header 画面上部のヘッダー、終了=============================== -->
+
+	<!-- #menu 画面上部のメニュー====================================== -->
+	<!--SSI追加。グローバルメニュー外部ファイル読み出し -->
+	<!--#include virtual="/kashiwanohaRM_HP/ssi/nav.html"  -->
+	<!-- #menu 画面上部のメニュー、終了================================= -->
+
+
+	<div class="container-fluid back_white">
+		<div class="row">
+			<!-- 本文、中央⇒左 -->
+			<!-- <div class="col-lg-6 col-lg-push-3 col-md-8 col-sm-12"> -->
+			<div class="col-md-8 col-sm-12">
+
+		<!-- #main 本文スペース -->
+
+
+
+				<div class="title">
+					<h1>大会要項
+						<!-- （<span class="glyphicon glyphicon-alert"></span> 2017年大会用に見直し途中のため、変更の可能性があります） -->
+					</h1>
+					<p class="subh">ご案内の電子ファイルは、こちらからダウンロードできます。<span class="underline">参加申込書</span>と<span class="underline">参加者名簿</span>も含まれています。
+						<ul>
+							<li><a href="../file/2019yokoV01.pdf" target="_blank">PDF版</a></li>
+							<li><a href="../file/2019yokoV01.doc" target="_blank">WORD版</a></li>
+						</ul>
+					</p>
+				</div>
+
+				<section class="yoko">
+					<table class="table table-bordered">
+						<tbody>
+							<tr>
+								<th>名称</th>
+								<td>第23回 親睦合同練習会 （柏の葉リレーマラソン）</td>
+							</tr>
+							<tr>
+								<th>主催</th>
+								<td>柏の葉リレーマラソン実行委員会</td>
+							</tr>
+							<tr>
+								<th>開催日</th>
+								<td>2019年11月3日（日）  雨天決行</td>
+							</tr>
+							<tr>
+								<th>会場</th>
+								<td><a href="http://www.cue-net.or.jp/kouen/kasiwa/" target="_blank"><strong>柏の葉公園 総合競技場</strong> (柏市柏の葉公園４－１)</a><br>
+									<a href="http://www.cue-net.or.jp/kouen/kasiwa/access/" target="_blank">アクセス方法は、こちらをクリック</a><br>
+									(近くに有料駐車場有り : 600円/1日)<br>
+									<a href="http://www.cue-net.or.jp/kouen/kasiwa/pdf/map_parkmap.pdf" target="_blank">公園マップ（PDF）は、こちらをクリック</a>
+								</td>
+							</tr>
+							<tr>
+								<th>集合時間</th>
+								<td>8時00分(受付開始)  （競技スタート 10時00分）</td>
+							</tr>
+							<tr>
+								<th>競技方法</th>
+								<td>チーム対抗タスキ・リレーによる<strong>42.4km</strong>競技<br>
+									1チーム原則5人以上22人未満（年齢、性別は自由）<br>
+									<strong>1人、2km（400mトラックを5周）</strong>で次ランナーへタスキ・リレー<br>
+									アンカーは400m<br>
+									走る回数、順番は自由、各チームごとに記録を計測してください
+								</td>
+							</tr>
+							<tr>
+								<th>参加申込</th>
+								<td><span class="underline">参加申込書</span>及び<span class="underline">参加者名簿</span>に必要事項をご記入の上、2枚とも事務局へご送付下さい
+								</td>
+							</tr>
+							<tr>
+								<th>参加費</th>
+								<td>１名につき2,500円 （昼食付）、応援及び中学生以下は1,500円<br>
+									（ステップスポーツ・マイルレース参加費は1チーム別途500円）<br>
+								</td>
+							</tr>
+							<tr>
+								<th>支払方法</th>
+								<td><strong class="underline">参加費は、以下のいずれかの方法で、団体チーム毎まとめて事務局口座へお振込み下さい</strong><br>
+									2016年までは、大会専用の「払込取扱票」のみでの支払いでしたが、2017年からは、他の方法でも支払できるようにしました。
+									<a href="../file/haraikomitoriatsukaihyo.pdf" target="_blank">「払込取扱票」のコピーはこちらから参照できます。</a>
+									<ol class="kouzamei">
+										<li>別送の大会専用の「払込取扱票」を利用</li>
+										<li>ゆうちょ銀行から、送金<br>
+											<table class="table table-bordered kozamei">
+												<tbody>
+													<tr>
+														<th>
+															送金先口座
+														</th>
+														<td>
+															記号番号：00190-7-322303
+														</td>
+													</tr>
+													<tr>
+														<th>
+															名義人名
+														</th>
+														<td>
+															親睦合同練習会事務局　様<br>
+															(シンボクゴウドウレンシュウカイジムキョク　様)
+														</td>
+													</tr>
+												</tbody>
+											</table>
+										</li>
+										<li>ゆうちょ銀行以外から、振込
+										<table class="table table-bordered kozamei">
+											<tbody>
+												<tr>
+													<th>銀行名</th>
+													<td>ゆうちょ銀行</td>
+												</tr>
+												<tr>
+													<th>金融機関コード</th>
+													<td>9900</td>
+												</tr>
+												<tr>
+													<th>店番</th>
+													<td>019</td>
+												</tr>
+												<tr>
+													<th>預金種目</th>
+													<td>当座</td>
+												</tr>
+												<tr>
+													<th>店名</th>
+													<td>〇一九店（ゼロイチキュウ店）</td>
+												</tr>
+												<tr>
+													<th>口座番号</th>
+													<td>0322303</td>
+												</tr>
+												<tr>
+													<th>口座名</th>
+													<td>ｼﾝﾎﾞｸｺﾞｳﾄﾞｳﾚﾝｼﾕｶｲｼﾞﾑｷﾖｸ</td>
+												</tr>
+											</tbody>
+										</table>
+										</li>
+									</ol>
+									<strong>※参加申込後は参加費の返金は致しかねますので、その旨ご了承下さい</strong>
+								</td>
+							</tr>
+							<tr>
+								<th>受付開始</th>
+								<td>2019年8月1日</td>
+							</tr>
+							<tr>
+								<th>締切</th>
+								<td>2019年10月1日</td>
+							</tr>
+							<tr>
+								<th>表彰</th>
+								<td>（チーム賞）優勝／準優勝／3位／特別賞等多数<br>
+									（個人賞）ベストタイム賞／特別賞等多数
+								</td>
+							</tr>
+						</tbody>
+					</table>
+				</section>
+
+				<section>
+					<h3 class="bgPink">スケジュール</h3>
+					<table class="table table-bordered">
+						<tbody>
+							<tr>
+								<th>08:00</th>
+								<td>受付開始（記録表・タスキ・参加賞等配布します）</td>
+							</tr>
+							<tr>
+								<th>09:10</th>
+								<td>監督者ミーティング（競技説明及び注意事項）</td>
+							</tr>
+							<tr>
+								<th>09:30</th>
+								<td>開会式
+									<ol>
+										<li>開会の辞</li>
+										<li>協賛各社紹介</li>
+										<li>初参加チームおよびゲスト紹介</li>
+										<li>大会会長挨拶</li>
+										<li>柏市体育協会会長挨拶</li>
+										<li>優勝トロフィー返還</li>
+										<li>選手宣誓</li>
+									</ol>
+								</td>
+							</tr>
+							<tr>
+								<th>10:00</th>
+								<td>競技スタート
+								</td>
+							</tr>
+							<tr>
+								<th></th>
+								<td>ゴールチームは記録書を受付へ提出<br>
+									ステップスポーツ・マイルレース申込先着１6チーム受付<br>
+									（参加費500円を添えて当日お申込みください）
+								</td>
+							</tr>
+							<tr>
+								<th>13:00</th>
+								<td>昼食配布
+								</td>
+							</tr>
+							<tr>
+								<th></th>
+								<td>競技終了／記録集計／提出
+								</td>
+							</tr>
+							<tr>
+								<th>14:00</th>
+								<td>ステップスポーツ・マイルレース（400mｘ4）スタート</td>
+							</tr>
+							<tr>
+								<th>14:30</th>
+								<td>清掃及び機具撤収</td>
+							</tr>
+							<tr>
+								<th>15:00</th>
+								<td>閉会式
+									<ol>
+										<li>プレゼンテーション</li>
+										<li>表彰式</li>
+										<li>閉会の辞</li>
+										<li>退場</li>
+									</ol>
+								</td>
+							</tr>
+							<tr>
+								<th>16:00</th>
+								<td>終了予定
+								</td>
+							</tr>
+						</tbody>
+					</table>
+				</section>
+
+				<h3 class="bgPink">競技説明</h3>
+				<OL>
+					<LI>１チーム原則５人以上、22人未満で構成して下さい（年齢，性別は自由です）</LI>
+					<LI>一人、2km (400m x 5周) 走って次走者にタスキ・リレーします</LI>
+					<LI>走る回数、順番は自由です</LI>
+					<LI>ラストランナーは400m(トラック１周)走ってゴールとします</LI>
+					<LI>記録計測用時計は各チームで用意し、チーム毎に記録を計測して下さい</LI>
+					<LI>昼食／給水器（水）／タスキ等は事務局で用意します</LI>
+					<LI>タスキリレーは第４レーンより外側のレーンに設けられたリレーゾーン内で行って下さい</LI>
+					<LI>タスキは結び目を解いて記録書と一緒に受付へすみやかに返却して下さい</LI>
+					<!-- <LI>第何番走者が走行中であるかを判別するため、掲示記録用紙に各ランナーの記録を直ちにご記入下さい</LI> -->
+					<LI>準備体操・ウォーミングアップは各自十分に行ってください </LI>
+					<LI>車椅子あるいはベビィーカーでの参加はご遠慮下さい</LI>
+					<LI>9時10分より監督者ミーティングを実施しますので受付までご集合下さい</LI>
+				</OL>
+
+				<h3 class="bgPink">注意事項</h3>
+				<OL>
+					<LI>スパイクを使用しての走行には十分注意して下さい</LI>
+					<LI>伴走をするチームは他のチームの迷惑にならないように十分注意して下さい</LI>
+					<LI>給水にはスポーツドリンク／麦茶を用意します</LI>
+					<LI><span class="underline">マイコップ制につき、給水用マイコップをご持参下さい</span></LI>
+					<LI>清掃および後片付けは全員参加で、表彰式前に行います</LI>
+					<LI>総合競技場規則を遵守すること<strong class="underline">（フィールド内緑地は立入禁止です）</strong></LI>
+					<LI>タータン上では飲食が禁止されています。2階スタンド席をご利用下さい</LI>
+					<LI>更衣室、シャワーがご利用できます</LI>
+					<LI>参加者名簿に登録されてない方は走行できません（代走禁止）</LI>
+					<LI>体調不良の方の参加はご遠慮下さい</LI>
+					<LI>各自が自分の責任おいて健康を管理し、楽しく安全に、また無理なく走りましょう</LI><!-- 	<li>このイベントは各チーム間の相互親睦を深める事を目的とした夏季合同練習会です</li>  -->
+
+					<LI>2階スタンドのフェンスへの寄りかかりは、危険ですのでご遠慮下さい</LI>
+					<LI>このイベントは参加ランナーによって運営されている関係上、様々な不備や行き届かない点が発生するかと思います。その際には必ずご協力を下さいますようお願いします</LI>
+					<LI>著しく気温が上昇した時は競技を中止することがあります。</LI>
+					<LI>スポーツマンシップにのっとり、ルールとマナーを守り楽しく走りましょう</LI>
+					<LI><strong class="underline">大会事務局では事故の責任は一切負いかねますのでその旨ご了承の上、ご参加下さい</strong></LI>
+					<li>主催者が記録した大会の映像・写真・記事・記録等（において氏名・年齢・性別・記録・肖像等の個人情報）が新聞・テレビ・雑誌・インターネット・パンフレット等に報道・掲載・利用されることを承諾します。また、その掲載権・使用権は主催者に属します。</li>
+				</OL>
+
+				<h3 class="bgPink">参加申込注意事項</h3>
+				<OL>
+					<LI><strong class="underline">参加申込みは所定の用紙</strong>にご記入の上、参加者名簿と一緒に期日までに事務局へご送付下さい。</LI>
+					<!-- <LI><strong class="underline">参加費は所定の用紙</strong>をご利用の上、団体チーム毎まとめて事務局口座へ期日までにお振込下さい。</LI> -->
+					<LI>団体チーム毎まとめて事務局口座へ期日までにお振込下さい。</LI>
+					<LI>参加費は参加申込書および参加者名簿を事務局へご送付後、速やかにお振込み下さい</LI>
+					<LI>参加申込み後の参加費の返金は致しかねます</LI>
+				</OL>
+
+
+				<h3 class="bgPink">特別企画：ステップスポーツ・マイルレース</h3>
+				<ul style="list-style-type: none">
+					<li>競技終了後に400m×4のマイルレースを行ないます</li>
+					<li>参加希望チームは記録表提出時にお申込み下さい</li>
+					<li>参加チームは本レース先着順に16チームまでとします</li>
+					<li>参加費は1チーム500円、受付時にお支払い下さい</li>
+				</ul>
+
+				<h3 class="bgPink">記録表</h3>
+				<p>記録表は、受付時にお渡ししますが、こちからダウンロードも可能です。事前準備したい方は、ご利用ください</p>
+				<ul>
+					<li><a href="../file/kirokuhyo.xlsx" target="_blank">Excel版</a></li>
+					<li><a href="../file/kirokuhyo.pdf" target="_blank">PDF版</a></li>
+				</ul>
+
+
+
+				<h3 class="bgPink">申込書及び参加者名簿送付先</h3>
+				<p>
+					〒277-0835<br>
+					柏市松ケ崎415-5 クレスト柏 1-306<br>
+					柏の葉リレーマラソン 事務局<br>
+					荒木　敏文<br>
+					TEL／FAX: 04-7131-5577<br>
+					<a href="tel:090-8565-2021"><span class="glyphicon glyphicon-phone"></span>携帯：090-8565-2021　荒木敏文</a><br>
+					<a href="mailto:t.araki.wing.ac@t.vodafone.ne.jp"><span class="glyphicon glyphicon-envelope"></span>携帯メアド：t.araki.wing.ac@t.vodafone.ne.jp</a><br>
+					<a href="mailto:nf230081-3641@tbn.t-com.ne.jp"><span class="glyphicon glyphicon-envelope"></span>PCメアド：nf230081-3641@tbn.t-com.ne.jp</a>
+				</p>
+
+
+				<h3 class="bgPink">お願い（参加チームをご紹介下さい）</h3>
+				<p>近年の大会急増の煽りを受け、柏の葉リレーマラソンは参加者が減少傾向にあります。<BR>
+					事務局では、今年より参加者の減少を止める為、皆様のお知り合いチームをご紹介頂き、適正な参加者人数を保ちたいと考えています。
+				</p>
+				<p>つきましては、皆様のお知り合いチームをご紹介下さい。</p>
+				<p>新たに本大会へ参加チームをご紹介下さった方で下記の条件を満たした方には、事務局から素敵なプレゼント（南アフリカワイン）を差し上げます。</p>
+
+				<h4>（特記事項）</h4>
+				<ul>
+					<li>初参加チームの申込書に何々チームの何々様からの紹介と明記があること。</li>
+					<li>ご紹介参加チームの参加者人数が、１０名以上であること。</li>
+					<li>ご紹介チームの参加者の大半が初参加であること。（チーム名変更申込は不可）</li>
+					<li>プレゼントのお渡しは大会表彰式とします。</li>
+				</ul>
+
+				<h3 class="bgPink" id="layout">会場レイアウト</h3>
+				<img src="../img/layout_v1.jpg" width="100%"" alt="レイアウト">
+
+
+
+			</div>	<!-- .col-md-8 col-sm-12 -->
+
+
+    <!-- サイドメニュー×2=============================================== -->
+    <!--#include virtual="/kashiwanohaRM_HP/ssi/side1.html"  -->
+    <!--#include virtual="/kashiwanohaRM_HP/ssi/side2.html"  -->
+	<!-- サイドメニュー×2　終了=========================================== -->
+
+
+		</div>	<!-- .row -->
+	</div>	<!-- .container .back_white -->
+
+
+    <!-- 下部=============================================================== -->
+    <!--#include virtual="/kashiwanohaRM_HP/ssi/footer.html"  -->
+    <!-- フッター＋トップへ戻るボタン終了========================================== -->
+
+
+
+</div>	<!-- #page-->
+
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="../js/jquery-1.12.3.min.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="../js/bootstrap.min.js"></script>
+<script>
+	$(function() {
+		$("[data-toggle=tooltip]").tooltip({
+			placement: 'bottom'
+		});
+		$("[data-toggle=popover]").popover();
+	});
+</script>
+
+<!-- JS コードの外部ファイルに移動	-->
+<script src="../js/scripts.js" type="text/javascript"></script>
+
+
+</body>
+</html>

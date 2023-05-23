@@ -1,0 +1,586 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<!-- レスポンシブ -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+<title>2016年結果｜柏の葉リレーマラソン</title>
+<meta name="keywords" content="柏の葉リレーマラソン,柏の葉公園,親睦合同練習会">
+<meta name="description" content="柏の葉リレーマラソンはウイング・アスリートクラブの主催ではなく、柏の葉リレーマラソン実行委員会が主催しています。柏の葉リレーマラソンの2016年の結果です。">
+
+<!-- Bootstrap -->
+<link href="../css/bootstrap.min.css" rel="stylesheet">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<link href="../css/style.css" rel="stylesheet">
+
+<!-- アイコン読み出し-->
+<link rel="icon" href="../img/favicon.ico">
+
+</head>
+<body>
+<!-- #page -->
+<div id="page" class="container">
+
+	<!-- #header 画面上部のヘッダー=================================== -->
+	<!--SSI追加。ヘッダー、外部ファイル読み出し -->
+	<!--#include virtual="/kashiwanohaRM_HP/ssi/header.html"  -->
+	<!-- #header 画面上部のヘッダー、終了=============================== -->
+
+	<!-- #menu 画面上部のメニュー====================================== -->
+	<!--SSI追加。グローバルメニュー外部ファイル読み出し -->
+	<!--#include virtual="/kashiwanohaRM_HP/ssi/nav.html"  -->
+	<!-- #menu 画面上部のメニュー、終了================================= -->
+
+
+	<div class="container-fluid back_white">
+		<div class="row">
+			<!-- 本文、中央⇒左 -->
+			<!-- <div class="col-lg-6 col-lg-push-3 col-md-8 col-sm-12"> -->
+			<div class="col-md-8 col-sm-12">
+
+		<!-- #main 本文スペース -->
+
+		<div class="title">
+			<h1>2016年の結果</h1>
+	<p class="subh"><a href="../rekidai_kekka/20result/2016kekka.pdf" target="_blank">PDFファイルはこちらからダウンロードできます</a></p>
+		</div>
+<!--
+		<section>
+			<h3 class="bgPink">第20回 柏の葉リレーマラソン　参加者へのお礼</h3>
+			<div class="well well-sm">
+				<p>柏の葉リレーマラソン大会参加チーム 各位</p>
+				<P>　拝啓 立秋の候、貴チームの皆様には益々ご健勝の事とお慶び申し上げます。<br>
+					去る 8月28日（日）第20回柏の葉リレーマラソン大会開催に当たりましては、60チームのランナーが日頃鍛えた健脚を競い合い、全チームが喜びと感動と共に42.4kmをタスキで繋ぎ完走を致しました。<br>
+					ご参加下さいました各チームの皆様、並びにご支援下さいました皆様には心より感謝お礼申し上げます。<br>
+					当リレーマラソン大会の運営に関しましては、いたらぬ点が多々あろうかと存じますが、特色ある有意義な大会を目指し、更に多くのランナーが参加し易く楽しめるリレーマラソンに成る様、事務局一同努力してまいる所存でございますので、なお一層のご支援、ご指導賜わりますようお願い申し上げます。<br>
+					まずは取急ぎお礼申し上げます。</P>
+					<P class="migi">敬具</P>
+					<p>2016年9月吉日</p>
+					<p>柏の葉リレーマラソン実行委員会<br>
+						実行委員長　荒木敏文</p>
+			</div>
+		</section>
+		<section>
+			<p><a href="../photo/index.shtml">写真集へのリンク</a></p>
+		</section>
+	-->
+
+		<section>
+
+			<h3 class="bgPink">第20回柏の葉リレーマラソン結果（赤文字：表彰チーム）</h3>
+			<h4 class="leftPink">リレーマラソンチーム成績</h4>
+			<table class="table table-striped table-hover">
+				<thead>
+					<tr>
+						<th>順位</th>
+						<th>チーム名</th>
+						<th>タイム</th>
+					</tr>
+				</thead>
+					<tbody>
+						<tr class="text-danger">
+							<td>優勝</td>
+							<td>Running Team Gazelle GAZELLE</td>
+							<td>2：11：56</td>
+						</tr>
+						<tr class="text-danger">
+							<td>準優勝</td>
+							<td>布佐走友会</td>
+							<td>2：15：35</td>
+						</tr>
+						<tr class="text-danger">
+							<td>3位</td>
+							<td>ウイングAC ドリーム</td>
+							<td>2：15：54</td>
+						</tr>
+						<tr class="text-danger">
+							<td>4位</td>
+							<td>KAC レジェンド</td>
+							<td>2：21：03</td>
+						</tr>
+						<tr class="text-danger">
+							<td>5位</td>
+							<td>茨城福祉AC </td>
+							<td>2：21：33</td>
+						</tr>
+						<tr class="text-danger">
+							<td>6位</td>
+							<td>ニッポンランナーズ ジャイアン</td>
+							<td>2：23：45</td>
+						</tr>
+						<tr class="text-danger">
+							<td>7位</td>
+							<td>牛久走友会 A </td>
+							<td>2：24：27</td>
+						</tr>
+						<tr class="text-danger">
+							<td>8位</td>
+							<td>流山CJ-A </td>
+							<td>2：26：17</td>
+						</tr>
+						<tr class="text-danger">
+							<td>9位</td>
+							<td>まるこ陸上部</td>
+							<td>2：31：36</td>
+						</tr>
+						<tr class="text-danger">
+							<td>10位</td>
+							<td>TKS隊長＆OGW隊員α </td>
+							<td>2：32：53</td>
+						</tr>
+						<tr>
+							<td>11位</td>
+							<td>Running Team Gazelle ガゼル</td>
+							<td>2：33：33</td>
+						</tr>
+						<tr>
+							<td>12位</td>
+							<td>ウイングAC フューチャー</td>
+							<td>2：33：46</td>
+						</tr>
+						<tr>
+							<td>13位</td>
+							<td>青竹荘（竹） </td>
+							<td>2：35：04</td>
+						</tr>
+						<tr>
+							<td>14位</td>
+							<td>松戸21RC A </td>
+							<td>2：36：07</td>
+						</tr>
+						<tr class="text-danger">
+							<td>15位</td>
+							<td>青竹荘（青） </td>
+							<td>2：37：03</td>
+						</tr>
+						<tr>
+							<td>16位</td>
+							<td>横浜金沢走友会 A </td>
+							<td>2：44：28</td>
+						</tr>
+						<tr>
+							<td>17位</td>
+							<td>我孫子走友会 A </td>
+							<td>2：44：37</td>
+						</tr>
+						<tr>
+							<td>18位</td>
+							<td>ウイングAC アミーゴA </td>
+							<td>2：45：40</td>
+						</tr>
+						<tr>
+							<td>19位</td>
+							<td>白井陸友会</td>
+							<td>2：47：15</td>
+						</tr>
+						<tr class="text-danger">
+							<td>20位</td>
+							<td>横浜金沢走友会 B </td>
+							<td>2：47：43</td>
+						</tr>
+						<tr>
+							<td>21位</td>
+							<td>市川マラソンクラブ</td>
+							<td>2：49：54</td>
+						</tr>
+						<tr>
+							<td>22位</td>
+							<td>砂田会</td>
+							<td>2：50：27</td>
+						</tr>
+						<tr>
+							<td>23位</td>
+							<td>流山CJ-B </td>
+							<td>2：50：49</td>
+						</tr>
+						<tr>
+							<td>24位</td>
+							<td>ニッポンランナーズ スネ夫</td>
+							<td>2：51：05</td>
+						</tr>
+						<tr class="text-danger">
+							<td>25位</td>
+							<td>Running Team Gazelle がぜる</td>
+							<td>2：52：39</td>
+						</tr>
+						<tr>
+							<td>26位</td>
+							<td>ニッポンランナーズ しずかちゃん</td>
+							<td>2：53：05</td>
+						</tr>
+						<tr>
+							<td>27位</td>
+							<td>新三郷楽走会 こまち</td>
+							<td>2：53：49</td>
+						</tr>
+						<tr class="text-danger">
+							<td>28位</td>
+							<td>ミエルコレス</td>
+							<td>2：55：19</td>
+						</tr>
+						<tr>
+							<td>29位</td>
+							<td>新三郷楽走会 ひかり</td>
+							<td>2：55：48</td>
+						</tr>
+						<tr class="text-danger">
+							<td>30位</td>
+							<td>柏ランナーズ</td>
+							<td>2：56：38</td>
+						</tr>
+						<tr>
+							<td>31位</td>
+							<td>ニッポンランナーズ のび太</td>
+							<td>2：58：05</td>
+						</tr>
+						<tr>
+							<td>32位</td>
+							<td>牛久走友会 B </td>
+							<td>2：58：23</td>
+						</tr>
+						<tr>
+							<td>33位</td>
+							<td>牛久走友会 C </td>
+							<td>2：59：15</td>
+						</tr>
+						<tr>
+							<td>34位</td>
+							<td>NO REASON </td>
+							<td>3：00：04</td>
+						</tr>
+						<tr class="text-danger">
+							<td>35位</td>
+							<td>ウイングAC アミーゴB </td>
+							<td>3：02：01</td>
+						</tr>
+						<tr>
+							<td>36位</td>
+							<td>サタデーランニングフィバー B </td>
+							<td>3：02：32</td>
+						</tr>
+						<tr>
+							<td>37位</td>
+							<td>チーム美酒ラン</td>
+							<td>3：05：04</td>
+						</tr>
+						<tr>
+							<td>38位</td>
+							<td>松戸21RC B </td>
+							<td>3：05：57</td>
+						</tr>
+						<tr>
+							<td>39位</td>
+							<td>不忍池AC </td>
+							<td>3：05：58</td>
+						</tr>
+						<tr class="text-danger">
+							<td>40位</td>
+							<td>松戸健走会 A </td>
+							<td>3：06：02</td>
+						</tr>
+						<tr>
+							<td>41位</td>
+							<td>取手ランナーズ</td>
+							<td>3：07：26</td>
+						</tr>
+						<tr>
+							<td>42位</td>
+							<td>キッコーマン食品 加工チーム</td>
+							<td>3：08：06</td>
+						</tr>
+						<tr>
+							<td>43位</td>
+							<td>サタデーランニングフィバー A </td>
+							<td>3：11：27</td>
+						</tr>
+						<tr>
+							<td>44位</td>
+							<td>松戸健走会 B </td>
+							<td>3：11：50</td>
+						</tr>
+						<tr class="text-danger">
+							<td>45位</td>
+							<td>浦安ハーフを走る会 B </td>
+							<td>3：13：43</td>
+						</tr>
+						<tr>
+							<td>46位</td>
+							<td>NHランニング倶楽部</td>
+							<td>3：14：27</td>
+						</tr>
+						<tr>
+							<td>47位</td>
+							<td>我孫子走友会 B </td>
+							<td>3：14：43</td>
+						</tr>
+						<tr>
+							<td>48位</td>
+							<td>浦安ハーフを走る会 A </td>
+							<td>3：15：28</td>
+						</tr>
+						<tr>
+							<td>49位</td>
+							<td>柏CSC </td>
+							<td>3：15：53</td>
+						</tr>
+						<tr class="text-danger">
+							<td>50位</td>
+							<td>キッコーマン食品 PM ＆ KROチーム</td>
+							<td>3：16：50</td>
+						</tr>
+						<tr>
+							<td>51位</td>
+							<td>らんらんくらぶ</td>
+							<td>3：18：18</td>
+						</tr>
+						<tr>
+							<td>52位</td>
+							<td>セントラル南千住</td>
+							<td>3：18：27</td>
+						</tr>
+						<tr>
+							<td>53位</td>
+							<td>湘南の暴れん坊</td>
+							<td>3：19：22</td>
+						</tr>
+						<tr>
+							<td>54位</td>
+							<td>南流山楽友会 Aチーム</td>
+							<td>3：20：29</td>
+						</tr>
+						<tr class="text-danger">
+							<td>55位</td>
+							<td>流山CJ レディース</td>
+							<td>3：25：37</td>
+						</tr>
+						<tr>
+							<td>56位</td>
+							<td>壱軸倶楽部</td>
+							<td>3：27：09</td>
+						</tr>
+						<tr>
+							<td>57位</td>
+							<td>コスモス流山</td>
+							<td>3：27：41</td>
+						</tr>
+						<tr>
+							<td>58位</td>
+							<td>呼魂太鼓チーム</td>
+							<td>3：33：09</td>
+						</tr>
+						<tr class="text-danger">
+							<td>BB賞</td>
+							<td>南流山楽友会 Bチーム</td>
+							<td>3：35：29</td>
+						</tr>
+						<tr class="text-danger">
+							<td>BM賞</td>
+							<td>K7の仲間たち</td>
+							<td>3：40：14</td>
+						</tr>
+
+
+
+					</tbody>
+				</table>
+
+			<h4 class="leftPink">リレーマラソン　ベストタイム賞</h4>
+			<table class="table table-striped table-hover">
+				<thead>
+					<tr>
+						<th>賞</th>
+						<th>チーム名</th>
+						<th>氏名</th>
+						<th>タイム</th>
+					</tr>
+				</thead>
+					<tbody>
+						<tr class="text-danger">
+							<td>男子2000m</td>
+							<td>茨城福祉AC </td>
+							<td>紀ノ川 智一</td>
+							<td>5分53秒</td>
+						</tr>
+						<tr class="text-danger">
+							<td>女子2000m</td>
+							<td>砂田会</td>
+							<td>里中 志帆</td>
+							<td>6分35秒</td>
+						</tr>
+						<tr class="text-danger">
+							<td>男子400m</td>
+							<td>ニッポンランナーズ ジャイアン</td>
+							<td>杉本</td>
+							<td>0分59秒</td>
+						</tr>
+						<tr class="text-danger">
+							<td>男子400m</td>
+							<td>KAC レジェンド</td>
+							<td>篠森</td>
+							<td>0分59秒</td>
+						</tr>
+						<tr class="text-danger">
+							<td>女子400m</td>
+							<td>砂田会</td>
+							<td>里中 志帆</td>
+							<td>1分06秒</td>
+						</tr>
+						<tr>
+							<td></td>
+							<td></td>
+							<td>（敬称略）</td>
+							<td></td>
+						</tr>
+					</tbody>
+				</table>
+
+			<h4 class="leftPink">ステップ・マイルレース　4×400m　一般　成績</h4>
+			<table class="table table-striped table-hover">
+				<thead>
+					<tr>
+						<th>順位</th>
+						<th>チーム名</th>
+						<th>タイム</th>
+					</tr>
+				</thead>
+					<tbody>
+						<tr class="text-danger">
+							<td>優勝</td>
+							<td>まるこ陸上部</td>
+							<td>3分46秒99</td>
+						</tr>
+						<tr class="text-danger">
+							<td>準優勝</td>
+							<td>布佐走友会</td>
+							<td>3分47秒22</td>
+						</tr>
+						<tr class="text-danger">
+							<td>3位</td>
+							<td>GAZELLE </td>
+							<td>3分50秒24</td>
+						</tr>
+						<tr>
+							<td>4位</td>
+							<td>茨城福祉AC </td>
+							<td>3分54秒12</td>
+						</tr>
+						<tr>
+							<td>5位</td>
+							<td>TKS隊長＆OGW隊員α </td>
+							<td>4分04秒95</td>
+						</tr>
+						<tr>
+							<td>6位</td>
+							<td>ウィングAC ドリーム</td>
+							<td>4分07秒27</td>
+						</tr>
+						<tr>
+							<td>7位</td>
+							<td>ウィングAC フォーティーズ</td>
+							<td>4分14秒73</td>
+						</tr>
+						<tr>
+							<td>8位</td>
+							<td>流山CJ </td>
+							<td>4分33秒32</td>
+						</tr>
+						<tr>
+							<td>9位</td>
+							<td>市川MC </td>
+							<td>4分48秒82</td>
+						</tr>
+						<tr>
+							<td>10位</td>
+							<td>新三郷楽友会</td>
+							<td>4分51秒48</td>
+						</tr>
+						<tr>
+							<td>11位</td>
+							<td>チーム美酒ラン</td>
+							<td>4分53秒</td>
+						</tr>
+					</tbody>
+				</table>
+
+			<h4 class="leftPink">ステップ・マイルレース　4×400m　女性・キッズ　成績</h4>
+			<table class="table table-striped table-hover">
+				<thead>
+					<tr>
+						<th>順位</th>
+						<th>チーム名</th>
+						<th>タイム</th>
+					</tr>
+				</thead>
+					<tbody>
+						<tr class="text-danger">
+							<td>優勝</td>
+							<td>ウィングAC </td>
+							<td>5分08秒76</td>
+						</tr>
+						<tr>
+							<td>準優勝</td>
+							<td>がぜる</td>
+							<td>5分15秒55</td>
+						</tr>
+						<tr>
+							<td>3位</td>
+							<td>湘南の暴れん坊キッズ</td>
+							<td>7分12秒</td>
+						</tr>
+					</tbody>
+				</table>
+
+			</section>
+
+
+
+
+			</div>	<!-- .col-md-8 col-sm-12 -->
+
+
+    <!-- サイドメニュー×2=============================================== -->
+    <!--#include virtual="/kashiwanohaRM_HP/ssi/side1.html"  -->
+    <!--#include virtual="/kashiwanohaRM_HP/ssi/side2.html"  -->
+	<!-- サイドメニュー×2　終了=========================================== -->
+
+
+	</div>	<!-- .row -->
+</div>	<!-- .container .back_white -->
+
+
+    <!-- 下部=============================================================== -->
+    <!--#include virtual="/kashiwanohaRM_HP/ssi/footer.html"  -->
+    <!-- フッター＋トップへ戻るボタン終了========================================== -->
+
+
+
+</div>	<!-- #page-->
+
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="../js/jquery-1.12.3.min.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="../js/bootstrap.min.js"></script>
+<script>
+	$(function() {
+		$("[data-toggle=tooltip]").tooltip({
+			placement: 'bottom'
+		});
+		$("[data-toggle=popover]").popover();
+	});
+</script>
+
+<!-- JS コードの外部ファイルに移動	-->
+<script src="../js/scripts.js" type="text/javascript"></script>
+
+
+</body>
+</html>

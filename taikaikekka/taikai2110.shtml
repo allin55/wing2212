@@ -1,0 +1,272 @@
+﻿<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+
+<!-- 個別設定必要-->
+<title>大会結果｜ウィングAC</title>
+<meta name="keywords" content="ウィング・アスリートクラブ, ランニングクラブ, 柏市, 手賀沼">
+<meta name="description" content="本ページは、柏市手賀沼を中心に活動しているランニングクラブであるウィング・アスリートクラブの大会結果のページです。2021年10月～12月の結果です。">
+
+
+<!-- 電話番号にリンクを貼らないように-->
+<meta name="format-detection" content="telephone=no">
+
+<!-- レスポンシブ -->
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<!--[if lt IE 9]>
+  <script src="../js/css3-mediaqueries.js"></script>
+<![endif]-->	<!-- IE8以下の対応 -->
+<!-- IE9未満の対応。外部CSSファイルを指定しているlink要素の前に記述-->
+
+
+<!-- ｊQueryメイン  -->
+<script src="../js/jquery-1.12.3.min.js" type="text/javascript"></script>
+
+<!-- ドロップダウンメニュー、その他を、IE8以下に対応させるためのJS-->
+<script src="../js/html5shiv.js" type="text/javascript"></script>
+
+<!-- ギャラリー
+<script src="../js/galleria/galleria-1.2.9.js" type="text/javascript"></script>
+<script src="../js/gallery_sub.js" type="text/javascript"></script>
+ -->
+
+<!-- JS コードの外部ファイルに移動	-->
+<script src="../js/scripts.js" type="text/javascript"></script>
+
+<!-- cssファイルの読み込み	-->
+<link rel="stylesheet" href="../css/style.css">
+
+<!-- Font Awesome を利用-->
+<link rel="stylesheet" href="../font-awesome-4.6.3/css/font-awesome.min.css">
+
+<!-- アイコン読み出し-->
+<link rel="icon" href="../img/favicon.ico">
+
+</head>
+
+<body>
+<!-- #page ページの整形：中央寄せ -->
+<div id="page">
+
+
+<!-- #header 画面上部のヘッダー==================================== -->
+	<!--SSI追加。ヘッダー外部ファイル読み出し -->
+						<!--#include virtual="/ssi/header.html"  -->
+<!-- #header 画面上部のヘッダー、終了================================ -->
+
+
+  <!-- スライドメニューボタン  -->
+  <div id="menuButton">
+  <div id="menuButtonInner">
+  <span class="slideButton"><i class="fa fa-bars fa-4x"></i> <br>メニュー<br></span>
+  </div>
+  </div>
+
+  <div style="clear:both;"> </div>
+  <div id="layer"> </div>
+
+
+	<!-- #menu 画面上部のメニュー======================================================================== -->
+	<!--SSI追加。グローバルメニュー外部ファイル読み出し -->
+	          <!--#include virtual="/ssi/nav.html"  -->
+	<!-- #menu 画面上部のメニュー、終了================================================================== -->
+
+
+	<div id="contents">
+		<!-- #main 本文スペース -->
+		<div id="main">
+			<div class="contentswrap">
+				<div class="title">
+					<h1><a href="../taikaikekka/index.shtml">大会結果</a>　2021年10月～12月</h1>
+					<p class="subh">大会結果の報告先は吉田さんです。<br>
+					吉田さんのアドレスを知りたい方は、<a href="mailto:wingac2016@gmail.com">wingac2016@gmail.com</a>へおたずねください。
+					</p>
+				</div>
+
+
+
+                <a id="insert-pos"></a>
+<a id="第135回関東10マイル･10キロロｰドレｰス（2021.12.19）"></a>
+<h2><a href="https://s-nets.info/kantou.10miles/" target="_blank">第135回関東10マイル･10キロロｰドレｰス（2021.12.19）</a></h2>
+<h3>10マイル</h3>
+<table class="type091">
+	<thead><tr><th>ランナー</th><th>グロスタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>倫亜さん</td><td>1:06:30</td><td>159/407</td><td class="type091nyusyo"></td></tr></tbody>
+</table>
+<h3>10km</h3>
+<table class="type091">
+	<thead><tr><th>ランナー</th><th>グロスタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>よっちゃん</td><td>0:34:22</td><td>1/199</td><td class="type091nyusyo">優勝</td></tr></tbody>
+	<tbody><tr class="type091male"><td>林さん</td><td>0:34:27</td><td>13/87</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>かみむらさん</td><td>0:37:14</td><td>19/199</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>熊谷（修）さん</td><td>0:38:06</td><td>24/199</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091female"><td>西田さん</td><td>0:40:17</td><td>4/143</td><td class="type091nyusyo">4位入賞</td></tr></tbody>
+	<tbody><tr class="type091male"><td>森川さん</td><td>0:40:23</td><td>72/179</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>千枝さん</td><td>0:41:03</td><td>45/199</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091female"><td>まつさん</td><td>0:41:39</td><td>10/143</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>山崎さん</td><td>0:41:53</td><td>10/127</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091female"><td>しほちゃん</td><td>0:42:51</td><td>14/143</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>平山（謙）さん</td><td>0:43:08</td><td>60/199</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>藤崎さん</td><td>0:44:53</td><td>25/127</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>あべさん</td><td>0:45:27</td><td>80/199</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>もっちさん</td><td>0:46:20</td><td>93/199</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091female"><td>下重さん</td><td>0:48:26</td><td>34/143</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091female"><td>雅子さん</td><td>0:49:24</td><td>41/143</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>西さん</td><td>0:51:16</td><td>15/87</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091female"><td>ひしださん</td><td>0:54:55</td><td>71/143</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091female"><td>根本（真）さん</td><td>1:06:03</td><td>125/143</td><td class="type091nyusyo"></td></tr></tbody>
+</table>
+
+<a id="Beyond2021（2021.12.29）"></a>
+<h2><a href="https://runnet.jp/entry/runtes/user/pc/moshicomDetailAction.do?raceId=56522&div=1" target="_blank">Beyond2021（2021.12.29）</a></h2>
+<h3>フル</h3>
+<table class="type091">
+<thead><tr><th>ランナー</th><th>グロスタイム</th><th>ネットタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>林さん</td><td>2:43:25</td><td>2:43:24</td><td></td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>成島さん</td><td>2:46:44</td><td>2:46:43</td><td></td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>小室（淳）さん</td><td>2:47:25</td><td>2:47:23</td><td></td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>両川さん</td><td>2:50:49</td><td>2:50:48</td><td></td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>熊谷さん</td><td>2:55:46</td><td>2:55:45</td><td></td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>倫亜さん</td><td>2:58:07</td><td>2:58:04</td><td></td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>大地さん</td><td>3:00:45</td><td>3:00:42</td><td></td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091female"><td>西田さん</td><td>3:09:14</td><td>3:09:10</td><td></td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091female"><td>まつさん</td><td>3:24:42</td><td>3:24:38</td><td></td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>藤崎さん</td><td>3:42:03</td><td>3:42:00</td><td></td><td class="type091nyusyo"></td></tr></tbody>
+</table>
+
+<a id="TOKYO八峰マウンテントレイル（2021.12.19）"></a>
+<h2><a href="https://wp.triathlon-lumina.com/e446/" target="_blank">TOKYO八峰マウンテントレイル（2021.12.19）</a></h2>
+<h3>30km</h3>
+<table class="type091">
+	<thead><tr><th>ランナー</th><th>グロスタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>丸山さん</td><td>4:32:38</td><td>12/39</td><td class="type091nyusyo"></td></tr></tbody>
+</table>
+
+<a id="IZU TRAIL Journey 2021（2021.12.12）"></a>
+<h2><a href="https://www.izutrailjourney.com/" target="_blank">IZU TRAIL Journey 2021（2021.12.12）</a></h2>
+<h3>70km</h3>
+<table class="type091">
+	<thead><tr><th>ランナー</th><th>グロスタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>成島さん</td><td>9:14:46</td><td>170/1068</td><td class="type091nyusyo"></td></tr></tbody>
+</table>
+
+<a id="東京江戸川ウルトラマラソン（2021.12.5）"></a>
+<h2><a href="https://www.sportsentry.ne.jp/event/t/85671" target="_blank">東京江戸川ウルトラマラソン（2021.12.5）</a></h2>
+<h3>50km</h3>
+<table class="type091">
+	<thead><tr><th>ランナー</th><th>グロスタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>玉野さん</td><td>6:30:58</td><td> 48/67</td><td class="type091nyusyo"></td></tr></tbody>
+</table>
+
+<a id="第10回富士山マラソン（2021.11.28）"></a>
+<h2><a href="https://mtfujimarathon.com/" target="_blank">第10回富士山マラソン（2021.11.28）</a></h2>
+<h3>フル</h3>
+<table class="type091">
+<thead><tr><th>ランナー</th><th>グロスタイム</th><th>ネットタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>丸山さん</td><td>3:52:40</td><td>3:51:33</td><td>5/79</td><td class="type091nyusyo"></td></tr></tbody>
+</table>
+
+<a id="第9回 KASHIWAリレｰマラソン（2021.11.23）"></a>
+<h2><a href="https://kashiwa-marathon.com/" target="_blank">第9回 KASHIWAリレｰマラソン（2021.11.23）</a></h2>
+<h3>ハｰフ</h3>
+<table class="type091">
+<thead><tr><th>ランナー</th><th>グロスタイム</th><th>ネットタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>王子さん</td><td>1:14:01</td><td>1:13:59</td><td>6/156</td><td class="type091nyusyo"></td></tr></tbody>
+</table>
+
+<a id="第7回FunTrails Round 秩父&奥武蔵 100K/30K（2021.11.20）"></a>
+<h2><a href="http://fun-trails.com/race/100k/" target="_blank">第7回FunTrails Round 秩父&奥武蔵 100K/30K（2021.11.20）</a></h2>
+<h3>FTR30K</h3>
+<table class="type091">
+	<thead><tr><th>ランナー</th><th>グロスタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>玉野さん</td><td>5:02:50</td><td>114/145</td><td class="type091nyusyo"></td></tr></tbody>
+</table>
+
+<a id="金沢マラソン2021（2021.10.31）"></a>
+<h2><a href="https://www.kanazawa-marathon.jp/" target="_blank">金沢マラソン2021（2021.10.31）</a></h2>
+<h3>フル</h3>
+<table class="type091">
+<thead><tr><th>ランナー</th><th>グロスタイム</th><th>ネットタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>よっちゃん</td><td>2:41:45</td><td>2:41:40</td><td>120/7552</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>大東さん</td><td>3:19:50</td><td>3:19:05</td><td>904/7552</td><td class="type091nyusyo"></td></tr></tbody>
+</table>
+
+<a id="第16回世田谷246ハｰフマラソン（2021.11.14）"></a>
+<h2><a href="https://www.se-sports.or.jp/event/246/" target="_blank">第16回世田谷246ハｰフマラソン（2021.11.14）</a></h2>
+<h3>ハｰフ</h3>
+<table class="type091">
+<thead><tr><th>ランナー</th><th>グロスタイム</th><th>ネットタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091female"><td>鶴谷さん</td><td>1:22:32</td><td>1:22:26</td><td>3/39</td><td class="type091nyusyo">3位表彰台</td></tr></tbody>
+</table>
+
+<a id="第6回日光国立公園マウンテンランニング大会（2021.11.14）"></a>
+<h2><a href="https://www.nikkorun.com/" target="_blank">第6回日光国立公園マウンテンランニング大会（2021.11.14）</a></h2>
+<h3>ミドル(約34km)</h3>
+<table class="type091">
+	<thead><tr><th>ランナー</th><th>グロスタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>丸山さん</td><td>5:13:04</td><td>180／493</td><td class="type091nyusyo"></td></tr></tbody>
+</table>
+
+<a id="2021成田POPラン（2021.11.7）"></a>
+<h2><a href="https://www.narita-pop-run.jp/" target="_blank">2021成田POPラン（2021.11.7）</a></h2>
+<h3>10km</h3>
+<table class="type091">
+	<thead><tr><th>ランナー</th><th>グロスタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>千枝さん</td><td>0:44:35</td><td>7/63</td><td class="type091nyusyo">7位入賞</td></tr></tbody>
+	<tbody><tr class="type091male"><td>藤崎さん</td><td>0:45:43</td><td>4/36</td><td class="type091nyusyo">4位入賞</td></tr></tbody>
+	<tbody><tr class="type091female"><td>根本（真）さん</td><td>1:07:47</td><td>29/33</td><td class="type091nyusyo"></td></tr></tbody>
+</table>
+
+<a id="EBOSHI SKY RUN 2021（2021.10.30）"></a>
+<h2><a href="https://skyrunninja.wixsite.com/eboshi" target="_blank">EBOSHI SKY RUN 2021（2021.10.30～31）</a></h2>
+<h3>バｰティカル(7.5km)</h3>
+<table class="type091">
+	<thead><tr><th>ランナー</th><th>グロスタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>成島さん</td><td>1:17:09</td><td>5/43</td><td class="type091nyusyo"></td></tr></tbody>
+</table>
+<h3>スカイレｰス(25km)</h3>
+<table class="type091">
+	<thead><tr><th>ランナー</th><th>グロスタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>成島さん</td><td>2:55:29</td><td>14/75</td><td class="type091nyusyo"></td></tr></tbody>
+</table>
+
+
+
+
+
+
+				<div id="subnavi"></div>
+			</div>
+		</div>
+
+
+
+        <!-- #menuL 右サイドメニュー=========================================== -->
+            <!--#include virtual="/ssi/side.html"  -->
+
+            <!-- フロートが適用されている複数のボックスの外側に親ボックスがある場合、
+            フロートが解除されていないと親ボックスの高さがなくなるため、追加	-->
+            <div style="clear: both"></div>
+
+    	</div>	<!-- #contents-->
+
+    <!-- 下部=============================================================== -->
+    <!--SSI追加。外部ファイル読み出し -->
+        <!--#include virtual="/ssi/footer.html"  -->
+    <!-- フッター終了========================================================= -->
+
+
+<!-- トップへ戻るボタン-->
+<p class="pagetop"><a href="#wrap">先頭へ▲</a></p>
+
+
+</div>	<!-- #page-->
+
+
+
+
+
+
+</body>
+</html>

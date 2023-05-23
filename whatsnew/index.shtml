@@ -1,0 +1,2931 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="utf-8">
+
+    <!-- 個別設定必要-->
+    <title>What's new｜ウィングAC</title>
+    <meta name="keywords" content="ウィング・アスリートクラブ, ランニングクラブ, 柏市, 手賀沼">
+    <meta name="description" content="本ページは、柏市手賀沼を中心に活動しているランニングクラブであるウィング・アスリートクラブの最新情報のページです。">
+
+
+    <!-- 電話番号にリンクを貼らないように-->
+    <meta name="format-detection" content="telephone=no">
+
+    <!-- レスポンシブ -->
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <!--[if lt IE 9]>
+  <script src="../js/css3-mediaqueries.js"></script>
+<![endif]-->
+    <!-- IE8以下の対応 -->
+    <!-- IE9未満の対応。外部CSSファイルを指定しているlink要素の前に記述-->
+
+
+    <!-- ｊQueryメイン  -->
+    <script src="../js/jquery-1.12.3.min.js" type="text/javascript"></script>
+
+    <!-- ドロップダウンメニュー、その他を、IE8以下に対応させるためのJS-->
+    <script src="../js/html5shiv.js" type="text/javascript"></script>
+
+    <!-- ギャラリー
+<script src="../js/galleria/galleria-1.2.9.js" type="text/javascript"></script>
+<script src="../js/gallery_sub.js" type="text/javascript"></script>
+ -->
+
+    <!-- JS コードの外部ファイルに移動	-->
+    <script src="../js/scripts.js" type="text/javascript"></script>
+
+    <!-- cssファイルの読み込み	-->
+    <link rel="stylesheet" href="../css/style.css">
+
+    <!-- Font Awesome を利用-->
+    <link rel="stylesheet" href="../font-awesome-4.6.3/css/font-awesome.min.css">
+
+    <!-- アイコン読み出し-->
+    <link rel="icon" href="../img/favicon.ico">
+
+</head>
+
+<body>
+    <!-- #page ページの整形：中央寄せ -->
+    <div id="page">
+
+
+        <!-- #header 画面上部のヘッダー==================================== -->
+        <!--SSI追加。ヘッダー外部ファイル読み出し -->
+        <!--#include virtual="/ssi/header.html"  -->
+        <!-- #header 画面上部のヘッダー、終了================================ -->
+
+
+
+        <!-- スライドメニューボタン  -->
+        <div id="menuButton">
+            <div id="menuButtonInner">
+                <span class="slideButton"><i class="fa fa-bars fa-4x"></i> <br>メニュー<br></span>
+            </div>
+        </div>
+
+        <div style="clear:both;"> </div>
+        <div id="layer"> </div>
+
+
+
+        <!-- #menu 画面上部のメニュー======================================================================== -->
+
+        <!--SSI追加。グローバルメニュー外部ファイル読み出し -->
+        <!--#include virtual="/ssi/nav.html"  -->
+
+        <!-- #menu 画面上部のメニュー、終了================================================================== -->
+
+
+
+
+
+        <div id="contents">
+            <!-- #main 本文スペース -->
+            <div id="mainFull">
+                <div class="contentswrap">
+                    <div class="title">
+                        <h1>最新情報</h1>
+                        <p class="subh"></p>
+                    </div>
+
+
+                    <!-- #main news表示　追加 -->
+
+
+                    <div id="news">
+                        <dl>
+                          <dt>2022-11-27</dt>
+                          <dd class="link">
+                          	<a href="../member/index.shtml">メンバー紹介</a>に1名追加しました。<br>
+                          </dd>
+
+                          <dt>2022-11-26</dt>
+                          <dd class="link">
+                          	<a href="../taikaikekka/taikai2210.shtml#2022上尾シティハｰフマラソン（2022.11.20）">2022上尾シティハｰフマラソン（2022.11.20）</a><br>
+                          	<a href="../taikaikekka/taikai2210.shtml#東京チャレンジハｰフマラソン2022（2022.11.20）">東京チャレンジハｰフマラソン2022（2022.11.20）</a><br>
+                          	<a href="../taikaikekka/taikai2210.shtml#Nozawa Spa Trail Race 2022（2022.10.1）">Nozawa Spa Trail Race 2022（2022.10.1）</a><br>
+                          	<a href="../taikaikekka/taikai2204.shtml#白馬岩岳Trail Race Spring 2022（2022.5.21）">白馬岩岳Trail Race Spring 2022（2022.5.21）</a><br>
+                          </dd>
+
+                          <dt>2022-11-21</dt>
+                          <dd class="link">
+                          	<a href="../member/index.shtml">メンバー紹介</a>に1名追加しました。<br>
+                          </dd>
+
+                          <dt>2022-11-20</dt>
+                          <dd class="link">
+                          	<a href="../taikaikekka/taikai2210.shtml#ちばアクアラインマラソン2022（2022.11.6）">ちばアクアラインマラソン2022（2022.11.6）</a>に 1名追加<br>
+                          	<a href="../taikaikekka/taikai2210.shtml#横浜マラソン2022（2022.10.30）">横浜マラソン2022（2022.10.30）</a>に 1名追加<br>
+                          </dd>
+
+                          <dt>2022-11-19</dt>
+                          <dd class="link">
+                          	<a href="../member/index.shtml#A0223">山崎さん</a>、サブスリー達成、おめでとうございます。<br>
+                          	<a href="../photo/index.shtml">2022成田POPランの写真</a>を掲載<br>
+                          	<a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                          	<a href="../taikaikekka/taikai2210.shtml#第42回つくばマラソン（2022.11.13）">第42回つくばマラソン（2022.11.13）</a><br>
+                          	<a href="../taikaikekka/taikai2210.shtml#第32回坂東市将門ハｰフマラソン（2022.11.13）">第32回坂東市将門ハｰフマラソン（2022.11.13）</a><br>
+                          	<a href="../taikaikekka/taikai2210.shtml#2022成田POPラン（2022.11.13）">2022成田POPラン（2022.11.13）</a><br>
+                          	<a href="../taikaikekka/taikai2210.shtml#ちばアクアラインマラソン2022（2022.11.6）">ちばアクアラインマラソン2022（2022.11.6）</a><br>
+                          	<a href="../taikaikekka/taikai2210.shtml#横浜マラソン2022（2022.10.30）">横浜マラソン2022（2022.10.30）</a><br>
+                          </dd>
+
+                          								<dt>2022-11-12</dt>
+                          								<dd class="link">
+                          									<a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                          									<a href="../taikaikekka/taikai2210.shtml#第30回流山ロｰドレｰス（2022.11.6）">第30回流山ロｰドレｰス（2022.11.6）</a><br>
+                          									<a href="../taikaikekka/taikai2210.shtml#第45回足利尊氏公マラソン（2022.11.6）">第45回足利尊氏公マラソン（2022.11.6）</a><br>
+                          									<a href="../taikaikekka/taikai2210.shtml#第7回水戸黄門漫遊マラソン（2022.10.30）">第7回水戸黄門漫遊マラソン（2022.10.30）</a><br>
+                          								</dd>
+
+                          								<dt>2022-11-03</dt>
+                          								<dd class="link">
+                          									<a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                          									<a href="../taikaikekka/taikai2210.shtml#第28回手賀沼エコマラソン（2022.10.30）">第28回手賀沼エコマラソン（2022.10.30）</a><br>
+                          									<a href="../taikaikekka/taikai2210.shtml#ESBOHI SKYRUN 2022（2022.10.29～30）">ESBOHI SKYRUN 2022（2022.10.29～30）</a><br>
+                          									<a href="../taikaikekka/taikai2210.shtml#第30回日本山岳耐久レｰス（2022.10.9）">第30回日本山岳耐久レｰス（2022.10.9）</a><br>
+                          									<a href="../photo/index.shtml">10/30手賀沼エコマラソンの写真</a>を掲載<br>
+                          									<a href="../member/index.shtml">メンバー紹介</a>に1名追加しました。<br>
+                          								</dd>
+
+                          <dt>2022-10-31</dt>
+                          <dd class="link">
+                            <a href="../member/index.shtml">メンバー紹介</a>に1名追加しました。<br>
+                          </dd>
+
+                          <dt>2022-10-29</dt>
+                          <dd class="link">
+                            <a href="../photo/index.shtml">10/23PUMAランニングシューズ試履会の写真</a>を掲載<br>
+                          </dd>
+                          <dt>2022-10-22</dt>
+                          <dd class="link">
+                            <a href="../taikaikekka/taikai2210.shtml#えちご･くびき野100kmマラソン（2022.10.9）">えちご･くびき野100kmマラソン（2022.10.9）</a><br>
+                          </dd>
+
+                          <dt>2022-10-10</dt>
+                          <dd class="link">
+                            <a href="../member/index.shtml">メンバー紹介</a>に1名追加しました。<br>
+                          </dd>
+
+                          <dt>2022-10-08</dt>
+                          <dd class="link">
+                            <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                            <a href="../taikaikekka/taikai2210.shtml#第37回白井梨マラソン（2022.10.2）">第37回白井梨マラソン（2022.10.2）</a><br>
+                          </dd>
+
+                          <dt>2022-10-03</dt>
+                          <dd class="link">
+                            <a href="../photo/index.shtml">10/2白井梨マラソンの写真</a>を掲載<br>
+                          </dd>
+                          <dt>2022-10-01</dt>
+                          <dd class="link">
+                            <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                            <a href="../taikaikekka/taikai2207.shtml#2022北緯40°秋田内陸リゾｰトカップ100キロチャレンジマラソン（2022.9.25）">2022北緯40°秋田内陸リゾｰトカップ100キロチャレンジマラソン（2022.9.25）</a><br>
+                            <a href="../taikaikekka/taikai2207.shtml#オホｰツク網走マラソン2022（2022.9.25）">オホｰツク網走マラソン2022（2022.9.25）</a><br>
+                          </dd>
+
+
+                          <dt>2022-09-16</dt>
+                          <dd class="link">
+                          	<a href="../member/index.shtml">メンバー紹介</a>に1名の写真を追加しました。<br>
+                          </dd>
+
+                          <dt>2022-09-10</dt>
+                          <dd class="link">
+                          	<a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                          	<a href="../taikaikekka/taikai2207.shtml#北海道マラソン2022（2022.8.28）">北海道マラソン2022（2022.8.28）</a><br>
+                          	<a href="../taikaikekka/taikai2207.shtml#第9回上野恩賜公園早朝元気マラソン（2022.8.28）">第9回上野恩賜公園早朝元気マラソン（2022.8.28）</a><br>
+                          </dd>
+
+                          <dt>2022-08-20</dt>
+                          <dd class="link">
+                          	<a href="../taikaikekka/taikai2207.shtml#第75回富士登山競走（2022.7.29）">第75回富士登山競走（2022.7.29）</a><br>
+                          </dd>
+
+                          <dt>2022-08-13</dt>
+                          <dd class="link">
+                          	<a href="../member/index.shtml">メンバー紹介</a>に4名追加、2名写真追加しました。<br>
+                          	<a href="../rensyumenu/index.shtml">練習メニュ9-12月</a>を掲載しました。<br>
+                          </dd>
+
+                          <dt>2022-08-04</dt>
+                          <dd class="link">
+                          <a href="../photo/index.shtml">7/31柏の葉リレーマラソンの写真</a>を掲載<br>
+                          </dd>
+                          <dt>2022-07-24</dt>
+                          <dd class="link">
+                          	<a href="../taikaikekka/taikai2207.shtml#OSJ ONTAKE100（2022.7.17）">OSJ ONTAKE100（2022.7.17）</a><br>
+                          </dd>
+
+                          <dt>2022-06-19</dt>
+                          <dd class="link">
+                          	<a href="../taikaikekka/taikai2204.shtml#奥信濃100（2022.6.11）">奥信濃100（2022.6.11）</a><br>
+                          </dd>
+
+                          <dt>2022-06-11</dt>
+                          <dd class="link">
+                          	<a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                          	<a href="../taikaikekka/taikai2204.shtml#第29回奥武蔵ウルトラマラソン（2022.6.5）">第29回奥武蔵ウルトラマラソン（2022.6.5）</a><br>
+                          </dd>
+
+
+                          								<dt>2022-06-11</dt>
+                          								<dd class="link">
+                          									<a href="../taikaikekka/taikai2204.shtml#柴又100K（2022.5.22）">柴又100K（2022.5.22）</a>に 1名追加<br>
+                          								</dd>
+
+                          <dt>2022-06-05</dt>
+                          <dd class="link">
+                          	<a href="../taikaikekka/taikai2204.shtml#柴又100K（2022.5.22）">柴又100K（2022.5.22）</a><br>
+                          </dd>
+
+                          <dt>2022-06-04</dt>
+                          <dd class="link">
+                          	<a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                          	<a href="../taikaikekka/taikai2204.shtml#OSJ奥久慈トレイルレｰス（2022.5.29）">OSJ奥久慈トレイルレｰス（2022.5.29）</a><br>
+                          	<a href="../taikaikekka/taikai2204.shtml#第7回トレニックワｰルド 100mile & 100km in 彩の国（2022.5.29）">第7回トレニックワｰルド 100mile & 100km in 彩の国（2022.5.29）</a><br>
+                          	<a href="../taikaikekka/taikai2204.shtml#第2回諏訪湖ウルトラマラソン（2022.5.28）">第2回諏訪湖ウルトラマラソン（2022.5.28）</a><br>
+                          <a href="../photo/index.shtml">新人歓迎会の写真</a>を掲載<br>
+                          </dd>
+                          <dt>2022-05-30</dt>
+                          <dd class="link">
+                          	<a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                          	<a href="../taikaikekka/taikai2204.shtml#第1回神崎発酵マラソン（2022.5.22）">第1回神崎発酵マラソン（2022.5.22）</a><br>
+                          	<a href="../taikaikekka/taikai2204.shtml#第39回カｰタｰ記念黒部名水マラソン（2022.5.22）">第39回カｰタｰ記念黒部名水マラソン（2022.5.22）</a><br>
+                          </dd>
+
+
+                          								<dt>2022-05-23</dt>
+                          								<dd class="link">
+                          									柏の葉リレーマラソンの日時変更に伴い、<a href="../rensyumenu/index.shtml">練習メニュ5-8月</a>を変更しました。<br>
+                          								</dd>
+
+                          								<dt>2022-05-15</dt>
+                          								<dd class="link">
+                          									<a href="../taikaikekka/taikai2204.shtml#第32回チャレンジ富士五湖ウルトラマラソン（2022.4.17）">第32回チャレンジ富士五湖ウルトラマラソン（2022.4.17）</a>に 1名追加<br>
+
+                          									<a href="../information\2022nenkaihi.pdf" target="_blank">2022年度年会費資料</a>を、
+                          									<a href="../member_information/index.shtml">メンバー向け情報</a>に掲載
+                          								</dd>
+                          <dt>2022-05-14</dt>
+                          <dd class="link">
+                          	<ul>
+                          		<li><a href="../member/index.shtml#staff">監督・コーチ・サポーターの名称の削除（事務局更新）</a></li>
+                          		<li><a href="../member/index.shtml#staff">陸連登録担当の変更</a></li>
+                          		<li><a href="../newPB/index.shtml">2021年度PB更新者のアップ</a></li>
+                          		<li><a href="../about_wing/index.shtml#会費">ウィングACについて(年会費の案内を変更)</a></li>
+                          	</ul>
+                          </dd>
+
+
+                          <dt>2022-05-05</dt>
+                          <dd class="link">
+                          	<a href="../taikaikekka/taikai2204.shtml#ULTRA-TRAIL Mt. FUJI 2022（2022.4.23）">ULTRA-TRAIL Mt. FUJI 2022（2022.4.23）</a><br>
+                          	<a href="../taikaikekka/taikai2204.shtml#第32回チャレンジ富士五湖ウルトラマラソン（2022.4.17）">第32回チャレンジ富士五湖ウルトラマラソン（2022.4.17）</a><br>
+                          </dd>
+
+                          <dt>2022-04-24</dt>
+                          <dd class="link">
+                          	会員、運営共々使いずらいと言う事になりまして、<a href="http://www3.ezbbs.net/08/wingac/">一般掲示板</a>のパスワードロックを解除しました。<br>
+
+                          	<a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                          	<a href="../taikaikekka/taikai2204.shtml#第24回長野マラソン（2022.4.17）">第24回長野マラソン（2022.4.17）</a><br>
+                          	<a href="../taikaikekka/taikai2204.shtml#かすみがうらマラソン2022（2022.4.17）">かすみがうらマラソン2022（2022.4.17）</a><br>
+                          </dd>
+
+                          <dt>2022-04-17</dt>
+                          <dd class="link">
+                          <a href="../photo/index.shtml">かすみがうらマラソンの写真</a>を掲載<br>
+                          	<a href="../rensyumenu/index.shtml">練習メニュ5-8月</a>を掲載しました。<br>
+                          </dd>
+
+                          								<dt>2022-04-10</dt>
+                          								<dd class="link">
+                          									<a href="../rensyumenu/pdf/202205.pdf" target="_blank">練習メニュ5-8月のPDF</a>を掲載しました。<br>
+                          								</dd><dt>2022-04-01</dt>
+                          								<dd class="link">
+                          									残りの、「一般掲示板」に、パスワードを設定しました。今回の掲示板は、「ユーザー名」の入力が必要となっていますが、パスワードと同じものを入力してください。よろしくお願いします。<br>
+                          								</dd>
+
+
+                          <dt>2022-03-27</dt>
+                          <dd class="link">
+                          	掲示板は、会員限定に変更します。まずは、「みんなのつぶやき」「復活への道」にアクセス時、パスワードの入力が必要となります。パスワードは、全体LINEで告知予定です。全体LINEに参加していないなど、会員の方で、パスワードが不明な方は、広報メール（wingac2016@gmail.com）まで、連絡をお願いします。なお、会員確認のため、フルネームと誕生日を記載してください。よろしくお願いします。<br>
+                          	<a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                          	<a href="../taikaikekka/taikai2201.shtml#渡良瀬遊水地 Trial Marathon（2022.3.21）">渡良瀬遊水地 Trial Marathon（2022.3.21）</a><br>
+                          	<a href="../taikaikekka/taikai2201.shtml#東京都北区赤羽マラソン（2022.3.12）">東京都北区赤羽マラソン（2022.3.12）</a><br>
+                          </dd>
+                          <dt>2022-03-21</dt>
+                          <dd class="link">
+                          	<a href="../taikaikekka/taikai2201.shtml#ランナｰズフルマラソンチャレンジ2022 in 板橋荒川河川敷（2022.3.21）">ランナｰズフルマラソンチャレンジ2022 in 板橋荒川河川敷（2022.3.21）</a><br>
+                          	<a href="../taikaikekka/taikai2201.shtml#ランナｰズフルマラソンチャレンジ2022 in 大阪（2022.2.11）">ランナｰズフルマラソンチャレンジ2022 in 大阪（2022.2.11）</a><br>
+                          </dd>
+
+                          <dt>2022-03-19</dt>
+                          <dd class="link">
+                          <a href="../about_wing/index.shtml">「ウィングACについて」の中に、「活動方針」</a>を追加<br>
+                          </dd>
+                          <dt>2022-03-18</dt>
+                          <dd class="link">
+                          <a href="../photo/index.shtml">東京マラソンの写真</a>を掲載<br>
+                          </dd>
+                          <dt>2022-03-16</dt>
+                          <dd class="link">
+                          	<a href="../information/2022nenkaihi.pdf" target="_blank">2022年度の年会費案内資料</a>です。<br>
+                          </dd>
+                          <dt>2022-03-12</dt>
+                          <dd class="link">
+                          	<a href="../taikaikekka/taikai2201.shtml#東京マラソン2021（2022.3.6）">東京マラソン2021（2022.3.6）</a><br>
+                          </dd>
+
+                          <dt>2022-02-19</dt>
+                          <dd class="link">
+                          	<a href="../taikaikekka/taikai2201.shtml#ランナｰズフルマラソンチャレンジ2022 in 国営昭和記念公園（2022.2.13）">ランナｰズフルマラソンチャレンジ2022 in 国営昭和記念公園（2022.2.13）</a><br>
+                          </dd>
+
+                          <dt>2022-02-11</dt>
+                          <dd class="link">
+                          	<a href="../information/2022zentaiMTG_Teams.pdf" target="_blank">全体ミーティングの際のオンライン接続手順書</a>を共有します。<br>
+                          	リンク集に<a href="https://www.jaaf.or.jp/" target="_blank">陸連協会のページのリンク</a>を追加しました。<br>
+
+                          	<a href="../member/index.shtml">メンバー紹介</a>に1名追加しました。<br>
+                          </dd>
+
+
+
+
+                          <dt>2022-01-29</dt>
+                          <dd class="link">
+                          	<a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                          	<a href="../taikaikekka/taikai2201.shtml#Akabane10kチャレンジ（2022.1.16）">Akabane10kチャレンジ（2022.1.16）</a><br>
+                          </dd>
+
+
+                          								<dt>2022-01-24</dt>
+                          								<dd class="link">
+                          									<a href="../taikaikekka/taikai2201.shtml#第22回ハイテクハｰフマラソン（2022.1.09）">第22回ハイテクハｰフマラソン（2022.1.09）</a>に一名追加しました<br>
+                          								</dd>
+
+                          <dt>2022-01-22</dt>
+                          <dd class="link">
+                          	<a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                          	<a href="../taikaikekka/taikai2201.shtml#第64回葛飾柴又ロｰドレｰス（2022.1.10）">第64回葛飾柴又ロｰドレｰス（2022.1.10）</a><br>
+                          	<a href="../taikaikekka/taikai2201.shtml#第22回ハイテクハｰフマラソン（2022.1.09）">第22回ハイテクハｰフマラソン（2022.1.09）</a><br>
+                          	<a href="../taikaikekka/taikai2110.shtml#第135回関東10マイル･10キロロｰドレｰス（2021.12.19）">第135回関東10マイル･10キロロｰドレｰス（2021.12.19）</a>に一名追加しました<br>
+                          </dd>
+
+                          <dt>2022-01-15</dt>
+                          <dd class="link">
+                          	<a href="../member/index.shtml">メンバー紹介</a>に1名の写真を追加しました。<br>
+                          </dd>
+
+                          <dt>2022-01-08</dt>
+                          <dd class="link">
+                          	<a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                          	<a href="../taikaikekka/taikai2110.shtml#第135回関東10マイル･10キロロｰドレｰス（2021.12.19）">第135回関東10マイル･10キロロｰドレｰス（2021.12.19）</a><br>
+                          </dd>
+
+                          <dt>2021-12-31</dt>
+                          <dd class="link">
+                          	<a href="../member/index.shtml#A0207">成島さん</a>、<a href="../member/index.shtml#A0194">倫亜さん</a>、サブスリー達成、おめでとうございます。<br>
+                          	<a href="../taikaikekka/taikai2110.shtml#Beyond2021（2021.12.29）">Beyond2021（2021.12.29）</a><br>
+                          	<a href="../taikaikekka/taikai2110.shtml#TOKYO八峰マウンテントレイル（2021.12.19）">TOKYO八峰マウンテントレイル（2021.12.19）</a><br>
+                          	<a href="../taikaikekka/taikai2110.shtml#IZU TRAIL Journey 2021（2021.12.12）">IZU TRAIL Journey 2021（2021.12.12）</a><br>
+                          </dd>
+                          <dt>2021-12-28</dt>
+                          <dd class="link">
+                          	<a href="../member/index.shtml">メンバー紹介</a>に2名追加しました。<br>
+                          </dd>
+
+                          <dt>2021-12-23</dt>
+                          <dd class="link">
+                          <a href="../photo/index.shtml">関東ロードレースの写真</a>を掲載<br>
+                          </dd>
+                          <dt>2021-12-13</dt>
+                          <dd class="link">
+                          <a href="../photo/index.shtml">キッズウィングAC〜逃走中ver〜の写真</a>を掲載<br>
+                          </dd>
+                          <dt>2021-12-10</dt>
+                          <dd class="link">
+                          	<a href="../taikaikekka/taikai2110.shtml#東京江戸川ウルトラマラソン（2021.12.5）">東京江戸川ウルトラマラソン（2021.12.5）</a><br>
+                          	<a href="../taikaikekka/taikai2110.shtml#第10回富士山マラソン（2021.11.28）">第10回富士山マラソン（2021.11.28）</a><br>
+                          </dd>
+
+                          <dt>2021-12-09</dt>
+                          <dd class="link">
+                          	<a href="../member/index.shtml">メンバー紹介</a>に1名追加しました。<br>
+                          </dd>
+
+                          <dt>2021-12-05</dt>
+                          <dd class="link">
+                          	<a href="../rensyumenu/index.shtml">練習メニュ1-4月</a>を掲載しました。<br>
+                          </dd>
+
+                          <dt>2021-12-04</dt>
+                          <dd class="link">
+                          	<a href="../member/index.shtml">メンバー紹介</a>に1名追加しました。<br>
+                          </dd>
+
+                          <dt>2021-11-27</dt>
+                          <dd class="link">
+                          <a href="../photo/index.shtml">ウィング手賀沼マラソンの写真</a>を掲載<br>
+                          	<a href="../taikaikekka/taikai2110.shtml#第9回 KASHIWAリレｰマラソン（2021.11.23）">第9回 KASHIWAリレｰマラソン（2021.11.23）</a><br>
+                          	<a href="../taikaikekka/taikai2110.shtml#第7回FunTrails Round 秩父&奥武蔵 100K/30K（2021.11.20）">第7回FunTrails Round 秩父&奥武蔵 100K/30K（2021.11.20）</a><br>
+                          	<a href="../taikaikekka/taikai2110.shtml#金沢マラソン2021（2021.10.31）">金沢マラソン2021（2021.10.31）</a><br>
+                          </dd>
+
+                          <dt>2021-11-20</dt>
+                          <dd class="link">
+                          	<a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                          	<a href="../taikaikekka/taikai2110.shtml#第16回世田谷246ハｰフマラソン（2021.11.14）">第16回世田谷246ハｰフマラソン（2021.11.14）</a><br>
+                          	<a href="../taikaikekka/taikai2110.shtml#第6回日光国立公園マウンテンランニング大会（2021.11.14）">第6回日光国立公園マウンテンランニング大会（2021.11.14）</a><br>
+                          	<a href="../member/index.shtml">メンバー紹介</a>に1名追加しました。<br>
+                          </dd>
+
+
+                          <dt>2021-11-12</dt>
+                          <dd class="link">
+                          	<a href="../photo/index.shtml">2021成田POPランの写真</a>を掲載<br>
+
+                          	<a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                          	<a href="../taikaikekka/taikai2110.shtml#2021成田POPラン（2021.11.7）">2021成田POPラン（2021.11.7）</a><br>
+                          </dd>
+
+                          <dt>2021-11-07</dt>
+                          <dd class="link">
+                          	<a href="../member/index.shtml">メンバー紹介</a>に1名の写真を追加しました。<br>
+                          	<a href="../taikaikekka/taikai2110.shtml#EBOSHI SKY RUN 2021（2021.10.30）">EBOSHI SKY RUN 2021（2021.10.30）</a><br>
+                          </dd>
+
+                          <dt>2021-10-31</dt>
+                          <dd class="link">
+                          	11月21日開催予定のウィング手賀沼マラソンについて、大会要項などの資料を掲載します。コースについては変更の可能性がありますので、ご了承願います。<br>
+                          	<ul>
+                          		<li><a href="../information/2021_WAC_teganuma_half_marathon_taikai_youko.pdf" target="_blank">大会要項</a></li>
+                          		<li><a href="../information/2021_WAC_teganuma_half_marathon_MAP.pdf" target="_blank">コースマップ</a></li>
+                          		<li><a href="../information/2021_WAC_teganuma_half_marathon_MAP_fishing.pdf" target="_blank">フィッシングセンター近辺図</a></li>
+                          		<li><a href="../information/2021_WAC_teganuma_half_marathon_TIME.pdf" target="_blank">スタートタイム一覧表</a></li>
+                          	</ul>
+                          	<a href="../member/index.shtml">メンバー紹介</a>に1名追加しました。<br>
+                          </dd>
+
+                          <dt>2021-10-22</dt>
+                          <dd class="link">
+                          <a href="../photo/index.shtml">TATTA「走行距離王は俺だ！」の写真</a>を掲載<br>
+                          </dd>
+
+
+
+
+                          <dt>2021-10-14</dt>
+                          <dd class="link">
+                          	10/24キッズウィングは10月中止のため、削除。<br>
+                          	別途11/7にレディースウィングを開催しますので、追記。
+                          </dd>
+                          <dt>2021-10-10</dt>
+                          <dd class="link">
+                          ウィング皆さんのご意見・質問等を匿名で送れる
+                          <a href="https://docs.google.com/forms/d/e/1FAIpQLSecWCwJlq1X3f-nUP4i4LoMasSYq1O2jClx27jz2BnszQW84g/viewform?usp=pp_url" target="_blank">「美代ちゃん直行便♪」</a>を始めさせて頂きます。ぜひ皆さんのご意見ご質問等呟きでも(^^)お待ちしていますので、よろしくお願いいたしますm(_ _)m
+                          </dd>
+                          <dt>2021-10-01</dt>
+                          <dd class="link">
+                          <strong>手賀沼での全体練習会を再開します。<br></strong><br>
+                          KASHIWAリレーマラソン実行委員会からの告知です。<br>
+                          	今年のKASHIWAリレーマラソンは、11月23日（火・祝）の開催です。
+                          昨年は残念ながら中止となりましたが、今年はコロナ対策を万全に準備を進め、
+                          皆さまのご参加をお待ちしております。<br>
+                          <a href="https://kashiwa-marathon.com/" target="_blank">https://kashiwa-marathon.com/</a><br>
+                          </dd>
+
+
+                          <dt>2021-09-04</dt>
+                          <dd class="link">
+                          	<a href="../taikaikekka/taikai2107.shtml#奥信濃100（2021.8.28）">奥信濃100（2021.8.28）</a><br>
+                          </dd>
+
+                          <dt>2021-08-30</dt>
+                          <dd class="link">
+                          	<a href="http://www3.ezbbs.net/08/wingac/">一般掲示板</a>に平山会長が投稿している通り、<br>
+                          	【コロナに関する法令発令中の練習会について】<br>
+                          日曜日８時のふるさと公園東屋に集合する全体練習会は中止。<br>
+                          代替として、柏の葉公園にて分散練習会を立ち上げます。<br>
+                          集合場所は、
+                          <a href="../information/kashiwanoha_syugo_place.pdf" target="_blank">柏の葉公園集合場所</a>　になります。<br>
+                          </dd>
+                          <dt>2021-08-13</dt>
+                          <dd class="link">
+                          	<a href="../taikaikekka/taikai2107.shtml#マウンテントレイルin野沢温泉2021（2021.7.23）">マウンテントレイルin野沢温泉2021（2021.7.23）</a>に 1名追加<br>
+                          </dd>
+
+                          <dt>2021-08-07</dt>
+                          <dd class="link">
+                          	<a href="../change_member_data/index.shtml">会員情報変更ページを新作しました。住所・電話番号・メールアドレスなど、会員情報に変更がある場合は、このページ</a>をご利用ください。<br>
+                          	<a href="../about_wing/index.shtml#クラブ組織図"> クラブ組織図</a>を変更しました。
+                          </dd>
+                          <dt>2021-08-04</dt>
+                          <dd class="link">
+                          	<a href="../member/index.shtml">メンバー紹介</a>に1名の写真を追加しました。<br>
+                          </dd>
+
+                          <dt>2021-08-01</dt>
+                          <dd class="link">
+                          	<a href="../taikaikekka/taikai2107.shtml#マウンテントレイルin野沢温泉2021（2021.7.23）">マウンテントレイルin野沢温泉2021（2021.7.23）</a><br>
+                          	<a href="../member/index.shtml">メンバー紹介</a>に1名追加し、退会された方を削除しました。<br>保険担当が、大和田さんから王子さんに変更になりました。<br>
+                          </dd>
+
+                          <dt>2021-07-30</dt>
+                          <dd class="link">
+                          	<a href="../member/index.shtml">メンバー紹介</a>に1名の写真を追加しました。<br>
+                          	<a href="../rensyumenu/index.shtml">練習メニュ9-12月</a>を掲載しました。<br>
+
+                          									<a href="../rensyumenu/yearRensyuMenu.pdf" target="_blank">年間練習計画</a>を更新しました。<br>
+                          								</dd>
+
+
+
+                            <dt>2021-07-11</dt>
+                            <dd class="link">
+                            	<a href="../taikaikekka/taikai2107.shtml#中央アルプス スカイラインジャパン 2021（2021.7.4）">中央アルプス スカイラインジャパン 2021（2021.7.4）</a><br>
+                            </dd>
+
+                            <dt>2021-07-04</dt>
+                            <dd class="link">
+                            <a href="../photo/index.shtml">サロマ湖の覇者(2009、2013、2014優勝)、能城選手と野田陸上競技場にての写真</a>を掲載<br>
+                            </dd>
+                            								<dt>2021-07-04</dt>
+                            								<dd class="link">
+                            									<a href="../member/index.shtml">メンバー紹介</a>に1名追加し、退会された方を削除し、役職を修正しました。<br>
+                            								</dd>
+                            <dt>2021-06-17</dt>
+                            <dd class="link">
+                            	<a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                            	<a href="../taikaikekka/taikai2104.shtml#TODABASHI20K（2021.5.29）">TODABASHI20K（2021.5.29）</a><br>
+                            </dd>
+
+                            <dt>2021-06-07</dt>
+                            <dd class="link">
+                            	<a href="../taikaikekka/taikai2104.shtml#モントレイル戸隠マウンテントレイル（2021.6.5）">モントレイル戸隠マウンテントレイル（2021.6.5）</a><br>
+                            </dd>
+
+                            <dt>2021-05-24</dt>
+                            <dd class="link">
+                            <a href="../photo/index.shtml">青葉の森リレーマラソンの写真</a>を掲載<br>
+                            </dd>
+                            <dt>2021-05-20</dt>
+                            <dd class="link">
+                            	<a href="../taikaikekka/taikai2104.shtml#第1回君津ウルトラマラソン（2021.5.8）">第1回君津ウルトラマラソン（2021.5.8）</a><br>
+                            </dd>
+
+                            <dt>2021-05-09</dt>
+                            <dd class="link">
+                            <a href="../photo/index.shtml">第9回柏の葉爽快マラソンの写真</a>を掲載<br>
+                            </dd>
+                            <dt>2021-05-08</dt>
+                            <dd class="link">
+                            	<a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                            	<a href="../taikaikekka/taikai2104.shtml#第9回柏の葉爽快マラソン（2021.5.3）">第9回柏の葉爽快マラソン（2021.5.3）</a><br>
+                            	<a href="../taikaikekka/taikai2104.shtml#多摩川ハｰフマラソン（2021.4.25）">多摩川ハｰフマラソン（2021.4.25）</a><br>
+                            </dd>
+
+
+
+                            <dt>2021-04-29</dt>
+                            <dd class="link">
+                            	<a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                            	<a href="../taikaikekka/taikai2104.shtml#第14回いしおかトレイルラン（2021.4.25）">第14回いしおかトレイルラン（2021.4.25）</a><br>
+                            	<a href="../taikaikekka/taikai2104.shtml#第11回 葛飾ふ~てんマラソン（2021.4.17）">第11回 葛飾ふ~てんマラソン（2021.4.17）</a><br>
+                            </dd>
+
+                            <dt>2021-04-18</dt>
+                            <dd class="link">
+                            	<a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                            	<a href="../taikaikekka/taikai2104.shtml#第16回戸田･彩湖ウルトラマラソン（2021.4.10）">第16回戸田･彩湖ウルトラマラソン（2021.4.10）</a><br>
+                            	<a href="../taikaikekka/taikai2104.shtml#渡良瀬 Trial Marathon（2021.4.3）">渡良瀬 Trial Marathon（2021.4.3）</a><br>
+                            </dd>
+
+                            <dt>2021-04-13</dt>
+                            <dd class="link">
+                            	<a href="../rensyumenu/index.shtml">練習メニュ5-8月</a>を掲載しました。<br>
+                            </dd>
+
+                            <dt>2021-04-04</dt>
+                            <dd class="link">
+                            	<a href="../taikaikekka/taikai2101.shtml#なにわ淀川マラソン2021（2021.3.28）">なにわ淀川マラソン2021（2021.3.28）</a><br>
+                            	<a href="../taikaikekka/taikai2101.shtml#第2回葛飾あらかわ水辺公園TrialMarathon（2021.3.27）">第2回葛飾あらかわ水辺公園TrialMarathon（2021.3.27）</a><br>
+                            </dd>
+
+                            <dt>2021-03-29</dt>
+                            <dd class="link">
+                            <a href="../photo/index.shtml">緊急事態宣言解除後練習会の写真</a>を掲載<br>
+                            </dd>
+                            <dt>2021-03-24</dt>
+                            <dd class="link">
+                            	<a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                            	<a href="../taikaikekka/taikai2101.shtml#第6回柏の葉春らんRunマラソン（2021.3.20）">第6回柏の葉春らんRunマラソン（2021.3.20）</a><br>
+                            	<a href="../taikaikekka/taikai2101.shtml#東京チャレンジマラソン2021（2021.3.20）">東京チャレンジマラソン2021（2021.3.20）</a><br>
+                            	<a href="../taikaikekka/taikai2101.shtml#名古屋シティマラソン2021（2021.3.14）">名古屋シティマラソン2021（2021.3.14）</a><br>
+                            	<a href="../taikaikekka/taikai2101.shtml#名古屋ウィメンズマラソン2021（2021.3.14）">名古屋ウィメンズマラソン2021（2021.3.14）</a><br>
+                            </dd>
+
+                            <dt>2021-03-20</dt>
+                            <dd class="link">
+                            	<a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                            	<a href="../taikaikekka/taikai2101.shtml#第7回･KITA!SENJU（北千住）マラソン（2021.3.14）">第7回･KITA!SENJU（北千住）マラソン（2021.3.14）</a><br>
+                            	<a href="../taikaikekka/taikai2101.shtml#第1回足立エコマラソン（2021.3.7）">第1回足立エコマラソン（2021.3.7）</a><br>
+                            </dd>
+
+							<dt>2021-03-14</dt>
+							<dd class="link">
+							<a href="../kaihi_kouza/index.shtml">会費＆陸連振込口座情報</a>と
+							<a href="../rikurentoroku/index.shtml">陸連登録</a>を更新しました。
+							</dd>
+
+
+							<dt>2021-03-09</dt>
+							<dd class="link">
+							<b>2021年度陸連登録費用¥4500</b><br>
+							次年度の陸連登録費用が¥3000→¥4500に値上げになります。ウィング年会費は変わらずです。
+
+							</dd>
+
+
+                            <dt>2021-03-07</dt>
+                            <dd class="link">
+                            	<a href="../newPB/index.shtml">20年度分PB更新です。</a><br>
+                            	先日開催された全体MT資料です。<br>
+                            	<a href="https://drive.google.com/file/d/1Z090UXjKVtOlzY7vGgxX2K-jvwcDs26d/view?usp=sharing" target="_blank">全体MT資料20210228（除会計報告）</a><br>
+                            	<a href="https://drive.google.com/file/d/11vgDCYtsGgB9ucSN8rEzXGde5bzTcCx7/view?usp=sharing" target="_blank">マラソン攻略法</a><br>
+                            	<a href="https://drive.google.com/file/d/11upuZBj1KUAV3Ga_0Mxnp0S73N__1o1j/view?usp=sharing" target="_blank">栄養指導スライド前半</a><br>
+                            	<a href="https://drive.google.com/file/d/14Y3nr85ts9qMt9gHZCmg1Thc3cGL-YE1/view?usp=sharing" target="_blank">栄養指導スライド中盤</a><br>
+                            	<a href="https://drive.google.com/file/d/1O27pINyFATvbUJjAHlyVfRX03MkFtAlf/view?usp=sharing" target="_blank">栄養指導スライド後半</a><br>
+                            	<a href="https://drive.google.com/file/d/1S2RaVdKcvV4pjmCSHN-7N3n4eSnRYXJW/view?usp=sharing" target="_blank">食事に関するアンケート回答</a><br>
+
+                            	<a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                            	<a href="../taikaikekka/taikai2101.shtml#利根川10k&ハｰフマラソン（2021.2.28）">利根川10k&ハｰフマラソン（2021.2.28）</a><br>
+                            	<a href="../taikaikekka/taikai2101.shtml#第6回･KITA!SENJU（北千住）マラソン（2021.2.28）">第6回･KITA!SENJU（北千住）マラソン（2021.2.28）</a><br>
+                            	<a href="../taikaikekka/taikai2101.shtml#第24回UPRUN市川江戸川河川敷マラソン（2021.2.21）">第24回UPRUN市川江戸川河川敷マラソン（2021.2.21）</a><br>
+                            </dd>
+
+                            <dt>2021-02-27</dt>
+                            <dd class="link">
+                            <a href="../photo/index.shtml">UPRUN市川江戸川河川敷マラソンの写真</a>を掲載<br>
+                            </dd>
+                            <dt>2021-02-15</dt>
+                            <dd class="link">
+                            	<a href="../taikaikekka/taikai2101.shtml#第1回まるおマラソン（2021.2.14）">第1回まるおマラソン（2021.2.14）</a><br>
+                            	<a href="../taikaikekka/taikai2101.shtml#第36回スポｰツメイトラン北区赤羽荒川マラソン（2021.2.6）">第36回スポｰツメイトラン北区赤羽荒川マラソン（2021.2.6）</a><br>
+                            </dd>
+
+
+
+
+
+
+                            <dt>2021-01-29</dt>
+                            <dd class="link">
+                            	<a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                            	<a href="../taikaikekka/taikai2101.shtml#第28回UP RUN足立区北千住荒川河川敷マラソン（2021.1.23）">第28回UP RUN足立区北千住荒川河川敷マラソン（2021.1.23）</a><br>
+                            	<a href="../taikaikekka/taikai2101.shtml#第25回UP RUN彩湖マラソン（2021.1.16）">第25回UP RUN彩湖マラソン（2021.1.16）</a><br>
+                            </dd>
+
+                            <dt>2021-01-16</dt>
+                            <dd class="link">
+                            	<a href="../taikaikekka/taikai2101.shtml#第4回柏の葉パｰクマラソン（2021.1.9）">第4回柏の葉パｰクマラソン（2021.1.9）</a><br>
+                            	<a href="../taikaikekka/taikai2101.shtml#多摩川マラソングランプリ2021 NewYear（2021.1.3）">多摩川マラソングランプリ2021 NewYear（2021.1.3）</a><br>
+                            </dd>
+
+                            <dt>2020-12-22</dt>
+                            <dd class="link">
+                            	<a href="../taikaikekka/taikai2010.shtml#関東10マイル･10キロロｰドレｰス（2020.12.20）">関東10マイル･10キロロｰドレｰス（2020.12.20）</a><br>
+                            	<a href="../taikaikekka/taikai2010.shtml#柏の葉 Trial Marathon（2020.12.19）">柏の葉 Trial Marathon（2020.12.19）</a><br>
+                            </dd>
+
+                            <dt>2020-12-21</dt>
+                            <dd class="link">
+                            <a href="../photo/index.shtml">ウィング版柏の葉リレーマラソンの写真</a>を掲載<br>
+                            </dd>
+                            <dt>2020-12-19</dt>
+                            <dd class="link">
+                            <a href="../photo/index.shtml">キッズウィングACの写真</a>を掲載<br>
+                            </dd>
+                            <dt>2020-12-12</dt>
+                            <dd class="link">
+                            	<a href="../rensyumenu/index.shtml">練習メニュ1-4月</a>を掲載しました。<br>
+                            </dd>
+
+                            <dt>2020-12-05</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai2010.shtml#マラソンフェスティバルin国営昭和記念公園 WINTER（2020.12.2）">マラソンフェスティバルin国営昭和記念公園 WINTER（2020.12.2）</a><br>
+                                <a href="../taikaikekka/taikai2010.shtml#東京チャレンジマラソン2020･秋大会（2020.11.28）">東京チャレンジマラソン2020･秋大会（2020.11.28）</a><br>
+                                <a href="../taikaikekka/taikai2010.shtml#第28回荒川スマイルマラソン（2020.11.28）">第28回荒川スマイルマラソン（2020.11.28）</a><br>
+                                <a href="../photo/index.shtml">うなきちカップの写真</a>を掲載<br>
+                            </dd>
+                            <dt>2020-11-24</dt>
+                            <dd class="link">
+                                <a href="../taikaikekka/taikai2010.shtml#第3回･KITA!SENJU（北千住）マラソン（2020.11.22）">第3回･KITA!SENJU（北千住）マラソン（2020.11.22）</a><br>
+                            </dd>
+
+                            <dt>2020-11-23</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai2010.shtml#千葉･幕張トライアルマラソン（2020.11.21）">千葉･幕張トライアルマラソン（2020.11.21）</a><br>
+                                <a href="../taikaikekka/taikai2010.shtml#第9回 葛飾ふ~てんマラソン（2020.11.7）">第9回 葛飾ふ~てんマラソン（2020.11.7）</a><br>
+                            </dd>
+
+                            <dt>2020-11-21</dt>
+                            <dd class="link">
+                                <a href="../member/index.shtml#A0206">小室さん</a>、サブスリー達成、おめでとうございます。<br>
+                                <a href="../member/index.shtml#A0188">ワダノさん</a>、サブスリー達成、おめでとうございます。<br>
+                                <a href="../member/index.shtml">メンバー紹介</a>に1名追加しました。<br>
+                            </dd>
+
+
+                            <dt>2020-11-14</dt>
+                            <dd class="link">
+                                <a href="../information/20201114rensyu_guide_v2.pdf" target="_blank">練習会ガイドラインver2</a><br>コロナウイルス感染再拡大に伴い「緩和」と「再徹底」を加筆、修正しました。
+                            </dd>
+
+
+                            <dt>2020-10-28</dt>
+                            <dd class="link">
+                                <a href="../taikaikekka/taikai2010.shtml#第1回ウィング手賀沼ハｰフマラソン（2020.10.25）">第1回ウィング手賀沼ハｰフマラソン（2020.10.25）</a><br>
+                                <a href="../taikaikekka/taikai2010.shtml#葛飾あらかわ水辺公園 Trial Marathon（2020.10.24）">葛飾あらかわ水辺公園 Trial Marathon（2020.10.24）</a><br>
+                                <a href="../photo/index.shtml">10/25ウィングAC手賀沼ハーフマラソンの写真</a>を掲載<br>
+                            </dd>
+                            <dt>2020-10-24</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai2010.shtml#第26回スポｰツメイトラン葛飾区荒川河川敷堀切橋マラソン（2020.10.11）">第26回スポｰツメイトラン葛飾区荒川河川敷堀切橋マラソン（2020.10.11）</a><br>
+                                2020年10月11日に開催された <a href="../information/20201011_kamiki_hansei.pdf" target="_blank">上期反省会の議事録</a>です。<br>
+                            </dd>
+                            <dt>2020-10-11</dt>
+                            <dd class="link">
+                                <a href="../taikaikekka/taikai2010.shtml#東京30K秋（2020.10.3）">東京30K秋（2020.10.3）</a><br>
+                            </dd>
+
+                            <dt>2020-09-30</dt>
+                            <dd class="link">
+                                <a href="../rensyumenu/index.shtml">練習メニュ9-12月</a>を変更しました。<br>10/11と11/22の練習メニューを入れ替えています。10/11の練習場所が、柏の葉公園になっています。<br>詳しくは、<a href="http://www3.ezbbs.net/08/wingac/">一般掲示板</a>を参照してください。
+                            </dd>
+
+                            <dt>2020-09-29</dt>
+                            <dd class="link">
+                                <a href="../taikaikekka/taikai2007.shtml#札幌･豊平川 Trial Marathon（2020.9.22）">札幌･豊平川 Trial Marathon（2020.9.22）</a><br>
+                                <a href="../taikaikekka/taikai2007.shtml#マラソンフェスティバルin国営昭和記念公園 AUTUMN（2020.9.21）">マラソンフェスティバルin国営昭和記念公園 AUTUMN（2020.9.21）</a><br>
+                            </dd>
+                            <dt>2020-09-27</dt>
+                            <dd class="link">
+                            <a href="../photo/index.shtml">9/27トラック練習会@野田の写真</a>を掲載<br>
+                            </dd>
+                            <dt>2020-09-21</dt>
+                            <dd class="link">
+                            	<a href="../taikaikekka/taikai2007.shtml#柏の葉パｰクマラソン 特別編（2020.9.12）">柏の葉パｰクマラソン 特別編（2020.9.12）</a><br>
+                            </dd>
+
+                            <dt>2020-09-13</dt>
+                            <dd class="link">
+                                <a href="../member/index.shtml">メンバー紹介</a>に1名追加しました。<br>
+                            </dd>
+
+                            <dt>2020-09-05</dt>
+                            <dd class="link"> <a href="../member/index.shtml">メンバー紹介</a>に4名追加しました。<br>
+                                上期反省会が、10/4から10/11に変更になりましたので、<a href="../rensyumenu/index.shtml">練習メニュ9-12月</a>を変更しました。
+                            </dd>
+                            <dt>2020-08-23</dt>
+                            <dd class="link">
+                                <a href="../rensyumenu/index.shtml">練習メニュ9-12月</a>を掲載しました。<br>コロナの影響で練習内容および会場は流動的となりますことを予めご容赦下さい。最新情報は<a href="http://www3.ezbbs.net/08/wingac/">一般掲示板</a>でお知らせ致します。
+                            </dd>
+                            <dt>2020-08-01</dt>                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai2007.shtml#第23回荒川smileマラソン（2020.7.4）">第23回荒川smileマラソン（2020.7.4）</a><br>
+                            </dd>
+
+
+                            <dt>2020-07-17</dt>
+                            <dd class="link">
+                                <a href="../rensyumenu/index.shtml">練習メニュ5-8月</a>を更新しました。
+                            </dd>
+
+
+
+                            <dt>2020-07-04</dt>
+                            <dd class="link">
+                                <a href="../rensyumenu/index.shtml#2020年7月">7/12の練習メニュー</a>を、3000+3000+1000に変更しました。
+                            </dd>
+                            <dt>2020-07-02</dt>
+                            <dd class="link">
+                                2020年7月から練習会を再開しますが、<a href="../information/20200701rensyu_guide.pdf" target="_blank">練習会ガイドライン</a>を作成しました。練習会参加にあたり参照願います。
+                            </dd>
+                            <dt>2020-05-23</dt>
+                            <dd class="link">
+                                <a href="../member/index.shtml#staff">メンバー紹介</a>を今年度スタッフで配置換えをしました。<br>
+
+                                <a href="../information/2020zentaiMTG.pdf" target="_blank">2020年2月23日に開催された全体ミーティングの資料</a>にスタッフが抜けていたので、9ページ目（イベントの後）に追加しました。<br>
+                            </dd>
+
+                            <dt>2020-05-18</dt>
+                            <dd class="link">
+                                <a href="../rensyumenu/index.shtml">練習メニュ5-8月</a>を更新しました。<br>緊急事態宣言解除後も直ぐに集団走が出来る雰囲気ではなさそうですので、あくまで暫定的であります。
+                            </dd>
+
+
+                            <dt>2020-04-12</dt>
+                            <dd class="link">
+                                <a href="../information/WAC_teganuma_half_marathon_taikai_youko.pdf" target="_blank">ウィングAC手賀沼ハーフマラソン　大会要項</a>をアップしました。<br>ウィングAC手賀沼ハーフマラソンの参考資料として、<a href="../ranking/index.shtml">2019年ハーフマラソン男女別ベストテン</a>を掲載しました。。<br>
+                            </dd>
+                            <dt>2020-04-11</dt>
+                            <dd class="link">
+                                <a href="../nenkangyoji/index.shtml">年間行事</a>を2019年度版に更新しました。内容は全体MT資料と同様です。<br>
+                            </dd>
+                            <dt>2020-04-10</dt>
+                            <dd class="link">
+                                <a href="../newPB/index.shtml">2019年のPB更新賞の方々を掲載しました。</a>
+                            </dd>
+
+
+                            <dt>2020-04-08</dt>
+                            <dd class="link">
+                                <a href="../taikaikekka/taikai2001.shtml#第5回柏の葉 春らんRunマラソンwithキャタピラン（2020.3.20）">第5回柏の葉 春らんRunマラソンwithキャタピラン（2020.3.20）</a>に 2名追加。忘れて更新されていなかった分を、実施しました。失礼しました。<br>
+                            </dd>
+
+
+
+                            <dt>2020-03-26</dt>
+                            <dd class="link">
+                                <a href="../rensyumenu/index.shtml#2020年4月">4月の練習メニュー変更しました。</a>4/5「レディースウィング」追記。4/12ウィングAC手賀沼ハーフマラソンに変更。なお、PDFは、変更していないので、ご注意願います。
+                            </dd>
+                            <dt>2020-03-25</dt>
+                            <dd class="link">
+                                最近入会された<a href="../member/index.shtml#A0201">しばやん</a>、<a href="../member/index.shtml#A0199">鶴谷さん</a>、<a href="../member/index.shtml#A0197">林さん</a>、はサブスリーランナーですので、赤い花まるをつけました。<br>
+                            </dd>
+
+
+                            <dt>2020-03-23</dt>
+                            <dd class="link">
+                                <a href="../member/index.shtml">メンバー紹介</a>に6名追加しました。<br>
+                            </dd>
+
+                            <dt>2020-03-22</dt>
+                            <dd class="link">
+                                <a href="../uniform/img/yuni2003.jpg" target="_blank">ウィングＴシャツのデザイン資料です。</a><br>価格　：5600円（税別）<br>サイズ：SS～2XO<br>サンプル画像では前面にチーム名称しか入っておりませんが、実際は背面にウィングマークが入ります（ユニフォームと同様の形です）。<br>
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai2001.shtml#第5回柏の葉 春らんRunマラソンwithキャタピラン（2020.3.20）">第5回柏の葉 春らんRunマラソンwithキャタピラン（2020.3.20）</a><br>
+                                <a href="../taikaikekka/taikai2001.shtml#第6回荒川トライアル（2020.3.7）">第6回荒川トライアル（2020.3.7）</a><br>
+                            </dd>
+
+
+
+
+                            <dt>2020-03-08</dt>
+                            <dd class="link">
+                                <a href="../taikaikekka/taikai2001.shtml#東京マラソン2020（2020.3.1）">東京マラソン2020（2020.3.1）</a><br>
+                            </dd>
+
+
+                            <dt>2020-03-07</dt>
+                            <dd class="link">
+                                <a href="../information/2020zentaiMTG.pdf" target="_blank">2020年2月23日に開催された全体ミーティングの資料（議事録・議事・イベント・安全走行マニュアル）</a>を掲載<br>
+
+
+                            </dd>
+
+                            <dt>2020-03-06</dt>
+                            <dd class="link">
+                                <a href="../rensyumenu/index.shtml">練習メニュ1-4月</a>を、練習会中止などがあったので、見直ししました。<br>
+                            </dd>
+
+
+                            <dt>2020-03-02</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">東京マラソン2020(エリートの部)の写真</a>を掲載<br>
+                            </dd>
+
+
+                            <dt>2020-02-29</dt>
+                            <dd class="link">
+                                <a href="../taikaikekka/taikai2001.shtml#第27回神栖市はさきさわやかランニング大会（2020.2.23）">第27回神栖市はさきさわやかランニング大会（2020.2.23）</a><br>
+                                <a href="../member/index.shtml">メンバー紹介</a>に2名追加しました。<br>
+                            </dd>
+
+                            <dt>2020-02-27</dt>
+                            <dd class="link">
+                                <a href="../member/index.shtml">メンバー紹介</a>に4名追加しました。<br>
+                            </dd>
+
+                            <dt>2020-02-22</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai2001.shtml#第54回青梅マラソン （2020.2.16）">第54回青梅マラソン （2020.2.16）</a><br>
+                                <a href="../taikaikekka/taikai2001.shtml#第20回結城シルクカップロｰドレｰス （2020.2.16）">第20回結城シルクカップロｰドレｰス （2020.2.16）</a><br>
+                                <a href="../taikaikekka/taikai2001.shtml#2020さかえリバｰサイドマラソン（2020.2.16）">2020さかえリバｰサイドマラソン（2020.2.16）</a><br>
+                            </dd>
+
+                            <dt>2020-02-19</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">HOKAONE ONE試履会&新迫選手(早稲田大学)ご来場の写真</a>を掲載<br>
+                            </dd>
+                            <dt>2020-02-11</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai2001.shtml#第36回守谷ハｰフマラソン（2020.2.9）">第36回守谷ハｰフマラソン（2020.2.9）</a><br>
+                                <a href="../taikaikekka/taikai2001.shtml#千葉30K（2020.2.9）">千葉30K（2020.2.9）</a><br>
+                                <a href="../taikaikekka/taikai2001.shtml#第51回みさとシティハｰフマラソン（2020.2.2）">第51回みさとシティハｰフマラソン（2020.2.2）</a><br>
+                                <a href="../taikaikekka/taikai2001.shtml#第69回別府大分毎日マラソン（2020.2.2）">第69回別府大分毎日マラソン（2020.2.2）</a><br>
+                            </dd>
+
+                            <dt>2020-02-10</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">守谷ハーフマラソンの写真</a>を掲載<br>
+                            </dd>
+                            <dt>2020-02-04</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">旭市飯岡しおさいマラソンの写真</a>を掲載<br>
+                            </dd>
+                            <dt>2020-02-03</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai2001.shtml#第31回 旭市飯岡しおさいマラソン大会（2020.2.2）">第31回 旭市飯岡しおさいマラソン大会（2020.2.2）</a><br>
+                                <a href="../taikaikekka/taikai2001.shtml#第40回館山若潮マラソン（2020.1.26）">第40回館山若潮マラソン（2020.1.26）</a>に 1名追加<br>
+                            </dd>
+
+                            <dt>2020-02-01</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai2001.shtml#第39回大阪国際女子マラソン（2020.1.26）">第39回大阪国際女子マラソン（2020.1.26）</a><br>
+                                <a href="../taikaikekka/taikai2001.shtml#第68回勝田全国マラソン（2020.1.26）">第68回勝田全国マラソン（2020.1.26）</a><br>
+                                <a href="../taikaikekka/taikai2001.shtml#第40回館山若潮マラソン（2020.1.26）">第40回館山若潮マラソン（2020.1.26）</a><br>
+                                <a href="../taikaikekka/taikai2001.shtml#第32回我孫子市新春マラソン（2020.1.26）">第32回我孫子市新春マラソン（2020.1.26）</a><br>
+                            </dd>
+
+                            <dt>2020-01-27</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">我孫子新春マラソンの写真</a>を掲載<br>
+                            </dd>
+                            <dt>2020-01-25</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai2001.shtml#第11回東京･赤羽ハｰフマラソン（2020.1.19）">第11回東京･赤羽ハｰフマラソン（2020.1.19）</a><br>
+                                <a href="../taikaikekka/taikai2001.shtml#第59回柏市新春マラソン（2020.1.19）">第59回柏市新春マラソン（2020.1.19）</a><br>
+                                <a href="../taikaikekka/taikai2001.shtml#第45回鎌ケ谷新春マラソン（2020.1.19）">第45回鎌ケ谷新春マラソン（2020.1.19）</a><br>
+                                <a href="../taikaikekka/taikai2001.shtml#第39回フロストバイトロｰドレｰス（2020.1.19）">第39回フロストバイトロｰドレｰス（2020.1.19）</a><br>
+                                <a href="../taikaikekka/taikai2001.shtml#第45回東松山市元旦早朝マラソン（2020.1.1）">第45回東松山市元旦早朝マラソン（2020.1.1）</a><br>
+                                <a href="../taikaikekka/taikai1910.shtml#第50回記念防府読売マラソン（2019.12.15）">第50回記念防府読売マラソン（2019.12.15）</a><br>
+                            </dd>
+
+                            <dt>2020-01-19</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">フロストバイトの写真</a>を掲載<br>
+                                <a href="../photo/index.shtml">鎌ヶ谷新春マラソンの写真</a>を掲載<br>
+                                <a href="../photo/index.shtml">柏市新春マラソンの写真</a>を掲載<br>
+                            </dd>
+                            <dt>2020-01-18</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai2001.shtml#第62回葛飾柴又ロｰドレｰス（2020.1.13）">第62回葛飾柴又ロｰドレｰス（2020.1.13）</a><br>
+                                <a href="../taikaikekka/taikai2001.shtml#第44回 牛久シティマラソン（2020.1.13）">第44回 牛久シティマラソン（2020.1.13）</a><br>
+                                <a href="../taikaikekka/taikai2001.shtml#第21回 ハイテクハｰフマラソン（2020.1.12）">第21回 ハイテクハｰフマラソン（2020.1.12）</a><br>
+                                <a href="../taikaikekka/taikai2001.shtml#第46回市原高滝湖マラソン（2020.1.11）">第46回市原高滝湖マラソン（2020.1.11）</a><br>
+                            </dd>
+
+                            <dt>2020-01-14</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">牛久シティマラソンの写真</a>を掲載<br>
+                                <a href="../photo/index.shtml">市原高滝湖マラソンの写真</a>を掲載<br>
+                                <a href="../photo/index.shtml">東京マラソン試走会の写真</a>を掲載<br>
+                            </dd>
+                            <dt>2020-01-07</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai1910.shtml#第6回東日本マスタｰズロｰドレｰス大会（2019.12.22）">第6回東日本マスタｰズロｰドレｰス大会（2019.12.22）</a>に4名追加しました。<br>
+                                <a href="../photo/index.shtml">RunThrough Victoria Park marathon @Londonの写真</a>を掲載<br>
+                            </dd>
+                            <dt>2020-01-03</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">年末走り納めT.T@成田市中台陸上競技場の写真</a>を掲載<br>
+                                <a href="../photo/index.shtml">いちごトレイル(ガゼルウィングチーム)の写真</a>を掲載<br>
+                            </dd>
+
+
+
+                            <dt>2019-12-30</dt>
+                            <dd class="link">
+                                <a href="../taikaikekka/taikai1910.shtml#第6回東日本マスタｰズロｰドレｰス大会（2019.12.22）">第6回東日本マスタｰズロｰドレｰス大会（2019.12.22）</a><br>
+                            </dd>
+
+                            <dt>2019-12-25</dt>
+                            <dd class="link">
+                                <a href="../member/index.shtml#A0059">しほちゃん</a>、サブ3.25達成、おめでとうございます。<br>
+                            </dd>
+
+                            <dt>2019-12-22</dt>
+                            <dd class="link">
+                                <a href="../taikaikekka/taikai1910.shtml#いちごトレイルラン（2019.12.21）">いちごトレイルラン（2019.12.21）</a><br>
+                                <a href="../taikaikekka/taikai1910.shtml#第5回さいたま国際マラソン（2019.12.8）">第5回さいたま国際マラソン（2019.12.8）</a><br>
+                            </dd>
+
+                            <dt>2019-12-17</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">2019忘年会の写真</a>を掲載<br>
+                            </dd>
+                            <dt>2019-12-16</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai1910.shtml#第44回千葉マリンマラソン（2019.12.1）">第44回千葉マリンマラソン（2019.12.1）</a><br>
+                                <a href="../taikaikekka/taikai1910.shtml#第38回川口マラソン（2019.12.1）">第38回川口マラソン（2019.12.1）</a><br>
+                                <a href="../taikaikekka/taikai1910.shtml#第73回福岡国際マラソン（2019.12.1）">第73回福岡国際マラソン（2019.12.1）</a><br>
+                                <a href="../taikaikekka/taikai1910.shtml#第9回神戸マラソン（2019.11.17）">第9回神戸マラソン（2019.11.17）</a><br>
+                                <a href="../taikaikekka/taikai1910.shtml#いわて盛岡シティマラソン2019（2019.10.27）">いわて盛岡シティマラソン2019（2019.10.27）</a><br>
+                            </dd>
+
+                            <dt>2019-12-09</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">キッズウィング　逃走中verの写真</a>を掲載<br>
+                            </dd>
+                            <dt>2019-12-07</dt>
+                            <dd class="link">
+                                <a href="../rensyumenu/index.shtml">練習メニュ1-4月</a>を掲載しました。<br>
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai1910.shtml#第30回所沢シティマラソン（2019.12.1）">第30回所沢シティマラソン（2019.12.1）</a><br>
+                                <a href="../taikaikekka/taikai1910.shtml#第39回つくばマラソン（2019.11.24）">第39回つくばマラソン（2019.11.24）</a>に 1名追加<br>
+                            </dd>
+
+                            <dt>2019-12-01</dt>
+                            <dd class="link">
+                                <a href="../taikaikekka/taikai1910.shtml#第39回つくばマラソン（2019.11.24）">第39回つくばマラソン（2019.11.24）</a><br>
+                                <a href="../taikaikekka/taikai1910.shtml#第32回大田原マラソン（2019.11.23）">第32回大田原マラソン（2019.11.23）</a><br>
+                            </dd>
+
+                            <dt>2019-11-25</dt>
+                            <dd class="link">
+                                <a href="../taikaikekka/taikai1910.shtml#第7回 銚子さんまマラソン（2019.11.17）">第7回 銚子さんまマラソン（2019.11.17）</a><br>
+                                <a href="../taikaikekka/taikai1910.shtml#第11回 越谷レイクタウンランニング（2019.11.17）">第11回 越谷レイクタウンランニング（2019.11.17）</a><br>
+                                <a href="../taikaikekka/taikai1910.shtml#第19回陣馬山トレイルレｰス（2019.11.10）">第19回陣馬山トレイルレｰス（2019.11.10）</a><br>
+                            </dd>
+
+                            <dt>2019-11-16</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai1910.shtml#2019成田POPラン大会（2019.11.10）">2019成田POPラン大会（2019.11.10）</a><br>
+                                <a href="../taikaikekka/taikai1910.shtml#第29回 坂東市いわい将門ハｰフマラソン（2019.11.10）">第29回 坂東市いわい将門ハｰフマラソン（2019.11.10）</a><br>
+                                <a href="../taikaikekka/taikai1910.shtml#第31回 会津若松市鶴ヶ城ハｰフマラソン（2019.10.6）">第31回 会津若松市鶴ヶ城ハｰフマラソン（2019.10.6）</a><br>
+                            </dd>
+
+                            <dt>2019-11-12</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai1910.shtml#第103回小松菜マラソン（2019.11.3）">第103回小松菜マラソン（2019.11.3）</a><br>
+                                <a href="../taikaikekka/taikai1910.shtml#天童ラ･フランス マラソン2019（2019.11.3）">天童ラ･フランス マラソン2019（2019.11.3）</a><br>
+                                <a href="../taikaikekka/taikai1910.shtml#第29回ぐんまマラソン（2019.11.3）">第29回ぐんまマラソン（2019.11.3）</a><br>
+                            </dd>
+
+                            <dt>2019-11-11</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">成田POPランの写真</a>を掲載<br>
+                            </dd>
+                            <dt>2019-11-06</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai1910.shtml#チャレンジ富士五湖ウルトラマラソン 秋（2019.10.5）">チャレンジ富士五湖ウルトラマラソン 秋（2019.10.5）</a>に 1名追加<br>
+                                <a href="../taikaikekka/taikai1910.shtml#2019フｰドバレｰとかちマラソン（2019.10.27）">2019フｰドバレｰとかちマラソン（2019.10.27）</a><br>
+                                <a href="../taikaikekka/taikai1910.shtml#富山マラソン2019（2019.10.27）">富山マラソン2019（2019.10.27）</a><br>
+                                <a href="../taikaikekka/taikai1910.shtml#金沢マラソン2019（2019.10.27）">金沢マラソン2019（2019.10.27）</a><br>
+                                <a href="../taikaikekka/taikai1910.shtml#第4回水戸黄門漫遊マラソン（2019.10.27）">第4回水戸黄門漫遊マラソン（2019.10.27）</a><br>
+                                <a href="../taikaikekka/taikai1910.shtml#第25回手賀沼エコマラソン（2019.10.27）">第25回手賀沼エコマラソン（2019.10.27）</a><br>
+                            </dd>
+
+                            <dt>2019-11-04</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">柏の葉リレーマラソンの写真</a>を掲載<br>
+                            </dd>
+                            <dt>2019-10-29</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">手賀沼エコマラソンの写真</a>を掲載<br>
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai1910.shtml#第44回板橋区･高島平ロｰドレｰス大会（2019.10.20）">第44回板橋区･高島平ロｰドレｰス大会（2019.10.20）</a><br>
+                                <a href="../taikaikekka/taikai1910.shtml#第20回記念南陽さわやかワインマラソン（2019.10.14）">第20回記念南陽さわやかワインマラソン（2019.10.14）</a><br>
+                                <a href="../taikaikekka/taikai1910.shtml#チャレンジ富士五湖ウルトラマラソン（2019.10.6）">チャレンジ富士五湖ウルトラマラソン（2019.10.6）</a><br>
+                                <a href="../taikaikekka/taikai1910.shtml#第28回 流山ロｰドレｰス（2019.10.6）">第28回 流山ロｰドレｰス（2019.10.6）</a>に 1名追加<br>
+                            </dd>
+
+                            <dt>2019-10-20</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">キッズウィングACの写真</a>を掲載<br>
+                            </dd>
+                            <dt>2019-10-12</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai1910.shtml#第28回 流山ロｰドレｰス（2019.10.6）">第28回 流山ロｰドレｰス（2019.10.6）</a><br>
+                                <a href="../taikaikekka/taikai1910.shtml#第34回 白井梨マラソン（2019.10.6）">第34回 白井梨マラソン（2019.10.6）</a><br>
+                                <a href="../taikaikekka/taikai1910.shtml#第7回山形まるごとマラソン（2019.10.6）">第7回山形まるごとマラソン（2019.10.6）</a><br>
+                                <a href="../taikaikekka/taikai1910.shtml#第3回 松本マラソン（2019.10.6）">第3回 松本マラソン（2019.10.6）</a><br>
+                                <a href="../taikaikekka/taikai1907.shtml#第21回 東京マスタｰズロｰド選手権（2019.9.29）">第21回 東京マスタｰズロｰド選手権（2019.9.29）</a><br>
+                            </dd>
+
+                            <dt>2019-10-07</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">白井梨マラソンの写真</a>を掲載<br>
+                                <a href="../photo/index.shtml">流山ロードレースの写真</a>を掲載<br>
+                            </dd>
+                            <dt>2019-10-01</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai1907.shtml#第54回白鷹若鮎マラソン（2019.9.23）">第54回白鷹若鮎マラソン（2019.9.23）</a><br>
+                                <a href="../taikaikekka/taikai1907.shtml#北海道マラソン2019（2019.8.25）">北海道マラソン2019（2019.8.25）</a><br>
+                            </dd>
+
+                            <dt>2019-09-30</dt>
+                            <dd class="link">
+                                <a href="../member/index.shtml">メンバー紹介</a>に写真を1名追加しました。<br>
+                            </dd>
+
+                            <dt>2019-09-26</dt>
+                            <dd class="link">
+                                <a href="../taikaikekka/taikai1907.shtml#第35回巨峰の丘マラソン（2019.9.15）">第35回巨峰の丘マラソン（2019.9.15）</a><br>
+                            </dd>
+
+
+                            <dt>2019-09-19</dt>
+                            <dd class="link">
+                                <a href="../member/index.shtml">メンバー紹介</a>に1名の写真を追加しました。<br>
+                            </dd>
+
+                            <dt>2019-09-10</dt>
+                            <dd class="link">
+                                <a href="../taikaikekka/taikai1907.shtml#第59回伊達ももの里マラソン （2019.9.1）">第59回伊達ももの里マラソン （2019.9.1）</a><br>
+                            </dd>
+
+                            <dt>2019-08-27</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">HOKA ONEONE試履会の写真</a>を掲載<br>
+                                <a href="../photo/index.shtml">キッズウィングACの写真</a>を掲載<br>
+                            </dd>
+                            <dt>2019-08-20</dt>
+                            <dd class="link">
+                                <a href="../rensyumenu/index.shtml">練習メニュ9-12月</a>を掲載しました。
+                            </dd>
+                            <dt>2019-08-19</dt>
+                            <dd class="link">
+                                <a href="../rensyumenu/pdf/201909.pdf" target="_blank">9月以降の練習メニューのpdfです。</a><br>
+                                <a href="../photo/index.shtml">つくばウォークの写真</a>を掲載<br>
+                            </dd>
+                            <dt>2019-08-14</dt>
+                            <dd class="link">
+                                <a href="../taikaikekka/taikai1907.shtml#野沢トレイルフェス（2019.8.3）">野沢トレイルフェス（2019.8.3）</a><br>
+                            </dd>
+
+                            <dt>2019-08-08</dt>
+                            <dd class="link">
+                                <a href="../member/index.shtml">メンバー紹介</a>に1名追加しました。<br>
+                            </dd>
+
+
+                            <dt>2019-07-22</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">夏合宿@菅平高原の写真</a>を掲載<br>
+                            </dd>
+                            <dt>2019-07-21</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai1907.shtml#第30回UPRUN葛飾区荒川河川敷堀切橋マラソン（2019.7.14）">第30回UPRUN葛飾区荒川河川敷堀切橋マラソン（2019.7.14）</a><br>
+                                <a href="../taikaikekka/taikai1907.shtml#ラッキｰセブンディスタンス陸上競技大会（2019.7.7）">ラッキｰセブンディスタンス陸上競技大会（2019.7.7）</a><br>
+                                <a href="../taikaikekka/taikai1907.shtml#第21回北丹沢12H山岳耐久レｰス（2019.7.7）">第21回北丹沢12H山岳耐久レｰス（2019.7.7）</a><br>
+                                <a href="../taikaikekka/taikai1904.shtml#第34回サロマ湖100kmウルトラマラソン（2019.6.30）">第34回サロマ湖100kmウルトラマラソン（2019.6.30）</a><br>
+                            </dd>
+
+
+                            <dt>2019-07-08</dt>
+                            <dd class="link">
+                                <a href="../taikaikekka/taikai1904.shtml#第8回 日本百名山･両神山麓トレイルラン（2019.6.23）">第8回 日本百名山･両神山麓トレイルラン（2019.6.23）</a><br>
+                            </dd>
+
+                            <dt>2019-06-28</dt>
+                            <dd class="link">
+                                <a href="../taikaikekka/taikai1904.shtml#第36回富里スイカロｰドレｰス（2019.6.23）">第36回富里スイカロｰドレｰス（2019.6.23）</a><br>
+                            </dd>
+
+                            <dt>2019-06-24</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">富里スイカロードレースの写真</a>を掲載<br>
+
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai1904.shtml#第43回" さがえ"さくらんぼマラソン（2019.6.16）">第43回"さがえ"さくらんぼマラソン（2019.6.16）</a><br>
+                                <a href="../taikaikekka/taikai1904.shtml#第8回八重山トレイルレｰス（2019.6.9）">第8回八重山トレイルレｰス（2019.6.9）</a><br>
+                                <a href="../taikaikekka/taikai1904.shtml#第10回南魚沼グルメマラソン（2019.6.9）">第10回南魚沼グルメマラソン（2019.6.9）</a><br>
+                                <a href="../taikaikekka/taikai1904.shtml#第26回奥武蔵ウルトラマラソン（2019.6.2）">第26回奥武蔵ウルトラマラソン（2019.6.2）</a>に一名追加<br>
+                            </dd>
+
+                            <dt>2019-06-17</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">キッズウィングACの写真</a>を掲載<br>
+                                <a href="../member/index.shtml">メンバー紹介</a>に6名の写真を追加しました。<br>
+                            </dd>
+                            <dt>2019-06-15</dt>
+                            <dd class="link">
+                                <a href="../member/index.shtml">メンバー紹介</a>に2名追加し、7名退会しました。<br>
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai1904.shtml#第26回奥武蔵ウルトラマラソン（2019.6.2）">第26回奥武蔵ウルトラマラソン（2019.6.2）</a><br>
+                                <a href="../taikaikekka/taikai1904.shtml#TOKYO EAST RUN 30K（2019.6.2）">TOKYO EAST RUN 30K（2019.6.2）</a><br>
+                                <a href="../taikaikekka/taikai1904.shtml#第18回果樹王国ひがしねさくらんぼマラソン（2019.6.2）">第18回果樹王国ひがしねさくらんぼマラソン（2019.6.2）</a><br>
+                            </dd>
+
+
+                            <dt>2019-06-03</dt>
+                            <dd class="link">
+                                <a href="../taikaikekka/taikai1904.shtml#第29回仙台国際ハｰフマラソン（2019.5.12）">第29回仙台国際ハｰフマラソン（2019.5.12）</a><br>
+                            </dd>
+
+                            <dt>2019-06-03</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">新入会員歓迎BBQの写真</a>を掲載<br>
+                                <a href="../photo/index.shtml">さくらんぼマラソンの写真</a>を掲載<br>
+                            </dd>
+                            <dt>2019-06-02</dt>
+                            <dd class="link">
+                                <a href="../taikaikekka/taikai1904.shtml#柴又100K （2019.5.19）">柴又100K （2019.5.19）</a><br>
+                            </dd>
+
+                            <dt>2019-05-27</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">ウィング記録会@野田市陸上競技場の写真</a>を掲載<br>
+                            </dd>
+                            <dt>2019-05-26</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai1904.shtml#第7回飯能アルプス~奥武蔵丸山トレイルラン（2019.5.19）">第7回飯能アルプス~奥武蔵丸山トレイルラン（2019.5.19）</a><br>
+                                <a href="../taikaikekka/taikai1904.shtml#第15回奥武蔵グリｰンライン･チャレンジ42.195km（2019.5.12）">第15回奥武蔵グリｰンライン･チャレンジ42.195km（2019.5.12）</a><br>
+                                <a href="../taikaikekka/taikai1904.shtml#第39回鹿沼さつきマラソン（2019.5.12）">第39回鹿沼さつきマラソン（2019.5.12）</a><br>
+                                <a href="../taikaikekka/taikai1904.shtml#第29回チャレンジ富士五湖ウルトラマラソン（2019.4.21）">第29回チャレンジ富士五湖ウルトラマラソン（2019.4.21）</a><br>
+                            </dd>
+
+
+                            <dt>2019-05-20</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">青葉の森リレーマラソンの写真</a>を掲載<br>
+                            </dd>
+                            <dt>2019-05-14</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai1904.shtml#第31回春日部大凧マラソン（2019.5.4）">第31回春日部大凧マラソン（2019.5.4）</a><br>
+                                <a href="../taikaikekka/taikai1904.shtml#第8回奥武蔵もろやまトレイルラン（2019.4.21）">第8回奥武蔵もろやまトレイルラン（2019.4.21）</a><br>
+                            </dd>
+
+                            <dt>2019-05-13</dt>
+                            <dd class="link">
+                                5/26に予定していた監督コーチMTですが、記録会が長引いてしまう為日程を6/30に変更したので、<a href="../rensyumenu/index.shtml">練習メニュー</a>と<a href="../rensyumenu/pdf/201905.pdf" target="_blank">そのPDF</a>を変更しました。
+                            </dd>
+                            <dt>2019-05-12</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">トラック練習会@白井陸上競技場の写真</a>を掲載<br>
+                                <a href="../photo/index.shtml">春日部大凧マラソンの写真</a>を掲載<br>
+                            </dd>
+                            <dt>2019-05-11</dt>
+                            <dd class="link">
+                                <a href="../member/index.shtml">メンバー紹介</a>に4名追加しました。また、19年退会者を削除しました。
+                            </dd>
+
+                            <dt>2019-05-06</dt>
+                            <dd class="link">
+                                今回、会員さんから頂いた貴重なご意見を基に<a href="https://rara.jp/wing2019/" target="_blank">掲示板「復活への道」</a>を創設しました。現在当クラブには故障で悩んでいる方が多くいらっしゃいます。そんな皆さんの怪我のご経験や不調、回復された経緯等、是非ご紹介下さい。故障に悩んでいる方にとってそこから見えてくる何か「きっかけ」があろうかと思います。<br>
+                            </dd>
+
+                            <dt>2019-05-02</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai1904.shtml#第12回いしおかトレイルラン大会（2019.4.28）">第12回いしおかトレイルラン大会（2019.4.28）</a><br>
+                                <a href="../taikaikekka/taikai1904.shtml#第1回エリｰトランナｰズマラソン（2019.4.20）">第1回エリｰトランナｰズマラソン（2019.4.20）</a><br>
+                                <a href="../taikaikekka/taikai1904.shtml#第11回おやま思川ざくらマラソン（2019.4.14）">第11回おやま思川ざくらマラソン（2019.4.14）</a><br>
+                                <a href="../taikaikekka/taikai1901.shtml#第7回サンスポ古河はなももマラソン（2019.3.10）">第7回サンスポ古河はなももマラソン（2019.3.10）</a>に 1名追加<br>
+                            </dd>
+
+                            <dt>2019-04-30</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">東大検見川クロカン練習会の写真</a>を掲載<br>
+                                <a href="../photo/index.shtml">設楽悠太選手(ポップライン萩原さん)来訪の写真</a>を掲載<br>
+                            </dd>
+                            <dt>2019-04-27</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai1904.shtml#第6回葛飾ふ~てんマラソン（2019.4.20）">第6回葛飾ふ~てんマラソン（2019.4.20）</a><br>
+                            </dd>
+
+                            <dt>2019-04-24</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">チャレンジ富士五湖ウルトラマラソンの写真</a>を掲載<br>
+                            </dd>
+                            <dt>2019-04-21</dt>
+                            <dd class="link">
+                                <a href="../taikaikekka/taikai1904.shtml#かすみがうらマラソン2019（2019.4.14）">かすみがうらマラソン2019（2019.4.14）</a><br>
+                            </dd>
+
+                            <dt>2019-04-16</dt>
+                            <dd class="link">
+                                <a href="../member/index.shtml">メンバー紹介</a>に3名の写真を追加しました。<br>
+                            </dd>
+
+                            <dt>2019-04-15</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">かすみがうらマラソンの写真</a>を掲載<br>
+                            </dd>
+                            <dt>2019-04-13</dt>
+                            <dd class="link">
+
+                                <a href="../kashiwanohaRM_HP/index.htm" target="_blank">柏の葉リレーマラソン。</a>2019年の開催日が、11月3日に決定しました。皆様奮ってご参加ください。<br>
+                                <a href="../taikaikekka/taikai1901.shtml#2019板橋Cityマラソン（2019.3.17）">2019板橋Cityマラソン（2019.3.17）</a>に 1名追加<br>
+                            </dd>
+
+                            <dt>2019-04-08</dt>
+                            <dd class="link">
+                                <a href="../rensyumenu/index.shtml">練習メニュ5-8月</a>を掲載しました。
+                            </dd>
+
+                            <dt>2019-04-06</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai1901.shtml#第24回吉川なまずの里マラソン（2019.3/31）">第24回吉川なまずの里マラソン（2019.3/31）</a><br>
+                                <a href="../taikaikekka/taikai1901.shtml#2019板橋Cityマラソン（2019.3.17）">2019板橋Cityマラソン（2019.3.17）</a><br>
+                            </dd>
+
+                            <dt>2019-04-04</dt>
+                            <dd class="link">
+                                <a href="../member/index.shtml">メンバー紹介</a>に2名追加しました。<br>
+                            </dd>
+
+                            <dt>2019-04-02</dt>
+                            <dd class="link">
+                                <a href="../information/2019zentaiMTG.pdf" target="_blank">2019年2月24日に開催された全体ミーティングの資料（議事録・議事・イベント・人事・安全走行マニュアル）</a>を掲載<br>
+                                <a href="../nenkangyoji/index.shtml">年間行事</a>を2019年度版に更新しました。内容は全体MT資料と同様です。<br>
+                                <a href="../member/index.shtml#staff">メンバー紹介</a>のスタッフを2019年度版に更新しました。
+
+
+                            </dd>
+
+                            <dt>2019-04-01</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">吉川なまずの里マラソンの写真</a>を掲載<br>
+                            </dd>
+                            <dt>2019-03-31</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai1901.shtml#第38回佐倉朝日健康マラソン（2019.3.24）">第38回佐倉朝日健康マラソン（2019.3.24）</a><br>
+                                <a href="../taikaikekka/taikai1901.shtml#第7回サンスポ古河はなももマラソン（2019.3.10）">第7回サンスポ古河はなももマラソン（2019.3.10）</a><br>
+                                <a href="../taikaikekka/taikai1901.shtml#名古屋ウィメンズマラソン2019（2019.3.10）">名古屋ウィメンズマラソン2019（2019.3.10）</a>に 1名追加<br>
+                            </dd>
+
+                            <dt>2019-03-22</dt>
+                            <dd class="link">
+                                <a href="../taikaikekka/taikai1901.shtml#ソウルマラソン2019（2019.3.17）">ソウルマラソン2019（2019.3.17）</a><br>
+                                <a href="../taikaikekka/taikai1901.shtml#名古屋ウィメンズマラソン2019（2019.3.10）">名古屋ウィメンズマラソン2019（2019.3.10）</a><br>
+                            </dd>
+
+                            <dt>2019-03-12</dt>
+                            <dd class="link">
+                                <a href="../member/index.shtml#A0155">クリハラさん</a>、サブスリー達成、おめでとうございます。<br>
+                            </dd>
+
+                            <dt>2019-03-10</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai1901.shtml#第29回東京総合健保ミニマラソン（2019.3.3）">第29回東京総合健保ミニマラソン（2019.3.3）</a><br>
+                                <a href="../taikaikekka/taikai1901.shtml#静岡マラソン2019（2019.2.24）">静岡マラソン2019（2019.2.24）</a><br>
+                                <a href="../taikaikekka/taikai1901.shtml#東京マラソン2019（2019.3.3）">東京マラソン2019（2019.3.3）</a><br>
+                            </dd>
+
+                            <dt>2019-03-04</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">東京マラソンの写真</a>を掲載<br>
+                            </dd>
+                            <dt>2019-03-02</dt>
+                            <dd class="link">
+                                <a href="../taikaikekka/taikai1901.shtml#第26回神栖市はさきさわやかランニング（2019.2.24）">第26回神栖市はさきさわやかランニング（2019.2.24）</a><br>
+                                <a href="../taikaikekka/taikai1901.shtml#第13回ふかやシティハｰフマラソン（2019.2.24）">第13回ふかやシティハｰフマラソン（2019.2.24）</a><br>
+                            </dd>
+
+                            <dt>2019-02-28</dt>
+                            <dd class="link">
+                                振込口座の番号が、ゆうちょからの振込と他行からの振込で、逆になっていたので、<a href="../kaihi_kouza/index.shtml">振込口座情報</a>を修正しました。会費の振込時はご注意願います。<br>
+                            </dd>
+                            <dt>2019-02-25</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai1901.shtml#2019さかえリバｰサイドマラソン（2019.2.17）">2019さかえリバｰサイドマラソン（2019.2.17）</a><br>
+                            </dd>
+
+                            <dt>2019-02-18</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">利根町駅伝の写真</a>を掲載<br>
+                                <a href="../photo/index.shtml">さかえリバーサイドマラソンの写真</a>を掲載<br>
+                                <a href="../photo/index.shtml">別府大分毎日マラソンの写真</a>を追加しました。<br>
+                            </dd>
+                            <dt>2019-02-17</dt>
+                            <dd class="link">
+                                <a href="../taikaikekka/taikai1901.shtml#第50回みさとシティハｰフマラソン（2019.2.3）">第50回みさとシティハｰフマラソン（2019.2.3）</a><br>
+                            </dd>
+
+                            <dt>2019-02-16</dt>
+                            <dd class="link">
+                                <a href="../newPB/index.shtml">2018年のPB更新賞の方々を掲載しました。</a>
+                            </dd>
+                            <dt>2019-02-15</dt>
+                            <dd class="link">
+                                <a href="../member/index.shtml#A0141">仁平さん</a>、サブスリー達成、おめでとうございます。<br>
+                                合わせて<a href="../member/index.shtml#A0158">黒川さん</a>が抜けておりましたので、追加しました。<br>
+                            </dd>
+
+                            <dt>2019-02-13</dt>
+                            <dd class="link">
+                                <a href="../taikaikekka/taikai1901.shtml#第68回 別府大分毎日マラソン（2019.2.3）">第68回 別府大分毎日マラソン（2019.2.3）</a><br>
+                                <a href="../taikaikekka/taikai1901.shtml#Marrakech Marathon 2019（2019.1.27）">Marrakech Marathon 2019（2019.1.27）</a><br>
+                                <a href="../taikaikekka/taikai1901.shtml#第67回勝田全国マラソン（2019.1.27）">第67回勝田全国マラソン（2019.1.27）</a><br>
+                            </dd>
+
+                            <dt>2019-02-07</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai1901.shtml#第35回 守谷ハｰフマラソン（2019.2.3）">第35回 守谷ハｰフマラソン（2019.2.3）</a><br>
+                                <a href="../taikaikekka/taikai1901.shtml#第30回旭市飯岡しおさいマラソン大会（2019.2.3）">第30回旭市飯岡しおさいマラソン大会（2019.2.3）</a><br>
+                            </dd>
+
+                            <dt>2019-02-04</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">別府大分毎日マラソンの写真</a>を掲載<br>
+                                <a href="../photo/index.shtml">飯岡しおさいマラソンの写真</a>を掲載<br>
+                            </dd>
+                            <dt>2019-02-02</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai1901.shtml#第31回我孫子市新春マラソン（2019.1.27）">第31回我孫子市新春マラソン（2019.1.27）</a><br>
+                                <a href="../taikaikekka/taikai1901.shtml#第39回館山若潮マラソン（2019.1.27）">第39回館山若潮マラソン（2019.1.27）</a><br>
+                            </dd>
+
+                            <dt>2019-01-28</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">我孫子新春マラソンの写真</a>を掲載<br>
+                            </dd>
+                            <dt>2019-01-27</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai1901.shtml#第10回東京･赤羽ハｰフマラソン （2019.1.20）">第10回東京･赤羽ハｰフマラソン （2019.1.20）</a><br>
+                                <a href="../taikaikekka/taikai1901.shtml#第58回柏市新春マラソン （2019.1.20）">第58回柏市新春マラソン （2019.1.20）</a><br>
+                                <a href="../taikaikekka/taikai1901.shtml#第38回フロストバイトロｰドレｰス （2019.1.20）">第38回フロストバイトロｰドレｰス （2019.1.20）</a><br>
+                                <a href="../taikaikekka/taikai1901.shtml#第20回ハイテクハｰフマラソン （2019.1.13）">第20回ハイテクハｰフマラソン （2019.1.13）</a><br>
+                            </dd>
+                            <dt>2019-01-21</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">柏市新春マラソンの写真</a>を掲載<br>
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai1901.shtml#第13回第13回下野市天平マラソン （2019.1.14）">第13回第13回下野市天平マラソン （2019.1.14）</a><br>
+                                <a href="../taikaikekka/taikai1901.shtml#第43回 牛久シティマラソン （2019.1.14）">第43回 牛久シティマラソン （2019.1.14）</a><br>
+                                <a href="../taikaikekka/taikai1901.shtml#第46回高根沢町元気あっぷハｰフマラソン （2019.1.13）">第46回高根沢町元気あっぷハｰフマラソン （2019.1.13）</a><br>
+                                <a href="../taikaikekka/taikai1901.shtml#第38回いぶすき菜の花マラソン （2019.1.13）">第38回いぶすき菜の花マラソン （2019.1.13）</a><br>
+                                <a href="../taikaikekka/taikai1901.shtml#第64回松戸市七草マラソン （2019.1.13）">第64回松戸市七草マラソン （2019.1.13）</a><br>
+                                <a href="../taikaikekka/taikai1901.shtml#第45回市原高滝湖マラソン （2019.1.12）">第45回市原高滝湖マラソン （2019.1.12）</a><br>
+                                <a href="../taikaikekka/taikai1901.shtml#オトナのタイムトライアル （2019.1.6）">オトナのタイムトライアル （2019.1.6）</a><br>
+                                <a href="../taikaikekka/taikai1901.shtml#第44回東松山市元旦早朝マラソン （2019.1.1）">第44回東松山市元旦早朝マラソン （2019.1.1）</a><br>
+                                <a href="../taikaikekka/taikai1810.shtml#第9回足立フレンドリｰマラソン （2018.12.23）">第9回足立フレンドリｰマラソン （2018.12.23）</a>にはっとりさんのネットタイムを追加<br>
+
+                            </dd>
+
+                            <dt>2019-01-18</dt>
+                            <dd class="link">
+                                <a href="../member/index.shtml">メンバー紹介</a>に4名追加しました。<br>
+                            </dd>
+
+                            <dt>2019-01-15</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">牛久シティマラソンの写真</a>を掲載<br>
+                                <a href="../photo/index.shtml">東京マラソン試走会の写真</a>を掲載<br>
+                            </dd>
+                            <dt>2019-01-07</dt>
+                            <dd class="link">
+                                <a href="../taikaikekka/taikai1810.shtml#YEAREND MARATHON in 昭和記念公園2018 （2018.12.29）">YEAREND MARATHON in 昭和記念公園2018 （2018.12.29）</a><br>
+                                <a href="../taikaikekka/taikai1810.shtml#第49回防府読売マラソン （2018.12.16）">第49回防府読売マラソン （2018.12.16）</a><br>
+                                <a href="../taikaikekka/taikai1810.shtml#MINATOシティハｰフマラソン2018 （2018.12.2）">MINATOシティハｰフマラソン2018 （2018.12.2）</a>に1名追加<br>
+                            </dd>
+                            <dt>2018-12-28</dt>
+                            <dd class="link">
+                                <a href="../taikaikekka/taikai1810.shtml#第4回さいたま国際マラソン （2018.12.9）">第4回さいたま国際マラソン （2018.12.9）</a>に2名追加<br>
+                            </dd>
+
+                            <dt>2018-12-27</dt>
+                            <dd class="link">
+                                <a href="../taikaikekka/taikai1810.shtml#第9回足立フレンドリｰマラソン （2018.12.23）">第9回足立フレンドリｰマラソン （2018.12.23）</a><br>
+                                <a href="../taikaikekka/taikai1810.shtml#いちごトレイルラン （2018.12.22）">いちごトレイルラン （2018.12.22）</a><br>
+                            </dd>
+
+                            <dt>2018-12-26</dt>
+                            <dd class="link">
+                                「会長直行便」ですが、アプリをアップデートしたところ、以前のように複数回回答出来なくなりました。そのため、URLを変更しております。新しいリンク先は、以下をクリックしてください。<br>
+                                <a href="https://peing.net/ja/0ca04360257fff?event=0" target="_blank">「会長直行便♪」</a><br>.
+                                (匿名ツールです。返信ご希望の方はお名前と連絡先をご記入下さい)
+                            </dd>
+                            <dt>2018-12-24</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">足立フレンドリーの写真</a>を掲載<br>
+                                <a href="../photo/index.shtml">いちごトレイルランの写真</a>を掲載<br>
+                            </dd>
+                            <dt>2018-12-23</dt>
+                            <dd class="link">
+                                <a href="../taikaikekka/taikai1810.shtml#2018台北マラソン （2018.12.9）">2018台北マラソン （2018.12.9）</a>に1名追加<br>
+                                <a href="../taikaikekka/taikai1810.shtml#第10回香取小江戸マラソン大会 （2018.12.9）">第10回香取小江戸マラソン大会 （2018.12.9）</a>に1名追加<br>
+                            </dd>
+
+                            <dt>2018-12-20</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai1810.shtml#第43回サンスポ千葉マリンマラソン （2018.12.2）">第43回サンスポ千葉マリンマラソン （2018.12.2）</a>に1名追加<br>
+                                <a href="../taikaikekka/taikai1810.shtml#第13回かさま陶芸の里ハｰフマラソン （2018.12.16）">第13回かさま陶芸の里ハｰフマラソン （2018.12.16）</a><br>
+                                <a href="../taikaikekka/taikai1810.shtml#2018台北マラソン （2018.12.9）">2018台北マラソン （2018.12.9）</a><br>
+                                <a href="../taikaikekka/taikai1810.shtml#第4回さいたま国際マラソン （2018.12.9）">第4回さいたま国際マラソン （2018.12.9）</a><br>
+                                <a href="../taikaikekka/taikai1810.shtml#横浜マラソン2018 （2018.10.28）">横浜マラソン2018 （2018.10.28）</a><br>
+                            </dd>
+
+                            <dt>2018-12-18</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">忘年会とウィング駅伝の写真</a>を1枚ずつ追加<br>
+                            </dd>
+                            <dt>2018-12-17</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai1810.shtml#第14回さのマラソン （2018.12.9）">第14回さのマラソン （2018.12.9）</a><br>
+                                <a href="../taikaikekka/taikai1810.shtml#第10回香取小江戸マラソン大会 （2018.12.9）">第10回香取小江戸マラソン大会 （2018.12.9）</a><br>
+                                <a href="../taikaikekka/taikai1810.shtml#第43回サンスポ千葉マリンマラソン （2018.12.2）">第43回サンスポ千葉マリンマラソン （2018.12.2）</a><br>
+                                <a href="../photo/index.shtml">忘年会の写真</a>を掲載<br>
+                                <a href="../photo/index.shtml">ウィング駅伝2018の写真</a>を掲載<br>
+                            </dd>
+                            <dt>2018-12-14</dt>
+                            <dd class="link">
+                                <a href="../rensyumenu/index.shtml">練習メニュ1～4月</a>を掲載しました。
+                            </dd>
+                            <dt>2018-12-11</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">キッズウィングACの写真</a>を掲載<br>
+                            </dd>
+                            <dt>2018-12-09</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai1810.shtml#MINATOシティハｰフマラソン2018 （2018.12.2）">MINATOシティハｰフマラソン2018 （2018.12.2）</a><br>
+                                <a href="../taikaikekka/taikai1810.shtml#第21回ニュｰリバｰロｰドレｰスin八千代 （2018.12.2）">第21回ニュｰリバｰロｰドレｰスin八千代 （2018.12.2）</a><br>
+                                <a href="../taikaikekka/taikai1810.shtml#第37回川口マラソン （2018.12.2）">第37回川口マラソン （2018.12.2）</a><br>
+                                <a href="../taikaikekka/taikai1810.shtml#第72回福岡国際マラソン （2018.12.2）">第72回福岡国際マラソン （2018.12.2）</a><br>
+                                <a href="../taikaikekka/taikai1810.shtml#第11回いすみ健康マラソン（2018.12.2）">第11回いすみ健康マラソン（2018.12.2）</a><br>
+                                <a href="../taikaikekka/taikai1810.shtml#第38回江東シｰサイドマラソン （2018.11.25）">第38回江東シｰサイドマラソン （2018.11.25）</a><br>
+                            </dd>
+
+                            <dt>2018-12-03</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">那覇マラソンの写真</a>を掲載<br>
+                            </dd>
+                            <dt>2018-12-01</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai1810.shtml#第38回つくばマラソン （2018.11.25）">第38回つくばマラソン （2018.11.25）</a><br>
+                                <a href="../taikaikekka/taikai1810.shtml#第31回大田原マラソン （2018.11.23）">第31回大田原マラソン （2018.11.23）</a><br>
+                                <a href="../taikaikekka/taikai1810.shtml#銚子さんまマラソン （2018.11.18）">銚子さんまマラソン （2018.11.18）</a><br>
+                                <a href="../taikaikekka/taikai1810.shtml#第10回越谷レイクタウンランニング （2018.11.18）">第10回越谷レイクタウンランニング （2018.11.18）</a><br>
+                                <a href="../taikaikekka/taikai1810.shtml#第8回神戸マラソン （2018.11.18）">第8回神戸マラソン （2018.11.18）</a><br>
+                            </dd>
+
+                            <dt>2018-11-17</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai1810.shtml#第28回 坂東市いわい将門ハｰフマラソン （2018.11.11）">第28回 坂東市いわい将門ハｰフマラソン （2018.11.11）</a><br>
+                                <a href="../taikaikekka/taikai1810.shtml#2018成田POPラン大会 （2018.11.11）">2018成田POPラン大会 （2018.11.11）</a><br>
+                                <a href="../taikaikekka/taikai1810.shtml#おかやまマラソン2018 （2018.11.11）">おかやまマラソン2018 （2018.11.11）</a><br>
+                                <a href="../taikaikekka/taikai1810.shtml#第28回ぐんまマラソン （2018.11.3）">第28回ぐんまマラソン （2018.11.3）</a><br>
+                            </dd>
+
+                            <dt>2018-11-12</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">成田POPランの写真</a>を掲載<br>
+                                <a href="../photo/index.shtml">いわい将門ハーフマラソンの写真</a>を掲載<br>
+                            </dd>
+                            <dt>2018-11-11</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai1810.shtml#第41回足利尊氏公マラソン （2018.11.4）">第41回足利尊氏公マラソン （2018.11.4）</a><br>
+                                <a href="../taikaikekka/taikai1810.shtml#第18回陣馬山トレイルレｰス （2018.11.4）">第18回陣馬山トレイルレｰス （2018.11.4）</a><br>
+                                <a href="../taikaikekka/taikai1810.shtml#第32回綾･照葉樹林マラソン （2018.10.21）">第32回綾･照葉樹林マラソン （2018.10.21）</a><br>
+                                <a href="../taikaikekka/taikai1810.shtml#ちはﾞアクアラインマラソン2018 （2018.10.21）">ちはﾞアクアラインマラソン2018 （2018.10.21）</a><br>
+                            </dd>
+
+                            <dt>2018-11-04</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai1810.shtml#2018 フｰドバレｰとかちマラソン （2018.10.28）">2018 フｰドバレｰとかちマラソン （2018.10.28）</a><br>
+                                <a href="../taikaikekka/taikai1810.shtml#第3回水戸黄門漫遊マラソン （2018.10.28）">第3回水戸黄門漫遊マラソン （2018.10.28）</a><br>
+                                <a href="../taikaikekka/taikai1810.shtml#第24回手賀沼エコマラソン （2018.10.28）">第24回手賀沼エコマラソン （2018.10.28）</a><br>
+                            </dd>
+
+                            <dt>2018-10-30</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">手賀沼エコマラソンの写真</a>を掲載<br>
+                            </dd>
+                            <dt>2018-10-27</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai1810.shtml#第24回四万十川ウルトラマラソン （2018.10.21）">第24回四万十川ウルトラマラソン （2018.10.21）</a><br>
+                                <a href="../taikaikekka/taikai1810.shtml#第24回市川リバｰサイドマラソン （2018.10.21）">第24回市川リバｰサイドマラソン （2018.10.21）</a><br>
+                                <a href="../taikaikekka/taikai1810.shtml#東北･みやぎ復興マラソン2018 （2018.10.14）">東北･みやぎ復興マラソン2018 （2018.10.14）</a><br>
+                            </dd>
+
+                            <dt>2018-10-17</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">東北みやぎ復興マラソンの写真</a>を掲載。「女子総合3位」の平賀さんの写真です。<br>
+                            </dd>
+                            <dt>2018-10-14</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai1810.shtml#第35回真岡井頭マラソン （2018.10.7）">第35回真岡井頭マラソン （2018.10.7）</a><br>
+                                <a href="../taikaikekka/taikai1810.shtml#第27回流山ロｰドレｰス （2018.10.7）">第27回流山ロｰドレｰス （2018.10.7）</a><br>
+                                <a href="../taikaikekka/taikai1804.shtml#第5回パｰクらんマラソンin彩湖･道満グリｰンパｰク （2018.6.2）">第5回パｰクらんマラソンin彩湖･道満グリｰンパｰク （2018.6.2）</a><br>
+                            </dd>
+
+                            <dt>2018-10-08</dt>
+                            <dd class="link">
+                                <a href="../taikaikekka/taikai1807.shtml#シドニｰマラソン2018 （2018.9.16）">シドニｰマラソン2018 （2018.9.16）</a><br>
+                            </dd>
+
+                            <dt>2018-10-06</dt>
+                            <dd class="link">
+                                <a href="https://kashiwa-marathon.com/" target="_blank">KASHIWAリレーマラソン</a>のバナーを期間限定で掲載しました。
+                            </dd>
+                            <dt>2018-10-03</dt>
+                            <dd class="link">
+                                当クラブの<a href="../about_wing/index.shtml#社会貢献活動">社会貢献活動</a>について、追記しました。<br>
+                            </dd>
+                            <dt>2018-09-28</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai1807.shtml#第33回白井梨マラソン （2018.9.24）">第33回白井梨マラソン （2018.9.24）</a><br>
+                                <a href="../taikaikekka/taikai1807.shtml#第47回南房総市ロｰドレｰス千倉 （2018.9.23）">第47回南房総市ロｰドレｰス千倉 （2018.9.23）</a><br>
+                            </dd>
+
+                            <dt>2018-09-25</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">白井梨マラソンの写真</a>を掲載<br>
+                            </dd>
+                            <dt>2018-09-24</dt>
+                            <dd class="link">
+                                <a href="../taikaikekka/taikai1807.shtml#第6回トレニックワｰルドin外秩父 （2018.9.9）">第6回トレニックワｰルドin外秩父 （2018.9.9）</a><br>
+                            </dd>
+
+                            <dt>2018-09-23</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">セルフケア講習 和歌子先生verの写真</a>を掲載<br>
+                                <a href="../photo/index.shtml">南房総市ロードレース千倉の写真</a>を掲載<br>
+                            </dd>
+                            <dt>2018-09-10</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai1807.shtml#第1回日本最北端わっかない平和マラソン （2018.9.2）">第1回日本最北端わっかない平和マラソン （2018.9.2）</a><br>
+                                <a href="../taikaikekka/taikai1807.shtml#北海道マラソン2018 （2018.8.26）">北海道マラソン2018 （2018.8.26）</a><br>
+                            </dd>
+
+                            <dt>2018-09-06</dt>
+                            <dd class="link">
+                                <a href="../member/index.shtml">メンバー紹介</a>に1名追加しました。<br>
+                            </dd>
+
+                            <dt>2018-09-02</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">わっかないマラソンの写真</a>を掲載<br>
+                                <a href="../photo/index.shtml">岩名クロカン練習会の写真</a>を掲載<br>
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai1807.shtml#第4回 最上川 S-mile マラソン （2018.8.19）">第4回 最上川 S-mile マラソン （2018.8.19）</a><br>
+                            </dd>
+
+                            <dt>2018-08-27</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">柏の葉リレーマラソンの写真</a>を掲載<br>
+                            </dd>
+
+
+                            <dt>2018-08-25</dt>
+                            <dd class="link">
+                                白井梨マラソンの開催日を、9/30から9/24に修正しました。
+                            </dd>
+                            <dt>2018-08-13</dt>
+                            <dd class="link">
+                                <a href="../rensyumenu/index.shtml">練習メニュ9-12月</a>を掲載しました。
+                            </dd>
+                            <dt>2018-08-12</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">トラック練習会の写真</a>を掲載<br>
+                                <a href="../photo/index.shtml">キッズウィングACの写真</a>を掲載<br>
+                                <a href="../member/index.shtml#A0168">メンバー紹介</a>に2名の写真を追加しました。<br>
+                            </dd>
+                            <dt>2018-08-11</dt>
+                            <dd class="link">
+                                <a href="../taikaikekka/taikai1807.shtml#第46回釧路湿原マラソン （2018.7.29）">第46回釧路湿原マラソン （2018.7.29）</a><br>
+                                <a href="../taikaikekka/taikai1807.shtml#第71回富士登山競走 （2018.7.27）">第71回富士登山競走 （2018.7.27）</a><br>
+                            </dd>
+
+                            <dt>2018-08-06</dt>
+                            <dd class="link">
+                                <a href="../member/index.shtml#A0162">メンバー紹介</a>に1名の写真を追加しました。<br>
+                            </dd>
+
+                            <dt>2018-07-30</dt>
+                            <dd class="link">
+                                <a href="../member/index.shtml#A0172">メンバー紹介</a>に1名の写真を追加しました。<br>
+                                <a href="../taikaikekka/taikai1807.shtml#第20回北丹沢12時間山岳耐久レｰス（2018.7.8）">第20回北丹沢12時間山岳耐久レｰス（2018.7.8）</a><br>
+                                <a href="../taikaikekka/taikai1804.shtml#第33回サロマ湖100kmウルトラマラソン （2018.6.24）">第33回サロマ湖100kmウルトラマラソン （2018.6.24）</a><br>
+                                <a href="../taikaikekka/taikai1804.shtml#第9回南魚沼グルメマラソン （2018.6.10）">第9回南魚沼グルメマラソン （2018.6.10）</a><br>
+                                <a href="../taikaikekka/taikai1804.shtml#第25回奥武蔵ウルトラマラソン （2018.6.3）">第25回奥武蔵ウルトラマラソン （2018.6.3）</a><br>
+                            </dd>
+
+                            <dt>2018-07-24</dt>
+                            <dd class="link">
+                                <a href="../member/index.shtml#A0169">メンバー紹介</a>に1名の写真を追加しました。<br>
+                            </dd>
+                            <dt>2018-07-23</dt>
+                            <dd class="link">
+                                <a href="../member/index.shtml">メンバー紹介</a>に4名の写真を追加しました。<br>
+                            </dd>
+
+
+                            <dt>2018-07-21</dt>
+                            <dd class="link">
+                                <a href="../member/index.shtml">メンバー紹介</a>に1名追加しました。<br>
+                            </dd>
+
+                            <dt>2018-07-19</dt>
+                            <dd class="link">
+                                <a href="../newPB/index.shtml">PB更新賞の方々を掲載しました。</a>更なる記録向上を目指して貰えたら、と思っております。
+                            </dd>
+                            <dt>2018-07-18</dt>
+                            <dd class="link">
+                                <a href="../taikaikekka/taikai1804.shtml#2nd日光100kmウルトラマラソン2018 （2018.6.17）">2nd日光100kmウルトラマラソン2018 （2018.6.17）</a><br>
+                            </dd>
+
+                            <dt>2018-07-13</dt>
+                            <dd class="link">
+                                <a href="../information/NetyusyoYobo.pdf" target="_blank">日本ランニング協会で頂いた「熱中症予防ガイドブック」を抜粋したものです。</a>今今、リスクの高い時期となります為、ぜひ、参照してください。
+                            </dd>
+                            <dt>2018-07-10</dt>
+                            <dd class="link">
+                                <a href="../taikaikekka/taikai1804.shtml#第8回 美ヶ原トレイルラン （2018.6.30）">第8回 美ヶ原トレイルラン （2018.6.30）</a><br>
+                            </dd>
+
+                            <dt>2018-07-08</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">合宿の写真</a>を掲載<br>
+                            </dd>
+                            <dt>2018-07-02</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">トラック練習の写真</a>を掲載<br>
+                            </dd>
+                            <dt>2018-06-30</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai1804.shtml#第35回富里スイカロｰドレｰス （2018.6.24）">第35回富里スイカロｰドレｰス （2018.6.24）</a><br>
+                                <a href="../taikaikekka/taikai1804.shtml#第13回隠岐の島ウルトラマラソン （2018.6.17）">第13回隠岐の島ウルトラマラソン （2018.6.17）</a><br>
+                                <a href="../taikaikekka/taikai1804.shtml#第42回" さがえ"さくらんぼマラソン （2018.6.17）">第42回"さがえ"さくらんぼマラソン （2018.6.17）</a><br>
+                            </dd>
+
+                            <dt>2018-06-28</dt>
+                            <dd class="link">
+                                根本君中心に若手メンバーでサブユニフォームを作っていて、その案内をLINEに流しています。<a href="../information/201806SubUniform.pdf" target="_blank">同じ内容を、PDFにして、ここに掲載しました。</a>興味のある方は、ご覧ください。
+                            </dd>
+
+                            <dt>2018-06-25</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">富里スイカロードレースの写真</a>を掲載<br>
+                            </dd>
+                            <dt>2018-06-18</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">ピラティス教室(講師:市河麻由美さん)の写真</a>を掲載<br>
+                                <a href="../photo/index.shtml">ランニングセッション(池永さんver)の写真</a>を掲載<br>
+                            </dd>
+                            <dt>2018-06-17</dt>
+                            <dd class="link">
+                                <a href="../taikaikekka/taikai1804.shtml#第17回果樹王国ひがしね さくらんぼマラソン （2018.6.3）">第17回果樹王国ひがしね さくらんぼマラソン （2018.6.3）</a><br>
+                                <a href="../taikaikekka/taikai1804.shtml#第9回秩父の名峰・武甲山トレイルラン （2018.6.10）">第9回秩父の名峰・武甲山トレイルラン （2018.6.10）</a><br>
+                            </dd>
+                            <dt>2018-06-11</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai1804.shtml#第28回仙台国際ハーフマラソン （2018.5.13）">第28回仙台国際ハーフマラソン （2018.5.13）</a><br>
+                                <a href="../taikaikekka/taikai1804.shtml#第38回鹿沼さつきマラソン （2018.5.13）">第38回鹿沼さつきマラソン （2018.5.13）</a><br>
+                                <a href="../taikaikekka/taikai1804.shtml#第28回チャレンジ富士五湖ウルトラマラソン （2018.4.22）">第28回チャレンジ富士五湖ウルトラマラソン （2018.4.22）</a><br>
+                            </dd>
+
+                            <dt>2018-06-04</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">山形さくらんぼマラソンの写真</a>を掲載<br>
+                            </dd>
+                            <dt>2018-06-01</dt>
+                            <dd class="link">
+                                <a href="https://jp.surveymonkey.com/r/RGK2DHT" target="_blank">会長直行便</a> を修正して複数回、回答出来るようにしました。
+                            </dd>
+                            <dt>2018-05-29</dt>
+                            <dd class="link">
+                                メンバー紹介に写真を追加しました。（<a href="../member/index.shtml#A0149">たかぎさん</a>）<br>
+                            </dd>
+                            <dt>2018-05-28</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">新人歓迎会兼BBQの写真</a>を掲載<br>
+                                <a href="../photo/index.shtml">ランニングセッション(山藤さん編)の写真</a>を掲載<br>
+                                メンバー紹介の写真を更新しました。（<a href="../member/index.shtml#A0140">犬介（イヌスケ）さん</a>・<a href="../member/index.shtml#A0170">カズユキさん</a>・<a href="../member/index.shtml#A0171">あべさん</a>）
+                            </dd>
+                            <dt>2018-05-27</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai1804.shtml#第40回全国白つつじマラソン大会（2018.5.20）">第40回全国白つつじマラソン大会（2018.5.20）</a><br>
+                                <a href="../taikaikekka/taikai1804.shtml#星の郷八ヶ岳野辺山高原100kmウルトラマラソン（2018.5.20）">星の郷八ヶ岳野辺山高原100kmウルトラマラソン（2018.5.20）</a><br>
+                                <a href="../taikaikekka/taikai1804.shtml#第8回奥多摩（青梅～氷川）トレイルラン チャレンジャーズレース2018（2018.5.19）">第8回奥多摩（青梅～氷川）トレイルラン チャレンジャーズレース2018（2018.5.19）</a><br>
+                            </dd>
+                            <dt>2018-05-26</dt>
+                            <dd class="link">
+                                <a href="https://jp.surveymonkey.com/r/6YC3Y8C" target="_blank">会長直行便</a>を作成しました。気づいた点などありましたら、会長宛に連絡をお願いします。匿名での投稿も可能です。
+                            </dd>
+
+                            <dt>2018-05-21</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai1804.shtml#RunThrough Hyde Park 10k - May 19th 2018（2018.5.19）">RunThrough Hyde Park 10k - May 19th 2018（2018.5.19）</a><br>
+                                <a href="../taikaikekka/taikai1804.shtml#第30回記念春日部大凧マラソン（2018.5.4）">第30回記念春日部大凧マラソン（2018.5.4）</a><br>
+                            </dd>
+
+                            <dt>2018-05-20</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">青葉の森リレーマラソンの写真</a>を掲載<br>
+                            </dd>
+                            <dt>2018-05-18</dt>
+                            <dd class="link">
+                                <a href="../member/index.shtml">メンバー紹介</a>に3名追加しました。<br>
+                            </dd>
+
+                            <dt>2018-05-14</dt>
+                            <dd class="link">
+                                <a href="../information/20180513kantoku_coach_MT.pdf" target="_blank">5/13に開催された「監督・コーチ・PA ミーティング」の資料および議事録</a>を掲載<br>
+                            </dd>
+                            <dt>2018-05-13</dt>
+                            <dd class="link">
+                                <a href="../taikaikekka/taikai1804.shtml#第11回いしおかトレイルラン （2018.4.29）">第11回いしおかトレイルラン （2018.4.29）</a><br>
+                            </dd>
+
+                            <dt>2018-05-06</dt>
+                            <dd class="link">
+                                <a href="../taikaikekka/taikai1804.shtml#Chester 2018 Half Marathon （2018.4.29）">Chester 2018 Half Marathon （2018.4.29）</a><br>
+                                <a href="../taikaikekka/taikai1804.shtml#第40回塩屋湾一周トリムマラソン （2018.4.15）">第40回塩屋湾一周トリムマラソン （2018.4.15）</a><br>
+                            </dd>
+
+
+                            <dt>2018-04-30</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">検見川クロカン練習会の写真</a>を掲載<br>
+                            </dd>
+                            <dt>2018-04-29</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai1804.shtml#第5回屋久島ビーチ＆トレイルラン2018 （2018.4.22）">第5回屋久島ビーチ＆トレイルラン2018 （2018.4.22）</a><br>
+                                <a href="../taikaikekka/taikai1804.shtml#第20回奥熊野いだ天ウルトラマラソン （2018.4.22）">第20回奥熊野いだ天ウルトラマラソン （2018.4.22）</a><br>
+                                <a href="../taikaikekka/taikai1804.shtml#第3回FunTrails Round 名栗トレイルランレースin飯能 （2018.4.21）">第3回FunTrails Round 名栗トレイルランレースin飯能 （2018.4.21）</a><br>
+                                <a href="../taikaikekka/taikai1804.shtml#第20回記念長野マラソン （2018.4.15）">第20回記念長野マラソン （2018.4.15）</a><br>
+                            </dd>
+                            <dt>2018-04-23</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">富士五湖チャレンジウルトラマラソンの写真</a>を掲載<br>
+
+                                <a href="../taikaikekka/taikai1804.shtml#かすみがうらマラソン2018 （2018.4.15）">かすみがうらマラソン2018 （2018.4.15）</a><br>
+                                <a href="../taikaikekka/taikai1804.shtml#RunThrough Battersea Park 10k - April 14th 2018 （2018.4.14）">RunThrough Battersea Park 10k - April 14th 2018 （2018.4.14）</a><br>
+                                <a href="../taikaikekka/taikai1804.shtml#第42回パリマラソン （2018.4.8）">第42回パリマラソン （2018.4.8）</a><br>
+                            </dd>
+
+                            <dt>2018-04-20</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">かすみがうらの写真</a>を掲載<br>
+                            </dd>
+
+                            <dt>2018-04-19</dt>
+                            <dd class="link">
+                                <a href="../rensyumenu/index.shtml">練習メニュ5-8月</a>を掲載しました。
+                            </dd>
+
+                            <dt>2018-04-14</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai1804.shtml#第18回日立さくらロードレース （2018.4.8）">第18回日立さくらロードレース （2018.4.8）</a><br>
+                                <a href="../taikaikekka/taikai1804.shtml#第10回小山思川ざくらマラソン （2018.4.8）">第10回小山思川ざくらマラソン （2018.4.8）</a><br>
+                                <a href="../taikaikekka/taikai1804.shtml#第23回吉川なまずの里マラソン （2018.4.1）">第23回吉川なまずの里マラソン （2018.4.1）</a><br>
+                            </dd>
+
+                            <dt>2018-04-13</dt>
+                            <dd class="link">
+                                <a href="../member/index.shtml#A0170">メンバー紹介</a>のニックネームを修正しました。<br>
+                            </dd>
+                            <dt>2018-04-12</dt>
+                            <dd class="link">
+                                <a href="../member/index.shtml">メンバー紹介</a>に2名追加しました。<br>
+                            </dd>
+
+                            <dt>2018-04-08</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">日立さくらロードレースの写真</a>を掲載<br>
+                                <a href="../taikaikekka/taikai1801.shtml#RunThrough Victoria Park Easter Run – March 30th 2018 （2018.3.30）">RunThrough Victoria Park Easter Run – March 30th 2018 （2018.3.30）</a><br>
+                                <a href="../taikaikekka/taikai1801.shtml#2018板橋Cityマラソン （2018.3.18）">2018板橋Cityマラソン （2018.3.18）</a><br>
+                                <a href="../taikaikekka/taikai1801.shtml#立川シティハーフマラソン2018 （2018.3.4）">立川シティハーフマラソン2018 （2018.3.4）</a><br>
+                            </dd>
+
+                            <dt>2018-04-01</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">吉川なまずの写真</a>を掲載<br>
+                            </dd>
+
+
+                            <dt>2018-03-31</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai1801.shtml#第37回佐倉朝日健康マラソン （2018.3.25）">第37回佐倉朝日健康マラソン （2018.3.25）</a><br>
+                                <a href="../taikaikekka/taikai1801.shtml#第8回渋谷・表参道 Women’s Run （2018.3.25）">第8回渋谷・表参道 Women’s Run （2018.3.25）</a><br>
+                                <a href="../taikaikekka/taikai1801.shtml#RunThrough Hyde Park 5k & 10k - March 24th 2018 （2018.3.24）">RunThrough Hyde Park 5k & 10k - March 24th 2018 （2018.3.24）</a><br>
+                                <a href="../taikaikekka/taikai1801.shtml#第6回サンスポ古河はなももマラソン （2018.3.11）">第6回サンスポ古河はなももマラソン （2018.3.11）</a><br>
+                            </dd>
+
+                            <dt>2018-03-26</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">佐倉朝日健康マラソンの写真</a>を掲載<br>
+                            </dd>
+                            <dt>2018-03-24</dt>
+                            <dd class="link">
+                                <a href="../taikaikekka/taikai1801.shtml#ソウルマラソン2018 （2018.3.18）">ソウルマラソン2018 （2018.3.18）</a><br>
+                                <a href="../taikaikekka/taikai1801.shtml#第40回バルセロナマラソン （2018.3.11）">第40回バルセロナマラソン （2018.3.11）</a><br>
+                                <a href="../taikaikekka/taikai1801.shtml#名古屋ウィメンズマラソン2018 （2018.3.11）">名古屋ウィメンズマラソン2018 （2018.3.11）</a><br>
+                                <a href="../taikaikekka/taikai1801.shtml#静岡マラソン2018 （2018.3.4）">静岡マラソン2018 （2018.3.4）</a><br>
+                            </dd>
+
+                            <dt>2018-03-20</dt>
+                            <dd class="link">
+                                <a href="../nenkangyoji/index.shtml">年間行事</a>を2018年度版に更新しました。内容は全体MT資料と同様です。<br>
+                                <a href="../member/index.shtml#staff">メンバー紹介</a>のスタッフを2018年度版に更新しました。
+
+                            </dd>
+
+                            <dt>2018-03-17</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai1801.shtml#第10回房総丘陵・養老渓谷トレイル （2018.3.11）">第10回房総丘陵・養老渓谷トレイル （2018.3.11）</a><br>
+                                <a href="../taikaikekka/taikai1801.shtml#藍のまち羽生さわやかマラソン （2018.3.11）">藍のまち羽生さわやかマラソン （2018.3.11）</a><br>
+                                <a href="../taikaikekka/taikai1801.shtml#第4回かつしかふれあいRUNフェスタ2018 （2018.3.11）">第4回かつしかふれあいRUNフェスタ2018 （2018.3.11）</a><br>
+                                <a href="../taikaikekka/taikai1801.shtml#第40回千葉県民マラソン （2018.3.4）">第40回千葉県民マラソン （2018.3.4）</a><br>
+                            </dd>
+
+                            <dt>2018-03-13</dt>
+                            <dd class="link">
+                                <a href="../member/index.shtml#A0126">千葉さん</a>、<a href="../member/index.shtml#A0148">大地さん</a>、サブスリー達成、おめでとうございます。<br>
+                            </dd>
+
+                            <dt>2018-03-12</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">古河はなももの写真</a>を掲載<br>
+                            </dd>
+                            <dt>2018-03-10</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai1801.shtml#第2回みらいマラソン （2018.3.4）">第2回みらいマラソン （2018.3.4）</a><br>
+                                <a href="../taikaikekka/taikai1801.shtml#第36回鴻巣パンジーマラソン （2018.3.3）">第36回鴻巣パンジーマラソン （2018.3.3）</a><br>
+                                <a href="../taikaikekka/taikai1801.shtml#第20回UP RUN江戸川区東大島荒川河川敷ウインターマラソン （2018.2.17）">第20回UP RUN江戸川区東大島荒川河川敷ウインターマラソン （2018.2.17）</a><br>
+                                <a href="../taikaikekka/taikai1801.shtml#第43回森林公園完走マラソン （2018.2.11）">第43回森林公園完走マラソン （2018.2.11）</a><br>
+                                <a href="../taikaikekka/taikai1801.shtml#第16回新宿シティハーフマラソン （2018.1.28）">第16回新宿シティハーフマラソン （2018.1.28）</a><br>
+                            </dd>
+
+                            <dt>2018-03-06</dt>
+                            <dd class="link">
+                                <a href="../information/2018zentaiMTG.pdf" target="_blank">2018年3月4日に開催された全体ミーティングの資料（議事・人事・イベント・安全走行マニュアル・保険・議事録。）</a>を掲載<br>
+                                <a href="../photo/index.shtml">全体MT &amp; FC会の写真</a>を掲載<br>
+                            </dd>
+                            <dt>2018-03-03</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai1801.shtml#東京マラソン2018 （2018.2.25）">東京マラソン2018 （2018.2.25）</a><br>
+                                <a href="../taikaikekka/taikai1801.shtml#第5回 YOKOHAMA ランニングフェスタ＠こどもの国 （2018.2.24）">第5回 YOKOHAMA ランニングフェスタ＠こどもの国 （2018.2.24）</a><br>
+                            </dd>
+                            <dt>2018-02-27</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">東京マラソンの写真を1枚追加</a><br>
+                            </dd>
+                            <dt>2018-02-26</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">東京マラソンの写真を掲載</a><br>
+                            </dd>
+                            <dt>2018-02-24</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai1801.shtml#第18回結城シルクカップロードレース （2018.2.18）">第18回結城シルクカップロードレース （2018.2.18）</a><br>
+                                <a href="../taikaikekka/taikai1801.shtml#第37回大阪国際女子マラソン （2018.1.28）">第37回大阪国際女子マラソン （2018.1.28）</a><br>
+                            </dd>
+
+
+                            <dt>2018-02-19</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">HOKAONEONE試履会の写真を掲載</a><br>
+                            </dd>
+                            <dt>2018-02-16</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai1801.shtml#第9回いわきサンシャインマラソン （2018.2.11）">第9回いわきサンシャインマラソン （2018.2.11）</a><br>
+                                <a href="../taikaikekka/taikai1801.shtml#第67回市川市民元旦マラソン （2018.1.1）">第67回市川市民元旦マラソン （2018.1.1）</a><br>
+                            </dd>
+
+                            <dt>2018-02-10</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai1801.shtml#第67回 別府大分毎日マラソン （2018.2.4）">第67回 別府大分毎日マラソン （2018.2.4）</a><br>
+                                <a href="../taikaikekka/taikai1801.shtml#2018さかえリバーサイドマラソン （2018.2.4）">2018さかえリバーサイドマラソン （2018.2.4）</a><br>
+                                <a href="../taikaikekka/taikai1801.shtml#第34回 守谷ハーフマラソン （2018.2.4）">第34回 守谷ハーフマラソン （2018.2.4）</a><br>
+                                <a href="../taikaikekka/taikai1801.shtml#第66回勝田全国マラソン （2018.1.28）">第66回勝田全国マラソン （2018.1.28）</a><br>
+                                <a href="../taikaikekka/taikai1801.shtml#第42回サンスポ千葉マリンマラソン （2018.1.21）">第42回サンスポ千葉マリンマラソン （2018.1.21）</a><br>
+                            </dd>
+
+                            <dt>2018-02-05</dt>
+                            <dd class="link">
+                                <a href="../ranking/index.shtml">大会結果からランキング（フル・ハーフ・10km）トップ30を作成してみました。</a><br>
+                            </dd>
+                            <dt>2018-02-04</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">さかえリバーサイドマラソンの写真を掲載</a><br>
+                                <a href="../photo/index.shtml">守谷ハーフマラソンの写真を掲載</a><br>
+                                <a href="../photo/index.shtml">別府大分毎日マラソンの写真を掲載</a><br>
+                            </dd>
+                            <dt>2018-02-02</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai1801.shtml#第38回館山若潮マラソン （2018.1.28）">第38回館山若潮マラソン （2018.1.28）</a><br>
+                                <a href="../taikaikekka/taikai1801.shtml#第30回我孫子市新春マラソン （2018.1.28）">第30回我孫子市新春マラソン （2018.1.28）</a><br>
+                            </dd>
+
+                            <dt>2018-01-29</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">勝田マラソンの写真を掲載</a><br>
+                                <a href="../photo/index.shtml">我孫子新春マラソンの写真を掲載</a><br>
+                                <a href="../photo/index.shtml">柏駅伝の写真を掲載</a><br>
+                            </dd>
+                            <dt>2018-01-27</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai1801.shtml#第9回東京・赤羽ハーフマラソン （2018.1.21）">第9回東京・赤羽ハーフマラソン （2018.1.21）</a><br>
+                                <a href="../taikaikekka/taikai1801.shtml#第43回鎌ケ谷新春マラソン大会 （2018.1.21）">第43回鎌ケ谷新春マラソン大会 （2018.1.21）</a><br>
+                                <a href="../taikaikekka/taikai1801.shtml#第57回柏市新春マラソン （2018.1.21）">第57回柏市新春マラソン （2018.1.21）</a><br>
+                                <a href="../taikaikekka/taikai1801.shtml#第37回フロストバイトロードレース （2018.1.14）">第37回フロストバイトロードレース （2018.1.14）</a><br>
+                            </dd>
+                            <dt>2018-01-22</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai1801.shtml#第19回ハイテクハーフマラソン （2018.1.14）">第19回ハイテクハーフマラソン （2018.1.14）</a><br>
+                                <a href="../taikaikekka/taikai1801.shtml#第44回市原高滝湖マラソン （2018.1.13）">第44回市原高滝湖マラソン （2018.1.13）</a><br>
+                            </dd>
+
+                            <dt>2018-01-21</dt>
+                            <dd class="link">
+                                <a href="../member/index.shtml">メンバー紹介に写真（よしひこさん・なおみさん）を追加しました。</a><br>
+                                <a href="../photo/index.shtml">柏新春マラソン・鎌ヶ谷新春マラソン・千葉マリンの写真を掲載</a><br>
+                            </dd>
+                            <dt>2018-01-20</dt>
+                            <dd class="link">
+                                <a href="../member/index.shtml">メンバー紹介に2名追加しました。</a><br>
+                                <a href="../kaihi_kouza/index.shtml">会費＆陸連振込口座情報</a>と<a href="../rikurentoroku/index.shtml">陸連登録</a>を今年用に若干ですが更新しました。<br>
+                            </dd>
+
+
+                            <dt>2018-01-15</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">フロストバイトの写真を掲載</a><br>
+                                <a href="../member/index.shtml">メンバー紹介に写真（ダチさん、スーさん）を追加しました。</a><br>
+                            </dd>
+                            <dt>2018-01-14</dt>
+                            <dd class="link">
+                                <a href="../member/index.shtml">メンバー紹介に1名追加しました。</a><br>
+                            </dd>
+
+                            <dt>2018-01-09</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai1801.shtml#第42回 牛久シティマラソン （2018.1.8）">第42回 牛久シティマラソン （2018.1.8）</a><br>
+                                <a href="../taikaikekka/taikai1801.shtml#第63回松戸市七草マラソン （2018.1.7）">第63回松戸市七草マラソン （2018.1.7）</a><br>
+                                <a href="../taikaikekka/taikai1801.shtml#千葉30K （2018.1.7）">千葉30K （2018.1.7）</a><br>
+                                <a href="../taikaikekka/taikai1801.shtml#第43回東松山市元旦早朝マラソン （2018.1.1）">第43回東松山市元旦早朝マラソン （2018.1.1）</a><br>
+                                <a href="../taikaikekka/taikai1710.shtml#第48回防府読売マラソン （2017.12.17）">第48回防府読売マラソン （2017.12.17）</a><br>
+                                <a href="../taikaikekka/taikai1710.shtml#第8回足立フレンドリーマラソン  （2017.12.23）">第8回足立フレンドリーマラソン （2017.12.23）</a>に永井さんの記録を追加<br>
+                                <a href="../photo/index.shtml">牛久シティマラソンの写真を掲載</a><br>
+                            </dd>
+
+                            <dt>2017-12-30</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai1710.shtml#第8回足立フレンドリーマラソン  （2017.12.23）">第8回足立フレンドリーマラソン （2017.12.23）</a><br>
+                                <a href="../taikaikekka/taikai1710.shtml#第9回香取小江戸マラソン大会 （2017.12.17）">第9回香取小江戸マラソン大会 （2017.12.17）</a><br>
+                                <a href="../taikaikekka/taikai1710.shtml#IZU TRAIL Journey 2017 （2017.12.10）">IZU TRAIL Journey 2017 （2017.12.10）</a><br>
+                                <a href="../taikaikekka/taikai1710.shtml#第12回 湘南国際マラソン （2017.12.3）">第12回 湘南国際マラソン （2017.12.3）</a><br>
+                                <a href="../taikaikekka/taikai1710.shtml#第7回神戸マラソン  （2017.11.19）">第7回神戸マラソン （2017.11.19）に一名（三島さん）追加</a><br>
+                            </dd>
+
+                            <dt>2017-12-23</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">足立フレンドリーの写真を掲載</a><br>
+                            </dd>
+                            <dt>2017-12-18</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">忘年会の写真を掲載</a><br>
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai1710.shtml#第20回ニューリバーロードレースin八千代 （2017.12.10）">第20回ニューリバーロードレースin八千代 （2017.12.10）</a><br>
+                                <a href="../taikaikekka/taikai1710.shtml#第7回神戸マラソン  （2017.11.19）">第7回神戸マラソン （2017.11.19）</a><br>
+                            </dd>
+
+                            <dt>2017-12-12</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">ウィング駅伝 優勝チーム(石田さん、中川さん、はっちさん、葉子さん)の写真を掲載</a><br>
+                            </dd>
+                            <dt>2017-12-11</dt>
+                            <dd class="link">
+                                <a href="../photo/20171210_video.shtml">忘年会で上映した動画です。音は削除しています。</a><br>
+                            </dd>
+
+                            <dt>2017-12-08</dt>
+                            <dd class="link">
+                                <a href="../member/index.shtml">メンバー紹介に2名追加しました。</a><br>
+                            </dd>
+
+                            <dt>2017-12-06</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai1710.shtml#第71回福岡国際マラソン （2017.12.3）">第71回福岡国際マラソン （2017.12.3）</a><br>
+                                <a href="../taikaikekka/taikai1710.shtml#第22回 加須こいのぼりマラソン （2017.12.3）">第22回 加須こいのぼりマラソン （2017.12.3）</a><br>
+                                <a href="../taikaikekka/taikai1710.shtml#第6回富士山マラソン （2017.11.26）">第6回富士山マラソン （2017.11.26）</a><br>
+                                <a href="../taikaikekka/taikai1710.shtml#第37回つくばマラソン （2017.11.26）">第37回つくばマラソン （2017.11.26）</a><br>
+                                <a href="../taikaikekka/taikai1710.shtml#パークらんマラソンin堀切水辺公園 （2017.11.11）">パークらんマラソンin堀切水辺公園 （2017.11.11）</a><br>
+                            </dd>
+
+                            <dt>2017-12-03</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">福岡国際マラソンの写真を掲載</a><br>
+                            </dd>
+                            <dt>2017-12-02</dt>
+                            <dd class="link">
+                                来年の<a href="../rensyumenu/201801.shtml">練習メニュ1-4月</a>を掲載しました。
+                            </dd>
+
+
+
+                            <dt>2017-11-28</dt>
+                            <dd class="link">
+                                <a href="../member/index.shtml#A0156">中川さん、サブスリー達成、おめでとうございます。メンバー紹介で赤バラマークを追加しました。</a><br>
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai1710.shtml#第30回大田原マラソン （2017.11.23）">第30回大田原マラソン （2017.11.23）</a><br>
+                                <a href="../taikaikekka/taikai1710.shtml#戸田マラソンin彩湖2017 （2017.11.19）">戸田マラソンin彩湖2017 （2017.11.19）</a><br>
+                                <a href="../taikaikekka/taikai1710.shtml#銚子さんまマラソン （2017.11.19）">銚子さんまマラソン （2017.11.19）</a><br>
+                                <a href="../taikaikekka/taikai1710.shtml#Run In The Dark （2017.11.15）">Run In The Dark （2017.11.15）</a><br>
+                                <a href="../taikaikekka/taikai1710.shtml#いびがわマラソン2017 （2017.11.12）">いびがわマラソン2017 （2017.11.12）</a><br>
+                                <a href="../taikaikekka/taikai1710.shtml#第3回さいたま国際マラソン （2017.11.12）">第3回さいたま国際マラソン （2017.11.12）</a><br>
+                                <a href="../taikaikekka/taikai1710.shtml#富山マラソン2017  （2017.10.29）">富山マラソン2017 （2017.10.29）</a><br>
+                                <a href="../taikaikekka/taikai1710.shtml#第26回流山ロードレース （2017.10.8）">第26回流山ロードレース （2017.10.8）</a>にYOSSYさんの結果を追記。<br>
+                            </dd>
+
+                            <dt>2017-11-26</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">つくばマラソンの写真を掲載。平賀さん、女子総合3位、おめでとう。</a><br>
+
+                                <a href="../photo/index.shtml">富士山マラソンの写真を掲載。西田さん、女子総合5位、おめでとう。</a><br>
+                            </dd>
+                            <dt>2017-11-21</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">銚子さんまマラソンの写真を掲載</a><br>
+                            </dd>
+                            <dt>2017-11-18</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai1710.shtml#2017成田POPラン （2017.11.12）">2017成田POPラン （2017.11.12）</a><br>
+                                <a href="../taikaikekka/taikai1710.shtml#第27回 坂東市いわい将門ハーフマラソン （2017.11.12）">第27回 坂東市いわい将門ハーフマラソン （2017.11.12）</a><br>
+                                <a href="../taikaikekka/taikai1710.shtml#Richmond Half Marathon  （2017.11.5）">Richmond Half Marathon （2017.11.5）</a><br>
+                                <a href="../taikaikekka/taikai1710.shtml#天童ラ・フランス マラソン2017  （2017.11.5）">天童ラ・フランス マラソン2017 （2017.11.5）</a><br>
+                                <a href="../taikaikekka/taikai1710.shtml#第27回ぐんまマラソン  （2017.11.3）">第27回ぐんまマラソン （2017.11.3）</a><br>
+                                <a href="../taikaikekka/taikai1710.shtml#金沢マラソン2017  （2017.10.29）">金沢マラソン2017 （2017.10.29）</a><br>
+                                <a href="../taikaikekka/taikai1710.shtml#第46回タートルマラソン国際大会 in 足立  （2017.10.15）">第46回タートルマラソン国際大会 in 足立 （2017.10.15）</a><br>
+                                <a href="../taikaikekka/taikai1710.shtml#第23回手賀沼エコマラソン大会 （2017.10.29）">第23回手賀沼エコマラソン大会 （2017.10.29）</a>にみたらいさんの結果を追記<br>
+                            </dd>
+
+                            <dt>2017-11-17</dt>
+                            <dd class="link">
+                                <a href="../taikaikekka/taikai1701.shtml#東京マラソン2017（2017.2.26）">東京マラソン2017（2017.2.26）</a>に佐藤（奈）さんの結果を追記。
+                            </dd>
+                            <dt>2017-11-14</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">成田POPランの写真を掲載</a><br>
+                            </dd>
+                            <dt>2017-11-08</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai1710.shtml#第40回足利尊氏公マラソン （2017.11.5）">第40回足利尊氏公マラソン （2017.11.5）</a><br>
+                                <a href="../taikaikekka/taikai1710.shtml#2017フードバレーとかちマラソン （2017.10.29）">2017フードバレーとかちマラソン （2017.10.29）</a><br>
+                                <a href="../taikaikekka/taikai1710.shtml#RunThrough Finsbury Park 5k & 10k - October 29th 2017 （2017.10.29）">RunThrough Finsbury Park 5k & 10k - October 29th 2017 （2017.10.29）</a><br>
+                                <a href="../taikaikekka/taikai1710.shtml#第2回水戸黄門漫遊マラソン （2017.10.29）">第2回水戸黄門漫遊マラソン （2017.10.29）</a><br>
+                                <a href="../taikaikekka/taikai1710.shtml#第23回手賀沼エコマラソン大会 （2017.10.29）">第23回手賀沼エコマラソン大会 （2017.10.29）</a><br>
+                                <a href="../taikaikekka/taikai1710.shtml#2017メルボルンマラソン （2017.10.14）">2017メルボルンマラソン （2017.10.14）</a><br>
+                            </dd>
+
+                            <dt>2017-11-04</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">吉田浩二さん、雅子さん 結婚式&二次会の写真を掲載</a><br>
+                            </dd>
+
+                            <dt>2017-10-31</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">手賀沼エコマラソンの写真を掲載</a><br>
+                            </dd>
+
+                            <dt>2017-10-24</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai1710.shtml#第6回酒田つや姫ハーフマラソン （2017.10.15）">第6回酒田つや姫ハーフマラソン （2017.10.15）</a><br>
+                                <a href="../taikaikekka/taikai1710.shtml#第42回板橋区・高島平ロードレース大会 （2017.10.15）">第42回板橋区・高島平ロードレース大会 （2017.10.15）</a><br>
+                                <a href="../taikaikekka/taikai1710.shtml#東北・みやぎ復興マラソン2017 （2017.10.1）">東北・みやぎ復興マラソン2017 （2017.10.1）</a><br>
+                                <a href="../taikaikekka/taikai1707.shtml#第27回北緯40°秋田内陸リゾートカップ100キロチャレンジマラソン （2017.9.24）">第27回北緯40°秋田内陸リゾートカップ100キロチャレンジマラソン （2017.9.24）</a><br>
+                            </dd>
+                            <dt>2017-10-17</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">メルボルンマラソンの写真を掲載。平賀さん、女子総合10位、年代別1位、日本人1位の快挙です。
+                                </a><br>
+                            </dd>
+                            <dt>2017-10-14</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai1710.shtml#第18回南陽さわやかワインマラソン  （2017.10.9）">第18回南陽さわやかワインマラソン （2017.10.9）</a><br>
+                                <a href="../taikaikekka/taikai1710.shtml#Oxford Half Marathon （2017.10.8）">Oxford Half Marathon （2017.10.8）</a><br>
+                                <a href="../taikaikekka/taikai1710.shtml#第14回奥武蔵グリーンライン・チャレンジ42.195km （2017.10.8）">第14回奥武蔵グリーンライン・チャレンジ42.195km （2017.10.8）</a><br>
+                                <a href="../taikaikekka/taikai1710.shtml#第26回流山ロードレース （2017.10.8）">第26回流山ロードレース （2017.10.8）</a><br>
+                                <a href="../taikaikekka/taikai1710.shtml#東京30K秋大会 （2017.10.7）">東京30K秋大会 （2017.10.7）</a><br>
+                                <a href="../taikaikekka/taikai1710.shtml#第1回 松本マラソン （2017.10.1）">第1回 松本マラソン （2017.10.1）</a><br>
+                            </dd>
+                            <dt>2017-10-04</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai1710.shtml#第32回白井梨マラソン （2017.10.1）">第32回白井梨マラソン （2017.10.1）</a><br>
+                                <a href="../taikaikekka/taikai1710.shtml#第5回 山形まるごとマラソン  （2017.10.1）">第5回 山形まるごとマラソン （2017.10.1）</a><br>
+                                <a href="../taikaikekka/taikai1707.shtml#Ealing Half Marathon2017 （2017.9.24）">Ealing Half Marathon2017 （2017.9.24）</a><br>
+                                <a href="../taikaikekka/taikai1707.shtml#第52回白鷹若鮎マラソン （2017.9.23）">第52回白鷹若鮎マラソン （2017.9.23）</a><br>
+                                <a href="../taikaikekka/taikai1707.shtml#第46回南房総市ロードレース千倉 （2017.9.23）">第46回南房総市ロードレース千倉 （2017.9.23）</a><br>
+                            </dd>
+
+                            <dt>2017-10-02</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">白井梨マラソンの写真を掲載</a><br>
+                            </dd>
+                            <dt>2017-09-26</dt>
+                            <dd class="link">
+                                <a href="../member/index.shtml">メンバー紹介に3名追加しました。</a><br>
+                            </dd>
+
+                            <dt>2017-09-24</dt>
+                            <dd class="link">
+                                <a href="../taikaikekka/taikai1707.shtml#第36回一関国際ハーフマラソン （2017.9.17）">第36回一関国際ハーフマラソン （2017.9.17）</a><br>
+                                <a href="../taikaikekka/taikai1707.shtml#第33回巨峰の丘マラソン（2017.9.17）">第33回巨峰の丘マラソン（2017.9.17）</a><br>
+                            </dd>
+
+
+                            <dt>2017-09-14</dt>
+                            <dd class="link">
+                                <a href="../taikaikekka/taikai1707.shtml#RunThrough Clapham Common 10k-September 9th 2017（2017.9.9）">RunThrough Clapham Common 10k-September 9th 2017（2017.9.9）</a><br>
+                                <a href="../taikaikekka/taikai1707.shtml#第6回トレニックワールド in おごせ・ときがわ 50km＆30km（2017.9.3）">第6回トレニックワールド in おごせ・ときがわ 50km＆30km（2017.9.3）</a><br>
+                                <a href="../taikaikekka/taikai1707.shtml#北海道マラソン2017（2017.8.27）">北海道マラソン2017（2017.8.27）</a><br>
+                                <a href="../taikaikekka/taikai1707.shtml#RunThrough VeloPark Series-August 26th 2017 （2017.8.26）">RunThrough VeloPark Series-August 26th 2017 （2017.8.26）</a><br>
+                                <a href="../taikaikekka/taikai1704.shtml#第32回サロマ湖100kmウルトラマラソン（2017.6.25）">第32回サロマ湖100kmウルトラマラソン（2017.6.25）</a><br>
+                            </dd>
+                            <dt>2017-09-04</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">岩名クロカンの写真を掲載</a><br>
+                            </dd>
+                            <dt>2017-08-29</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">柏の葉リレーマラソンの写真を掲載</a><br>
+                            </dd>
+                            <dt>2017-08-27</dt>
+                            <dd class="link">
+                                <a href="../taikaikekka/taikai1707.shtml#RunThrough VeloPark Series  JULY 29TH 2017（2017.7.29）">RunThrough VeloPark Series JULY 29TH 2017（2017.7.29）(英国の大会結果です)
+                                </a><br>
+                            </dd>
+                            <dt>2017-08-19</dt>
+                            <dd class="link">
+                                <a href="../bodycareMemo/b3memo.pdf" target="_blank">キイチローさんが、8月12日に実施されたボディケア講習会の内容をまとめました。知野さんにも確認頂いて、コメントもはいっていますの、ぜひ、ご覧ください。</a><br>
+                            </dd>
+                            <dt>2017-08-18</dt>
+                            <dd class="link">
+                                <a href="../rensyumenu/index.shtml">9月～12月の練習メニューを掲載</a><br>
+                            </dd>
+                            <dt>2017-08-14</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">第3回ボディケア講習会の写真を掲載</a><br>
+                            </dd>
+                            <dt>2017-08-11</dt>
+                            <dd class="link">
+                                <a href="../running_basic/index.shtml">キイチローさんが、基礎トレ2回分の内容を、一つのマニュアルにまとめました。</a><br>
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai1707.shtml#第12回日光杉並木マラソン （2017.8.6）">第12回日光杉並木マラソン （2017.8.6）</a><br>
+                                <a href="../taikaikekka/taikai1707.shtml#第70回富士登山競走 （2017.7.28）">第70回富士登山競走 （2017.7.28）</a><br>
+                                <a href="../photo/index.shtml">吉田さん&青野さん、ご結婚おめでとうございます！の写真を掲載</a><br>
+                            </dd>
+                            <dt>2017-07-31</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">富士登山競走の写真を掲載</a><br>
+                            </dd>
+                            <dt>2017-07-22</dt>
+                            <dd class="link">
+                                <a href="../information/BasicTraining01.pdf" target="_blank">7/16に実施した渡辺会長による基礎トレ講座を、キイチローさんがまとめられたので、掲載します。</a><br>
+                            </dd>
+                            <dt>2017-07-19</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai1707.shtml#第2回 みちのく津軽ジャーニーラン （2017.7.16～17）">第2回 みちのく津軽ジャーニーラン （2017.7.16～17）</a><br>
+                                <a href="../taikaikekka/taikai1707.shtml#第５回トレニックワールド in 外秩父５０km ＆ ４３km（2017.7.9）">第５回トレニックワールド in 外秩父５０km ＆ ４３km（2017.7.9）</a><br>
+                                <a href="../taikaikekka/taikai1707.shtml#第23回所沢8時間耐久レース（2017.7.2）">第23回所沢8時間耐久レース（2017.7.2）</a><br>
+                                <a href="../taikaikekka/taikai1707.shtml#1st日光100㎞ウルトラマラソン2017（2017.7.2）">1st日光100㎞ウルトラマラソン2017（2017.7.2）</a><br>
+                                <a href="../taikaikekka/taikai1707.shtml#2017函館マラソン （2017.7.2）">2017函館マラソン （2017.7.2）</a><br>
+                            </dd>
+                            <dt>2017-07-10</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">合宿の写真を追加掲載</a><br>
+                            </dd>
+                            <dt>2017-07-09</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">合宿の写真を掲載</a><br>
+                                <a href="../member/index.shtml#A0150">メンバー紹介に、サブ3のながいさんの写真追加。</a><br>
+                            </dd>
+                            <dt>2017-07-05</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">トラック練習会in野田の写真を掲載</a><br>
+                            </dd>
+                            <dt>2017-07-01</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai1704.shtml#第34回富里スイカロードレース（2017.6.25）">第34回富里スイカロードレース（2017.6.25）</a><br>
+                                <a href="../taikaikekka/taikai1704.shtml#第4回スパトレイル四万to草津（2017.6.25）">第4回スパトレイル四万to草津（2017.6.25）</a><br>
+                                <a href="../taikaikekka/taikai1704.shtml#第6回日本百名山・両神山麓トレイルラン（2017.6.25）">第6回日本百名山・両神山麓トレイルラン（2017.6.25）</a><br>
+                                <a href="../taikaikekka/taikai1704.shtml#第12回隠岐の島ウルトラマラソン（2017.6.18）">第12回隠岐の島ウルトラマラソン（2017.6.18）</a><br>
+                                <a href="../taikaikekka/taikai1704.shtml#第9回城南島羽田マラソン（2017.6.4）">第9回城南島羽田マラソン（2017.6.4）</a><br>
+                                <a href="../taikaikekka/taikai1704.shtml#OSJ奥久慈トレイルレース（2017.5.28）">OSJ奥久慈トレイルレース（2017.5.28）</a><br>
+                            </dd>
+                            <dt>2017-06-24</dt>
+                            <dd class="link">
+                                <a href="../information/selfcare_answer.pdf" target="_blank">熊野さんから、「お役立ちセミナーの回答」を頂きました。</a><br>
+                                <a href="../iwana/index.shtml">岩名クロカンの説明ページを新作しました。</a><br>
+                            </dd>
+                            <dt>2017-06-18</dt>
+                            <dd class="link">
+                                <a href="../taikaikekka/taikai1704.shtml#第8回秩父の名峰・武甲山トレイルラン（2017.6.11）">第8回秩父の名峰・武甲山トレイルラン（2017.6.11）1名追加</a><br>
+                            </dd>
+                            <dt>2017-06-17</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai1704.shtml#第8回秩父の名峰・武甲山トレイルラン（2017.6.11）">第8回秩父の名峰・武甲山トレイルラン（2017.6.11）</a><br>
+                                <a href="../taikaikekka/taikai1704.shtml#第5回柴又100K（2017.6.4）">第5回柴又100K（2017.6.4）</a><br>
+                            </dd>
+                            <dt>2017-06-13</dt>
+                            <dd class="link">
+                                <a href="../taikaikekka/taikai1704.shtml#第24回奥武蔵ウルトラマラソン（2017.6.4）">第24回奥武蔵ウルトラマラソン（2017.6.4）</a>の大会結果に1名追記<br>
+                                <a href="../photo/index.shtml">ムーブメントプレパレーションの写真を掲載</a><br>
+                                <a href="../photo/index.shtml">キッズWACの写真を掲載</a><br>
+                                <a href="../photo/index.shtml">武甲山トレイルランの写真を掲載</a><br>
+                            </dd>
+                            <dt>2017-06-10</dt>
+                            <dd class="link">
+                                先日の監督コーチMTにて、「書き込みし易い掲示板が欲しい」との申し出がありました。事務局掲示板と一般掲示板は融合させて<a href="http://www3.ezbbs.net/08/wingac/">「一般掲示板」</a>にし、書き込みし易い掲示板は<a href="http://rara.jp/wingac/">「みんなのつぶやき(レース完走記、独り言、ぼやき等)」</a>として、新たに作りました。<br>
+                                「みんなのつぶやき」は、写真をアップできる掲示板にしました。操作方法が多少違いますので、ご了承願います。また、<a href="http://www3.ezbbs.net/08/wingac_renraku/">「事務局掲示板」</a>は休止します。<br>
+                                今まで、掲示板を開くと新規のウィンドウになっていましたが、掲示板上部の[ホームページ]や[ホーム]にて、ウィングHPに戻れるので、新規のウィンドウを開かないようにしました。
+                            </dd>
+                            <dt>2017-06-09</dt>
+                            <dd class="link">
+                                <a href="../taikaikekka/taikai1704.shtml#第24回奥武蔵ウルトラマラソン（2017.6.4）">第24回奥武蔵ウルトラマラソン（2017.6.4）</a><br>
+                                <a href="../taikaikekka/taikai1704.shtml#第5回柏の葉爽快マラソン（2017.5.3）">第5回柏の葉爽快マラソン（2017.5.3）</a><br>
+                            </dd>
+                            <dt>2017-06-06</dt>
+                            <dd class="link">
+                                <a href="../teganooka/index.shtml">手賀の丘コースの説明ページを新作しました。</a><br>
+                                <a href="../member/index.shtml#順子さん">メンバー紹介の順子さんのコメントを変更しました。</a><br>
+                            </dd>
+                            <dt>2017-05-28</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">青葉の森リレーマラソンの写真を掲載</a><br>
+                            </dd>
+
+                            <dt>2017-05-24</dt>
+                            <dd class="link">
+                                <a href="../taikaikekka/taikai1704.shtml#第2回トレニックワールド100mile＆100ｋｍ in彩の国　（2017.5.20）">第2回トレニックワールド100mile＆100ｋｍ in彩の国　（2017.5.20）</a><br>
+                                <a href="../taikaikekka/taikai1704.shtml#第23回星の郷八ヶ岳野辺山高原100kmウルトラマラソン（2017.5.21）">第23回星の郷八ヶ岳野辺山高原100kmウルトラマラソン（2017.5.21）</a><br>
+                                <a href="../taikaikekka/taikai1704.shtml#かすみがうらマラソン2017（2017.4.16）">かすみがうらマラソン2017（2017.4.16）に1名追加</a><br>
+                            </dd>
+                            <dt>2017-05-23</dt>
+                            <dd class="link">
+                                <a href="../member/index.shtml">メンバー紹介に新人3名追加しました。</a><br>
+                                <a href="../photo/index.shtml">新人歓迎バーベキュー大会の写真を3枚追加</a><br>
+                            </dd>
+                            <dt>2017-05-21</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">新人歓迎バーベキュー大会の写真を掲載</a><br>
+                                <a href="../member/index.shtml">メンバー紹介に写真を2名分追加しました。</a><br>
+                            </dd>
+                            <dt>2017-05-18</dt>
+                            <dd class="link">
+                                <a href="../information/20170514kantoku_coach_MT.pdf" target="_blank">監督・コーチ・PAミーティング資料および議事録を掲載</a><br>
+                            </dd>
+                            <dt>2017-05-16</dt>
+                            <dd class="link">
+                                <a href="../taikaikekka/taikai1704.shtml#第29回春日部大凧マラソン （2017.5.４）">第29回春日部大凧マラソン （2017.5.４）</a><br>
+                                <a href="../taikaikekka/taikai1704.shtml#第10回いしおかトレイルラン （2017.4.29）">第10回いしおかトレイルラン （2017.4.29）</a><br>
+                                <a href="../taikaikekka/taikai1704.shtml#第27回 チャレンジ富士五湖ウルトラマラソン  （2017.4.23）">第27回 チャレンジ富士五湖ウルトラマラソン （2017.4.23）</a><br>
+                            </dd>
+                            <dt>2017-05-15</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">柏の葉トラック練習の写真を掲載</a><br>
+                                <a href="../member/index.shtml">メンバー紹介に写真を2名分追加しました。</a><br>
+                            </dd>
+                            <dt>2017-05-13</dt>
+                            <dd class="link">
+                                <a href="../member/index.shtml">残念ではございますが、メンバー紹介から退会された方19名を削除しました。</a><br>
+                            </dd>
+                            <dt>2017-05-05</dt>
+                            <dd class="link">
+                                <a href="../tsukubaLSD/index.shtml">筑波LSDの説明ページを新作しました。ほとんどが掲示板掲載の内容ですが、コースの地図なども掲載していますので、ご興味のある方は、ご覧ください。</a><br>
+                            </dd>
+                            <dt>2017-05-04</dt>
+                            <dd class="link">
+                                <a href="../taikaikekka/taikai1704.shtml#かすみがうらマラソン2017（2017.4.16）">かすみがうらマラソン2017（2017.4.16）</a><br>
+                            </dd>
+                            <dt>2017-04-30</dt>
+                            <dd class="link">
+                                <a href="../member/index.shtml">メンバー紹介に写真を4名分追加しました。</a><br>
+                                <a href="../photo/20170429_kemigawa.shtml">検見川クロカン練習会の写真を掲載</a><br>
+                            </dd>
+                            <dt>2017-04-29</dt>
+                            <dd class="link">
+                                <a href="../member/index.shtml">メンバー紹介に一年ほど掲載を漏らしていたメンバーが見つかりました。掲載が遅れ、申し訳ありません。</a>
+                            </dd>
+                            <dt>2017-04-27</dt>
+                            <dd class="link">
+                                <a href="../member/index.shtml">写真はありませんが、メンバー紹介に掲載を漏らしていた新規入会者2名追加しました。</a>
+                            </dd>
+                            <dt>2017-04-25</dt>
+                            <dd class="link">
+                                <a href="../member/index.shtml">写真はありませんが、メンバー紹介に新規入会者8名追加しました。</a>
+                            </dd>
+                            <dt>2017-04-23</dt>
+                            <dd class="link">
+                                <a href="../photo/20170423_fujigoko.shtml">富士五湖ウルトラマラソンの写真を掲載</a><br>
+                            </dd>
+                            <dt>2017-04-22</dt>
+                            <dd class="link">
+                                <a href="../taikaikekka/taikai1704.shtml#第9回おやま思川ざくらマラソン（2017.4.9）">第9回おやま思川ざくらマラソン（2017.4.9）</a><br>
+                            </dd>
+                            <dt>2017-04-20</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">順子さんへの色紙の写真を掲載</a><br>
+                            </dd>
+                            <dt>2017-04-15</dt>
+                            <dd class="link">
+                                <a href="../rensyumenu/index.shtml">5/14のトラック練習場所が、野田から柏の葉に変更になりました。</a><br>
+                            </dd>
+                            <dt>2017-04-11</dt>
+                            <dd class="link">
+                                <a href="../rensyumenu/index.shtml">5～8月の練習メニューを掲載しました。</a><br>
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai1704.shtml#第22回 吉川なまずの里マラソン（2017.4.2）">第22回 吉川なまずの里マラソン（2017.4.2）</a><br>
+                                <a href="../taikaikekka/taikai1701.shtml#2017板橋Cityマラソン（2017.3.19）">2017板橋Cityマラソン（2017.3.19）</a><br>
+                            </dd>
+                            <dt>2017-04-09</dt>
+                            <dd class="link">
+                                <a href="../about_wing/index.shtml#クラブ組織図">クラブ組織図を更新して、「ウィングACについて」のページに掲載しました。</a>
+                            </dd>
+                            <dt>2017-04-03</dt>
+                            <dd class="link">
+                                <a href="../kashiwanohaRM_HP/index.htm" target="_blank">
+                                    2017年の柏の葉リレーマラソンの開催日は、8月27日（日）に決定。また、HPをリニューアルしたので、見てください。
+                                </a><br>
+                                <a href="../photo/index.shtml">吉川なまずの里マラソンの写真を掲載</a><br>
+                            </dd>
+                            <dt>2017-04-02</dt>
+                            <dd class="link">
+                                <a href="../FQA/index.shtml">よくある質問</a>のページを新しく作成しました。<br>
+                                <a href="../information/paraSportChiba.pdf" target="_blank">本日の練習会にて会長から紹介があった千葉県障がい者スポーツ協会の会報です。昨年末のチャリティー練習会の寄付金を納めたところ、送られてきました。</a>
+                            </dd>
+                            <dt>2017-04-01</dt>
+                            <dd class="link">
+                                <a href="../member/index.shtml">メンバー紹介を2017年度スタッフに変更しました。</a><br>
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai1701.shtml#練馬こぶしハーフマラソン2017（2017.3.26）">練馬こぶしハーフマラソン2017（2017.3.26）</a><br>
+                                <a href="../taikaikekka/taikai1701.shtml#第36回佐倉朝日健康マラソン（2017.3.26）">第36回佐倉朝日健康マラソン（2017.3.26）</a><br>
+                                <a href="../taikaikekka/taikai1701.shtml#第5回サンスポ古河はなももマラソン（2017.3.12）">第5回サンスポ古河はなももマラソン（2017.3.12）</a><br>
+                                <a href="../taikaikekka/taikai1701.shtml#世界遺産姫路城マラソン2017（2017.2.26）">世界遺産姫路城マラソン2017（2017.2.26）西さんの順位修正</a><br>
+                            </dd>
+
+                            <dt>2017-03-26</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">佐倉朝日健康マラソンの写真を掲載</a><br>
+                            </dd>
+                            <dt>2017-03-24</dt>
+                            <dd class="link">
+                                <a href="../nenkangyoji/index.shtml">年間行事を2017年度版に更新しました。内容は全体MT資料と同様です。</a>
+                            </dd>
+                            <dt>2017-03-22</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai1701.shtml#第2回久喜マラソン（2017.3.19）">第2回久喜マラソン（2017.3.19）</a><br>
+                                <a href="../taikaikekka/taikai1701.shtml#第9回房総丘陵・養老渓谷トレイル（2017.3.12）">第9回房総丘陵・養老渓谷トレイル（2017.3.12）</a><br>
+                                <a href="../taikaikekka/taikai1701.shtml#名古屋ウィメンズマラソン2017（2017.3.12）">名古屋ウィメンズマラソン2017（2017.3.12）</a><br>
+                                <a href="../taikaikekka/taikai1701.shtml#能登和倉万葉の里マラソン2017 （2017.3.12）">能登和倉万葉の里マラソン2017 （2017.3.12）</a><br>
+                                <a href="../taikaikekka/taikai1701.shtml#世界遺産姫路城マラソン2017（2017.2.26）">世界遺産姫路城マラソン2017（2017.2.26）</a><br>
+                            </dd>
+
+                            <dt>2017-03-20</dt>
+                            <dd class="link">
+                                <a href="../member/index.shtml">メンバー紹介に写真を追加しました。</a>
+                            </dd>
+                            <dt>2017-03-10</dt>
+                            <dd class="link">
+                                <a href="../member/index.shtml#A0138">コスゲさん、サブスリー達成、おめでとうございます。メンバー紹介で赤バラマークを追加しました。</a><br>
+                                <a href="../taikaikekka/taikai1701.shtml#第28回東京総合健保ミニマラソン（2017.3.5）">第28回東京総合健保ミニマラソン（2017.3.5）</a><br>
+                                <a href="../taikaikekka/taikai1701.shtml#第39回千葉県民マラソン（2017.3.5）">第39回千葉県民マラソン（2017.3.5）</a><br>
+                                <a href="../taikaikekka/taikai1701.shtml#東京マラソン2017（2017.2.26）">東京マラソン2017（2017.2.26）</a><br>
+                            </dd>
+                            <dt>2017-03-08</dt>
+                            <dd class="link">
+                                次の三項目を、<a href="../member_information/index.shtml">メンバー向け情報</a>に追加。3月5日開催の　<a href="../information/2017zentaiMTG.pdf" target="_blank">全体MTの議事録含む資料。</a>このMTで配布された　<a href="../information/safty.pdf"
+                                    target="_blank">安全走行マニュアル。</a> そして、<a href="../information/kiyaku.pdf" target="_blank">ウィングACクラブ規約。</a>
+                            </dd>
+                            <dt>2017-03-06</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">全体MT・びわ湖毎日マラソン・東京都健康保険組合マラソンの写真を掲載</a><br>
+                            </dd>
+                            <dt>2017-03-04</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai1701.shtml#第11回ふかやシティハーフマラソン（2017.2.26）">第11回ふかやシティハーフマラソン（2017.2.26）</a><br>
+                                <a href="../taikaikekka/taikai1701.shtml#第2回UP RUN稲毛海浜公園マラソン（2017.2.25）">第2回UP RUN稲毛海浜公園マラソン（2017.2.25）</a><br>
+                                <a href="../taikaikekka/taikai1701.shtml#第17回結城シルクカップロードレース（2017.2.19）">第17回結城シルクカップロードレース（2017.2.19）</a><br>
+                                <a href="../taikaikekka/taikai1701.shtml#2017さかえリバーサイドマラソン（2017.2.5）">2017さかえリバーサイドマラソン（2017.2.5）のランナーの追加と距離の訂正</a><br>
+                            </dd>
+                            <dt>2017-03-03</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">東京マラソンの写真を掲載</a><br>
+                            </dd>
+                            <dt>2017-02-27</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">東京マラソン打ち上げと深谷シティハーフマラソンの写真を掲載</a><br>
+                            </dd>
+                            <dt>2017-02-22</dt>
+                            <dd class="link">
+                                <a href="../kaihi_kouza/index.shtml#kouzajouhou">振込口座情報にて、ゆうちょからの送金と他の銀行からの振込み方法を記載</a><br>
+                                <a href="../sport_hoken/index.shtml#保証内容">スポーツ保険の保証内容を掲載</a><br>
+                                <a href="../about_wing/index.shtml#入会申込書">入会申込書の口座情報を更新</a><br>
+                                <a href="../photo/index.shtml">大倉君のお疲れ様会（2017.2.）の写真を追加</a><br>
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai1701.shtml#X-RUN CHIBA クロスカントリー（2017.2.19）">X-RUN CHIBA クロスカントリー（2017.2.19）</a><br>
+                                <a href="../taikaikekka/taikai1701.shtml#印西スマイルマラソン（2017.2.12）">印西スマイルマラソン（2017.2.12）</a><br>
+                                <a href="../taikaikekka/taikai1701.shtml#第8回東京・赤羽ハーフマラソン（2017.1.15）">第8回東京・赤羽ハーフマラソン（2017.1.15）</a><br>
+                            </dd>
+                            <dt>2017-02-13</dt>
+                            <dd class="link">
+                                <a href="../taikaikekka/taikai1701.shtml#第48回みさとシティハーフマラソン（2017.2.5）">第48回みさとシティハーフマラソン（2017.2.5）</a><br>
+                                <a href="../taikaikekka/taikai1701.shtml#第66回別府大分毎日マラソン（2017.2.5）">第66回別府大分毎日マラソン（2017.2.5）</a><br>
+                                <a href="../taikaikekka/taikai1701.shtml#第65回勝田全国マラソン（2017.1.29）">第65回勝田全国マラソン（2017.1.29）</a><br>
+                            </dd>
+                            <dt>2017-02-07</dt>
+                            <dd class="link">
+                                <a href="../taikaikekka/taikai1701.shtml#2017さかえリバーサイドマラソン（2017.2.5）">2017さかえリバーサイドマラソン（2017.2.5）</a><br>
+                                <a href="../taikaikekka/taikai1701.shtml#第33回 守谷ハーフマラソン（2017.2.5）">第33回 守谷ハーフマラソン（2017.2.5）</a><br>
+                                <a href="../taikaikekka/taikai1701.shtml#第36回大阪国際女子マラソン（2017.1.29）">第36回大阪国際女子マラソン（2017.1.29）</a><br>
+                                <a href="../taikaikekka/taikai1701.shtml#ランニングフェスタin 国営昭和記念公園（2017.1.29）">ランニングフェスタin 国営昭和記念公園（2017.1.29）</a><br>
+                                <a href="../taikaikekka/taikai1701.shtml#第37回館山若潮マラソン（2017.1.29）">第37回館山若潮マラソン（2017.1.29）</a><br>
+                                <a href="../taikaikekka/taikai1701.shtml#第41回サンスポ千葉マリンマラソン（2017.1.22）">第41回サンスポ千葉マリンマラソン（2017.1.22）</a><br>
+                                <a href="../kaihi_kouza/index.shtml">振込口座情報</a>と<a href="../rikurentoroku/index.shtml">陸連登録</a>のページを、2017年度用に更新しました。振込口座が新しくなっているので、ご注意願います。
+                            </dd>
+                            <dt>2017-02-05</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">守谷ハーフマラソン・さかえリバーサイドマラソン（2017.2.5）の写真を追加。</a><br>
+                                <a href="../member/index.shtml">メンバー紹介に写真を追加しました。</a>
+                            </dd>
+                            <dt>2017-02-01</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai1701.shtml#第29回我孫子新春マラソン（2017.1.22）">第29回我孫子新春マラソン（2017.1.22）</a><br>
+                            </dd>
+
+                            <dt>2017-01-30</dt>
+                            <dd class="link">
+                                <a href="../training/index.shtml">トレーニングのヒント</a>・<a href="../muscleTraining/index.shtml">筋力トレーニング</a>・<a href="../stretchManual/index.shtml">ストレッチマニュアル</a>・<a
+                                    href="../bodycareMemo/index.shtml">ボディケア講習会</a>の各ページを新設しました。
+                            </dd>
+
+                            <dt>2017-01-28</dt>
+                            <dd class="link">
+                                以前、忘年会で上映した動画を、<a href="https://youtu.be/s7H11XZTPmc" target="_blank">YouTubeにアップしました。</a>その動画を、ウィングのHPに埋め込みましたので、<a href="../photo/20161211_video.shtml">こちらでも見れるようになりました。</a>
+                            </dd>
+                            <dt>2017-01-18</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai1701.shtml#第56回柏市民新春マラソン（2017.1.15）">第56回柏市民新春マラソン（2017.1.15）</a><br>
+                                <a href="../taikaikekka/taikai1701.shtml#第42回鎌ヶ谷新春マラソン（2017.1.15）">第42回鎌ヶ谷新春マラソン（2017.1.15）</a><br>
+                                <a href="../taikaikekka/taikai1701.shtml#第18回ハイテクハーフマラソン（2017.1.8）">第18回ハイテクハーフマラソン（2017.1.8）</a><br>
+                            </dd>
+
+                            <dt>2017-01-17</dt>
+                            <dd class="link">
+                                <a href="../taikaikekka/taikai1701.shtml#第43回市原高滝湖マラソン（2017.1.14）">第43回市原高滝湖マラソン（2017.1.14）</a><br>
+                                <a href="../taikaikekka/taikai1701.shtml#第41回 牛久シティマラソン（2017.1.9）">第41回 牛久シティマラソン（2017.1.9）</a><br>
+                                <a href="../taikaikekka/taikai1701.shtml#第62回松戸市七草マラソン（2017.1.8）">第62回松戸市七草マラソン（2017.1.8）</a><br>
+                            </dd>
+
+                            <dt>2017-01-16</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">柏市民新春マラソン（2017.1.15）「一般女子5kmの1位～4位をウィング独占」、鎌ヶ谷新春マラソン（2017.1.15）の写真を追加。</a>
+                            </dd>
+
+                            <dt>2016-12-29</dt>
+                            <dd class="link">
+                                <a href="../taikaikekka/taikai161001.shtml#第7回足立フレンドリーマラソン（2016.12.23）">第7回足立フレンドリーマラソン（2016.12.23）</a><br>
+                                <a href="../taikaikekka/taikai161001.shtml#第3回はが路ふれあいマラソン （2016.12.18）">第3回はが路ふれあいマラソン （2016.12.18）</a><br>
+                            </dd>
+                            <dt>2016-12-25</dt>
+                            <dd class="link">
+                                <a href="../information/letter_charity.jpg" target="_blank">先日実施しましたチャリティー練習会の寄付金を納めました所、お手紙を頂戴しましたので、アップします。</a><br>
+                                <a href="../rensyumenu/index.shtml">練習メニュー1～4月を公開しました。</a>
+                            </dd>
+                            <dt>2016-12-21</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai161001.shtml#第19回ニューリバーロードレースin八千代（2016.12.11）">第19回ニューリバーロードレースin八千代（2016.12.11）</a><br>
+                            </dd>
+
+                            <dt>2016-12-13</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai161001.shtml#第70回福岡国際マラソン（2016.12.4）">第70回福岡国際マラソン（2016.12.4）</a><br>
+                                <a href="../taikaikekka/taikai161001.shtml#第35回川口マラソン（2016.12.4）">第35回川口マラソン（2016.12.4）</a><br>
+                                <a href="../taikaikekka/taikai161001.shtml#第21回 加須こいのぼりマラソン（2016.12.4）">第21回 加須こいのぼりマラソン（2016.12.4）</a><br>
+                                <a href="../taikaikekka/taikai161001.shtml#第6回神戸マラソン（2016.11.20）">第6回神戸マラソン（2016.11.20）</a><br>
+                            </dd>
+                            <dt>2016-12-12</dt>
+                            <dd class="link">
+                                <a href="../photo/20161211_bonenkai.shtml">忘年会（2016.12.11）の写真を追加。</a>　<a href="http://yahoo.jp/box/lZfJBA" target="_blank">他の写真を含むアルバムは、ここをクリック。</a><br>
+                                <a href="../photo/20161211_yachio.shtml">八千代リバーロードマラソン（2016.12.11）の写真を追加</a>
+                            </dd>
+                            <dt>2016-12-06</dt>
+                            <dd class="link">
+                                <a href="../photo/2016_2h.shtml">福岡国際マラソン（2016.12.04）の写真を追加</a>
+                            </dd>
+                            <dt>2016-11-29</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai161001.shtml#第36回つくばマラソン（2016.11.20）">第36回つくばマラソン（2016.11.20）</a><br>
+                                <a href="../member/index.shtml#A0096">いしーださん、初サブスリー達成、おめでとうございます。メンバー紹介で赤バラマークを追加しました。</a>
+                            </dd>
+                            <dt>2016-11-28</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">楽しいかけっこ教室（2016.11.27）の写真を追加</a>
+                            </dd>
+                            <dt>2016-11-21</dt>
+                            <dd class="link">
+                                <a href="../photo/20161120_tsukuba.shtml">つくばマラソン（2016.11.20）の写真を39枚追加。</a>12kmと41km地点の写真です。<a href="http://yahoo.jp/box/7RJM_m" target="_blank">他の写真を含むアルバムは、ここをクリック。</a>
+                            </dd>
+                            <dt>2016-11-19</dt>
+                            <dd class="link">
+                                <a href="../member/index.shtml">メンバー紹介に写真を追加しました。</a>
+                            </dd>
+                            <dt>2016-11-17</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai161001.shtml#2016成田POPラン大会（2016.11.13）">2016成田POPラン大会（2016.11.13）</a><br>
+                                <a href="../taikaikekka/taikai161001.shtml#第26回坂東市いわい将門ハーフマラソン（2016.11.13）">第26回坂東市いわい将門ハーフマラソン（2016.11.13）</a><br>
+                            </dd>
+                            <dt>2016-11-14</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">成田POPラン、いわい将門マラソン（2016.11.13）の写真を追加</a>
+                            </dd>
+                            <dt>2016-11-09</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai161001.shtml#第39回足利尊氏公マラソン（2016.11.6）">第39回足利尊氏公マラソン（2016.11.6）</a><br>
+                                <a href="../taikaikekka/taikai161001.shtml#第1回水戸黄門漫遊マラソン（2016.10.30）">第1回水戸黄門漫遊マラソン（2016.10.30）</a><br>
+                                <a href="../taikaikekka/taikai161001.shtml#2016上州大田スバルマラソン（2016.10.23）">2016上州大田スバルマラソン（2016.10.23）</a><br>
+                                <a href="../taikaikekka/taikai161001.shtml#第30回長井マラソン（2016.10.16）">第30回長井マラソン（2016.10.16）</a><br>
+                            </dd>
+
+                            <dt>2016-11-05</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">手賀沼マラソン（2016.10.30）の写真を追加</a>
+                            </dd>
+                            <dt>2016-11-02</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai161001.shtml#第22回手賀沼エコマラソン （2016.10.30）">第22回手賀沼エコマラソン （2016.10.30）</a><br>
+                            </dd>
+                            <dt>2016-10-25</dt>
+                            <dd class="link">
+                                <a href="../information/yamafujisiki_stretch_manual.pdf" target="_blank">山藤さんが指導する動的ストレッチのマニュアルを公開</a><br>
+                                <a href="http://weblog.hochi.co.jp/.s/runners/2016/10/post-3be2.html" target="_blank">キイチローさんのランナーズ報知の記事へのリンクです。スマホ表示。</a>　　　<a href="http://weblog.hochi.co.jp/runners/2016/10/post-3be2.html?_spview=false"
+                                    target="_blank">PC表示はこちら。</a><br>
+                                <a href="../photo/index.shtml">ちばアクアラインマラソン(2016.10.23)の写真を追加</a>
+                            </dd>
+                            <dt>2016-10-22</dt>
+                            <dd class="link">
+                                <a href="../taikaikekka/taikai161001.shtml#第22回市川リバーサイドマラソン（2016.10.16）">第22回市川リバーサイドマラソン（2016.10.16）</a><br>
+                                <a href="../taikaikekka/taikai161001.shtml#第41回高島平ロードレース（2016.10.16）">第41回高島平ロードレース（2016.10.16）</a><br>
+                                <a href="../taikaikekka/taikai161001.shtml#流山ロードレース大会2016（2016.10.9）">流山ロードレース大会2016（2016.10.9）ネットタイム追加</a><br>
+                            </dd>
+                            <dt>2016-10-18</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">手賀沼マラソン試走会（2016.10.16）の写真を追加</a>
+                            </dd>
+                            <dt>2016-10-15</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai161001.shtml#第24回日本山岳耐久レース（2016.10.9）">第24回日本山岳耐久レース（2016.10.9）</a><br>
+                                <a href="../taikaikekka/taikai161001.shtml#第34回新潟シティマラソン（2016.10.9）">第34回新潟シティマラソン（2016.10.9）</a><br>
+                                <a href="../taikaikekka/taikai161001.shtml#流山ロードレース大会2016（2016.10.9）">流山ロードレース大会2016（2016.10.9）</a><br>
+                                <a href="../taikaikekka/taikai161001.shtml#第3回荒川オータムマラソン（2016.10.8）">第3回荒川オータムマラソン（2016.10.8）</a><br>
+                            </dd>
+                            <dt>2016-10-08</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai161001.shtml#第31回白井梨マラソン（2016.10.2）">第31回白井梨マラソン（2016.10.2）</a><br>
+                                <a href="../taikaikekka/taikai160701.shtml#オホーツク網走マラソン2016 （2016.9.25）">オホーツク網走マラソン2016 （2016.9.25）</a><br>
+                                <a href="../taikaikekka/taikai160701.shtml#第56回伊達ももの里マラソン（2016.8.28）">第56回伊達ももの里マラソン（2016.8.28）追加</a>
+                            </dd>
+                            <dt>2016-10-04</dt>
+                            <dd class="link">
+                                <a href="../about_wing/index.shtml">ウィングACについてを更新（会長就任挨拶再掲など）</a><br>
+                                <a href="../photo/index.shtml">白井梨マラソン（2016.10.2）の写真を追加</a>
+                            </dd>
+                            <dt>2016-09-27</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai160701.shtml#第32回 山梨市巨峰の丘マラソン（2016.9.18）">第32回 山梨市巨峰の丘マラソン（2016.9.18）</a><br>
+                                <a href="../taikaikekka/taikai160701.shtml#第35回一関国際ハーフマラソン（2016.9.18）">第35回一関国際ハーフマラソン（2016.9.18） </a>
+                            </dd>
+                            <dt>2016-09-17</dt>
+                            <dd class="link">
+                                <a href="../taikaikekka/taikai160701.shtml#北海道マラソン2016（2016.8.28）">北海道マラソン2016（2016.8.28）</a><br>
+                                <a href="../taikaikekka/taikai160701.shtml#第56回伊達ももの里マラソン（2016.8.28）">第56回伊達ももの里マラソン（2016.8.28）</a>
+                            </dd>
+                            <dt>2016-08-29</dt>
+                            <dd class="link">
+                                <a href="../kashiwanohaRM_HP/index.htm">柏の葉リレーマラソンの結果と写真を掲載しました</a>
+                            </dd>
+                            <dt>2016-08-22</dt>
+                            <dd class="link">
+                                <a href="../rensyumenu/index.shtml">練習メニュー9～12月を公開しました</a>
+                            </dd>
+                            <dt>2016-08-12</dt>
+                            <dd class="link">
+                                <a href="../uniform/index.shtml">新ユニフォーム、ジャージ、Ｔシャツの申込が可能となりました</a>
+                            </dd>
+                            <dt>2016-08-11</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai160701.shtml#第11回日光杉並木マラソン（2016.8.7）">第11回日光杉並木マラソン（2016.8.7）</a><br>
+                                <a href="../taikaikekka/taikai160701.shtml#第69回富士登山競走（2016.7.22）">第69回富士登山競走（2016.7.22）</a><br>
+                                <a href="../taikaikekka/taikai160701.shtml#第30回やぶはら高原ハーフマラソン（2016.7.16）">第30回やぶはら高原ハーフマラソン（2016.7.16）</a><br>
+                            </dd>
+
+                            <dt>2016-08-08</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">8/7 日光杉並木マラソンの写真を追加</a><br>
+                            </dd>
+                            <dt>2016-08-01</dt>
+                            <dd class="link">
+                                <a href="../uniform/index.shtml">新ユニフォーム、ジャージ、Ｔシャツのデザイン画ができました</a>
+                            </dd>
+                            <dt>2016-07-26</dt>
+                            <dd class="link">
+                                タブレット・スマホの全ページ画面右上に、メニューボタン追加。
+                            </dd>
+                            <dt>2016-07-25</dt>
+                            <dd class="link">
+                                <a href="../information/MuscleTrainingRecord.pdf" target="_blank">『長崎式』にチューニングした筋力トレーニング用記録表を公開</a>
+                            </dd>
+                            <dt>2016-07-22</dt>
+                            <dd class="link">
+                                タブレット・スマホ用に画面右上にメニューボタン追加。（トップページのみ）<br>
+                                PDF・外部リンク・メールのアイコン追加
+                            </dd>
+                            <dt>2016-07-18</dt>
+                            <dd class="link">
+                                <a href="../information/MuscleTraining20160717final.pdf" target="_blank">『吠える監督』長崎康範が教える実践ランナーのための筋力トレーニングを公開</a><br>
+                                <a href="../photo/index.shtml">7/9～10 合宿の写真を追加</a><br>
+                            </dd>
+                            <dt>2016-07-17</dt>
+                            <dd class="link">
+                                <a href="../taikaikekka/taikai160401.shtml#函館マラソン2016（2016.6.26）">函館マラソン2016（2016.6.26）</a><br>
+                                <a href="../taikaikekka/taikai160401.shtml#第12回いわて銀河１００㎞チャレンジマラソン（2016.6.12）">第12回いわて銀河１００㎞チャレンジマラソン（2016.6.12）</a><br>
+                                <a href="../taikaikekka/taikai160401.shtml#第７回 きょなんヒルズマラソン（2016.6.4）">第７回 きょなんヒルズマラソン（2016.6.4）</a><br>
+                                <a href="../taikaikekka/taikai160401.shtml#第33回カーター記念黒部名水マラソン（2016.5.29）">第33回カーター記念黒部名水マラソン（2016.5.29）</a><br>
+                                <a href="../taikaikekka/taikai160401.shtml#第22回星の郷八ヶ岳高原野辺山100㎞ウルトラマラソン（2016.5.22）">第22回星の郷八ヶ岳高原野辺山100㎞ウルトラマラソン（2016.5.22）</a><br>
+                                <a href="../taikaikekka/taikai160401.shtml#第16回柏崎潮風マラソン（2016.5.15）">第16回柏崎潮風マラソン（2016.5.15）</a><br>
+                                <a href="../taikaikekka/taikai160401.shtml#とくしまマラソン2016（2016.4.24）">とくしまマラソン2016（2016.4.24）</a><br>
+                                <a href="../taikaikekka/taikai160401.shtml#第18回長野マラソン（2016.4.17）">第18回長野マラソン（2016.4.17）</a><br>
+                                <a href="../taikaikekka/taikai160401.shtml#第11回　掛川・新茶マラソン（2016.4.10）">第11回　掛川・新茶マラソン（2016.4.10）</a><br>
+                                <a href="../taikaikekka/taikai160401.shtml#さが桜マラソン2016（2016.4.3）">さが桜マラソン2016（2016.4.3）</a>
+                            </dd>
+                            <dt>2016-07-13</dt>
+                            <dd class="link">
+                                <a href="../photo/index.shtml">7/9～10 合宿の写真をアップ</a><br>
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai160701.shtml#第23回葛西臨海公園ナイトマラソンサマーステージ（2016.7.8）">第23回葛西臨海公園ナイトマラソンサマーステージ（2016.7.8）</a><br>
+                                <a href="../taikaikekka/taikai160401.shtml#第18回関東マスターズロード選手権（2016.6.5）">第18回関東マスターズロード選手権（2016.6.5）</a><br>
+                                <a href="../taikaikekka/taikai160401.shtml#第23回奥武蔵ウルトラマラソン（2016.6.5）">第23回奥武蔵ウルトラマラソン（2016.6.5）</a>
+                            </dd>
+                            <dt>2016-07-06</dt>
+                            <dd class="link">
+                                IE11でトップページと写真集のスライドショーにて、2枚目以降が参照できない不具合が発生していましたが、対策をしました。<a href="../photo_slide/index.shtml">不具合がある場合は、仮のページを作りましたので、こちらを参照してください。</a>
+                            </dd>
+                            <dt>2016-07-03</dt>
+                            <dd class="link">
+                                ウィング広報メールのアドレスを、<a href="mailto:wingac2016@gmail.com">wingac2016@gmail.com</a>に変更。<br>
+                                <a href="../photo/index.shtml">7/3トラック組＆手賀沼組の写真をアップ</a>
+                            </dd>
+                            <dt>2016-07-02</dt>
+                            <dd class="link">
+                                <a href="../nyusyosya/index.shtml">優勝者/入賞者のお知らせを更新</a><br>
+                                <a href="../taikaikekka/taikai160401.shtml#第33回富里スイカロードレース（2016.6.26）">大会結果：第33回富里スイカロードレース（2016.6.26）</a><br>
+                                <a href="../taikaikekka/taikai160401.shtml#第7回城南島羽田マラソン （2016.6.5）">大会結果：第7回城南島羽田マラソン （2016.6.5）</a><br>
+                                <a href="../taikaikekka/taikai160401.shtml#第4回柴又100K （2016.6.5）">大会結果：第4回柴又100K （2016.6.5）</a><br>
+                                <a href="../taikaikekka/taikai160401.shtml#第36回鹿沼さつきマラソン （2016.5.8）">大会結果：第36回鹿沼さつきマラソン （2016.5.8）</a>
+                            </dd>
+                            <dt>2016-06-28</dt>
+                            <dd class="link">
+                                トップページおよび<a href="../photo/index.shtml">写真集</a>に富里スイカロードレースの写真を追加しました
+                            </dd>
+                            <dt>2016-06-26</dt>
+                            <dd class="link">
+                                <a href="../member/index.shtml">メンバー紹介に新入会員を追加しました。また、役員を今年の役員に変更しました</a>
+                            </dd>
+                            <dt>2016-06-21</dt>
+                            <dd class="link">トップページのリンク集に、
+                                <a href="../kashiwanohaRM_HP/index.htm" target="_blank">「柏の葉リレーマラソン」</a>と
+                                <a href="http://k-urakashi.jimdo.com/" target="_blank">「ウラカシ」</a>
+                                のリンクを追加しました。リンク集以外の柏の葉リレーマラソンのリンクは、削除しました。
+                            </dd>
+                            <dt>2016-06-19</dt>
+                            <dd class="link">新しいホームページを公開しました</dd>
+                            <dt>2016-06-04</dt>
+                            <dd class="link"><a href="../taikaikekka/taikai160401.shtml#第28回春日部大凧マラソン">大会結果(第28回春日部大凧マラソン、第26回チャレンジ富士五湖ウルトラマラソン、第26回かすみがうらマラソン、第8回おやま思川ざくらマラソン、千葉deランニングフェスタ、第21回吉川なまずの里マラソン）</a></dd>
+                            <dt>2016-04-07</dt>
+                            <dd class="link"><a href="../taikaikekka/taikai160101.shtml#第35回佐倉朝日健康マラソン">大会結果(第6回渋谷・表参道 Women’s Run、横浜マラソン2016、第4回サンスポ古河はなももマラソン、名古屋ウィメンズマラソン2016、2016板橋Cityマラソン、第35回佐倉朝日健康マラソン）</a></dd>
+                            <dt>2016-04-04</dt>
+                            <dd class="link"><a href="../rensyumenu/20160508menu.pdf" target="_blank">年間練習計画、ランニングメニュー(5月～8月）</a></dd>
+                            <dt>2016-03-23</dt>
+                            <dd class="link"><a href="../taikaikekka/taikai160101.shtml#第33回藍のまち羽生さわやかマラソン">大会結果(第34回鴻巣パンジーマラソン、静岡マラソン2016、第33回藍のまち羽生さわやかマラソン</a></dd>
+                            <dt>2016-03-08</dt>
+                            <dd class="link"><a href="../information/soukai2.pdf" target="_blank">2016年全体ミーティングの報告＆年度計画資料</a></dd>
+                            <dt>2016-03-08</dt>
+                            <dd class="link"><a href="../kaihi_kouza/index.shtml">会費＆陸連費用振込口座情報</a></dd>
+                            <dt>2016-03-07</dt>
+                            <dd class="link"><a href="../rikurentoroku/index.shtml">陸連登録</a></dd>
+                            <dt>2016-03-08</dt>
+                            <dd class="link"><a href="../taikaikekka/taikai160101.shtml#東京マラソン2016">大会結果(第9回石岡つくばねマラソン、第10回ふかやシティハーフマラソン、東京マラソン2016）</a></dd>
+                            <dt>2016-02-29</dt>
+                            <dd class="link"><a href="../taikaikekka/taikai160101.shtml#第16回結城シルクカップロードレース">大会結果(第40回サンスポ千葉マリンマラソン(追加)、第41回森林公園完走マラソン、第7回いわきサンシャインマラソン、熊本城マラソン2016、第16回結城シルクカップロードレース）</a></dd>
+                            <dt>2016-02-14</dt>
+                            <dd class="link"><a href="../taikaikekka/taikai160101.shtml#第40回サンスポ千葉マリンマラソン">大会結果(第40回サンスポ千葉マリンマラソン、第64回勝田全国マラソン、第32回 守谷ハーフマラソン、第65回別府大分毎日マラソン）</a></dd>
+                            <dt>2016-02-02</dt>
+                            <dd class="link"><a href="../taikaikekka/taikai160101.shtml#第7回東京・赤羽ハーフマラソン">メンバー紹介、大会結果(第28回我孫子新春マラソン、第7回東京・赤羽ハーフマラソン）</a></dd>
+                        </dl>
+                    </div>
+
+
+
+
+
+                    <!-- #main news表示　追加 END-->
+
+
+                    <div id="subnavi"> </div>
+                </div>
+            </div>
+
+
+
+
+        </div> <!-- #contents-->
+
+
+
+        <!-- 下部======================================================================== -->
+        <!--SSI追加。外部ファイル読み出し -->
+        <!--#include virtual="/ssi/footer.html"  -->
+        <!-- フッター終了======================================================================================== -->
+
+
+        <!-- トップへ戻るボタン-->
+        <p class="pagetop"><a href="#wrap">先頭へ▲</a></p>
+
+
+    </div> <!-- #page-->
+
+
+
+
+</body>
+
+</html>

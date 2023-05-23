@@ -1,0 +1,175 @@
+﻿<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+
+<!-- 個別設定必要-->
+<title>写真集｜ウィングAC</title>
+<meta name="keywords" content="ウィング・アスリートクラブ, ランニングクラブ, 柏市, 手賀沼">
+<meta name="description" content="本ページは、柏市手賀沼を中心に活動しているランニングクラブであるウィング・アスリートクラブの写真集のページです。2018年10月～12月の写真です。">
+
+<!-- 電話番号にリンクを貼らないように-->
+<meta name="format-detection" content="telephone=no">
+
+<!-- レスポンシブ -->
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<!--[if lt IE 9]>
+  <script src="../js/css3-mediaqueries.js"></script>
+<![endif]-->	<!-- IE8以下の対応 -->
+<!-- IE9未満の対応。外部CSSファイルを指定しているlink要素の前に記述-->
+
+
+<!-- ｊQueryメイン  -->
+<script src="../js/jquery-1.12.3.min.js" type="text/javascript"></script>
+
+<!-- ドロップダウンメニュー、その他を、IE8以下に対応させるためのJS-->
+<script src="../js/html5shiv.js" type="text/javascript"></script>
+
+<!-- ギャラリー  -->
+<script src="../js/galleria/galleria-1.2.9.js" type="text/javascript"></script>
+<script src="../js/gallery_sub.js" type="text/javascript"></script>
+
+<!-- JS コードの外部ファイルに移動	-->
+<script src="../js/scripts.js" type="text/javascript"></script>
+
+<!-- cssファイルの読み込み	-->
+<link rel="stylesheet" href="../css/style.css">
+
+<!-- Font Awesome を利用-->
+<link rel="stylesheet" href="../font-awesome-4.6.3/css/font-awesome.min.css">
+
+<!-- アイコン読み出し-->
+<link rel="icon" href="../img/favicon.ico">
+
+</head>
+
+<body>
+<!-- #page ページの整形：中央寄せ -->
+<div id="page">
+
+
+	<!-- #header 画面上部のヘッダー==================================== -->
+		<!--SSI追加。ヘッダー外部ファイル読み出し -->
+							<!--#include virtual="/ssi/header.html"  -->
+	<!-- #header 画面上部のヘッダー、終了================================ -->
+
+
+  <!-- スライドメニューボタン  -->
+  <div id="menuButton">
+  <div id="menuButtonInner">
+  <span class="slideButton"><i class="fa fa-bars fa-4x"></i> <br>メニュー<br></span>
+  </div>
+  </div>
+
+  <div style="clear:both;"> </div>
+  <div id="layer"> </div>
+
+
+
+	<!-- #menu 画面上部のメニュー======================================================================== -->
+
+	<!--SSI追加。グローバルメニュー外部ファイル読み出し -->
+	          <!--#include virtual="/ssi/nav.html"  -->
+
+	<!-- #menu 画面上部のメニュー、終了================================================================== -->
+
+
+
+
+
+
+	<div id="contents">
+
+		<!-- #mainFull 本文スペース 幅100%-->
+		<div id="mainFull">
+			<div class="contentswrap">
+
+				<div class="title">
+					<h1>写真集</h1>
+					<p class="subh"></p>
+				</div>
+
+				<h2>2018年10月～12月</h2>
+
+<!-- ギャラリー開始	-->
+<div id="gallery">
+<img src="../photo/images/20181223_adachi/adachi01.jpg" alt="足立フレンドリー　2018-12-23　-01">
+<img src="../photo/images/20181223_adachi/adachi02.jpg" alt="足立フレンドリー　2018-12-23　-02">
+<img src="../photo/images/20181223_adachi/adachi03.jpg" alt="足立フレンドリー　2018-12-23　-03">
+<img src="../photo/images/20181223_adachi/adachi04.jpg" alt="足立フレンドリー　2018-12-23　-04">
+<img src="../photo/images/20181223_adachi/adachi05.jpg" alt="足立フレンドリー　2018-12-23　-05">
+<img src="../photo/images/20181223_adachi/adachi06.jpg" alt="足立フレンドリー　2018-12-23　-06">
+<img src="../photo/images/20181223_adachi/adachi07.jpg" alt="足立フレンドリー　2018-12-23　-07">
+<img src="../photo/images/20181223_adachi/adachi08.jpg" alt="足立フレンドリー　2018-12-23　-08">
+<img src="../photo/images/20181222_ichigo/ichigo01.jpg" alt="いちごトレイルラン　2018-12-22　-01">
+<img src="../photo/images/20181222_ichigo/ichigo02.jpg" alt="いちごトレイルラン　2018-12-22　-02">
+<img src="../photo/images/20181216_bonenkai/bonenkai01.jpg" alt="忘年会　2018-12-16　-01">
+<img src="../photo/images/20181216_bonenkai/bonenkai02.jpg" alt="忘年会　2018-12-16　-02">
+<img src="../photo/images/20181216_bonenkai/bonenkai03.jpg" alt="忘年会　2018-12-16　-03">
+<img src="../photo/images/20181216_bonenkai/bonenkai04.jpg" alt="忘年会　2018-12-16　-04">
+<img src="../photo/images/20181216_bonenkai/bonenkai05.jpg" alt="忘年会　2018-12-16　-05">
+<img src="../photo/images/20181216_bonenkai/bonenkai06.jpg" alt="忘年会　2018-12-16　-06">
+<img src="../photo/images/20181216_bonenkai/bonenkai07.jpg" alt="忘年会　2018-12-16　-07">
+<img src="../photo/images/20181216_ekiden/ekiden01.jpg" alt="ウィング駅伝　2018-12-16　-01">
+<img src="../photo/images/20181216_ekiden/ekiden02.jpg" alt="ウィング駅伝　2018-12-16　-02">
+<img src="../photo/images/20181216_ekiden/ekiden03.jpg" alt="ウィング駅伝　2018-12-16　-03">
+<img src="../photo/images/20181216_ekiden/ekiden04.jpg" alt="ウィング駅伝　2018-12-16　-04">
+<img src="../photo/images/20181216_ekiden/ekiden05.jpg" alt="ウィング駅伝　2018-12-16　-05">
+<img src="../photo/images/20181216_ekiden/ekiden06.jpg" alt="ウィング駅伝　2018-12-16　-06">
+<img src="../photo/images/20181216_ekiden/ekiden07.jpg" alt="ウィング駅伝　2018-12-16　-07">
+<img src="../photo/images/20181216_ekiden/ekiden08.jpg" alt="ウィング駅伝　2018-12-16　-08">
+<img src="../photo/images/20181216_ekiden/ekiden09.jpg" alt="ウィング駅伝　2018-12-16　-09">
+<img src="../photo/images/20181216_ekiden/ekiden10.jpg" alt="ウィング駅伝　2018-12-16　-10">
+<img src="../photo/images/20181209_kids/kids01.jpg" alt="キッズウィングAC　2018-12-9　-01">
+<img src="../photo/images/20181202_naha/naha01.jpg" alt="那覇マラソン　2018-12-2　-01">
+<img src="../photo/images/20181111_narita/narita01.jpg" alt="成田POPラン　2018-11-11　-01">
+<img src="../photo/images/20181111_narita/narita02.jpg" alt="成田POPラン　2018-11-11　-02">
+<img src="../photo/images/20181111_narita/narita03.jpg" alt="成田POPラン　2018-11-11　-03">
+<img src="../photo/images/20181111_narita/narita04.jpg" alt="成田POPラン　2018-11-11　-04">
+<img src="../photo/images/20181111_narita/narita05.jpg" alt="成田POPラン　2018-11-11　-05">
+<img src="../photo/images/20181111_masakado/masakado01.jpg" alt="いわい将門ハーフマラソン　2018-11-11　-01">
+<img src="../photo/images/20181028_teganuma/teganuma01.jpg" alt="手賀沼エコマラソン　2018-10-28　-01">
+<img src="../photo/images/20181028_teganuma/teganuma02.jpg" alt="手賀沼エコマラソン　2018-10-28　-02">
+<img src="../photo/images/20181028_teganuma/teganuma03.jpg" alt="手賀沼エコマラソン　2018-10-28　-03">
+<img src="../photo/images/20181028_teganuma/teganuma04.jpg" alt="手賀沼エコマラソン　2018-10-28　-04">
+<img src="../photo/images/20181028_teganuma/teganuma05.jpg" alt="手賀沼エコマラソン　2018-10-28　-05">
+<img src="../photo/images/20181028_teganuma/teganuma06.jpg" alt="手賀沼エコマラソン　2018-10-28　-06">
+<img src="../photo/images/20181028_teganuma/teganuma07.jpg" alt="手賀沼エコマラソン　2018-10-28　-07">
+<img src="../photo/images/20181028_teganuma/teganuma08.jpg" alt="手賀沼エコマラソン　2018-10-28　-08">
+<img src="../photo/images/20181028_teganuma/teganuma09.jpg" alt="手賀沼エコマラソン　2018-10-28　-09">
+<img src="../photo/images/20181028_teganuma/teganuma10.jpg" alt="手賀沼エコマラソン　2018-10-28　-10">
+<img src="../photo/images/20181028_teganuma/teganuma11.jpg" alt="手賀沼エコマラソン　2018-10-28　-11">
+<img src="../photo/images/20181014_miyagi/miyagi01.jpg" alt="東北みやぎ復興マラソン　2018-10-14　-01">
+<img src="../photo/images/20181014_miyagi/miyagi02.jpg" alt="東北みやぎ復興マラソン　2018-10-14　-02">
+</div><!-- /#gallery -->
+<!-- ギャラリー終了	-->
+
+
+<!--SSI追加。アルバムの外部ファイル読み出し -->
+          <!--#include virtual="/ssi/album.html"  -->
+
+
+			</div><!-- class="contentswrap"-->
+		</div><!-- id="mainFull"-->
+	</div>	<!-- #contents-->
+
+
+
+  <!-- 下部======================================================================== -->
+  <!--SSI追加。外部ファイル読み出し -->
+    <!--#include virtual="/ssi/footer.html"  -->
+  <!-- フッター終了======================================================================================== -->
+
+
+<!-- トップへ戻るボタン-->
+<p class="pagetop"><a href="#wrap">先頭へ▲</a></p>
+
+
+</div>	<!-- #page-->
+
+
+
+
+
+</body>
+</html>

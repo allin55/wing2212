@@ -1,0 +1,425 @@
+﻿<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+
+<!-- 個別設定必要-->
+<title>ランキング｜ウィングAC</title>
+<meta name="keywords" content="ウィング・アスリートクラブ, ランニングクラブ, 柏市, 手賀沼">
+<meta name="description" content="本ページは、柏市手賀沼を中心に活動しているランニングクラブであるウィング・アスリートクラブのランキングのページです。">
+
+
+<!-- 電話番号にリンクを貼らないように-->
+<meta name="format-detection" content="telephone=no">
+
+<!-- レスポンシブ -->
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<!--[if lt IE 9]>
+  <script src="../js/css3-mediaqueries.js"></script>
+<![endif]-->	<!-- IE8以下の対応 -->
+<!-- IE9未満の対応。外部CSSファイルを指定しているlink要素の前に記述-->
+
+
+<!-- ｊQueryメイン  -->
+<script src="../js/jquery-1.12.3.min.js" type="text/javascript"></script>
+
+<!-- ドロップダウンメニュー、その他を、IE8以下に対応させるためのJS-->
+<script src="../js/html5shiv.js" type="text/javascript"></script>
+
+<!-- ギャラリー
+<script src="../js/galleria/galleria-1.2.9.js" type="text/javascript"></script>
+<script src="../js/gallery_sub.js" type="text/javascript"></script>
+ -->
+
+<!-- JS コードの外部ファイルに移動	-->
+<script src="../js/scripts.js" type="text/javascript"></script>
+
+<!-- cssファイルの読み込み	-->
+<link rel="stylesheet" href="../css/style.css">
+
+<!-- Font Awesome を利用-->
+<link rel="stylesheet" href="../font-awesome-4.6.3/css/font-awesome.min.css">
+
+<!-- アイコン読み出し-->
+<link rel="icon" href="../img/favicon.ico">
+
+</head>
+
+<body>
+<!-- #page ページの整形：中央寄せ -->
+<div id="page">
+
+
+	<!-- #header 画面上部のヘッダー==================================== -->
+		<!--SSI追加。ヘッダー外部ファイル読み出し -->
+							<!--#include virtual="/ssi/header.html"  -->
+	<!-- #header 画面上部のヘッダー、終了================================ -->
+
+
+  <!-- スライドメニューボタン  -->
+  <div id="menuButton">
+  <div id="menuButtonInner">
+  <span class="slideButton"><i class="fa fa-bars fa-4x"></i> <br>メニュー<br></span>
+  </div>
+  </div>
+
+  <div style="clear:both;"> </div>
+  <div id="layer"> </div>
+
+
+
+	<!-- #menu 画面上部のメニュー======================================================================== -->
+
+	<!--SSI追加。グローバルメニュー外部ファイル読み出し -->
+	          <!--#include virtual="/ssi/nav.html"  -->
+
+	<!-- #menu 画面上部のメニュー、終了================================================================== -->
+
+
+
+
+
+
+	<div id="contents">
+		<!-- #main 本文スペース -->
+		<div id="mainfull">
+			<div class="contentswrap">
+				<div class="title">
+					<h1>ランキング</h1>
+					<p class="subh">大会結果を元にランキングをまとめてみました。<BR>
+					問合せ・修正依頼は、ウィング広報メール<a href="mailto:wingac2016@gmail.com">wingac2016@gmail.com</a>まで。
+					</p>
+				</div>
+
+				<div>
+					<ul class="galleryArchive">
+						<li><a href="#2019年ハーフ男">2019年ハーフ男性</a></li>
+						<li><a href="#2019年ハーフ女">2019年ハーフ女性</a></li>
+						<li><a href="#2017年フル">2017年フル</a></li>
+						<li><a href="#2017年ハーフ">2017年ハーフ</a></li>
+						<li><a href="#2017年10km">2017年10km</a></li>
+					</ul>
+				</div>
+				<div style="clear:both;"> </div>
+
+
+
+
+                <h2 id="2019年ハーフ男">ランキング　2019年　ハーフ　男性</h2><!-- 要修正 -->
+                <table class="type091 type092">
+                <thead><tr><th>順位</th><th>ランナー</th><th>グロスタイム</th><th>ネットタイム</th><th>大会</th></thead>
+                	<tbody><tr class="type091male"><td>1</td><td>王子さん</td><td>1:12:12</td><td>1:12:09</td><td>第25回手賀沼エコマラソン（2019.10.27）</td></tr></tbody>
+                	<tbody><tr class="type091male"><td>2</td><td>池永さん</td><td>1:14:40</td><td>1:14:39</td><td>第29回 坂東市いわい将門ハーフマラソン（2019.11.10）</td></tr></tbody>
+                	<tbody><tr class="type091male"><td>3</td><td>よっちゃん</td><td>1:14:54</td><td>1:14:52</td><td>第25回手賀沼エコマラソン（2019.10.27）</td></tr></tbody>
+                	<tbody><tr class="type091male"><td>4</td><td>ノリックさん</td><td>1:17:31</td><td>1:17:28</td><td>第13回ふかやシティハーフマラソン（2019.2.24）</td></tr></tbody>
+                	<tbody><tr class="type091male"><td>5</td><td>ノブさん</td><td>1:17:39</td><td>1:17:36</td><td>第38回川口マラソン（2019.12.1）</td></tr></tbody>
+                	<tbody><tr class="type091male"><td>6</td><td>和田野さん</td><td>1:19:16</td><td>1:19:06</td><td>第25回手賀沼エコマラソン（2019.10.27）</td></tr></tbody>
+                	<tbody><tr class="type091male"><td>6</td><td>ひらやまさん</td><td>1:19:16</td><td></td><td>2019さかえリバｰサイドマラソン（2019.2.17）</td></tr></tbody>
+                	<tbody><tr class="type091male"><td>8</td><td>オガワさん</td><td>1:20:33</td><td>1:20:31</td><td>第50回みさとシティハーフマラソン（2019.2.3）</td></tr></tbody>
+                	<tbody><tr class="type091male"><td>9</td><td>両川さん</td><td>1:21:56</td><td>1:21:53</td><td>第7回山形まるごとマラソン（2019.10.6）</td></tr></tbody>
+                	<tbody><tr class="type091male"><td>10</td><td>ダチさん</td><td>1:22:16</td><td>1:22:12</td><td>第35回 守谷ハーフマラソン（2019.2.3）</td></tr></tbody>
+                </table>
+
+
+                <h2 id="2019年ハーフ女">ランキング　2019年　ハーフ　女性</h2><!-- 要修正 -->
+                <table class="type091 type092">
+                <thead><tr><th>順位</th><th>ランナー</th><th>グロスタイム</th><th>ネットタイム</th><th>大会</th></thead>
+                	<tbody><tr class="type091female"><td>1</td><td>平賀さん</td><td>1:23:28</td><td></td><td>第6回東日本マスタｰズロｰドレｰス大会（2019.12.22）</td></tr></tbody>
+                	<tbody><tr class="type091female"><td>2</td><td>雅子さん</td><td>1:30:22</td><td>1:30:17</td><td>第10回東京･赤羽ハーフマラソン （2019.1.20）</td></tr></tbody>
+                	<tbody><tr class="type091female"><td>3</td><td>しほちゃん</td><td>1:34:30</td><td>1:34:18</td><td>第25回手賀沼エコマラソン（2019.10.27）</td></tr></tbody>
+                	<tbody><tr class="type091female"><td>4</td><td>まつさん</td><td>1:35:27</td><td>1:35:00</td><td>第29回 坂東市いわい将門ハーフマラソン（2019.11.10）</td></tr></tbody>
+                	<tbody><tr class="type091female"><td>5</td><td>りえちゃん</td><td>1:36:02</td><td>1:35:54</td><td>第25回手賀沼エコマラソン（2019.10.27）</td></tr></tbody>
+                	<tbody><tr class="type091female"><td>6</td><td>珠ちゃん</td><td>1:38:03</td><td></td><td>2019さかえリバｰサイドマラソン（2019.2.17）</td></tr></tbody>
+                	<tbody><tr class="type091female"><td>7</td><td>市川さん</td><td>1:38:54</td><td></td><td>2019さかえリバｰサイドマラソン（2019.2.17）</td></tr></tbody>
+                	<tbody><tr class="type091female"><td>8</td><td>中西さん</td><td>1:43:01</td><td>1:42:03</td><td>第25回手賀沼エコマラソン（2019.10.27）</td></tr></tbody>
+                	<tbody><tr class="type091female"><td>9</td><td>下重さん</td><td>1:43:23</td><td>1:42:56</td><td>第29回 坂東市いわい将門ハーフマラソン（2019.11.10）</td></tr></tbody>
+                	<tbody><tr class="type091female"><td>10</td><td>稲毛さん</td><td>1:54:35</td><td>1:53:22</td><td>第35回 守谷ハーフマラソン（2019.2.3）</td></tr></tbody>
+                	<tbody><tr class="type091female"><td>11</td><td>西野さん</td><td>1:58:36</td><td>1:57:29</td><td>第25回手賀沼エコマラソン（2019.10.27）</td></tr></tbody>
+                </table>
+
+
+                <h2 id="2017年フル">ランキング　2017年　フル</h2>
+
+
+
+                <table class="type091 type092">
+                    <thead><tr><th>順位</th><th>ランナー</th><th>グロスタイム</th><th>ネットタイム</th><th>大会</th></thead>
+                        <tbody><tr class="type091male"><td>1</td><td>生駒さん</td><td>2:29:05</td><td></td><td>第71回福岡国際マラソン （2017.12.3）</td></tr></tbody>
+                        <tbody><tr class="type091male"><td>2</td><td>池永さん</td><td>2:33:12</td><td>2:33:07</td><td>東京マラソン2017（2017.2.26）</td></tr></tbody>
+                        <tbody><tr class="type091male"><td>3</td><td>大倉さん</td><td>2:33:54</td><td>2:33:45</td><td>能登和倉万葉の里マラソン2017 （2017.3.12）</td></tr></tbody>
+                        <tbody><tr class="type091male"><td>4</td><td>よっちゃん</td><td>2:39:23</td><td>2:39:20</td><td>第66回別府大分毎日マラソン（2017.2.5）</td></tr></tbody>
+                        <tbody><tr class="type091male"><td>5</td><td>王子さん</td><td>2:41:54</td><td>2:40:59</td><td>東京マラソン2017（2017.2.26）</td></tr></tbody>
+                        <tbody><tr class="type091male"><td>6</td><td>芦川さん</td><td>2:43:17</td><td>2:43:15</td><td>第5回サンスポ古河はなももマラソン（2017.3.12）</td></tr></tbody>
+                        <tbody><tr class="type091male"><td>7</td><td>両川さん</td><td>2:49:00</td><td>2:48:50</td><td>第5回サンスポ古河はなももマラソン（2017.3.12）</td></tr></tbody>
+                        <tbody><tr class="type091male"><td>8</td><td>千枝さん</td><td>2:49:21</td><td>2:49:07</td><td>第66回別府大分毎日マラソン（2017.2.5）</td></tr></tbody>
+                        <tbody><tr class="type091male"><td>9</td><td>くまのさん</td><td>2:49:23</td><td>2:49:09</td><td>第66回別府大分毎日マラソン（2017.2.5）</td></tr></tbody>
+                        <tbody><tr class="type091female"><td>10</td><td>平賀さん</td><td>2:50:45</td><td>2:50:29</td><td>第37回つくばマラソン （2017.11.26）</td></tr></tbody>
+                        <tbody><tr class="type091male"><td>11</td><td>ノブさん</td><td>2:50:51</td><td>2:50:46</td><td>第5回サンスポ古河はなももマラソン（2017.3.12）</td></tr></tbody>
+                        <tbody><tr class="type091male"><td>12</td><td>熊谷さん</td><td>2:55:37</td><td>2:55:27</td><td>第37回つくばマラソン （2017.11.26）</td></tr></tbody>
+                        <tbody><tr class="type091male"><td>13</td><td>しまむーさん</td><td>2:55:59</td><td>2:55:39</td><td>第5回サンスポ古河はなももマラソン（2017.3.12）</td></tr></tbody>
+                        <tbody><tr class="type091male"><td>14</td><td>平山（謙）さん</td><td>2:57:06</td><td>2:56:56</td><td>第37回つくばマラソン （2017.11.26）</td></tr></tbody>
+                        <tbody><tr class="type091male"><td>15</td><td>オガワさん</td><td>2:57:34</td><td>2:57:17</td><td>第5回サンスポ古河はなももマラソン（2017.3.12）</td></tr></tbody>
+                        <tbody><tr class="type091male"><td>16</td><td>ナベちゃん</td><td>2:58:25</td><td>2:57:55</td><td>第37回つくばマラソン （2017.11.26）</td></tr></tbody>
+                        <tbody><tr class="type091male"><td>17</td><td>ながいさん</td><td>2:58:46</td><td>2:58:28</td><td>第37回つくばマラソン （2017.11.26）</td></tr></tbody>
+                        <tbody><tr class="type091male"><td>18</td><td>中川さん</td><td>2:59:09</td><td>2:58:19</td><td>第37回つくばマラソン （2017.11.26）</td></tr></tbody>
+                        <tbody><tr class="type091male"><td>19</td><td>コスゲさん</td><td>2:59:17</td><td>2:58:45</td><td>東京マラソン2017（2017.2.26）</td></tr></tbody>
+                        <tbody><tr class="type091male"><td>20</td><td>千葉（隆）さん</td><td>3:01:29</td><td>3:00:39</td><td>第37回つくばマラソン （2017.11.26）</td></tr></tbody>
+                        <tbody><tr class="type091male"><td>21</td><td>大地さん</td><td>3:07:35</td><td>3:07:26</td><td>第37回つくばマラソン （2017.11.26）</td></tr></tbody>
+                        <tbody><tr class="type091male"><td>22</td><td>山藤さん</td><td>3:07:50</td><td>3:07:20</td><td>第37回つくばマラソン （2017.11.26）</td></tr></tbody>
+                        <tbody><tr class="type091male"><td>23</td><td>仁平さん</td><td>3:11:23</td><td>3:09:55</td><td>第37回つくばマラソン （2017.11.26）</td></tr></tbody>
+                        <tbody><tr class="type091male"><td>24</td><td>クリハラさん</td><td>3:12:34</td><td>3:11:03</td><td>第3回さいたま国際マラソン （2017.11.12）</td></tr></tbody>
+                        <tbody><tr class="type091male"><td>25</td><td>貴戸さん</td><td>3:13:19</td><td>3:12:42</td><td>第37回つくばマラソン （2017.11.26）</td></tr></tbody>
+                        <tbody><tr class="type091female"><td>26</td><td>あおのさん</td><td>3:13:44</td><td>3:13:27</td><td>第37回つくばマラソン （2017.11.26）</td></tr></tbody>
+                        <tbody><tr class="type091male"><td>27</td><td>かみむらさん</td><td>3:16:11</td><td>3:15:53</td><td>北海道マラソン2017（2017.8.27）</td></tr></tbody>
+                        <tbody><tr class="type091female"><td>28</td><td>しほちゃん</td><td>3:18:41</td><td>3:18:38</td><td>第37回つくばマラソン （2017.11.26）</td></tr></tbody>
+                        <tbody><tr class="type091male"><td>29</td><td>たがみさん</td><td>3:19:28</td><td>3:18:50</td><td>東京マラソン2017（2017.2.26）</td></tr></tbody>
+                        <tbody><tr class="type091male"><td>30</td><td>上田（剛）さん</td><td>3:21:29</td><td>3:20:11</td><td>東京マラソン2017（2017.2.26）</td></tr></tbody>
+                        <!-- <tbody><tr class="type091male"><td>31</td><td>よしはるさん</td><td>3:21:30</td><td>3:20:55</td><td>第37回つくばマラソン （2017.11.26）</td></tr></tbody>
+                        <tbody><tr class="type091male"><td>32</td><td>上田（秀）さん</td><td>3:24:20</td><td>3:23:59</td><td>第36回佐倉朝日健康マラソン（2017.3.26）</td></tr></tbody>
+                        <tbody><tr class="type091female"><td>33</td><td>珠ちゃん</td><td>3:25:56</td><td>3:25:32</td><td>第30回大田原マラソン （2017.11.23）</td></tr></tbody>
+                        <tbody><tr class="type091female"><td>34</td><td>市川さん</td><td>3:26:56</td><td>3:26:13</td><td>名古屋ウィメンズマラソン2017（2017.3.12）</td></tr></tbody>
+                        <tbody><tr class="type091female"><td>35</td><td>西田さん</td><td>3:27:53</td><td>3:27:26</td><td>第6回富士山マラソン （2017.11.26）</td></tr></tbody>
+                        <tbody><tr class="type091male"><td>36</td><td>松永さん</td><td>3:28:28</td><td>3:26:48</td><td>第37回つくばマラソン （2017.11.26）</td></tr></tbody>
+                        <tbody><tr class="type091male"><td>36</td><td>我妻さん</td><td>3:28:28</td><td>3:27:00</td><td>第65回勝田全国マラソン（2017.1.29）</td></tr></tbody>
+                        <tbody><tr class="type091male"><td>38</td><td>佐藤（宏）さん</td><td>3:28:47</td><td>3:28:39</td><td>第37回つくばマラソン （2017.11.26）</td></tr></tbody>
+                        <tbody><tr class="type091male"><td>39</td><td>福士さん</td><td>3:29:11</td><td>3:27:53</td><td>東京マラソン2017（2017.2.26）</td></tr></tbody>
+                        <tbody><tr class="type091female"><td>40</td><td>まつさん</td><td>3:29:52</td><td>3:29:44</td><td>名古屋ウィメンズマラソン2017（2017.3.12）</td></tr></tbody>
+                        <tbody><tr class="type091male"><td>41</td><td>はっとりさん</td><td>3:29:53</td><td>3:26:58</td><td>東京マラソン2017（2017.2.26）</td></tr></tbody>
+                        <tbody><tr class="type091male"><td>42</td><td>藤崎さん</td><td>3:31:10</td><td>3:30:47</td><td>第37回つくばマラソン （2017.11.26）</td></tr></tbody>
+                        <tbody><tr class="type091male"><td>43</td><td>大山さん</td><td>3:31:11</td><td>3:30:44</td><td>第6回富士山マラソン （2017.11.26）</td></tr></tbody>
+                        <tbody><tr class="type091female"><td>44</td><td>MEGUさん</td><td>3:37:49</td><td>3:36:24</td><td>北海道マラソン2017（2017.8.27）</td></tr></tbody>
+                        <tbody><tr class="type091male"><td>45</td><td>おざわさん</td><td>3:42:52</td><td>3:42:34</td><td>第36回佐倉朝日健康マラソン（2017.3.26）</td></tr></tbody>
+                        <tbody><tr class="type091male"><td>46</td><td>カシマさん</td><td>3:43:25</td><td>3:42:57</td><td>第37回館山若潮マラソン（2017.1.29）</td></tr></tbody>
+                        <tbody><tr class="type091male"><td>47</td><td>西さん</td><td>3:44:40</td><td>3:44:09</td><td>世界遺産姫路城マラソン2017（2017.2.26）</td></tr></tbody>
+                        <tbody><tr class="type091male"><td>48</td><td>清水さん</td><td>3:48:50</td><td>3:48:31</td><td>第5回サンスポ古河はなももマラソン（2017.3.12）</td></tr></tbody>
+                        <tbody><tr class="type091male"><td>49</td><td>三島さん</td><td>3:52:16</td><td>3:50:16</td><td>第5回サンスポ古河はなももマラソン（2017.3.12）</td></tr></tbody>
+                        <tbody><tr class="type091female"><td>50</td><td>下重さん</td><td>3:52:33</td><td>3:50:42</td><td>第37回つくばマラソン （2017.11.26）</td></tr></tbody>
+                        <tbody><tr class="type091male"><td>51</td><td>中村さん</td><td>3:52:41</td><td>3:49:43</td><td>第5回サンスポ古河はなももマラソン（2017.3.12）</td></tr></tbody>
+                        <tbody><tr class="type091male"><td>52</td><td>川田（元）さん</td><td>3:53:14</td><td>3:51:45</td><td>かすみがうらマラソン2017（2017.4.16）</td></tr></tbody>
+                        <tbody><tr class="type091female"><td>53</td><td>おぐらさん</td><td>3:56:14</td><td>3:55:57</td><td>いびがわマラソン2017 （2017.11.12）</td></tr></tbody>
+                        <tbody><tr class="type091male"><td>54</td><td>小松さん</td><td>3:58:33</td><td>3:55:08</td><td>第37回館山若潮マラソン（2017.1.29）</td></tr></tbody>
+                        <tbody><tr class="type091male"><td>55</td><td>トシさん</td><td>4:00:02</td><td>3:59:07</td><td>第30回大田原マラソン （2017.11.23）</td></tr></tbody>
+                        <tbody><tr class="type091male"><td>56</td><td>もっちさん</td><td>4:03:39</td><td>4:02:27</td><td>第30回大田原マラソン （2017.11.23）</td></tr></tbody>
+                        <tbody><tr class="type091male"><td>57</td><td>はっちさん</td><td>4:09:45</td><td>4:06:35</td><td>かすみがうらマラソン2017（2017.4.16）</td></tr></tbody>
+                        <tbody><tr class="type091male"><td>58</td><td>玉野さん</td><td>4:10:05</td><td>4:09:49</td><td>第37回つくばマラソン （2017.11.26）</td></tr></tbody>
+                        <tbody><tr class="type091male"><td>59</td><td>シマさん</td><td>4:12:23</td><td>4:11:45</td><td>第36回佐倉朝日健康マラソン（2017.3.26）</td></tr></tbody>
+                        <tbody><tr class="type091male"><td>60</td><td>東海林さん</td><td>4:14:47</td><td>4:13:30</td><td>第37回つくばマラソン （2017.11.26）</td></tr></tbody>
+                        <tbody><tr class="type091female"><td>61</td><td>ひしださん</td><td>4:19:45</td><td>4:19:19</td><td>名古屋ウィメンズマラソン2017（2017.3.12）</td></tr></tbody>
+                        <tbody><tr class="type091female"><td>62</td><td>西野さん</td><td>4:21:32</td><td>4:16:17</td><td>第5回サンスポ古河はなももマラソン（2017.3.12）</td></tr></tbody>
+                        <tbody><tr class="type091female"><td>63</td><td>YOSSYさん</td><td>4:23:33</td><td>4:17:15</td><td>第3回さいたま国際マラソン （2017.11.12）</td></tr></tbody>
+                        <tbody><tr class="type091female"><td>64</td><td>ほりごめさん</td><td>4:30:19</td><td>4:24:56</td><td>金沢マラソン2017  （2017.10.29）</td></tr></tbody>
+                        <tbody><tr class="type091male"><td>65</td><td>犬介さん</td><td>4:30:47</td><td>4:28:46</td><td>第7回神戸マラソン  （2017.11.19）</td></tr></tbody>
+                        <tbody><tr class="type091male"><td>66</td><td>マツトモさん</td><td>4:31:16</td><td>4:28:43</td><td>第5回サンスポ古河はなももマラソン（2017.3.12）</td></tr></tbody>
+                        <tbody><tr class="type091female"><td>67</td><td>山内さん</td><td>4:34:54</td><td>4:32:45</td><td>東北・みやぎ復興マラソン2017 （2017.10.1）</td></tr></tbody>
+                        <tbody><tr class="type091male"><td>68</td><td>太田（秀）さん</td><td>4:36:16</td><td>4:28:52</td><td>第3回さいたま国際マラソン （2017.11.12）</td></tr></tbody>
+                        <tbody><tr class="type091male"><td>69</td><td>柿木さん</td><td>4:38:29</td><td>4:34:16</td><td>第2回水戸黄門漫遊マラソン （2017.10.29）</td></tr></tbody>
+                        <tbody><tr class="type091female"><td>70</td><td>みっちゃん</td><td>4:38:34</td><td>4:32:02</td><td>名古屋ウィメンズマラソン2017（2017.3.12）</td></tr></tbody>
+                        <tbody><tr class="type091female"><td>71</td><td>川田（明）さん</td><td>4:40:26</td><td>4:32:10</td><td>第5回サンスポ古河はなももマラソン（2017.3.12）</td></tr></tbody>
+                        <tbody><tr class="type091male"><td>72</td><td>植竹さん</td><td>4:48:36</td><td>4:42:49</td><td>第7回神戸マラソン  （2017.11.19）</td></tr></tbody>
+                        <tbody><tr class="type091female"><td>73</td><td>美代ちゃん</td><td>5:07:05</td><td>5:06:26</td><td>名古屋ウィメンズマラソン2017（2017.3.12）</td></tr></tbody>
+                        <tbody><tr class="type091female"><td>74</td><td>室崎さん</td><td>5:07:11</td><td>5:04:17</td><td>第36回佐倉朝日健康マラソン（2017.3.26）</td></tr></tbody>
+                        <tbody><tr class="type091female"><td>75</td><td>ふくちゃん</td><td>5:12:39</td><td>5:07:12</td><td>富山マラソン2017  （2017.10.29）</td></tr></tbody>
+                        <tbody><tr class="type091male"><td>76</td><td>白兼さん</td><td>5:22:32</td><td>5:12:50</td><td>第65回勝田全国マラソン（2017.1.29）</td></tr></tbody>
+                        <tbody><tr class="type091female"><td>77</td><td>胡桃さん</td><td>5:26:06</td><td>5:25:40</td><td>名古屋ウィメンズマラソン2017（2017.3.12）</td></tr></tbody>
+                        <tbody><tr class="type091female"><td>78</td><td>根本（真）さん</td><td>5:37:53</td><td>5:29:32</td><td>東京マラソン2017（2017.2.26）</td></tr></tbody> -->
+                    </table>
+
+
+                    <h2 id="2017年ハーフ">ランキング　2017年　ハーフ</h2>
+
+
+                    <table class="type091 type092">
+                	<thead><tr><th>順位</th><th>ランナー</th><th>グロスタイム</th><th>ネットタイム</th><th>大会</th></thead>
+                		<tbody><tr class="type091male"><td>1</td><td>大倉さん</td><td>1:12:16</td><td>1:12:12</td><td>印西スマイルマラソン（2017.2.12）</td></tr></tbody>
+                		<tbody><tr class="type091male"><td>2</td><td>生駒さん</td><td>1:14:34</td><td>1:14:31</td><td>第23回手賀沼エコマラソン大会 （2017.10.29）</td></tr></tbody>
+                		<tbody><tr class="type091male"><td>3</td><td>よっちゃん</td><td>1:15:42</td><td>1:15:40</td><td>第41回サンスポ千葉マリンマラソン（2017.1.22）</td></tr></tbody>
+                		<tbody><tr class="type091male"><td>4</td><td>ひらやまさん</td><td>1:16:08</td><td>1:16:07</td><td>第39回千葉県民マラソン（2017.3.5）</td></tr></tbody>
+                		<tbody><tr class="type091male"><td>5</td><td>池永さん</td><td>1:16:15</td><td>1:16:13</td><td>第27回 坂東市いわい将門ハーフマラソン （2017.11.12）</td></tr></tbody>
+                		<tbody><tr class="type091male"><td>6</td><td>芦川さん</td><td>1:17:26</td><td>1:17:24</td><td>印西スマイルマラソン（2017.2.12）</td></tr></tbody>
+                		<tbody><tr class="type091male"><td>7</td><td>ノブさん</td><td>1:18:31</td><td>1:18:29</td><td>練馬こぶしハーフマラソン2017（2017.3.26）</td></tr></tbody>
+                		<tbody><tr class="type091male"><td>8</td><td>山藤さん</td><td>1:19:14</td><td>1:19:01</td><td>第27回 坂東市いわい将門ハーフマラソン （2017.11.12）</td></tr></tbody>
+                		<tbody><tr class="type091male"><td>9</td><td>両川さん</td><td>1:19:31</td><td></td><td>第22回 吉川なまずの里マラソン（2017.4.2）</td></tr></tbody>
+                		<tbody><tr class="type091male"><td>10</td><td>オガワさん</td><td>1:21:01</td><td>1:20:53</td><td>第8回足立フレンドリーマラソン  （2017.12.23）</td></tr></tbody>
+                		<tbody><tr class="type091male"><td>11</td><td>長崎さん</td><td>1:21:10</td><td>1:20:56</td><td>第27回 坂東市いわい将門ハーフマラソン （2017.11.12）</td></tr></tbody>
+                		<tbody><tr class="type091male"><td>12</td><td>千枝さん</td><td>1:21:13</td><td>1:21:09</td><td>第41回サンスポ千葉マリンマラソン（2017.1.22）</td></tr></tbody>
+                		<tbody><tr class="type091male"><td>13</td><td>しまむーさん</td><td>1:21:25</td><td></td><td>第22回 吉川なまずの里マラソン（2017.4.2）</td></tr></tbody>
+                		<tbody><tr class="type091male"><td>14</td><td>くまのさん</td><td>1:22:16</td><td>1:21:54</td><td>第8回東京・赤羽ハーフマラソン（2017.1.15）</td></tr></tbody>
+                		<tbody><tr class="type091male"><td>15</td><td>マイマイさん</td><td>1:22:47</td><td>1:22:40</td><td>第33回 守谷ハーフマラソン（2017.2.5）</td></tr></tbody>
+                		<tbody><tr class="type091male"><td>16</td><td>コスゲさん</td><td>1:23:02</td><td>1:22:45</td><td>第41回サンスポ千葉マリンマラソン（2017.1.22）</td></tr></tbody>
+                		<tbody><tr class="type091male"><td>17</td><td>熊谷さん</td><td>1:23:22</td><td></td><td>第22回 吉川なまずの里マラソン（2017.4.2）</td></tr></tbody>
+                		<tbody><tr class="type091male"><td>18</td><td>平山（謙）さん</td><td>1:23:43</td><td>1:23:35</td><td>印西スマイルマラソン（2017.2.12）</td></tr></tbody>
+                		<tbody><tr class="type091female"><td>18</td><td>平賀さん</td><td>1:23:43</td><td>1:23:37</td><td>印西スマイルマラソン（2017.2.12）</td></tr></tbody>
+                		<tbody><tr class="type091male"><td>20</td><td>みたらいさん</td><td>1:23:57</td><td>1:23:53</td><td>第23回手賀沼エコマラソン大会 （2017.10.29）</td></tr></tbody>
+                		<tbody><tr class="type091male"><td>21</td><td>ナベちゃん</td><td>1:24:35</td><td>1:24:25</td><td>第23回手賀沼エコマラソン大会 （2017.10.29）</td></tr></tbody>
+                		<tbody><tr class="type091male"><td>22</td><td>千葉（隆）さん</td><td>1:25:00</td><td>1:24:48</td><td>第27回 坂東市いわい将門ハーフマラソン （2017.11.12）</td></tr></tbody>
+                		<tbody><tr class="type091male"><td>23</td><td>大地さん</td><td>1:25:09</td><td>1:25:03</td><td>第23回手賀沼エコマラソン大会 （2017.10.29）</td></tr></tbody>
+                		<tbody><tr class="type091male"><td>24</td><td>クリハラさん</td><td>1:25:34</td><td>1:24:55</td><td>第23回手賀沼エコマラソン大会 （2017.10.29）</td></tr></tbody>
+                		<tbody><tr class="type091male"><td>25</td><td>貴戸さん</td><td>1:25:49</td><td>1:25:42</td><td>第8回足立フレンドリーマラソン  （2017.12.23）</td></tr></tbody>
+                		<tbody><tr class="type091male"><td>26</td><td>かみむらさん</td><td>1:26:38</td><td>1:26:25</td><td>第27回 坂東市いわい将門ハーフマラソン （2017.11.12）</td></tr></tbody>
+                		<tbody><tr class="type091male"><td>27</td><td>ながいさん</td><td>1:26:59</td><td>1:26:44</td><td>第8回足立フレンドリーマラソン  （2017.12.23）</td></tr></tbody>
+                		<tbody><tr class="type091male"><td>28</td><td>たがみさん</td><td>1:28:09</td><td>1:27:59</td><td>第33回 守谷ハーフマラソン（2017.2.5）</td></tr></tbody>
+                		<tbody><tr class="type091male"><td>29</td><td>高野さん</td><td>1:28:39</td><td>1:28:34</td><td>第48回みさとシティハーフマラソン（2017.2.5）</td></tr></tbody>
+                		<tbody><tr class="type091male"><td>30</td><td>関さん</td><td>1:29:31</td><td></td><td>第43回市原高滝湖マラソン（2017.1.14）</td></tr></tbody>
+                		<!-- <tbody><tr class="type091male"><td>31</td><td>はっとりさん</td><td>1:30:17</td><td></td><td>第22回 吉川なまずの里マラソン（2017.4.2）</td></tr></tbody>
+                		<tbody><tr class="type091male"><td>32</td><td>ゆたかさん</td><td>1:30:24</td><td>1:30:21</td><td>2017成田POPラン （2017.11.12）</td></tr></tbody>
+                		<tbody><tr class="type091male"><td>33</td><td>大和田さん</td><td>1:32:33</td><td>1:32:10</td><td>第23回手賀沼エコマラソン大会 （2017.10.29）</td></tr></tbody>
+                		<tbody><tr class="type091male"><td>34</td><td>河井さん</td><td>1:33:12</td><td>1:32:58</td><td>第23回手賀沼エコマラソン大会 （2017.10.29）</td></tr></tbody>
+                		<tbody><tr class="type091male"><td>35</td><td>上田（剛）さん</td><td>1:33:53</td><td>1:33:27</td><td>第41回サンスポ千葉マリンマラソン（2017.1.22）</td></tr></tbody>
+                		<tbody><tr class="type091male"><td>36</td><td>上田（秀）さん</td><td>1:33:56</td><td>1:33:29</td><td>第41回サンスポ千葉マリンマラソン（2017.1.22）</td></tr></tbody>
+                		<tbody><tr class="type091male"><td>37</td><td>我妻さん</td><td>1:34:29</td><td>1:34:14</td><td>第23回手賀沼エコマラソン大会 （2017.10.29）</td></tr></tbody>
+                		<tbody><tr class="type091male"><td>38</td><td>佐藤（宏）さん</td><td>1:34:36</td><td></td><td>第22回 吉川なまずの里マラソン（2017.4.2）</td></tr></tbody>
+                		<tbody><tr class="type091male"><td>39</td><td>まとばさん</td><td>1:35:06</td><td></td><td>第22回 吉川なまずの里マラソン（2017.4.2）</td></tr></tbody>
+                		<tbody><tr class="type091female"><td>40</td><td>しほちゃん</td><td>1:35:35</td><td>1:35:16</td><td>第23回手賀沼エコマラソン大会 （2017.10.29）</td></tr></tbody>
+                		<tbody><tr class="type091female"><td>41</td><td>あおのさん</td><td>1:35:42</td><td>1:35:34</td><td>第23回手賀沼エコマラソン大会 （2017.10.29）</td></tr></tbody>
+                		<tbody><tr class="type091female"><td>42</td><td>珠ちゃん</td><td>1:35:46</td><td>1:35:42</td><td>第39回千葉県民マラソン（2017.3.5）</td></tr></tbody>
+                		<tbody><tr class="type091male"><td>43</td><td>藤崎さん</td><td>1:36:37</td><td>1:36:32</td><td>2017成田POPラン （2017.11.12）</td></tr></tbody>
+                		<tbody><tr class="type091female"><td>44</td><td>まつさん</td><td>1:37:10</td><td></td><td>第22回 吉川なまずの里マラソン（2017.4.2）</td></tr></tbody>
+                		<tbody><tr class="type091male"><td>45</td><td>川田（元）さん</td><td>1:37:12</td><td>1:37:05</td><td>Richmond Half Marathon  （2017.11.5）</td></tr></tbody>
+                		<tbody><tr class="type091male"><td>46</td><td>もっちさん</td><td>1:37:49</td><td></td><td>第22回 吉川なまずの里マラソン（2017.4.2）</td></tr></tbody>
+                		<tbody><tr class="type091male"><td>47</td><td>はっちさん</td><td>1:38:02</td><td>1:36:47</td><td>第23回手賀沼エコマラソン大会 （2017.10.29）</td></tr></tbody>
+                		<tbody><tr class="type091female"><td>48</td><td>西田さん</td><td>1:38:41</td><td>1:37:21</td><td>第23回手賀沼エコマラソン大会 （2017.10.29）</td></tr></tbody>
+                		<tbody><tr class="type091male"><td>49</td><td>犬介さん</td><td>1:39:11</td><td>1:38:31</td><td>第23回手賀沼エコマラソン大会 （2017.10.29）</td></tr></tbody>
+                		<tbody><tr class="type091male"><td>50</td><td>松永さん</td><td>1:39:38</td><td>1:38:23</td><td>第23回手賀沼エコマラソン大会 （2017.10.29）</td></tr></tbody>
+                		<tbody><tr class="type091male"><td>51</td><td>かいさん</td><td>1:39:40</td><td>1:39:04</td><td>第23回手賀沼エコマラソン大会 （2017.10.29）</td></tr></tbody>
+                		<tbody><tr class="type091female"><td>52</td><td>市川さん</td><td>1:39:51</td><td>1:39:10</td><td>印西スマイルマラソン（2017.2.12）</td></tr></tbody>
+                		<tbody><tr class="type091male"><td>53</td><td>おざわさん</td><td>1:40:23</td><td>1:39:51</td><td>第39回千葉県民マラソン（2017.3.5）</td></tr></tbody>
+                		<tbody><tr class="type091male"><td>54</td><td>中村さん</td><td>1:40:56</td><td></td><td>第22回 吉川なまずの里マラソン（2017.4.2）</td></tr></tbody>
+                		<tbody><tr class="type091male"><td>55</td><td>東海林さん</td><td>1:41:22</td><td>1:40:42</td><td>印西スマイルマラソン（2017.2.12）</td></tr></tbody>
+                		<tbody><tr class="type091male"><td>56</td><td>西さん</td><td>1:41:35</td><td>1:41:22</td><td>印西スマイルマラソン（2017.2.12）</td></tr></tbody>
+                		<tbody><tr class="type091male"><td>57</td><td>小松さん</td><td>1:42:45</td><td>1:41:29</td><td>第18回ハイテクハーフマラソン（2017.1.8）</td></tr></tbody>
+                		<tbody><tr class="type091female"><td>58</td><td>MEGUさん</td><td>1:42:55</td><td>1:41:34</td><td>第41回サンスポ千葉マリンマラソン（2017.1.22）</td></tr></tbody>
+                		<tbody><tr class="type091male"><td>59</td><td>浩一さん</td><td>1:45:04</td><td>1:42:47</td><td>第23回手賀沼エコマラソン大会 （2017.10.29）</td></tr></tbody>
+                		<tbody><tr class="type091male"><td>60</td><td>マツトモさん</td><td>1:45:29</td><td>1:44:44</td><td>第33回 守谷ハーフマラソン（2017.2.5）</td></tr></tbody>
+                		<tbody><tr class="type091male"><td>61</td><td>三島さん</td><td>1:45:36</td><td>1:44:37</td><td>第23回手賀沼エコマラソン大会 （2017.10.29）</td></tr></tbody>
+                		<tbody><tr class="type091male"><td>62</td><td>くぼっちさん</td><td>1:47:35</td><td>1:46:42</td><td>第33回 守谷ハーフマラソン（2017.2.5）</td></tr></tbody>
+                		<tbody><tr class="type091male"><td>63</td><td>太田（秀）さん</td><td>1:50:21</td><td>1:49:00</td><td>第23回手賀沼エコマラソン大会 （2017.10.29）</td></tr></tbody>
+                		<tbody><tr class="type091male"><td>64</td><td>玉野さん</td><td>1:50:32</td><td></td><td>パークらんマラソンin堀切水辺公園 （2017.11.11）</td></tr></tbody>
+                		<tbody><tr class="type091male"><td>65</td><td>よしひこさん</td><td>1:52:25</td><td>1:50:19</td><td>第23回手賀沼エコマラソン大会 （2017.10.29）</td></tr></tbody>
+                		<tbody><tr class="type091female"><td>66</td><td>下重さん</td><td>1:52:28</td><td>1:51:08</td><td>第23回手賀沼エコマラソン大会 （2017.10.29）</td></tr></tbody>
+                		<tbody><tr class="type091female"><td>67</td><td>西野さん</td><td>1:53:12</td><td>1:51:52</td><td>第23回手賀沼エコマラソン大会 （2017.10.29）</td></tr></tbody>
+                		<tbody><tr class="type091male"><td>68</td><td>中山さん</td><td>1:53:21</td><td></td><td>第22回 吉川なまずの里マラソン（2017.4.2）</td></tr></tbody>
+                		<tbody><tr class="type091male"><td>69</td><td>カシマさん</td><td>1:53:59</td><td>1:52:56</td><td>第23回手賀沼エコマラソン大会 （2017.10.29）</td></tr></tbody>
+                		<tbody><tr class="type091male"><td>70</td><td>春日さん</td><td>1:59:10</td><td>1:57:12</td><td>第2回久喜マラソン（2017.3.19）</td></tr></tbody>
+                		<tbody><tr class="type091female"><td>71</td><td>ひしださん</td><td>1:59:39</td><td>1:58:45</td><td>第27回 坂東市いわい将門ハーフマラソン （2017.11.12）</td></tr></tbody>
+                		<tbody><tr class="type091female"><td>72</td><td>ほりごめさん</td><td>1:59:49</td><td>1:58:59</td><td>戸田マラソンin彩湖2017 （2017.11.19）</td></tr></tbody>
+                		<tbody><tr class="type091male"><td>73</td><td>植竹さん</td><td>2:00:15</td><td>1:57:48</td><td>第33回 守谷ハーフマラソン（2017.2.5）</td></tr></tbody>
+                		<tbody><tr class="type091female"><td>74</td><td>あっこちゃん</td><td>2:00:53</td><td>1:57:57</td><td>第23回手賀沼エコマラソン大会 （2017.10.29）</td></tr></tbody>
+                		<tbody><tr class="type091female"><td>75</td><td>川田（明）さん</td><td>2:01:03</td><td>1:58:25</td><td>第23回手賀沼エコマラソン大会 （2017.10.29）</td></tr></tbody>
+                		<tbody><tr class="type091male"><td>76</td><td>柿木さん</td><td>2:02:41</td><td>2:00:20</td><td>第8回東京・赤羽ハーフマラソン（2017.1.15）</td></tr></tbody>
+                		<tbody><tr class="type091male"><td>77</td><td>丸川さん</td><td>2:04:24</td><td>2:00:41</td><td>第23回手賀沼エコマラソン大会 （2017.10.29）</td></tr></tbody>
+                		<tbody><tr class="type091female"><td>78</td><td>けいちゃん</td><td>2:06:08</td><td>2:03:38</td><td>第41回サンスポ千葉マリンマラソン（2017.1.22）</td></tr></tbody>
+                		<tbody><tr class="type091male"><td>79</td><td>田中（英）さん</td><td>2:07:32</td><td>2:04:41</td><td>第27回 坂東市いわい将門ハーフマラソン （2017.11.12）</td></tr></tbody>
+                		<tbody><tr class="type091female"><td>80</td><td>山内さん</td><td>2:07:57</td><td>2:06:03</td><td>第23回手賀沼エコマラソン大会 （2017.10.29）</td></tr></tbody>
+                		<tbody><tr class="type091female"><td>81</td><td>室崎さん</td><td>2:15:21</td><td>2:14:12</td><td>第33回 守谷ハーフマラソン（2017.2.5）</td></tr></tbody>
+                		<tbody><tr class="type091male"><td>82</td><td>高橋（希）さん</td><td>2:17:08</td><td>2:13:33</td><td>第23回手賀沼エコマラソン大会 （2017.10.29）</td></tr></tbody>
+                		<tbody><tr class="type091female"><td>83</td><td>佐藤（奈）さん</td><td>2:24:05</td><td>2:20:14</td><td>第23回手賀沼エコマラソン大会 （2017.10.29）</td></tr></tbody>
+                		<tbody><tr class="type091female"><td>84</td><td>美代ちゃん</td><td>2:29:22</td><td>2:26:42</td><td>第23回手賀沼エコマラソン大会 （2017.10.29）</td></tr></tbody>
+                		<tbody><tr class="type091male"><td>85</td><td>田中（利）さん</td><td>2:30:39</td><td>2:28:41</td><td>第2回久喜マラソン（2017.3.19）</td></tr></tbody>
+                		<tbody><tr class="type091male"><td>86</td><td>佐々木さん</td><td>2:31:37</td><td>2:27:45</td><td>第23回手賀沼エコマラソン大会 （2017.10.29）</td></tr></tbody>
+                		<tbody><tr class="type091male"><td>87</td><td>キイチローさん</td><td>2:32:13</td><td>2:28:25</td><td>第23回手賀沼エコマラソン大会 （2017.10.29）</td></tr></tbody>
+                		<tbody><tr class="type091female"><td>88</td><td>胡桃さん</td><td>2:46:45</td><td>2:44:53</td><td>第23回手賀沼エコマラソン大会 （2017.10.29）</td></tr></tbody>
+                		<tbody><tr class="type091male"><td>89</td><td>春木さん</td><td>3:12:06</td><td>3:06:23</td><td>第23回手賀沼エコマラソン大会 （2017.10.29）</td></tr></tbody> -->
+                	</table>
+
+
+
+                        <h2 id="2017年10km">ランキング　2017年　10km</h2>
+
+
+                        <table class="type091 type092">
+                            <thead><tr><th>順位</th><th>ランナー</th><th>グロスタイム</th><th>ネットタイム</th><th>大会</th></thead>
+                                <tbody><tr class="type091male"><td>1</td><td>ひらやまさん</td><td>0:33:48</td><td></td><td>第56回柏市民新春マラソン（2017.1.15）</td></tr></tbody>
+                                <tbody><tr class="type091male"><td>2</td><td>よっちゃん</td><td>0:34:37</td><td></td><td>第62回松戸市七草マラソン（2017.1.8）</td></tr></tbody>
+                                <tbody><tr class="type091male"><td>3</td><td>池永さん</td><td>0:34:51</td><td>0:34:48</td><td>第34回富里スイカロードレース（2017.6.25）</td></tr></tbody>
+                                <tbody><tr class="type091male"><td>4</td><td>山藤さん</td><td>0:35:23</td><td></td><td>第62回松戸市七草マラソン（2017.1.8）</td></tr></tbody>
+                                <tbody><tr class="type091male"><td>5</td><td>王子さん</td><td>0:36:03</td><td>0:35:59</td><td>第41回 牛久シティマラソン（2017.1.9）</td></tr></tbody>
+                                <tbody><tr class="type091male"><td>6</td><td>長崎さん</td><td>0:36:30</td><td>0:36:27</td><td>第34回富里スイカロードレース（2017.6.25）</td></tr></tbody>
+                                <tbody><tr class="type091male"><td>7</td><td>みたらいさん</td><td>0:36:58</td><td>0:36:54</td><td>第36回佐倉朝日健康マラソン（2017.3.26）</td></tr></tbody>
+                                <tbody><tr class="type091male"><td>8</td><td>スギさん</td><td>0:37:11</td><td></td><td>第56回柏市民新春マラソン（2017.1.15）</td></tr></tbody>
+                                <tbody><tr class="type091female"><td>9</td><td>平賀さん</td><td>0:37:32</td><td></td><td>第32回白井梨マラソン （2017.10.1）</td></tr></tbody>
+                                <tbody><tr class="type091male"><td>10</td><td>千枝さん</td><td>0:37:55</td><td></td><td>第62回松戸市七草マラソン（2017.1.8）</td></tr></tbody>
+                                <tbody><tr class="type091male"><td>11</td><td>両川さん</td><td>0:38:01</td><td>0:37:59</td><td>第36回佐倉朝日健康マラソン（2017.3.26）</td></tr></tbody>
+                                <tbody><tr class="type091male"><td>12</td><td>ナベちゃん</td><td>0:38:21</td><td>0:38:21</td><td>第20回ニューリバーロードレースin八千代 （2017.12.10）</td></tr></tbody>
+                                <tbody><tr class="type091male"><td>12</td><td>ゆたかさん</td><td>0:38:21</td><td></td><td>第32回白井梨マラソン （2017.10.1）</td></tr></tbody>
+                                <tbody><tr class="type091male"><td>12</td><td>熊谷さん</td><td>0:38:21</td><td></td><td>第56回柏市民新春マラソン（2017.1.15）</td></tr></tbody>
+                                <tbody><tr class="type091male"><td>15</td><td>平山（謙）さん</td><td>0:38:34</td><td>0:38:31</td><td>銚子さんまマラソン （2017.11.19）</td></tr></tbody>
+                                <tbody><tr class="type091male"><td>16</td><td>千葉（隆）さん</td><td>0:38:40</td><td></td><td>第56回柏市民新春マラソン（2017.1.15）</td></tr></tbody>
+                                <tbody><tr class="type091male"><td>17</td><td>しまむーさん</td><td>0:38:54</td><td></td><td>第32回白井梨マラソン （2017.10.1）</td></tr></tbody>
+                                <tbody><tr class="type091male"><td>18</td><td>いしーださん</td><td>0:39:26</td><td></td><td>第29回我孫子新春マラソン（2017.1.22）</td></tr></tbody>
+                                <tbody><tr class="type091male"><td>19</td><td>貴戸さん</td><td>0:40:03</td><td></td><td>第62回松戸市七草マラソン（2017.1.8）</td></tr></tbody>
+                                <tbody><tr class="type091male"><td>20</td><td>かみむらさん</td><td>0:40:07</td><td></td><td>第29回我孫子新春マラソン（2017.1.22）</td></tr></tbody>
+                                <tbody><tr class="type091male"><td>21</td><td>オガワさん</td><td>0:41:40</td><td>0:41:31</td><td>第41回 牛久シティマラソン（2017.1.9）</td></tr></tbody>
+                                <tbody><tr class="type091male"><td>22</td><td>大山さん</td><td>0:41:58</td><td>0:41:55</td><td>銚子さんまマラソン （2017.11.19）</td></tr></tbody>
+                                <tbody><tr class="type091male"><td>23</td><td>アグイさん</td><td>0:42:10</td><td></td><td>第26回流山ロードレース （2017.10.8）</td></tr></tbody>
+                                <tbody><tr class="type091male"><td>24</td><td>我妻さん</td><td>0:42:14</td><td>0:42:03</td><td>第8回足立フレンドリーマラソン  （2017.12.23）</td></tr></tbody>
+                                <tbody><tr class="type091female"><td>25</td><td>西田さん</td><td>0:42:25</td><td>0:42:22</td><td>銚子さんまマラソン （2017.11.19）</td></tr></tbody>
+                                <tbody><tr class="type091female"><td>26</td><td>珠ちゃん</td><td>0:42:36</td><td></td><td>第56回柏市民新春マラソン（2017.1.15）</td></tr></tbody>
+                                <tbody><tr class="type091female"><td>27</td><td>葉子ちゃん</td><td>0:43:10</td><td>0:43:08</td><td>銚子さんまマラソン （2017.11.19）</td></tr></tbody>
+                                <tbody><tr class="type091female"><td>28</td><td>しほちゃん</td><td>0:43:31</td><td>0:43:19</td><td>第8回足立フレンドリーマラソン  （2017.12.23）</td></tr></tbody>
+                                <tbody><tr class="type091male"><td>29</td><td>清水さん</td><td>0:43:36</td><td></td><td>第32回白井梨マラソン （2017.10.1）</td></tr></tbody>
+                                <tbody><tr class="type091male"><td>30</td><td>東海林さん</td><td>0:43:43</td><td></td><td>第32回白井梨マラソン （2017.10.1）</td></tr></tbody>
+                                <!-- <tbody><tr class="type091male"><td>31</td><td>川田（元）さん</td><td>0:43:51</td><td></td><td>第29回我孫子新春マラソン（2017.1.22）</td></tr></tbody>
+                                <tbody><tr class="type091male"><td>32</td><td>もっちさん</td><td>0:44:02</td><td></td><td>第28回東京総合健保ミニマラソン（2017.3.5）</td></tr></tbody>
+                                <tbody><tr class="type091male"><td>33</td><td>藤崎さん</td><td>0:44:05</td><td></td><td>第32回白井梨マラソン （2017.10.1）</td></tr></tbody>
+                                <tbody><tr class="type091male"><td>34</td><td>はっとりさん</td><td>0:44:10</td><td></td><td>第12回日光杉並木マラソン （2017.8.6）</td></tr></tbody>
+                                <tbody><tr class="type091female"><td>35</td><td>あおのさん</td><td>0:44:27</td><td></td><td>第32回白井梨マラソン （2017.10.1）</td></tr></tbody>
+                                <tbody><tr class="type091male"><td>36</td><td>佐藤（宏）さん</td><td>0:44:43</td><td></td><td>第26回流山ロードレース （2017.10.8）</td></tr></tbody>
+                                <tbody><tr class="type091female"><td>37</td><td>市川さん</td><td>0:44:46</td><td></td><td>第32回白井梨マラソン （2017.10.1）</td></tr></tbody>
+                                <tbody><tr class="type091male"><td>38</td><td>まとばさん</td><td>0:44:51</td><td>0:44:45</td><td>第36回佐倉朝日健康マラソン（2017.3.26）</td></tr></tbody>
+                                <tbody><tr class="type091male"><td>39</td><td>カシマさん</td><td>0:45:16</td><td></td><td>第62回松戸市七草マラソン（2017.1.8）</td></tr></tbody>
+                                <tbody><tr class="type091male"><td>40</td><td>中村さん</td><td>0:45:26</td><td></td><td>第62回松戸市七草マラソン（2017.1.8）</td></tr></tbody>
+                                <tbody><tr class="type091female"><td>41</td><td>まつさん</td><td>0:45:36</td><td></td><td>第9回城南島羽田マラソン（2017.6.4）</td></tr></tbody>
+                                <tbody><tr class="type091male"><td>42</td><td>三島さん</td><td>0:47:22</td><td></td><td>第32回白井梨マラソン （2017.10.1）</td></tr></tbody>
+                                <tbody><tr class="type091male"><td>43</td><td>西さん</td><td>0:47:33</td><td>0:47:22</td><td>第27回 坂東市いわい将門ハーフマラソン （2017.11.12）</td></tr></tbody>
+                                <tbody><tr class="type091male"><td>44</td><td>太田（秀）さん</td><td>0:48:27</td><td></td><td>第56回柏市民新春マラソン（2017.1.15）</td></tr></tbody>
+                                <tbody><tr class="type091female"><td>45</td><td>稲毛さん</td><td>0:48:53</td><td></td><td>第29回我孫子新春マラソン（2017.1.22）</td></tr></tbody>
+                                <tbody><tr class="type091male"><td>46</td><td>玉野さん</td><td>0:48:56</td><td></td><td>第5回柏の葉爽快マラソン（2017.5.3）</td></tr></tbody>
+                                <tbody><tr class="type091female"><td>47</td><td>西野さん</td><td>0:50:05</td><td></td><td>第32回白井梨マラソン （2017.10.1）</td></tr></tbody>
+                                <tbody><tr class="type091female"><td>48</td><td>下重さん</td><td>0:50:25</td><td></td><td>第9回城南島羽田マラソン（2017.6.4）</td></tr></tbody>
+                                <tbody><tr class="type091male"><td>49</td><td>くぼっちさん</td><td>0:52:10</td><td></td><td>第32回白井梨マラソン （2017.10.1）</td></tr></tbody>
+                                <tbody><tr class="type091female"><td>50</td><td>YOSSYさん</td><td>0:52:47</td><td></td><td>第26回流山ロードレース （2017.10.8）</td></tr></tbody>
+                                <tbody><tr class="type091female"><td>51</td><td>ひしださん</td><td>0:53:12</td><td>-</td><td>第8回東京・赤羽ハーフマラソン（2017.1.15）</td></tr></tbody>
+                                <tbody><tr class="type091female"><td>52</td><td>おぐらさん</td><td>0:53:44</td><td></td><td>第26回流山ロードレース （2017.10.8）</td></tr></tbody>
+                                <tbody><tr class="type091female"><td>53</td><td>胡桃さん</td><td>0:53:46</td><td>-</td><td>第8回東京・赤羽ハーフマラソン（2017.1.15）</td></tr></tbody>
+                                <tbody><tr class="type091male"><td>54</td><td>大地さん</td><td>0:54:03</td><td></td><td>第26回流山ロードレース （2017.10.8）</td></tr></tbody>
+                                <tbody><tr class="type091male"><td>55</td><td>柿木さん</td><td>0:54:53</td><td>0:54:24</td><td>第37回つくばマラソン （2017.11.26）</td></tr></tbody>
+                                <tbody><tr class="type091female"><td>55</td><td>ふくちゃん</td><td>0:54:53</td><td>0:54:25</td><td>第37回つくばマラソン （2017.11.26）</td></tr></tbody>
+                                <tbody><tr class="type091male"><td>57</td><td>芦川さん</td><td>0:56:06</td><td>0:54:54</td><td>第20回ニューリバーロードレースin八千代 （2017.12.10）</td></tr></tbody>
+                                <tbody><tr class="type091female"><td>58</td><td>美代ちゃん</td><td>0:57:29</td><td></td><td>第56回柏市民新春マラソン（2017.1.15）</td></tr></tbody>
+                                <tbody><tr class="type091female"><td>59</td><td>根本（真）さん</td><td>0:59:50</td><td>0:59:29</td><td>第36回佐倉朝日健康マラソン（2017.3.26）</td></tr></tbody>
+                                <tbody><tr class="type091male"><td>60</td><td>百瀬さん</td><td>1:19:07</td><td>1:18:18</td><td>2017成田POPラン （2017.11.12）</td></tr></tbody>
+                                <tbody><tr class="type091male"><td>61</td><td>角田さん</td><td>1:22:44</td><td></td><td>第26回流山ロードレース （2017.10.8）</td></tr></tbody> -->
+                            </table>
+
+
+				<div id="subnavi"> </div>
+			</div>
+		</div>
+
+
+
+
+
+    <!-- #menuL 右サイドメニューなし======================================================================== -->
+
+    	</div>	<!-- #contents-->
+
+    <!-- 下部======================================================================== -->
+    <!--SSI追加。外部ファイル読み出し -->
+      <!--#include virtual="/ssi/footer.html"  -->
+    <!-- フッター終了======================================================================================== -->
+
+
+<!-- トップへ戻るボタン-->
+<p class="pagetop"><a href="#wrap">先頭へ▲</a></p>
+
+
+</div>	<!-- #page-->
+
+
+
+
+
+
+</body>
+</html>

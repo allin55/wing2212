@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+
+<!-- 個別設定必要-->
+<title>筋力トレーニング｜ウィングAC</title>
+<meta name="keywords" content="ウィング・アスリートクラブ, ランニングクラブ, 柏市, 手賀沼">
+<meta name="description" content="本ページは、柏市手賀沼を中心に活動しているランニングクラブであるウィング・アスリートクラブのページです。筋力トレーニングのマニュアルと記録票です。">
+
+
+<!-- 電話番号にリンクを貼らないように-->
+<meta name="format-detection" content="telephone=no">
+
+<!-- レスポンシブ -->
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<!--[if lt IE 9]>
+  <script src="../js/css3-mediaqueries.js"></script>
+<![endif]-->	<!-- IE8以下の対応 -->
+<!-- IE9未満の対応。外部CSSファイルを指定しているlink要素の前に記述-->
+
+
+<!-- ｊQueryメイン  -->
+<script src="../js/jquery-1.12.3.min.js" type="text/javascript"></script>
+
+<!-- ドロップダウンメニュー、その他を、IE8以下に対応させるためのJS-->
+<script src="../js/html5shiv.js" type="text/javascript"></script>
+
+<!-- ギャラリー
+<script src="../js/galleria/galleria-1.2.9.js" type="text/javascript"></script>
+<script src="../js/gallery_sub.js" type="text/javascript"></script>
+ -->
+
+<!-- JS コードの外部ファイルに移動	-->
+<script src="../js/scripts.js" type="text/javascript"></script>
+
+<!-- cssファイルの読み込み	-->
+<link rel="stylesheet" href="../css/style.css">
+
+<!-- Font Awesome を利用-->
+<link rel="stylesheet" href="../font-awesome-4.6.3/css/font-awesome.min.css">
+
+<!-- アイコン読み出し-->
+<link rel="icon" href="../img/favicon.ico">
+
+</head>
+
+<body>
+<!-- #page ページの整形：中央寄せ -->
+<div id="page">
+
+
+	<!-- #header 画面上部のヘッダー======================================================== -->
+		<!--SSI追加。ヘッダー外部ファイル読み出し -->
+							<!--#include virtual="/ssi/header.html"  -->
+	<!-- #header 画面上部のヘッダー、終了==================================================== -->
+
+  <!-- スライドメニューボタン  -->
+  <div id="menuButton">
+  <div id="menuButtonInner">
+  <span class="slideButton"><i class="fa fa-bars fa-4x"></i> <br>メニュー<br></span>
+  </div>
+  </div>
+
+  <div style="clear:both;"> </div>
+  <div id="layer"> </div>
+
+
+
+<!-- #menu 画面上部のメニュー======================================================================== -->
+
+<!--SSI追加。グローバルメニュー外部ファイル読み出し -->
+          <!--#include virtual="/ssi/nav.html"  -->
+
+<!-- #menu 画面上部のメニュー、終了================================================================== -->
+
+
+
+
+
+
+	<div id="contents">
+		<!-- #main 本文スペース -->
+		<div id="main">
+			<div class="contentswrap">
+				<div class="title">
+					<h1>筋力トレーニング＋記録票</h1>
+					<p class="subh">『吠える監督』長崎康範が教える「実践ランナーのための筋力トレーニング」の　<a href="MuscleTraining20160717final.pdf" target="_blank">マニュアル</a>と　<a href="MuscleTrainingRecord.pdf" target="_blank">記録票</a>です。印刷物をご希望の方は　キイチローさんまで。</p>
+				</div>
+
+
+				<h2>掲示板より＞長崎さんお薦めの筋トレ法をHPに掲載しました。</h2>
+        <h3>名前：キイチロー    投稿日付：2016/7/19(火)</h3>
+
+        <div class="ittaika">
+				<p class="marginBottom-0">筋トレをやっている方、始めようと考えている方への、情報です。<br>掲載主旨は以下の通りです。</p>
+          <ol type="1">
+            <li>最近筋トレを行う会員の方が増えた。</li>
+            <li>長崎さんも、柏の体育館で、筋トレを行っており、会員の方の筋トレ法をちらちら見ているが、どうせやるなら、やり方を工夫するともっと効果が出ると思うことが多かった。（そのうちの一人が私です。）</li>
+            <li>体重を増やさずに（＝ランナーズ体形を維持して）、筋力をつける筋トレ方法がある。</li>
+            <li>それで、「講習会」を開催しようという話になり、朝礼で、その旨アナウンスされたが、いろいろな理由で実施に至らなかった。</li>
+            <li>何人かは、体育館で、長崎さんから教えてもらった。私もその一人。</li>
+            <li>長崎さんと相談して、その内容をマニュアルにし、HPに掲載しました。<br>
+			<a href="MuscleTraining20160717final.pdf" target="_blank">マニュアルはこちら</a></li>
+            <li>「筋トレ講習会開催」に変わるものとして、本資料をご覧いただければと思います。</li>
+          </ol>
+          <p>
+          なお、内容は、『走力のある人』向けだけではなく、『現時点で走力の無い人。筋力の弱い人』にも有用な内容にしてありますので、『筋トレなんて考えてもいない』という方も、一度見てみることをお勧めします。<br>PS:「故障したくない」という方にもお薦めです。
+				</p>
+      </div>
+
+				<h2>掲示板より＞筋トレの記録表をHPにアップしました。</h2>
+        <h3>名前：キイチロー    投稿日付：2016/7/26(火)</h3>
+        <div class="ittaika">
+				<p>
+          先日、長崎さんが進める筋トレ法をHPにアップしました。<br>早速関心を示していただいている方もいて、編集者としてもうれしいです。<br><br>私は、既に２か月近く、長崎式で筋トレをやっています。<br>やってみて分ったことは、『どの種目』『負荷』回数』『セット数』さらには、『かるくできたか否か』を記録しておかないと、次の実施の時、適切にやれないということです。<br>それで、記録票を作りました。<br>
+		  <ul>
+		  	<li><a href="MuscleTrainingRecord.pdf" target="_blank">記録票はこちら</a></li>
+		  </ul>
+		  トータル７種目まで、最大２セットまで記録可能です。多分、これくらいやればトータル１時間近くなると思います。<br><br>記録をつけると、『負荷』×『回数』を増やしたいという意識が働きますし、『しばらく筋トレやっていないな～。今度はやろう』とコンスタントに続ける意識づけにもなります。<br><br>また、初めて筋トレをやる方には、自分に適正な、『負荷』×『回数』を見つけるためにも役立つと思います。<br><br>記入例を裏面に記しました。利用法はそれぞれに工夫されると良いと思います。
+				</p>
+      </div>
+
+
+				<div id="subnavi"> </div>
+			</div>
+		</div>
+
+
+        <!-- #menuL 右サイドメニュー=========================================== -->
+            <!--#include virtual="/ssi/side.html"  -->
+
+        <!-- フロートが適用されている複数のボックスの外側に親ボックスがある場合、
+        フロートが解除されていないと親ボックスの高さがなくなるため、追加	-->
+        <div style="clear: both"></div>
+
+	</div>	<!-- #contents-->
+
+    <!-- 下部=============================================================== -->
+    <!--SSI追加。外部ファイル読み出し -->
+        <!--#include virtual="/ssi/footer.html"  -->
+    <!-- フッター終了========================================================= -->
+
+
+<!-- トップへ戻るボタン-->
+<p class="pagetop"><a href="#wrap">先頭へ▲</a></p>
+
+
+</div>	<!-- #page-->
+
+
+
+
+
+</body>
+</html>

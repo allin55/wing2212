@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+
+<!-- 個別設定必要-->
+<title>写真集｜ウィングAC</title>
+<meta name="keywords" content="ウィング・アスリートクラブ, ランニングクラブ, 柏市, 手賀沼">
+<meta name="description" content="本ページは、柏市手賀沼を中心に活動しているランニングクラブであるウィング・アスリートクラブの写真集のページです。2016年合宿の写真を集めています">
+
+<!-- 電話番号にリンクを貼らないように-->
+<meta name="format-detection" content="telephone=no">
+
+<!-- レスポンシブ -->
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<!--[if lt IE 9]>
+  <script src="../js/css3-mediaqueries.js"></script>
+<![endif]-->	<!-- IE8以下の対応 -->
+<!-- IE9未満の対応。外部CSSファイルを指定しているlink要素の前に記述-->
+
+
+<!-- ｊQueryメイン  -->
+<script src="../js/jquery-1.12.3.min.js" type="text/javascript"></script>
+
+<!-- ドロップダウンメニュー、その他を、IE8以下に対応させるためのJS-->
+<script src="../js/html5shiv.js" type="text/javascript"></script>
+
+<!-- ギャラリー  -->
+<script src="../js/galleria/galleria-1.2.9.js" type="text/javascript"></script>
+<script src="../js/gallery_sub.js" type="text/javascript"></script>
+
+<!-- JS コードの外部ファイルに移動	-->
+<script src="../js/scripts.js" type="text/javascript"></script>
+
+<!-- cssファイルの読み込み	-->
+<link rel="stylesheet" href="../css/style.css">
+
+<!-- Font Awesome を利用-->
+<link rel="stylesheet" href="../font-awesome-4.6.3/css/font-awesome.min.css">
+
+<!-- アイコン読み出し-->
+<link rel="icon" href="../img/favicon.ico">
+
+</head>
+
+<body>
+<!-- #page ページの整形：中央寄せ -->
+<div id="page">
+
+
+	<!-- #header 画面上部のヘッダー==================================== -->
+		<!--SSI追加。ヘッダー外部ファイル読み出し -->
+							<!--#include virtual="/ssi/header.html"  -->
+	<!-- #header 画面上部のヘッダー、終了================================ -->
+
+
+  <!-- スライドメニューボタン  -->
+  <div id="menuButton">
+  <div id="menuButtonInner">
+  <span class="slideButton"><i class="fa fa-bars fa-4x"></i> <br>メニュー<br></span>
+  </div>
+  </div>
+
+  <div style="clear:both;"> </div>
+  <div id="layer"> </div>
+
+
+
+	<!-- #menu 画面上部のメニュー======================================================================== -->
+
+	<!--SSI追加。グローバルメニュー外部ファイル読み出し -->
+	          <!--#include virtual="/ssi/nav.html"  -->
+
+	<!-- #menu 画面上部のメニュー、終了================================================================== -->
+
+
+
+
+
+
+	<div id="contents">
+
+		<!-- #mainFull 本文スペース 幅100%-->
+		<div id="mainFull">
+			<div class="contentswrap">
+
+				<div class="title">
+					<h1>写真集</h1>
+					<p class="subh"></p>
+				</div>
+
+				<h2>2016年7月9日～10日　合宿</h2>
+
+<!-- ギャラリー開始	-->
+<div id="gallery">
+  <img src="images/20160710_training_camp/01IMG_1538.jpg" alt="合宿　2016-7-9～10　01">
+  <img src="images/20160710_training_camp/02IMG_1539.jpg" alt="合宿　2016-7-9～10　02">
+  <img src="images/20160710_training_camp/03IMG_1537.jpg" alt="合宿　2016-7-9～10　03">
+  <img src="images/20160710_training_camp/04IMG_1540.jpg" alt="合宿　2016-7-9～10　04">
+  <img src="images/20160710_training_camp/05IMG_1541.jpg" alt="合宿　2016-7-9～10　05">
+  <img src="images/20160710_training_camp/06IMG_1542.jpg" alt="合宿　2016-7-9～10　06">
+  <img src="images/20160710_training_camp/07IMG_1543.jpg" alt="合宿　2016-7-9～10　07">
+  <img src="images/20160710_training_camp/08IMG_1544.jpg" alt="合宿　2016-7-9～10　08">
+  <img src="images/20160710_training_camp/09IMG_1545.jpg" alt="合宿　2016-7-9～10　09">
+  <img src="images/20160710_training_camp/DSC00765_1.jpg" alt="合宿　2016-7-9～10　10">
+  <img src="images/20160710_training_camp/DSC00777_1.jpg" alt="合宿　2016-7-9～10　11">
+</div><!-- /#gallery -->
+<!-- ギャラリー終了	-->
+
+
+<!--SSI追加。アルバムの外部ファイル読み出し -->
+          <!--#include virtual="/ssi/album.html"  -->
+
+
+			</div><!-- class="contentswrap"-->
+		</div><!-- id="mainFull"-->
+	</div>	<!-- #contents-->
+
+
+
+  <!-- 下部======================================================================== -->
+  <!--SSI追加。外部ファイル読み出し -->
+    <!--#include virtual="/ssi/footer.html"  -->
+  <!-- フッター終了======================================================================================== -->
+
+
+<!-- トップへ戻るボタン-->
+<p class="pagetop"><a href="#wrap">先頭へ▲</a></p>
+
+
+</div>	<!-- #page-->
+
+
+
+
+
+</body>
+</html>

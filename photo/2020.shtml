@@ -1,0 +1,200 @@
+﻿<!DOCTYPE html>
+
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+
+<!-- 個別設定必要-->
+<title>写真集｜ウィングAC</title>
+<meta name="keywords" content="ウィング・アスリートクラブ, ランニングクラブ, 柏市, 手賀沼">
+<meta name="description" content="本ページは、柏市手賀沼を中心に活動しているランニングクラブであるウィング・アスリートクラブの写真集のページです。2020年の写真です。">
+
+<!-- 電話番号にリンクを貼らないように-->
+<meta name="format-detection" content="telephone=no">
+
+<!-- レスポンシブ -->
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<!--[if lt IE 9]>
+  <script src="../js/css3-mediaqueries.js"></script>
+<![endif]-->	<!-- IE8以下の対応 -->
+<!-- IE9未満の対応。外部CSSファイルを指定しているlink要素の前に記述-->
+
+
+<!-- ｊQueryメイン  -->
+<script src="../js/jquery-1.12.3.min.js" type="text/javascript"></script>
+
+<!-- ドロップダウンメニュー、その他を、IE8以下に対応させるためのJS-->
+<script src="../js/html5shiv.js" type="text/javascript"></script>
+
+<!-- ギャラリー  -->
+<script src="../js/galleria/galleria-1.2.9.js" type="text/javascript"></script>
+<script src="../js/gallery_sub.js" type="text/javascript"></script>
+
+<!-- JS コードの外部ファイルに移動	-->
+<script src="../js/scripts.js" type="text/javascript"></script>
+
+<!-- cssファイルの読み込み	-->
+<link rel="stylesheet" href="../css/style.css">
+
+<!-- Font Awesome を利用-->
+<link rel="stylesheet" href="../font-awesome-4.6.3/css/font-awesome.min.css">
+
+<!-- アイコン読み出し-->
+<link rel="icon" href="../img/favicon.ico">
+
+</head>
+
+<body>
+<!-- #page ページの整形：中央寄せ -->
+<div id="page">
+
+
+	<!-- #header 画面上部のヘッダー==================================== -->
+		<!--SSI追加。ヘッダー外部ファイル読み出し -->
+							<!--#include virtual="/ssi/header.html"  -->
+	<!-- #header 画面上部のヘッダー、終了================================ -->
+
+
+  <!-- スライドメニューボタン  -->
+  <div id="menuButton">
+  <div id="menuButtonInner">
+  <span class="slideButton"><i class="fa fa-bars fa-4x"></i> <br>メニュー<br></span>
+  </div>
+  </div>
+
+  <div style="clear:both;"> </div>
+  <div id="layer"> </div>
+
+
+
+	<!-- #menu 画面上部のメニュー======================================================================== -->
+
+	<!--SSI追加。グローバルメニュー外部ファイル読み出し -->
+	          <!--#include virtual="/ssi/nav.html"  -->
+
+	<!-- #menu 画面上部のメニュー、終了================================================================== -->
+
+
+
+
+
+
+	<div id="contents">
+
+		<!-- #mainFull 本文スペース 幅100%-->
+		<div id="mainFull">
+			<div class="contentswrap">
+
+				<div class="title">
+					<h1>写真集</h1>
+					<p class="subh"></p>
+				</div>
+
+				<h2>2020年</h2>
+
+<!-- ギャラリー開始	-->
+<div id="gallery">
+  <img src="../photo/images3/20201220_relay/relay01.jpg" alt="ウィング版柏の葉リレーマラソン　2020-12-20　-01">
+  <img src="../photo/images3/20201220_relay/relay02.jpg" alt="ウィング版柏の葉リレーマラソン　2020-12-20　-02">
+  <img src="../photo/images3/20201220_relay/relay03.jpg" alt="ウィング版柏の葉リレーマラソン　2020-12-20　-03">
+  <img src="../photo/images3/20201220_relay/relay04.jpg" alt="ウィング版柏の葉リレーマラソン　2020-12-20　-04">
+  <img src="../photo/images3/20201220_relay/relay05.jpg" alt="ウィング版柏の葉リレーマラソン　2020-12-20　-05">
+  <img src="../photo/images3/20201220_relay/relay06.jpg" alt="ウィング版柏の葉リレーマラソン　2020-12-20　-06">
+  <img src="../photo/images3/20201220_relay/relay07.jpg" alt="ウィング版柏の葉リレーマラソン　2020-12-20　-07">
+  <img src="../photo/images3/20201220_relay/relay08.jpg" alt="ウィング版柏の葉リレーマラソン　2020-12-20　-08">
+  <img src="../photo/images3/20201220_relay/relay09.jpg" alt="ウィング版柏の葉リレーマラソン　2020-12-20　-09">
+  <img src="../photo/images3/20201220_relay/relay10.jpg" alt="ウィング版柏の葉リレーマラソン　2020-12-20　-10">
+  <img src="../photo/images3/20201220_relay/relay11.jpg" alt="ウィング版柏の葉リレーマラソン　2020-12-20　-11">
+  <img src="../photo/images3/20201220_relay/relay12.jpg" alt="ウィング版柏の葉リレーマラソン　2020-12-20　-12">
+  <img src="../photo/images3/20201220_relay/relay13.jpg" alt="ウィング版柏の葉リレーマラソン　2020-12-20　-13">
+  <img src="../photo/images3/20201220_relay/relay14.jpg" alt="ウィング版柏の葉リレーマラソン　2020-12-20　-14">
+  <img src="../photo/images3/20201220_relay/relay15.jpg" alt="ウィング版柏の葉リレーマラソン　2020-12-20　-15">
+  <img src="../photo/images3/20201220_relay/relay16.jpg" alt="ウィング版柏の葉リレーマラソン　2020-12-20　-16">
+  <img src="../photo/images3/20201213_kids/kids01.jpg" alt="キッズウィングAC　2020-12-13　-01">
+  <img src="../photo/images3/20201213_kids/kids02.jpg" alt="キッズウィングAC　2020-12-13　-02">
+  <img src="../photo/images3/20201128_unakichi/unakichi01.jpg" alt="うなきちカップ　2020-11-28　-01">
+  <img src="../photo/images2/20201025_WAC_teganuma/WAC_teganuma01.jpg" alt="10/25ウィングAC手賀沼ハーフマラソン　2020-10-25　-01">
+  <img src="../photo/images2/20201025_WAC_teganuma/WAC_teganuma02.jpg" alt="10/25ウィングAC手賀沼ハーフマラソン　2020-10-25　-02">
+  <img src="../photo/images2/20201025_WAC_teganuma/WAC_teganuma03.jpg" alt="10/25ウィングAC手賀沼ハーフマラソン　2020-10-25　-03">
+  <img src="../photo/images2/20201025_WAC_teganuma/WAC_teganuma04.jpg" alt="10/25ウィングAC手賀沼ハーフマラソン　2020-10-25　-04">
+  <img src="../photo/images2/20201025_WAC_teganuma/WAC_teganuma05.jpg" alt="10/25ウィングAC手賀沼ハーフマラソン　2020-10-25　-05">
+  <img src="../photo/images2/20201025_WAC_teganuma/WAC_teganuma06.jpg" alt="10/25ウィングAC手賀沼ハーフマラソン　2020-10-25　-06">
+  <img src="../photo/images2/20201025_WAC_teganuma/WAC_teganuma07.jpg" alt="10/25ウィングAC手賀沼ハーフマラソン　2020-10-25　-07">
+  <img src="../photo/images2/20201025_WAC_teganuma/WAC_teganuma08.jpg" alt="10/25ウィングAC手賀沼ハーフマラソン　2020-10-25　-08">
+  <img src="../photo/images2/20201025_WAC_teganuma/WAC_teganuma09.jpg" alt="10/25ウィングAC手賀沼ハーフマラソン　2020-10-25　-09">
+  <img src="../photo/images2/20201025_WAC_teganuma/WAC_teganuma10.jpg" alt="10/25ウィングAC手賀沼ハーフマラソン　2020-10-25　-10">
+  <img src="../photo/images2/20201025_WAC_teganuma/WAC_teganuma11.jpg" alt="10/25ウィングAC手賀沼ハーフマラソン　2020-10-25　-11">
+  <img src="../photo/images2/20201025_WAC_teganuma/WAC_teganuma12.jpg" alt="10/25ウィングAC手賀沼ハーフマラソン　2020-10-25　-12">
+  <img src="../photo/images2/20201025_WAC_teganuma/WAC_teganuma13.jpg" alt="10/25ウィングAC手賀沼ハーフマラソン　2020-10-25　-13">
+  <img src="../photo/images2/20201025_WAC_teganuma/WAC_teganuma14.jpg" alt="10/25ウィングAC手賀沼ハーフマラソン　2020-10-25　-14">
+  <img src="../photo/images2/20200927_noda/noda01.jpg" alt="9/27トラック練習会@野田　2020-9-27　-01">
+  <img src="../photo/images2/20200301_tokyo/tokyo01.jpg" alt="東京マラソン2020(エリートの部)　2020-3-1　-01">
+  <img src="../photo/images2/20200301_tokyo/tokyo02.jpg" alt="東京マラソン2020(エリートの部)　2020-3-1　-02">
+  <img src="../photo/images2/20200301_tokyo/tokyo03.jpg" alt="東京マラソン2020(エリートの部)　2020-3-1　-03">
+  <img src="../photo/images2/20200216_HOKAONEONE/HOKAONEONE01.jpg" alt="HOKAONE ONE試履会&amp;新迫選手(早稲田大学)ご来場　2020-2-16　-01">
+  <img src="../photo/images2/20200216_HOKAONEONE/HOKAONEONE02.jpg" alt="HOKAONE ONE試履会&amp;新迫選手(早稲田大学)ご来場　2020-2-16　-02">
+  <img src="../photo/images2/20200216_HOKAONEONE/HOKAONEONE03.jpg" alt="HOKAONE ONE試履会&amp;新迫選手(早稲田大学)ご来場　2020-2-16　-03">
+  <img src="../photo/images2/20200216_HOKAONEONE/HOKAONEONE04.jpg" alt="HOKAONE ONE試履会&amp;新迫選手(早稲田大学)ご来場　2020-2-16　-04">
+  <img src="../photo/images2/20200216_HOKAONEONE/HOKAONEONE05.jpg" alt="HOKAONE ONE試履会&amp;新迫選手(早稲田大学)ご来場　2020-2-16　-05">
+  <img src="../photo/images2/20200209_moriya/moriya01.jpg" alt="守谷ハーフマラソン　2020-2-9　-01">
+  <img src="../photo/images2/20200202_iioka/iioka01.jpg" alt="旭市飯岡しおさいマラソン　2020-2-2　-01">
+  <img src="../photo/images2/20200202_iioka/iioka02.jpg" alt="旭市飯岡しおさいマラソン　2020-2-2　-02">
+  <img src="../photo/images2/20200202_iioka/iioka03.jpg" alt="旭市飯岡しおさいマラソン　2020-2-2　-03">
+  <img src="../photo/images2/20200126_abiko/abiko01.jpg" alt="我孫子新春マラソン　2020-1-26　-01">
+  <img src="../photo/images2/20200126_abiko/abiko02.jpg" alt="我孫子新春マラソン　2020-1-26　-02">
+  <img src="../photo/images2/20200126_abiko/abiko03.jpg" alt="我孫子新春マラソン　2020-1-26　-03">
+  <img src="../photo/images2/20200126_abiko/abiko04.jpg" alt="我孫子新春マラソン　2020-1-26　-04">
+  <img src="../photo/images2/20200119_frost/frost01.jpg" alt="フロストバイト　2020-1-19　-01">
+  <img src="../photo/images2/20200119_frost/frost02.jpg" alt="フロストバイト　2020-1-19　-02">
+  <img src="../photo/images2/20200119_kamagaya/kamagaya01.jpg" alt="鎌ヶ谷新春マラソン　2020-1-19　-01">
+  <img src="../photo/images2/20200119_kamagaya/kamagaya02.jpg" alt="鎌ヶ谷新春マラソン　2020-1-19　-02">
+  <img src="../photo/images2/20200119_kashiwa/kashiwa01.jpg" alt="柏市新春マラソン　2020-1-19　-01">
+  <img src="../photo/images2/20200119_kashiwa/kashiwa02.jpg" alt="柏市新春マラソン　2020-1-19　-02">
+  <img src="../photo/images2/20200119_kashiwa/kashiwa03.jpg" alt="柏市新春マラソン　2020-1-19　-03">
+  <img src="../photo/images2/20200119_kashiwa/kashiwa04.jpg" alt="柏市新春マラソン　2020-1-19　-04">
+  <img src="../photo/images2/20200113_ushiku/ushiku01.jpg" alt="牛久シティマラソン　2020-1-13　-01">
+  <img src="../photo/images2/20200113_ushiku/ushiku02.jpg" alt="牛久シティマラソン　2020-1-13　-02">
+  <img src="../photo/images2/20200111_ichihara/ichihara01.jpg" alt="市原高滝湖マラソン　2020-1-11　-01">
+  <img src="../photo/images2/20200111_ichihara/ichihara02.jpg" alt="市原高滝湖マラソン　2020-1-11　-02">
+  <img src="../photo/images2/20200112_tokyo_shiso/tokyo_shiso01.jpg" alt="東京マラソン試走会　2020-1-12　-01">
+  <img src="../photo/images2/20200112_tokyo_shiso/tokyo_shiso02.jpg" alt="東京マラソン試走会　2020-1-12　-02">
+  <img src="../photo/images2/20200112_tokyo_shiso/tokyo_shiso03.jpg" alt="東京マラソン試走会　2020-1-12　-03">
+  <img src="../photo/images2/20200112_tokyo_shiso/tokyo_shiso04.jpg" alt="東京マラソン試走会　2020-1-12　-04">
+  <img src="../photo/images2/20200112_tokyo_shiso/tokyo_shiso05.jpg" alt="東京マラソン試走会　2020-1-12　-05">
+  <img src="../photo/images2/20200112_tokyo_shiso/tokyo_shiso06.jpg" alt="東京マラソン試走会　2020-1-12　-06">
+  <img src="../photo/images2/20200104_RunLondon/RunLondon01.jpg" alt="RunThrough Victoria Park marathon @London　-01">
+
+
+
+</div><!-- /#gallery -->
+<!-- ギャラリー終了	-->
+
+
+<!--SSI追加。アルバムの外部ファイル読み出し -->
+          <!--#include virtual="/ssi/album.html"  -->
+
+
+			</div><!-- class="contentswrap"-->
+		</div><!-- id="mainFull"-->
+	</div>	<!-- #contents-->
+
+
+
+  <!-- 下部======================================================================== -->
+  <!--SSI追加。外部ファイル読み出し -->
+    <!--#include virtual="/ssi/footer.html"  -->
+  <!-- フッター終了======================================================================================== -->
+
+
+<!-- トップへ戻るボタン-->
+<p class="pagetop"><a href="#wrap">先頭へ▲</a></p>
+
+
+</div>	<!-- #page-->
+
+
+
+
+
+</body>
+</html>

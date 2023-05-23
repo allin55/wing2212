@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+
+<!-- 個別設定必要-->
+<title>練習メニュー｜ウィングAC</title>
+<meta name="keywords" content="ウィング・アスリートクラブ, ランニングクラブ, 柏市, 手賀沼">
+<meta name="description" content="本ページは、柏市手賀沼を中心に活動しているランニングクラブであるウィング・アスリートクラブの練習メニューのページです。">
+
+
+<!-- 電話番号にリンクを貼らないように-->
+<meta name="format-detection" content="telephone=no">
+
+<!-- レスポンシブ -->
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<!--[if lt IE 9]>
+  <script src="../js/css3-mediaqueries.js"></script>
+<![endif]-->	<!-- IE8以下の対応 -->
+<!-- IE9未満の対応。外部CSSファイルを指定しているlink要素の前に記述-->
+
+
+<!-- ｊQueryメイン  -->
+<script src="../js/jquery-1.12.3.min.js" type="text/javascript"></script>
+
+<!-- ドロップダウンメニュー、その他を、IE8以下に対応させるためのJS-->
+<script src="../js/html5shiv.js" type="text/javascript"></script>
+
+<!-- ギャラリー
+<script src="../js/galleria/galleria-1.2.9.js" type="text/javascript"></script>
+<script src="../js/gallery_sub.js" type="text/javascript"></script>
+ -->
+
+<!-- JS コードの外部ファイルに移動	-->
+<script src="../js/scripts.js" type="text/javascript"></script>
+
+<!-- cssファイルの読み込み	-->
+<link rel="stylesheet" href="../css/style.css">
+
+<!-- Font Awesome を利用-->
+<link rel="stylesheet" href="../font-awesome-4.6.3/css/font-awesome.min.css">
+
+<!-- アイコン読み出し-->
+<link rel="icon" href="../img/favicon.ico">
+
+</head>
+
+<body>
+<!-- #page ページの整形：中央寄せ -->
+<div id="page">
+
+
+	<!-- #header 画面上部のヘッダー==================================== -->
+		<!--SSI追加。ヘッダー外部ファイル読み出し -->
+							<!--#include virtual="/ssi/header.html"  -->
+	<!-- #header 画面上部のヘッダー、終了================================ -->
+
+
+  <!-- スライドメニューボタン  -->
+  <div id="menuButton">
+  <div id="menuButtonInner">
+  <span class="slideButton"><i class="fa fa-bars fa-4x"></i> <br>メニュー<br></span>
+  </div>
+  </div>
+
+  <div style="clear:both;"> </div>
+  <div id="layer"> </div>
+
+
+
+	<!-- #menu 画面上部のメニュー======================================================================== -->
+
+	<!--SSI追加。グローバルメニュー外部ファイル読み出し -->
+	          <!--#include virtual="/ssi/nav.html"  -->
+
+	<!-- #menu 画面上部のメニュー、終了================================================================== -->
+
+
+
+
+
+
+	<div id="contents">
+		<!-- #main 本文スペース -->
+		<div id="mainFull">
+			<div class="contentswrap">
+				<div class="title">
+					<h1>練習メニュー　2016年<a href="#2016年5月">5月</a>,<a href="#2016年6月">6月</a>,<a href="#2016年7月">7月</a>,<a href="#2016年8月">8月</a></h1>
+					<p class="subh">PDFファイルはこちらからダウンロードできます</p>
+				</div>
+
+        <section>
+          <div class="rensyuWrap">
+            <a id="2016年5月"></a>
+            <h2>2016年5月</h2>
+          	<dl class="rensyu">
+                <dt>05-01</dt>
+                <dd class="rensyu_name">ペース走
+                  <dl class="rensyu_menu">
+                    <dt>ドリーム</dt> <dd>20ｋｍ（3’45”～4’00”/ｋｍ）+流し</dd>
+                    <dt>フューチャー</dt><dd>18ｋｍ（4’00”～4’30”/ｋｍ）</dd>
+                    <dt>アミーゴ/Ａ</dt> <dd>16ｋｍ（4’30”～5’00”/ｋｍ）</dd>
+                    <dt>アミーゴ/Ｂ</dt> <dd>14ｋｍ（5’00”～5’30”/ｋｍ）</dd>
+                    <dt>チャレンジ</dt> <dd>12ｋｍ（5’30”～6’00”/ｋｍ）</dd>
+                  </dl>
+                  <p class="commentDD">※監督コーチMT　他</p>
+    					</dd>
+                <dt>05-08</dt>
+                <dd class="rensyu_name">L.S.D（手賀沼周回）／筑波Ｌ.Ｓ.Ｄ
+    							<dl class="rensyu_menu">
+    								<dt>ドリーム</dt> <dd>36ｋｍ（5’00”～6’00”/ｋｍ）</dd>
+    								<dt>フューチャー</dt><dd>36ｋｍ（5’00”～6’30”/ｋｍ）</dd>
+    								<dt>アミーゴ/Ａ</dt> <dd>27ｋｍ（5’30”～6’30”/ｋｍ）</dd>
+    								<dt>アミーゴ/Ｂ</dt> <dd>27ｋｍ（6’00”～7’00”/ｋｍ）</dd>
+    								<dt>チャレンジ</dt> <dd>ｊｏｇ15～20ｋｍ</dd>
+    							</dl>
+                      <p class="commentDD">※仙台国際ハーフ</p>
+    						</dd>
+              <dt>05-15</dt>
+              <dd class="rensyu_name">トラック練習（<a href="http://www.city.noda.chiba.jp/shisetsu/kouen/1001068.html" target="_blank">野田陸上競技場</a>）
+  							<dl class="rensyu_menu">
+  								<dt>全チーム</dt> <dd>3000ｍ+3000ｍ+1000ｍ</dd>
+  								<dt>8:50</dt> <dd><a href="https://goo.gl/maps/fvirPnVETvq" target="_blank">野田市陸上競技場正門前集合</a></dd>
+  							</dl>
+                <p class="commentDD">※ＢＢＱ兼新入会員歓迎会</p>
+  						</dd>
+  						<dt>05-22</dt>
+  						<dd class="rensyu_name">インターバル走　500ｍ（Ｕｐ2ｋｍ）
+  							<dl class="rensyu_menu">
+  								<dt>ドリーム</dt> <dd>10本（90秒）+ｊｏｇ500ｍ（150秒）</dd>
+  								<dt>フューチャー</dt><dd>10本（105秒）+ｊｏｇ500ｍ（165秒）</dd>
+  								<dt>アミーゴ/Ａ</dt> <dd>8本（120秒）+ｊｏｇ500ｍ（195秒）</dd>
+  								<dt>アミーゴ/Ｂ</dt> <dd>8本（135秒）+ｊｏｇ500ｍ（195秒）</dd>
+  								<dt>チャレンジ</dt> <dd>ｊｏｇ15～20ｋｍ</dd>
+  							</dl>
+  						</dd>
+              <dt>05-29</dt>
+              <dd class="rensyu_name">ビルドアップ走（フィッシングセンター折り返し）
+                <dl class="rensyu_menu">
+                  <dt>ドリーム</dt> <dd>20ｋｍ（6’00”→3’45”/ｋｍ）</dd>
+                  <dt>フューチャー</dt><dd>18ｋｍ（6’00”→4’00”/ｋｍ）</dd>
+                  <dt>アミーゴ/Ａ</dt> <dd>18ｋｍ（6’00”→4’30”/ｋｍ）</dd>
+                  <dt>アミーゴ/Ｂ</dt> <dd>16ｋｍ（6’00”→5’00”/ｋｍ）</dd>
+                  <dt>チャレンジ</dt> <dd>14ｋｍ（7’00”→6’00”/ｋｍ）</dd>
+                </dl>
+                  <p class="commentDD">※練習終了後、渡辺会長による基礎トレ</p>
+              </dd>
+            </dl><!-- END.rensyu  -->
+          </div>
+
+          <div class="rensyuWrap">
+            <a id="2016年6月"></a>
+            <h2>2016年6月</h2>
+          	<dl class="rensyu">
+                <dt>06-05</dt>
+    						<dd class="rensyu_name">L.S.D（手賀沼周回）／筑波Ｌ.Ｓ.Ｄ
+    							<dl class="rensyu_menu">
+    								<dt>ドリーム</dt> <dd>36ｋｍ（5’00”～6’00”/ｋｍ）</dd>
+    								<dt>フューチャー</dt><dd>36ｋｍ（5’00”～6’30”/ｋｍ）</dd>
+    								<dt>アミーゴ/Ａ</dt> <dd>27ｋｍ（5’30”～6’30”/ｋｍ）</dd>
+    								<dt>アミーゴ/Ｂ</dt> <dd>27ｋｍ（6’00”～7’00”/ｋｍ）</dd>
+    								<dt>チャレンジ</dt> <dd>ｊｏｇ15～20ｋｍ</dd>
+    							</dl>
+                      <p class="commentDD">※柴又100㎞</p>
+    						</dd>
+                <dt>06-12</dt>
+                <dd class="rensyu_name">ペース走
+                  <dl class="rensyu_menu">
+                  <dt>ドリーム</dt> <dd>20ｋｍ（3’45”～4’00”/ｋｍ）+流し</dd>
+                  <dt>フューチャー</dt><dd>18ｋｍ（4’00”～4’30”/ｋｍ）</dd>
+                  <dt>アミーゴ/Ａ</dt> <dd>16ｋｍ（4’30”～5’00”/ｋｍ）</dd>
+                  <dt>アミーゴ/Ｂ</dt> <dd>14ｋｍ（5’00”～5’30”/ｋｍ）</dd>
+                  <dt>チャレンジ</dt> <dd>12ｋｍ（5’30”～6’00”/ｋｍ）</dd>
+                </dl>
+                  <p class="commentDD">※検見川クロカン練習会</p>
+              </dd>
+              <dt>06-19</dt>
+              <dd class="rensyu_name">ビルドアップ走（フィッシングセンター折り返し）
+                <dl class="rensyu_menu">
+                  <dt>ドリーム</dt> <dd>20ｋｍ（6’00”→3’45”/ｋｍ）</dd>
+                  <dt>フューチャー</dt><dd>18ｋｍ（6’00”→4’00”/ｋｍ）</dd>
+                  <dt>アミーゴ/Ａ</dt> <dd>18ｋｍ（6’00”→4’30”/ｋｍ）</dd>
+                  <dt>アミーゴ/Ｂ</dt> <dd>16ｋｍ（6’00”→5’00”/ｋｍ）</dd>
+                  <dt>チャレンジ</dt> <dd>14ｋｍ（7’00”→6’00”/ｋｍ）</dd>
+                </dl>
+                  <p class="commentDD">※練習終了後、渡辺会長による基礎トレ</p>
+              </dd>
+  						<dt>06-26</dt>
+  						<dd class="rensyu_name">L.S.D（手賀沼周回）
+  							<dl class="rensyu_menu">
+  								<dt>ドリーム</dt> <dd>36ｋｍ（5’00”～6’00”/ｋｍ）</dd>
+  								<dt>フューチャー</dt><dd>36ｋｍ（5’00”～6’30”/ｋｍ）</dd>
+  								<dt>アミーゴ/Ａ</dt> <dd>27ｋｍ（5’30”～6’30”/ｋｍ）</dd>
+  								<dt>アミーゴ/Ｂ</dt> <dd>27ｋｍ（6’00”～7’00”/ｋｍ）</dd>
+  								<dt>チャレンジ</dt> <dd>ｊｏｇ15～20ｋｍ</dd>
+  							</dl>
+  						</dd>
+            </dl><!-- END.rensyu  -->
+          </div>
+
+          <div class="float_clear"></div>
+
+          <div class="rensyuWrap">
+            <a id="2016年7月"></a>
+            <h2>2016年7月</h2>
+            <dl class="rensyu">
+  						<dt>07-03</dt>
+  						<dd class="rensyu_name">トラック練習（<a href="http://www.city.noda.chiba.jp/shisetsu/kouen/1001068.html" target="_blank">野田陸上競技場</a>）
+  							<dl class="rensyu_menu">
+  								<dt>全チーム</dt> <dd>5000ｍ+1000ｍ(タイムトライアル)</dd>
+  								<dt>8:50</dt> <dd><a href="https://goo.gl/maps/fvirPnVETvq" target="_blank">野田市陸上競技場正門前集合</a></dd>
+  							</dl>
+  						</dd>
+  						<dt>07-10</dt>	<dd class="rensyu_name">旅行親睦会兼合宿、残留組＝jog</dd>
+
+              <dt>07-17</dt>
+              <dd class="rensyu_name">ビルドアップ走（フィッシングセンター折り返し）
+                <dl class="rensyu_menu">
+                  <dt>ドリーム</dt> <dd>20ｋｍ（6’00”→3’45”/ｋｍ）</dd>
+                  <dt>フューチャー</dt><dd>18ｋｍ（6’00”→4’00”/ｋｍ）</dd>
+                  <dt>アミーゴ/Ａ</dt> <dd>18ｋｍ（6’00”→4’30”/ｋｍ）</dd>
+                  <dt>アミーゴ/Ｂ</dt> <dd>16ｋｍ（6’00”→5’00”/ｋｍ）</dd>
+                  <dt>チャレンジ</dt> <dd>14ｋｍ（7’00”→6’00”/ｋｍ）</dd>
+                </dl>
+              </dd>
+              <dt>07-24</dt>
+              <dd class="rensyu_name">ペース走
+                <dl class="rensyu_menu">
+                  <dt>ドリーム</dt> <dd>20ｋｍ（3’45”～4’00”/ｋｍ）+流し</dd>
+                  <dt>フューチャー</dt><dd>18ｋｍ（4’00”～4’30”/ｋｍ）</dd>
+                  <dt>アミーゴ/Ａ</dt> <dd>16ｋｍ（4’30”～5’00”/ｋｍ）</dd>
+                  <dt>アミーゴ/Ｂ</dt> <dd>14ｋｍ（5’00”～5’30”/ｋｍ）</dd>
+                  <dt>チャレンジ</dt> <dd>12ｋｍ（5’30”～6’00”/ｋｍ）</dd>
+                </dl>
+              </dd>
+              <dt>07-24</dt>
+              <dd class="rensyu_name"><a href="http://www.iwana.shiteikanri-sakura.jp/iwa/" target="_blank">岩名クロカン練習会</a>
+                <dl class="rensyu_menu">
+                  <dt>07:30</dt> <dd class="cTime">ふるさと公園集合～出発</dd>
+                  <dt>08:40</dt> <dd class="cTime"><a href="https://goo.gl/maps/RysnNqDyAM12" target="_blank">岩名運動公園 駐車場近くの芝生広場集合</a></dd>
+                  <dt>08:50</dt> <dd class="cTime">準備運動</dd>
+                  <dt>09:00</dt> <dd class="cTime">コース1周wーup</dd>
+                  <dt>09:15</dt> <dd class="cTime">120分クロカン</dd>
+                  <dt>11:15</dt> <dd class="cTime">スタート地点集合～downjog</dd>
+                  <dt>11:45</dt> <dd class="cTime">解散</dd>
+                </dl>
+              </dd>
+                <dt>07-31</dt>
+                <dd class="rensyu_name">ビルドアップ走（フィッシングセンター折り返し）
+                  <dl class="rensyu_menu">
+                    <dt>ドリーム</dt> <dd>20ｋｍ（6’00”→3’45”/ｋｍ）</dd>
+                    <dt>フューチャー</dt><dd>18ｋｍ（6’00”→4’00”/ｋｍ）</dd>
+                    <dt>アミーゴ/Ａ</dt> <dd>18ｋｍ（6’00”→4’30”/ｋｍ）</dd>
+                    <dt>アミーゴ/Ｂ</dt> <dd>16ｋｍ（6’00”→5’00”/ｋｍ）</dd>
+                    <dt>チャレンジ</dt> <dd>14ｋｍ（7’00”→6’00”/ｋｍ）</dd>
+                  </dl>
+                    <p class="commentDD">※練習終了後、渡辺会長による基礎トレ</p>
+              </dd>
+            </dl><!-- END.rensyu  -->
+          </div>
+
+          <div class="rensyuWrap">
+            <a id="2016年8月"></a>
+            <h2>2016年8月</h2>
+            <dl class="rensyu">
+              <dt>08-07</dt>
+  						<dd class="rensyu_name">L.S.D（手賀沼周回）
+  							<dl class="rensyu_menu">
+  								<dt>ドリーム</dt> <dd>36ｋｍ（5’00”～6’00”/ｋｍ）</dd>
+  								<dt>フューチャー</dt><dd>36ｋｍ（5’00”～6’30”/ｋｍ）</dd>
+  								<dt>アミーゴ/Ａ</dt> <dd>27ｋｍ（5’30”～6’30”/ｋｍ）</dd>
+  								<dt>アミーゴ/Ｂ</dt> <dd>27ｋｍ（6’00”～7’00”/ｋｍ）</dd>
+  								<dt>チャレンジ</dt> <dd>ｊｏｇ15～20ｋｍ</dd>
+  							</dl>
+                    <p class="commentDD">※岩名クロカン練習会</p>
+  						</dd>
+              <dt>08-14</dt>
+              <dd class="rensyu_name">トラック練習（<a href="http://www.cue-net.or.jp/kouen/kasiwa/" target="_blank">柏の葉</a>）
+  							<dl class="rensyu_menu">
+                    <dt>ドリーム</dt> <dd>400ｍ×（5本×3ｓｅｔ）</dd>
+  								<dt>フューチャー</dt><dd>400ｍ×（5本×3ｓｅｔ）</dd>
+  								<dt>アミーゴ/Ａ</dt> <dd>400ｍ×（4本×3ｓｅｔ）</dd>
+  								<dt>アミーゴ/Ｂ</dt> <dd>400ｍ×（4本×3ｓｅｔ）</dd>
+  								<dt>チャレンジ</dt> <dd>400ｍ×（3本×3ｓｅｔ）</dd>
+                  </dl>
+              </dd>
+                <dt>08-21</dt>
+                <dd class="rensyu_name">インターバル走　2000ｍ（Ｕｐ2ｋｍ）
+    							<dl class="rensyu_menu">
+                      <dt>ドリーム</dt> <dd>2000ｍ×3本（6’20”）</dd>
+    								<dt>フューチャー</dt><dd>2000ｍ×3本（7’10”）</dd>
+    								<dt>アミーゴ/Ａ</dt> <dd>2000ｍ×3本（8’00”）</dd>
+    								<dt>アミーゴ/Ｂ</dt> <dd>2000ｍ×3本（8’30”）</dd>
+    								<dt>チャレンジ</dt> <dd>2000ｍ×3本（9’30”）</dd>
+                  </dl>
+                </dd>
+                <dt>08-28</dt>
+                <dd class="rensyu_name">柏の葉リレーマラソン/不参加の方＝ｊｏｇ
+                  <dl class="rensyu_menu">
+                    <dt>全チーム</dt> <dd>ｊｏｇ10～20ｋｍ</dd>
+                  </dl>
+                </dd>
+
+              </dl><!-- END.rensyu  -->
+            </div>
+
+            </section>
+
+            <section>
+              <h2>ドリーム設定例</h2>
+              <h3>ペース走</h3>
+              <p>0～10ｋｍ＝4’00”/10ｋｍ～18ｋｍ＝3’45”/18ｋｍ～ラスト＝フリー</p>
+              <h3>Ｌ.Ｓ.Ｄ（手賀沼周回）</h3>
+              <p>1周目＝アップのつもりで＝6’00”～5’30”/ｋｍ<br>
+                2周目＝楽に＝5’30”～5’00”/ｋｍ<br>
+                3周目＝ここからが練習＝5’30”～5’00”/ｋｍ<br>
+                4周目＝しっかりと＝5’00”～フリー/ｋｍ</p>
+              <h3>ビルドアップ走（フィッシングセンター折り返し）</h3>
+              <p>0～2ｋｍ＝6’00”～5’30”/ｋｍ（北千葉導水までアップ）<br>
+                11～16ｋｍ＝4’00”/ｋｍ（フィッシングセンターから手賀沼大橋まで）<br>
+                16～18ｋｍ＝3’45”（手賀沼大橋から鉄塔の間）<br>
+                18～20ｋｍ＝フリー/ｋｍ（大津川の橋の手前の鉄塔からフリー）</p>
+            </section>
+
+            <section>
+              <h2>注意</h2>
+              <p>セット間の間隔は各チームで決める事<br>
+                例　ドリーム　セット間15分(2000mの時）</p>
+            </section>
+
+            <section>
+              <h2>過去の練習メニューへのリンク</h2>
+              <ul class="galleryArchive">
+              	<li>
+              		<a href="20160508menu.pdf" target="_blank">2016年5月～8月</a>
+              	</li>
+              	<li>
+              		<a href="20160104menu.pdf" target="_blank">2016年1月～4月</a>
+              	</li>
+              	<li>
+              		<a href="20150912menu.pdf" target="_blank">2015年9月～12月</a>
+              	</li>
+              	<li>
+              		<a href="20150508menu.pdf" target="_blank">2015年5月～8月</a>
+              	</li>
+              </ul>
+            </section>
+
+
+
+
+			</div>
+		</div>
+
+
+
+
+	</div>	<!-- #contents-->
+
+
+
+  <!-- 下部======================================================================== -->
+  <!--SSI追加。外部ファイル読み出し -->
+    <!--#include virtual="/ssi/footer.html"  -->
+  <!-- フッター終了======================================================================================== -->
+
+
+<!-- トップへ戻るボタン-->
+<p class="pagetop"><a href="#wrap">先頭へ▲</a></p>
+
+
+</div>	<!-- #page-->
+
+
+
+
+</body>
+</html>

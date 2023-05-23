@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+
+<!-- 個別設定必要-->
+<title>年間行事｜ウィングAC</title>
+<meta name="keywords" content="ウィング・アスリートクラブ, ランニングクラブ, 柏市, 手賀沼">
+<meta name="description" content="本ページは、柏市手賀沼を中心に活動しているランニングクラブであるウィング・アスリートクラブの年間行事のページです">
+
+
+<!-- 電話番号にリンクを貼らないように-->
+<meta name="format-detection" content="telephone=no">
+
+<!-- レスポンシブ -->
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<!--[if lt IE 9]>
+  <script src="../js/css3-mediaqueries.js"></script>
+<![endif]-->	<!-- IE8以下の対応 -->
+<!-- IE9未満の対応。外部CSSファイルを指定しているlink要素の前に記述-->
+
+
+<!-- ｊQueryメイン  -->
+<script src="../js/jquery-1.12.3.min.js" type="text/javascript"></script>
+
+<!-- ドロップダウンメニュー、その他を、IE8以下に対応させるためのJS-->
+<script src="../js/html5shiv.js" type="text/javascript"></script>
+
+<!-- ギャラリー
+<script src="../js/galleria/galleria-1.2.9.js" type="text/javascript"></script>
+<script src="../js/gallery_sub.js" type="text/javascript"></script>
+ -->
+
+<!-- JS コードの外部ファイルに移動	-->
+<script src="../js/scripts.js" type="text/javascript"></script>
+
+<!-- cssファイルの読み込み	-->
+<link rel="stylesheet" href="../css/style.css">
+
+<!-- Font Awesome を利用-->
+<link rel="stylesheet" href="../font-awesome-4.6.3/css/font-awesome.min.css">
+
+<!-- アイコン読み出し-->
+<link rel="icon" href="../img/favicon.ico">
+
+</head>
+
+<body>
+<!-- #page ページの整形：中央寄せ -->
+<div id="page">
+
+
+	<!-- #header 画面上部のヘッダー==================================== -->
+		<!--SSI追加。ヘッダー外部ファイル読み出し -->
+							<!--#include virtual="/ssi/header.html"  -->
+	<!-- #header 画面上部のヘッダー、終了================================ -->
+
+
+  <!-- スライドメニューボタン  -->
+  <div id="menuButton">
+  <div id="menuButtonInner">
+  <span class="slideButton"><i class="fa fa-bars fa-4x"></i> <br>メニュー<br></span>
+  </div>
+  </div>
+
+  <div style="clear:both;"> </div>
+  <div id="layer"> </div>
+
+
+
+	<!-- #menu 画面上部のメニュー======================================================================== -->
+
+	<!--SSI追加。グローバルメニュー外部ファイル読み出し -->
+	          <!--#include virtual="/ssi/nav.html"  -->
+
+	<!-- #menu 画面上部のメニュー、終了================================================================== -->
+
+
+
+
+
+
+	<div id="contents">
+		<!-- #main 本文スペース -->
+		<div id="mainfull">
+			<div class="contentswrap">
+				<div class="title">
+					<h1>年間行事</h1>
+					<p class="subh">2017年度の年間行事です</p>
+				</div>
+
+
+<h3>2017年度（2017.4～2018.3） イベント計画</h3>
+
+<table class="type08">
+    <tr>
+        <th>4月</th>	<td>検見川クロカン</td><td>夏場（6月）の検見川を避け4月のみに。※4月29日開催予定</td>
+    </tr>
+    <tr>
+        <th>5月</th>	<td>トラック、BBQ、つくば&#9312;</td><td>BBQ会場はトラック近くと限定せず、以前の水代果樹園も候補に。別日程も。</td>
+    </tr>
+    <tr>
+        <th>6月</th>	<td>つくば&#9313;、岩名&#9312;</td><td>岩名は6月上旬まで野球場の改修工事。中旬以降で検討。</td>
+    </tr>
+    <tr>
+        <th>7月</th>	<td>トラック、旅行親睦会兼合宿</td><td></td>
+    </tr>
+    <tr>
+        <th>8月</th>	<td>トラック、岩名&#9313;、柏の葉RM</td><td></td>
+    </tr>
+    <tr>
+        <th>9月</th>	<td>岩名&#9314;、上期反省会</td><td></td>
+    </tr>
+    <tr>
+        <th>10月</th>	<td>つくば&#9314;、手賀沼試走会、打ち上げ</td><td>手賀沼試走会サポートメンバーを早めに募る。大会事務局へのボランティアを早期に募る。</td>
+    </tr>
+    <tr>
+        <th>11月</th>	<td>つくば&#9315;</td><td></td>
+    </tr>
+    <tr>
+        <th>12月</th>	<td>チャリティーラン忘年会、走り納め</td><td></td>
+    </tr>
+    <tr>
+        <th>1月</th>	<td>運営委員会</td><td></td>
+    </tr>
+    <tr>
+        <th>2月</th>	<td>運営委員会</td><td></td>
+    </tr>
+    <tr>
+        <th>3月</th>	<td>全体MT</td><td></td>
+    </tr>
+</table>
+
+<ul>
+    <li>AED講習会の案内は定期的に実施。（課題：誰が？いつ？）</li>
+    <li>「キッズ・ウィングAC」（陸上教室）：2ヶ月に1回、本練習ペース走の際に開催を計画。</li>
+    <li>知野様とのコラボ企画はご本人様とのスケジュール調整の上、案内する。</li>
+</ul>
+
+
+
+
+
+<!-- <div>
+    <dl> -->
+        <!-- .linkNarrow＝月表示を幅狭に　　-->
+        <!-- <dt>4月</dt>	<dd class="linkNarrow">検見川クロカン（注1）</dd>
+        <dt>5月</dt>	<dd class="linkNarrow">トラック、BBQ（注2）、つくば&#9312;</dd>
+        <dt>6月</dt>	<dd class="linkNarrow">つくば&#9313;、岩名&#9312;（注3）</dd>
+        <dt>7月</dt>	<dd class="linkNarrow">トラック、旅行親睦会兼合宿</dd>
+        <dt>8月</dt>	<dd class="linkNarrow">トラック、岩名&#9313;、柏の葉RM</dd>
+        <dt>9月</dt>	<dd class="linkNarrow">岩名&#9314;、上期反省会</dd>
+        <dt>10月</dt>	<dd class="linkNarrow">つくば&#9314;、手賀沼試走会（注4）、打ち上げ</dd>
+        <dt>11月</dt>	<dd class="linkNarrow">つくば&#9315;</dd>
+        <dt>12月</dt>	<dd class="linkNarrow">チャリティーラン忘年会、走り納め</dd>
+        <dt>1月</dt>	<dd class="linkNarrow">運営委員会</dd>
+        <dt>2月</dt>	<dd class="linkNarrow">運営委員会</dd>
+        <dt>3月</dt>	<dd class="linkNarrow">全体MT</dd>
+
+    </dl>
+</div> -->
+
+<!--
+<ul>
+    <li>注1：夏場（6月）の検見川を避け4月のみに。　※4月29日開催予定</li>
+    <li>注2：BBQ会場はトラック近くと限定せず、以前の水代果樹園も候補に。別日程も。</li>
+    <li>注3：岩名は6月上旬まで野球場の改修工事。中旬以降で検討。</li>
+    <li>注4：手賀沼試走会サポートメンバーを早めに募る。大会事務局へのボランティアを早期に募る。</li>
+    <li>AED講習会の案内は定期的に実施。（課題：誰が？いつ？）</li>
+    <li>「キッズ・ウィングAC」（陸上教室）：2ヶ月に1回、本練習ペース走の際に開催を計画。</li>
+    <li>知野様とのコラボ企画はご本人様とのスケジュール調整の上、案内する。</li>
+</ul>
+ -->
+
+
+				<div id="subnavi"> </div>
+			</div>
+		</div>
+
+
+
+
+    <!-- #menuL 右サイドメニューなし=========================================== -->
+
+    	</div>	<!-- #contents-->
+
+    <!-- 下部======================================================================== -->
+    <!--SSI追加。外部ファイル読み出し -->
+      <!--#include virtual="/ssi/footer.html"  -->
+    <!-- フッター終了======================================================================================== -->
+
+
+<!-- トップへ戻るボタン-->
+<p class="pagetop"><a href="#wrap">先頭へ▲</a></p>
+
+
+</div>	<!-- #page-->
+
+
+
+
+
+</body>
+</html>

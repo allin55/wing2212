@@ -1,0 +1,179 @@
+﻿<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+
+<!-- 個別設定必要-->
+<title>写真集｜ウィングAC</title>
+<meta name="keywords" content="ウィング・アスリートクラブ, ランニングクラブ, 柏市, 手賀沼">
+<meta name="description" content="本ページは、柏市手賀沼を中心に活動しているランニングクラブであるウィング・アスリートクラブの写真集のページです。2018年4～6月の写真です。">
+
+<!-- 電話番号にリンクを貼らないように-->
+<meta name="format-detection" content="telephone=no">
+
+<!-- レスポンシブ -->
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<!--[if lt IE 9]>
+  <script src="../js/css3-mediaqueries.js"></script>
+<![endif]-->	<!-- IE8以下の対応 -->
+<!-- IE9未満の対応。外部CSSファイルを指定しているlink要素の前に記述-->
+
+
+<!-- ｊQueryメイン  -->
+<script src="../js/jquery-1.12.3.min.js" type="text/javascript"></script>
+
+<!-- ドロップダウンメニュー、その他を、IE8以下に対応させるためのJS-->
+<script src="../js/html5shiv.js" type="text/javascript"></script>
+
+<!-- ギャラリー  -->
+<script src="../js/galleria/galleria-1.2.9.js" type="text/javascript"></script>
+<script src="../js/gallery_sub.js" type="text/javascript"></script>
+
+<!-- JS コードの外部ファイルに移動	-->
+<script src="../js/scripts.js" type="text/javascript"></script>
+
+<!-- cssファイルの読み込み	-->
+<link rel="stylesheet" href="../css/style.css">
+
+<!-- Font Awesome を利用-->
+<link rel="stylesheet" href="../font-awesome-4.6.3/css/font-awesome.min.css">
+
+<!-- アイコン読み出し-->
+<link rel="icon" href="../img/favicon.ico">
+
+</head>
+
+<body>
+<!-- #page ページの整形：中央寄せ -->
+<div id="page">
+
+
+	<!-- #header 画面上部のヘッダー==================================== -->
+		<!--SSI追加。ヘッダー外部ファイル読み出し -->
+							<!--#include virtual="/ssi/header.html"  -->
+	<!-- #header 画面上部のヘッダー、終了================================ -->
+
+
+  <!-- スライドメニューボタン  -->
+  <div id="menuButton">
+  <div id="menuButtonInner">
+  <span class="slideButton"><i class="fa fa-bars fa-4x"></i> <br>メニュー<br></span>
+  </div>
+  </div>
+
+  <div style="clear:both;"> </div>
+  <div id="layer"> </div>
+
+
+
+	<!-- #menu 画面上部のメニュー======================================================================== -->
+
+	<!--SSI追加。グローバルメニュー外部ファイル読み出し -->
+	          <!--#include virtual="/ssi/nav.html"  -->
+
+	<!-- #menu 画面上部のメニュー、終了================================================================== -->
+
+
+
+
+
+
+	<div id="contents">
+
+		<!-- #mainFull 本文スペース 幅100%-->
+		<div id="mainFull">
+			<div class="contentswrap">
+
+				<div class="title">
+					<h1>写真集</h1>
+					<p class="subh"></p>
+				</div>
+
+				<h2>2018年4～6月</h2>
+
+<!-- ギャラリー開始	-->
+<div id="gallery">
+<img src="../photo/images/20180624_tomisato/tomisato01.jpg" alt="富里スイカロードレース　2018-6-24　-01">
+<img src="../photo/images/20180624_tomisato/tomisato02.jpg" alt="富里スイカロードレース　2018-6-24　-02">
+<img src="../photo/images/20180624_tomisato/tomisato03.jpg" alt="富里スイカロードレース　2018-6-24　-03">
+<img src="../photo/images/20180624_tomisato/tomisato04.jpg" alt="富里スイカロードレース　2018-6-24　-04">
+<img src="../photo/images/20180624_tomisato/tomisato05.jpg" alt="富里スイカロードレース　2018-6-24　-05">
+<img src="../photo/images/20180624_tomisato/tomisato06.jpg" alt="富里スイカロードレース　2018-6-24　-06">
+<img src="../photo/images/20180624_tomisato/tomisato07.jpg" alt="富里スイカロードレース　2018-6-24　-07">
+<img src="../photo/images/20180624_tomisato/tomisato08.jpg" alt="富里スイカロードレース　2018-6-24　-08">
+<img src="../photo/images/20180617_pilates/pilates01.jpg" alt="ピラティス教室(講師:市河麻由美さん)　2018-6-17　-01">
+<img src="../photo/images/20180617_pilates/pilates02.jpg" alt="ピラティス教室(講師:市河麻由美さん)　2018-6-17　-02">
+<img src="../photo/images/20180617_pilates/pilates03.jpg" alt="ピラティス教室(講師:市河麻由美さん)　2018-6-17　-03">
+<img src="../photo/images/20180617_pilates/pilates04.jpg" alt="ピラティス教室(講師:市河麻由美さん)　2018-6-17　-04">
+<img src="../photo/images/20180617_RS_ikenaga/RS_ikenaga01.jpg" alt="ランニングセッション(池永さんver)　2018-6-17　-01">
+<img src="../photo/images/20180617_RS_ikenaga/RS_ikenaga02.jpg" alt="ランニングセッション(池永さんver)　2018-6-17　-02">
+<img src="../photo/images/20180617_RS_ikenaga/RS_ikenaga03.jpg" alt="ランニングセッション(池永さんver)　2018-6-17　-03">
+<img src="../photo/images/20180603_yamagata/yamagata01.jpg" alt="山形さくらんぼマラソン　2018-6-3　-01">
+<img src="../photo/images/20180527_BBQ/BBQ01.jpg" alt="新人歓迎会兼BBQ　2018-5-27　-01">
+<img src="../photo/images/20180527_BBQ/BBQ02.jpg" alt="新人歓迎会兼BBQ　2018-5-27　-02">
+<img src="../photo/images/20180527_BBQ/BBQ03.jpg" alt="新人歓迎会兼BBQ　2018-5-27　-03">
+<img src="../photo/images/20180527_BBQ/BBQ04.jpg" alt="新人歓迎会兼BBQ　2018-5-27　-04">
+<img src="../photo/images/20180527_BBQ/BBQ05.jpg" alt="新人歓迎会兼BBQ　2018-5-27　-05">
+<img src="../photo/images/20180527_running_session/running_session01.jpg" alt="ランニングセッション(山藤さん編)　2018-5-27　-01">
+<img src="../photo/images/20180527_running_session/running_session02.jpg" alt="ランニングセッション(山藤さん編)　2018-5-27　-02">
+<img src="../photo/images/20180527_running_session/running_session03.jpg" alt="ランニングセッション(山藤さん編)　2018-5-27　-03">
+<img src="../photo/images/20180520_aoba/aoba01.jpg" alt="青葉の森リレーマラソン　2018-5-20　-01">
+<img src="../photo/images/20180520_aoba/aoba02.jpg" alt="青葉の森リレーマラソン　2018-5-20　-02">
+<img src="../photo/images/20180520_aoba/aoba03.jpg" alt="青葉の森リレーマラソン　2018-5-20　-03">
+<img src="../photo/images/20180429_kemigawa/kemigawa01.jpg" alt="検見川クロカン練習会　2018-4-29　-01">
+<img src="../photo/images/20180429_kemigawa/kemigawa02.jpg" alt="検見川クロカン練習会　2018-4-29　-02">
+<img src="../photo/images/20180429_kemigawa/kemigawa03.jpg" alt="検見川クロカン練習会　2018-4-29　-03">
+<img src="../photo/images/20180422_fuji/fuji01.jpg" alt="富士五湖チャレンジウルトラマラソン　2018-4-22　-01">
+<img src="../photo/images/20180422_fuji/fuji02.jpg" alt="富士五湖チャレンジウルトラマラソン　2018-4-22　-02">
+<img src="../photo/images/20180422_fuji/fuji03.jpg" alt="富士五湖チャレンジウルトラマラソン　2018-4-22　-03">
+<img src="../photo/images/20180422_fuji/fuji04.jpg" alt="富士五湖チャレンジウルトラマラソン　2018-4-22　-04">
+<img src="../photo/images/20180422_fuji/fuji05.jpg" alt="富士五湖チャレンジウルトラマラソン　2018-4-22　-05">
+<img src="../photo/images/20180422_fuji/fuji06.jpg" alt="富士五湖チャレンジウルトラマラソン　2018-4-22　-06">
+<img src="../photo/images/20180422_fuji/fuji07.jpg" alt="富士五湖チャレンジウルトラマラソン　2018-4-22　-07">
+<img src="../photo/images/20180422_fuji/fuji08.jpg" alt="富士五湖チャレンジウルトラマラソン　2018-4-22　-08">
+<img src="../photo/images/20180415_kasumigaura/kasumigaura01.jpg" alt="かすみがうら　2018-4-15　-01">
+<img src="../photo/images/20180415_kasumigaura/kasumigaura02.jpg" alt="かすみがうら　2018-4-15　-02">
+<img src="../photo/images/20180415_kasumigaura/kasumigaura03.jpg" alt="かすみがうら　2018-4-15　-03">
+<img src="../photo/images/20180415_kasumigaura/kasumigaura04.jpg" alt="かすみがうら　2018-4-15　-04">
+<img src="../photo/images/20180415_kasumigaura/kasumigaura05.jpg" alt="かすみがうら　2018-4-15　-05">
+<img src="../photo/images/20180415_kasumigaura/kasumigaura06.jpg" alt="かすみがうら　2018-4-15　-06">
+<img src="../photo/images/20180408_hitachi/hitachi01.jpg" alt="日立さくらロードレース　2018-4-8　-01">
+<img src="../photo/images/20180401_yoshikawa/yoshikawa01.jpg" alt="吉川なまず　2018-4-1　-01">
+<img src="../photo/images/20180401_yoshikawa/yoshikawa02.jpg" alt="吉川なまず　2018-4-1　-02">
+<img src="../photo/images/20180401_yoshikawa/yoshikawa03.jpg" alt="吉川なまず　2018-4-1　-03">
+<img src="../photo/images/20180401_yoshikawa/yoshikawa04.jpg" alt="吉川なまず　2018-4-1　-04">
+<img src="../photo/images/20180401_yoshikawa/yoshikawa05.jpg" alt="吉川なまず　2018-4-1　-05">
+<img src="../photo/images/20180401_yoshikawa/yoshikawa06.jpg" alt="吉川なまず　2018-4-1　-06">
+<img src="../photo/images/20180401_yoshikawa/yoshikawa07.jpg" alt="吉川なまず　2018-4-1　-07">
+</div><!-- /#gallery -->
+<!-- ギャラリー終了	-->
+
+
+<!--SSI追加。アルバムの外部ファイル読み出し -->
+          <!--#include virtual="/ssi/album.html"  -->
+
+
+			</div><!-- class="contentswrap"-->
+		</div><!-- id="mainFull"-->
+	</div>	<!-- #contents-->
+
+
+
+  <!-- 下部======================================================================== -->
+  <!--SSI追加。外部ファイル読み出し -->
+    <!--#include virtual="/ssi/footer.html"  -->
+  <!-- フッター終了======================================================================================== -->
+
+
+<!-- トップへ戻るボタン-->
+<p class="pagetop"><a href="#wrap">先頭へ▲</a></p>
+
+
+</div>	<!-- #page-->
+
+
+
+
+
+</body>
+</html>

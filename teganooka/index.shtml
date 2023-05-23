@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+
+<!-- 個別設定必要-->
+<title>手賀の丘｜ウィングAC</title>
+<meta name="keywords" content="ウィング・アスリートクラブ, ランニングクラブ, 柏市, 手賀沼">
+<meta name="description" content="本ページは、柏市手賀沼を中心に活動しているランニングクラブであるウィング・アスリートクラブの手賀の丘コース練習に関するページです。">
+
+
+<!-- 電話番号にリンクを貼らないように-->
+<meta name="format-detection" content="telephone=no">
+
+<!-- レスポンシブ -->
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<!--[if lt IE 9]>
+  <script src="../js/css3-mediaqueries.js"></script>
+<![endif]-->	<!-- IE8以下の対応 -->
+<!-- IE9未満の対応。外部CSSファイルを指定しているlink要素の前に記述-->
+
+
+<!-- ｊQueryメイン  -->
+<script src="../js/jquery-1.12.3.min.js" type="text/javascript"></script>
+
+<!-- ドロップダウンメニュー、その他を、IE8以下に対応させるためのJS-->
+<script src="../js/html5shiv.js" type="text/javascript"></script>
+
+<!-- ギャラリー
+<script src="../js/galleria/galleria-1.2.9.js" type="text/javascript"></script>
+<script src="../js/gallery_sub.js" type="text/javascript"></script>
+ -->
+
+<!-- JS コードの外部ファイルに移動	-->
+<script src="../js/scripts.js" type="text/javascript"></script>
+
+<!-- cssファイルの読み込み	-->
+<link rel="stylesheet" href="../css/style.css">
+
+<!-- Font Awesome を利用-->
+<link rel="stylesheet" href="../font-awesome-4.6.3/css/font-awesome.min.css">
+
+<!-- アイコン読み出し-->
+<link rel="icon" href="../img/favicon.ico">
+
+</head>
+
+<body>
+<!-- #page ページの整形：中央寄せ -->
+<div id="page">
+
+
+	<!-- #header 画面上部のヘッダー==================================== -->
+		<!--SSI追加。ヘッダー外部ファイル読み出し -->
+							<!--#include virtual="/ssi/header.html"  -->
+	<!-- #header 画面上部のヘッダー、終了================================ -->
+
+
+  <!-- スライドメニューボタン  -->
+  <div id="menuButton">
+  <div id="menuButtonInner">
+  <span class="slideButton"><i class="fa fa-bars fa-4x"></i> <br>メニュー<br></span>
+  </div>
+  </div>
+
+  <div style="clear:both;"> </div>
+  <div id="layer"> </div>
+
+
+
+	<!-- #menu 画面上部のメニュー======================================================================== -->
+
+	<!--SSI追加。グローバルメニュー外部ファイル読み出し -->
+	          <!--#include virtual="/ssi/nav.html"  -->
+
+	<!-- #menu 画面上部のメニュー、終了================================================================== -->
+
+
+
+
+
+
+	<div id="contents">
+		<!-- #main 本文スペース -->
+		<div id="main">
+			<div class="contentswrap">
+				<div class="title">
+					<h1>手賀の丘コース</h1>
+					<p class="subh">手賀の丘コースの練習についての説明です。
+					</p>
+				</div>
+
+
+
+                <h2>概要</h2>
+                <p>集合場所：通常通り、8時にふるさと公園の東屋にお集まり下さい。<br>
+
+                    予定コース：:20～30km、小さく細かい起伏のあるコースを走ります。じわじわ足にきます。<br>
+                </p>
+
+                    <!-- <p>
+                        <a href="http://www3.ezbbs.net/08/wingac/">練習が近づくと、掲示板に案内が掲載されますので、参加申し込みや悪天候などによる開催中止の連絡は、掲示板をご覧ください。</a>
+                    </p> -->
+
+                    <h2>注意</h2>
+                    <p>以前、不馴れなコースで脱落者が出てしまいました。コースの認知度もクラブとしてまだ高いとは言えませんし、気温、湿度が高く熱中症リスクが高まりますので、暫くは参加条件を付けさせて頂きます。</p>
+                    <ol>
+                        <li>ゆっくりでも30kmを走り切れる自信があること</li>
+                        <li>ある程度手賀沼周辺を熟知していること（道に迷った際に手賀沼通常コースに戻れる）を目安として入会1年以上経過している</li>
+                    </ol>
+                    <h2>コース</h2>
+                    <p>コースは、以下の地図のようになります。GPS上、28.3kmです。<br>
+                    </p>
+
+                    <div class="gmap">
+                        <iframe src="https://www.google.com/maps/d/embed?mid=1uUZjNuU7hxmV_XW7-qhMipzDqHo" width="640" height="480"></iframe>
+                    </div>
+                    <p><br><a href="./map.pdf" target="_blank">コースのPDFファイルは、こちらからダウンロードできます。A4×2枚</a></p>
+
+
+
+
+
+
+
+				<div id="subnavi"> </div>
+			</div>
+		</div>
+
+
+
+
+        <!-- #menuL 右サイドメニュー=========================================== -->
+            <!--#include virtual="/ssi/side.html"  -->
+
+            <!-- フロートが適用されている複数のボックスの外側に親ボックスがある場合、
+            フロートが解除されていないと親ボックスの高さがなくなるため、追加	-->
+            <div style="clear: both"></div>
+
+    	</div>	<!-- #contents-->
+
+    <!-- 下部=============================================================== -->
+    <!--SSI追加。外部ファイル読み出し -->
+        <!--#include virtual="/ssi/footer.html"  -->
+    <!-- フッター終了========================================================= -->
+
+
+
+
+
+
+<!-- トップへ戻るボタン-->
+<p class="pagetop"><a href="#wrap">先頭へ▲</a></p>
+
+
+</div>	<!-- #page-->
+
+
+
+
+
+</body>
+</html>

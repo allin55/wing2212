@@ -1,0 +1,2304 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+
+<!-- 個別設定必要-->
+<title>大会結果｜ウィングAC</title>
+<meta name="keywords" content="ウィング・アスリートクラブ, ランニングクラブ, 柏市, 手賀沼">
+<meta name="description" content="本ページは、柏市手賀沼を中心に活動しているランニングクラブであるウィング・アスリートクラブの大会結果のページです。2016年1月~3月の結果です。">
+
+
+<!-- 電話番号にリンクを貼らないように-->
+<meta name="format-detection" content="telephone=no">
+
+<!-- レスポンシブ -->
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<!--[if lt IE 9]>
+  <script src="../js/css3-mediaqueries.js"></script>
+<![endif]-->	<!-- IE8以下の対応 -->
+<!-- IE9未満の対応。外部CSSファイルを指定しているlink要素の前に記述-->
+
+
+<!-- ｊQueryメイン  -->
+<script src="../js/jquery-1.12.3.min.js" type="text/javascript"></script>
+
+<!-- ドロップダウンメニュー、その他を、IE8以下に対応させるためのJS-->
+<script src="../js/html5shiv.js" type="text/javascript"></script>
+
+<!-- ギャラリー
+<script src="../js/galleria/galleria-1.2.9.js" type="text/javascript"></script>
+<script src="../js/gallery_sub.js" type="text/javascript"></script>
+ -->
+
+<!-- JS コードの外部ファイルに移動	-->
+<script src="../js/scripts.js" type="text/javascript"></script>
+
+<!-- cssファイルの読み込み	-->
+<link rel="stylesheet" href="../css/style.css">
+
+<!-- Font Awesome を利用-->
+<link rel="stylesheet" href="../font-awesome-4.6.3/css/font-awesome.min.css">
+
+<!-- アイコン読み出し-->
+<link rel="icon" href="../img/favicon.ico">
+
+</head>
+
+<body>
+<!-- #page ページの整形：中央寄せ -->
+<div id="page">
+
+
+	<!-- #header 画面上部のヘッダー==================================== -->
+		<!--SSI追加。ヘッダー外部ファイル読み出し -->
+							<!--#include virtual="/ssi/header.html"  -->
+	<!-- #header 画面上部のヘッダー、終了================================ -->
+
+
+  <!-- スライドメニューボタン  -->
+  <div id="menuButton">
+  <div id="menuButtonInner">
+  <span class="slideButton"><i class="fa fa-bars fa-4x"></i> <br>メニュー<br></span>
+  </div>
+  </div>
+
+  <div style="clear:both;"> </div>
+  <div id="layer"> </div>
+
+
+
+	<!-- #menu 画面上部のメニュー======================================================================== -->
+
+	<!--SSI追加。グローバルメニュー外部ファイル読み出し -->
+	          <!--#include virtual="/ssi/nav.html"  -->
+
+	<!-- #menu 画面上部のメニュー、終了================================================================== -->
+
+
+
+
+
+
+	<div id="contents">
+		<!-- #main 本文スペース -->
+		<div id="main">
+			<div class="contentswrap">
+				<div class="title">
+					<h1><a href="../taikaikekka/index.shtml">大会結果</a>　2016年1月~3月</h1>
+					<p class="subh">大会結果の報告先は吉田さんです。<BR>
+					吉田さんのアドレスを知りたい方は、<a href="mailto:wingac2016@gmail.com">wingac2016@gmail.com</a>へおたずねください。
+					</p>
+				</div>
+
+
+<a id="第35回佐倉朝日健康マラソン"></a>
+<h2>第35回佐倉朝日健康マラソン（2016.3.27）</h2>
+<h3>Full</h3>
+<table class="type091">
+	<thead>
+	<tr>
+		<th>ランナー</th>
+		<th>グロスタイム</th>
+		<th>ネットタイム</th>
+		<th>種目別順位</th>
+		<th>備考</th>
+	</tr>
+	</thead>
+	<TBODY>
+		<TR class="type091male">
+			<TD>池永さん</TD>
+			<TD>2:36:24</TD>
+			<TD>2:36:22</TD>
+			<TD>10/549</TD>
+			<TD></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>大倉さん</TD>
+			<TD>2:38:00</TD>
+			<TD>2:37:52</TD>
+			<TD>3/1000</TD>
+			<TD class="type091nyusyo">3位入賞</TD>
+		</TR>
+		<TR class="type091male">
+			<TD>よっちゃん</TD>
+			<TD>2:47:56</TD>
+			<TD>2:47:53</TD>
+			<TD>41/549</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>芦川さん</TD>
+			<TD>2:51:10</TD>
+			<TD>2:51:05</TD>
+			<TD>10/2587</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>千葉（隆）さん</TD>
+			<TD>3:02:29</TD>
+			<TD>3:02:21</TD>
+			<TD>40/2587</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>関さん</TD>
+			<TD>3:05:59</TD>
+			<TD>3:05:47</TD>
+			<TD>58/1000</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>綿引さん</TD>
+			<TD>3:12:35</TD>
+			<TD>3:12:30</TD>
+			<TD>87/2587</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>トーリーさん</TD>
+			<TD>3:16:42</TD>
+			<TD>3:16:31</TD>
+			<TD>215/549</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091female">
+			<TD>あおのさん</TD>
+			<TD>3:17:10</TD>
+			<TD>3:16:57</TD>
+			<TD>7/69</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>上田（剛）さん</TD>
+			<TD>3:26:18</TD>
+			<TD>3:25:52</TD>
+			<TD>148/1000</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>上田（秀）さん</TD>
+			<TD>3:26:56</TD>
+			<TD>3:26:30</TD>
+			<TD>251/2587</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091female">
+			<TD>MEGUさん</TD>
+			<TD>3:26:50</TD>
+			<TD>3:26:43</TD>
+			<TD>8/381</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>藤崎さん</TD>
+			<TD>3:27:52</TD>
+			<TD>3:27:37</TD>
+			<TD>286/549</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>おざわさん</TD>
+			<TD>3:40:12</TD>
+			<TD>3:39:43</TD>
+			<TD>27/564</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>カシマさん</TD>
+			<TD>3:45:34</TD>
+			<TD>3:44:22</TD>
+			<TD>43/564</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>東海林さん</TD>
+			<TD>3:56:59</TD>
+			<TD>3:55:23</TD>
+			<TD>440/549</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091female">
+			<TD>葉子ちゃん</TD>
+			<TD>3:57:00</TD>
+			<TD>3:55:39</TD>
+			<TD>44/69</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>大串さん</TD>
+			<TD>3:59:49</TD>
+			<TD>3:58:13</TD>
+			<TD>1007/2587</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>シマさん</TD>
+			<TD>4:22:30</TD>
+			<TD>4:21:52</TD>
+			<TD>179/564</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>佐藤（邦）さん</TD>
+			<TD>4:28:09</TD>
+			<TD>4:25:26</TD>
+			<TD>210/564</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>白兼さん</TD>
+			<TD>5:01:15</TD>
+			<TD>4:57:24</TD>
+			<TD>380/564</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+	</tbody>
+</table>
+<BR>
+<h3>10km</h3>
+<table class="type091">
+	<thead>
+	<tr>
+		<th>ランナー</th>
+		<th>グロスタイム</th>
+		<th>ネットタイム</th>
+		<th>種目別順位</th>
+		<th>備考</th>
+	</tr>
+	</thead>
+	<TBODY>
+		<TR class="type091male">
+			<TD>長崎さん</TD>
+			<TD>0:34:39</TD>
+			<TD>0:34:38</TD>
+			<TD>2/829</TD>
+			<TD class="type091nyusyo">2位入賞</TD>
+		</TR>
+		<TR class="type091male">
+			<TD>両川さん</TD>
+			<TD>0:37:47</TD>
+			<TD>0:37:45</TD>
+			<TD>18/829</TD>
+			<TD  class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>平山（成田MP）さん</TD>
+			<TD>0:38:58</TD>
+			<TD>0:38:55</TD>
+			<TD>27/829</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>御手洗さん</TD>
+			<TD>0:39:42</TD>
+			<TD>0:39:36</TD>
+			<TD>32/829</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091female">
+			<TD>市川さん</TD>
+			<TD>0:48:13</TD>
+			<TD>0:48:02</TD>
+			<TD>3/144</TD>
+			<TD class="type091nyusyo">3位入賞</TD>
+		</TR>
+	</tbody>
+</table>
+
+
+
+
+
+<a id="2016板橋Cityマラソン"></a>
+<h2>2016板橋Cityマラソン（2016.3.20）</h2>
+<h3>Full</h3>
+<table class="type091">
+	<thead>
+	<tr>
+		<th>ランナー</th>
+		<th>グロスタイム</th>
+		<th>ネットタイム</th>
+		<th>種目別順位</th>
+		<th>備考</th>
+	</tr>
+	</thead>
+	<TBODY>
+		<TR class="type091female">
+			<TD>珠ちゃん</TD>
+			<TD>3:23:42</TD>
+			<TD>3:23:30</TD>
+			<TD>40/148</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>我妻さん</TD>
+			<TD>3:26:38</TD>
+			<TD>3:25:48</TD>
+			<TD>620/1312</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091female">
+			<TD>MEGUさん</TD>
+			<TD>3:49:00</TD>
+			<TD>3:46:35</TD>
+			<TD>82/148</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>トーリーさん</TD>
+			<TD>3:49:00</TD>
+			<TD>3:46:35</TD>
+			<TD>899/1312</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+	</tbody>
+</table>
+<br>
+<h3>5km</h3>
+<table class="type091">
+	<thead>
+	<tr>
+		<th>ランナー</th>
+		<th>グロスタイム</th>
+		<th>種目別順位</th>
+		<th>備考</th>
+	</tr>
+	</thead>
+	<tbody>
+		<TR class="type091female">
+			<TD>胡桃さん</TD>
+			<TD>0:26:16</TD>
+			<TD>40/332</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+	</tbody>
+</table>
+
+<a id="名古屋ウィメンズマラソン2016"></a>
+<h2>名古屋ウィメンズマラソン2016（2016.3.13）</h2>
+<h3>Full</h3>
+<table class="type091">
+	<thead>
+	<tr>
+		<th>ランナー</th>
+		<th>グロスタイム</th>
+		<th>ネットタイム</th>
+		<th>種目別順位</th>
+		<th>備考</th>
+	</tr>
+	</thead>
+	<TBODY>
+		<TR class="type091female">
+			<TD>平賀さん</TD>
+			<TD>3:04:28</TD>
+			<TD>3:04:28</TD>
+			<TD>108/19112</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091female">
+			<TD>まつさん</TD>
+			<TD>3:47:17	</TD>
+			<TD>3:46:54</TD>
+			<TD>1123/19112</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091female">
+			<TD>市川さん</TD>
+			<TD>3:52:34	</TD>
+			<TD>3:51:57</TD>
+			<TD>1459/19112</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091female">
+			<TD>さとかおさん</TD>
+			<TD>4:03:25</TD>
+			<TD>4:01:19</TD>
+			<TD>2342/19112</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091female">
+			<TD>ひしださん</TD>
+			<TD>4:23:26</TD>
+			<TD>4:21:20</TD>
+			<TD>3850/19112</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091female">
+			<TD>みよちゃん</TD>
+			<TD>4:46:50</TD>
+			<TD>4:46:12</TD>
+			<TD>6087/19112</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091female">
+			<TD>胡桃さん</TD>
+			<TD>5:05:45</TD>
+			<TD>5:03:43</TD>
+			<TD>8401/19112</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091female">
+			<TD>みっちゃん</TD>
+			<TD>5:28:26</TD>
+			<TD>5:23:07</TD>
+			<TD>10811/19112</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091female">
+			<TD>ふくちゃん</TD>
+			<TD>5:43:02</TD>
+			<TD>5:41:01</TD>
+			<TD>12252/19112</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+
+	</tbody>
+</table>
+
+<a id="第4回サンスポ古河はなももマラソン"></a>
+<h2>第4回サンスポ古河はなももマラソン（2016.3.13）</h2>
+<h3>Full</h3>
+<table class="type091">
+	<thead>
+	<tr>
+		<th>ランナー</th>
+		<th>グロスタイム</th>
+		<th>ネットタイム</th>
+		<th>種目別順位</th>
+		<th>備考</th>
+	</tr>
+	</thead>
+	<TBODY>
+		<TR class="type091male">
+			<TD>芦川さん</TD>
+			<TD>2:43:47</TD>
+			<TD>2:43:42</TD>
+			<TD>4/1263</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>両川さん</TD>
+			<TD>2:48:19</TD>
+			<TD>2:48:14</TD>
+			<TD>14/1263</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>熊谷さん</TD>
+			<TD>2:57:39</TD>
+			<TD>2:57:33</TD>
+			<TD>26/972</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>なべちゃん</TD>
+			<TD>3:04:26</TD>
+			<TD>3:03:57</TD>
+			<TD>94/817</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>しまむーさん</TD>
+			<TD>3:07:04</TD>
+			<TD>3:06:58</TD>
+			<TD>145/1263</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>いしーださん</TD>
+			<TD>3:07:58</TD>
+			<TD>3:07:38</TD>
+			<TD>172/1257</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>トーリーさん</TD>
+			<TD>3:09:35</TD>
+			<TD>3:09:18</TD>
+			<TD>128/817</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>オガワさん</TD>
+			<TD>3:12:43</TD>
+			<TD>3:12:27</TD>
+			<TD>223/1257</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>まとばさん</TD>
+			<TD>3:12:06</TD>
+			<TD>3:11:14</TD>
+			<TD>8/317</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>ノブさん</TD>
+			<TD>3:12:43</TD>
+			<TD>3:12:31</TD>
+			<TD>146/817</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>清水さん</TD>
+			<TD>3:20:37</TD>
+			<TD>3:20:17</TD>
+			<TD>285/1263</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091female">
+			<TD>しほちゃん</TD>
+			<TD>3:22:02</TD>
+			<TD>3:21:07</TD>
+			<TD>11/232</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>かみむらさん</TD>
+			<TD>3:23:32</TD>
+			<TD>3:23:12</TD>
+			<TD>310/1263</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091female">
+			<TD>MEGUさん</TD>
+			<TD>3:25:53</TD>
+			<TD>3:25:05</TD>
+			<TD>15/232</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>佐藤（宏）さん</TD>
+			<TD>3:29:06</TD>
+			<TD>3:28:12</TD>
+			<TD>32/317</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091female">
+			<TD>石元さん</TD>
+			<TD>3:35:38</TD>
+			<TD>3:34:27</TD>
+			<TD>10/89</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>おざわさん</TD>
+			<TD>3:36:17</TD>
+			<TD>3:35:23</TD>
+			<TD>42/317</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>マツトモさん</TD>
+			<TD>3:56:56</TD>
+			<TD>3:54:29</TD>
+			<TD>529/972</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>西さん</TD>
+			<TD>4:03:52</TD>
+			<TD>4:01:24</TD>
+			<TD>14/70</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>くぼっちさん</TD>
+			<TD>4:11:17</TD>
+			<TD>4:08:53</TD>
+			<TD>313/549</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>植竹さん</TD>
+			<TD>4:28:36</TD>
+			<TD>4:25:20</TD>
+			<TD>961/1263</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+	</tbody>
+</table>
+
+<a id="横浜マラソン2016"></a>
+<h2>横浜マラソン2016（2016.3.13）</h2>
+<h3>Full</h3>
+<table class="type091">
+	<thead>
+	<tr>
+		<th>ランナー</th>
+		<th>グロスタイム</th>
+		<th>ネットタイム</th>
+		<th>種目別順位</th>
+		<th>備考</th>
+	</tr>
+	</thead>
+	<TBODY>
+		<TR class="type091male">
+			<TD>綿引さん</TD>
+			<TD>3:05:48</TD>
+			<TD>3:05:05</TD>
+			<TD>333/18886</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>		<TR class="type091male">
+			<TD>忍さん</TD>
+			<TD>3:21:08</TD>
+			<TD>3:20:04</TD>
+			<TD>822/18886</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>はっとりさん</TD>
+			<TD>4:23:43</TD>
+			<TD>4:19:26</TD>
+			<TD>7243/18886</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091female">
+			<TD>下重さん</TD>
+			<TD>4:23:43</TD>
+			<TD>4:19:26</TD>
+			<TD>610/3694</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>おおわださん</TD>
+			<TD>4:31:49</TD>
+			<TD>4:28:18</TD>
+			<TD>8249/18886</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091female">
+			<TD>モニカさん</TD>
+			<TD>4:31:49</TD>
+			<TD>4:28:18</TD>
+			<TD>747/3694</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+	</tbody>
+</table>
+
+<a id="第33回藍のまち羽生さわやかマラソン"></a>
+<h2>第33回藍のまち羽生さわやかマラソン（2016.3.13）</h2>
+<h3>Half</h3>
+<table class="type091">
+	<thead>
+	<tr>
+		<th>ランナー</th>
+		<th>グロスタイム</th>
+		<th>ネットタイム</th>
+		<th>種目別順位</th>
+		<th>備考</th>
+	</tr>
+	</thead>
+	<TBODY>
+		<TR class="type091male">
+			<TD>よっちゃん</TD>
+			<TD>1:14:42</TD>
+			<TD>1:14:40</TD>
+			<TD>2/363</TD>
+			<TD class="type091nyusyo">2位入賞</TD>
+		</TR>
+		<TR class="type091male">
+			<TD>千葉（隆）さん</TD>
+			<TD>1:23:17</TD>
+			<TD>1:23:11</TD>
+			<TD>19/363</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>白兼さん</TD>
+			<TD>2:07:52</TD>
+			<TD>2:07:00</TD>
+			<TD>133/187</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+	</tbody>
+</table>
+
+<a id="第6回渋谷・表参道 Women’s Run"></a>
+<h2>第6回渋谷・表参道 Women’s Run（2016.3.6）</h2>
+<h3>10km</h3>
+<table class="type091">
+	<thead>
+	<tr>
+		<th>ランナー</th>
+		<th>グロスタイム</th>
+		<th>ネットタイム</th>
+		<th>種目別順位</th>
+		<th>備考</th>
+	</tr>
+	</thead>
+	<TBODY>
+		<TR class="type091female">
+			<TD>まつさん</TD>
+			<TD>0:45:53</TD>
+			<TD>0:45:47</TD>
+			<TD>30/941</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091female">
+			<TD>Yossyさん</TD>
+			<TD>0:51:55</TD>
+			<TD>0:51:24</TD>
+			<TD>73/744</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091female">
+			<TD>あやさん</TD>
+			<TD>0:56:02</TD>
+			<TD>0:55:56</TD>
+			<TD>5/29</TD>
+			<TD class="type091nyusyo">5位入賞</TD>
+		</TR>
+	</tbody>
+</table>
+
+<a id="静岡マラソン2016"></a>
+<h2>静岡マラソン2016（2016.3.6）</h2>
+<h3>Full</h3>
+<table class="type091">
+	<thead>
+	<tr>
+		<th>ランナー</th>
+		<th>グロスタイム</th>
+		<th>ネットタイム</th>
+		<th>種目別順位</th>
+		<th>備考</th>
+	</tr>
+	</thead>
+	<TBODY>
+		<TR class="type091female">
+			<TD>MEGUさん</TD>
+			<TD>3:27:22</TD>
+			<TD>3:25:44</TD>
+			<TD>33/126</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>我妻さん</TD>
+			<TD>3:27:58</TD>
+			<TD>3:26:27</TD>
+			<TD>515/877</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>トーリーさん</TD>
+			<TD>3:59:43</TD>
+			<TD>3:59:20</TD>
+			<TD>749/877</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+	</tbody>
+</table>
+
+<a id="第34回鴻巣パンジーマラソン"></a>
+<h2>第34回鴻巣パンジーマラソン（2016.3.5）</h2>
+<h3>Half</h3>
+
+<table class="type091">
+	<thead>
+	<tr>
+		<th>ランナー</th>
+		<th>グロスタイム</th>
+		<th>ネットタイム</th>
+		<th>種目別順位</th>
+		<th>備考</th>
+	</tr>
+	</thead>
+	<TBODY>
+		<TR class="type091male">
+			<TD>芦川さん</TD>
+			<TD>1:19:41</TD>
+			<TD>1:19:41</TD>
+			<TD>11/798</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>東海林さん</TD>
+			<TD>1:29:36</TD>
+			<TD>1:29:20</TD>
+			<TD>117/831</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091female">
+			<TD>珠ちゃん</TD>
+			<TD>1:32:26</TD>
+			<TD>1:32:19</TD>
+			<TD>3/128</TD>
+			<TD class="type091nyusyo">3位入賞</TD>
+		</TR>
+	</tbody>
+
+</table>
+
+<a id="東京マラソン2016"></a>
+<h2>東京マラソン2016（2016.2.28）</h2>
+<h3>Full</h3>
+
+<table class="type091">
+	<thead>
+	<tr>
+		<th>ランナー</th>
+		<th>グロスタイム</th>
+		<th>ネットタイム</th>
+		<th>種目別順位</th>
+		<th>備考</th>
+	</tr>
+	</thead>
+	<tbody>
+		<TR class="type091male">
+			<TD>池永さん</TD>
+			<TD>2:33:49</TD>
+			<TD>2:33:45</TD>
+			<TD>144/27096</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091female">
+			<TD>青野さん</TD>
+			<TD>3:05:25</TD>
+			<TD>3:05:12</TD>
+			<TD>90/7569</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>いしーださん</TD>
+			<TD>3:16:03</TD>
+			<TD>3:15:11</TD>
+			<TD>1838/27096</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>田上さん</TD>
+			<TD>3:16:03</TD>
+			<TD>3:15:42</TD>
+			<TD>1836/27096</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>上田（剛）さん</TD>
+			<TD>3:22:55</TD>
+			<TD>3:21:18</TD>
+			<TD>2344/27096</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>ごろうさん</TD>
+			<TD>4:55:55</TD>
+			<TD>4:47:38</TD>
+			<TD>14546/27096</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091female">
+			<TD>室崎さん</TD>
+			<TD>5:17:41</TD>
+			<TD>5:04:30</TD>
+			<TD>3611/7569</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091female">
+			<TD>みっちゃん</TD>
+			<TD>5:40:55</TD>
+			<TD>5:29:05</TD>
+			<TD>4638/7569</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+	</TBODY>
+</TABLE>
+
+<a id="第10回ふかやシティハーフマラソン"></a>
+<h2>第10回ふかやシティハーフマラソン（2016.2.28）</h2>
+<h3>Half</h3>
+
+<table class="type091">
+	<thead>
+	<tr>
+		<th>ランナー</th>
+		<th>グロスタイム</th>
+		<th>種目別順位</th>
+		<th>備考</th>
+	</tr>
+	</thead>
+	<TBODY>
+		<TR class="type091male">
+			<TD>ノリックさん</TD>
+			<TD>1:16:24</TD>
+			<TD>38/213</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>芦川さん</TD>
+			<TD>1:18:18</TD>
+			<TD>9/619</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>両川さん</TD>
+			<TD>1:19:17</TD>
+			<TD>11/619</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>熊谷さん</TD>
+			<TD>1:26:16</TD>
+			<TD>107/213</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>まとばさん</TD>
+			<TD>1:29:34</TD>
+			<TD>9/229</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>千枝さん</TD>
+			<TD>1:30:51</TD>
+			<TD>19/424</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>佐藤（宏）さん</TD>
+			<TD>1:36:41</TD>
+			<TD>19/229</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091female">
+			<TD>石元さん</TD>
+			<TD>1:37:30</TD>
+			<TD>24/49</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>マツトモさん</TD>
+			<TD>1:46:16</TD>
+			<TD>149/424</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>トーリーさん</TD>
+			<TD>1:55:28</TD>
+			<TD>200/213</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091female">
+			<TD>MEGUさん</TD>
+			<TD>1:55:29</TD>
+			<TD>44/49</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>柿木さん</TD>
+			<TD>2:02:33</TD>
+			<TD>136/229</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>西さん</TD>
+			<TD>2:11:55</TD>
+			<TD>209/213</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+	</tbody>
+</table>
+<BR>
+
+<h3>5km</h3>
+
+<table class="type091">
+	<thead>
+	<tr>
+		<th>ランナー</th>
+		<th>グロスタイム</th>
+		<th>種目別順位</th>
+		<th>備考</th>
+	</tr>
+	</thead>
+	<TBODY>
+		<TR class="type091female">
+			<TD>市川さん</TD>
+			<TD>0:25:14</TD>
+			<TD>7/73</TD>
+			<TD class="type091nyusyo">7位入賞</TD>
+		</TR>
+	</tbody>
+</table>
+
+<a id="第9回石岡つくばねマラソン"></a>
+<h2>第9回石岡つくばねマラソン（2016.2.21）</h2>
+<h3>5km</h3>
+
+<table class="type091">
+	<thead>
+	<tr>
+		<th>ランナー</th>
+		<th>グロスタイム</th>
+		<th>種目別順位</th>
+		<th>備考</th>
+	</tr>
+	</thead>
+	<TBODY>
+		<TR class="type091male">
+			<TD>芦川さん</TD>
+			<TD>0:17:06</TD>
+			<TD>3/35</TD>
+			<TD class="type091nyusyo">3位入賞</TD>
+		</TR>
+	</tbody>
+</table>
+
+<a id="第16回結城シルクカップロードレース"></a>
+<h2>第16回結城シルクカップロードレース（2016.2.21）</h2>
+<h3>10km</h3>
+
+<table class="type091">
+	<thead>
+	<tr>
+		<th>ランナー</th>
+		<th>グロスタイム</th>
+		<th>ネットタイム</th>
+		<th>種目別順位</th>
+		<th>備考</th>
+	</tr>
+	</thead>
+	<TBODY>
+		<TR class="type091male">
+			<TD>ひらやまさん</TD>
+			<TD>0:34:26</TD>
+			<TD>0:34:25</TD>
+			<TD>2/295</TD>
+			<TD class="type091nyusyo">2位入賞</TD>
+		</TR>
+		<TR class="type091female">
+			<TD>珠ちゃん</TD>
+			<TD>0:42:29</TD>
+			<TD>0:42:27</TD>
+			<TD>2/59</TD>
+			<TD class="type091nyusyo">2位入賞</TD>
+		</TR>
+	</tbody>
+</table>
+<BR>
+
+<h3>5km</h3>
+
+<table class="type091">
+	<thead>
+	<tr>
+		<th>ランナー</th>
+		<th>グロスタイム</th>
+		<th>ネットタイム</th>
+		<th>種目別順位</th>
+		<th>備考</th>
+	</tr>
+	</thead>
+	<TBODY>
+		<TR class="type091male">
+			<TD>オガワさん</TD>
+			<TD>0:17:54</TD>
+			<TD>0:17:54</TD>
+			<TD>5/69</TD>
+			<TD class="type091nyusyo">5位入賞</TD>
+		</TR>
+	</tbody>
+</table>
+
+<a id="熊本城マラソン2016"></a>
+<h2>熊本城マラソン2016（2016.2.21）</h2>
+<h3>Full</h3>
+
+<table class="type091">
+	<thead>
+	<tr>
+		<th>ランナー</th>
+		<th>グロスタイム</th>
+		<th>ネットタイム</th>
+		<th>種目別順位</th>
+		<th>備考</th>
+	</tr>
+	</thead>
+	<TBODY>
+		<TR class="type091male">
+			<TD>トーリーさん</TD>
+			<TD>3:19:20</TD>
+			<TD>3:19:03</TD>
+			<TD>191/2539</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091female">
+			<TD>MEGUさん</TD>
+			<TD>3:27:58</TD>
+			<TD>3:26:03</TD>
+			<TD>11/563</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+	</tbody>
+</table>
+
+<a id="第7回いわきサンシャインマラソン"></a>
+<h2>第7回いわきサンシャインマラソン（2016.2.14）</h2>
+<h3>Full</h3>
+
+<table class="type091">
+	<thead>
+	<tr>
+		<th>ランナー</th>
+		<th>グロスタイム</th>
+		<th>ネットタイム</th>
+		<th>種目別順位</th>
+		<th>備考</th>
+	</tr>
+	</thead>
+	<TBODY>
+		<TR class="type091male">
+			<TD>トーリーさん</TD>
+			<TD>3:06:31</TD>
+			<TD>3:06:24</TD>
+			<TD>61/352</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>我妻さん</TD>
+			<TD>3:35:56</TD>
+			<TD>3:35:47</TD>
+			<TD>168/352</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091female">
+			<TD>MEGUさん</TD>
+			<TD>3:37:03</TD>
+			<TD>3:36:56</TD>
+			<TD>8/32</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+	</tbody>
+</table>
+
+<a id="第41回森林公園完走マラソン"></a>
+<h2>第41回森林公園完走マラソン（2016.2.11）</h2>
+<h3>Half</h3>
+
+<table class="type091">
+	<thead>
+	<tr>
+		<th>ランナー</th>
+		<th>グロスタイム</th>
+		<th>種目別順位</th>
+		<th>備考</th>
+	</tr>
+	</thead>
+	<TBODY>
+		<TR class="type091male">
+			<TD>白兼さん</TD>
+			<TD>2:16:07</TD>
+			<TD>483/648</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+	</tbody>
+</table>
+
+<a id="第65回別府大分毎日マラソン"></a>
+<h2>第65回別府大分毎日マラソン（2016.2.7）</h2>
+<h3>Full</h3>
+
+<table class="type091">
+	<thead>
+	<tr>
+		<th>ランナー</th>
+		<th>グロスタイム</th>
+		<th>種目別順位</th>
+		<th>備考</th>
+	</tr>
+	</thead>
+	<TBODY>
+		<TR class="type091male">
+			<TD>よっちゃん</TD>
+			<TD>2:34:06</TD>
+			<TD>90/2854</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>ノリックさん</TD>
+			<TD>2:36:22</TD>
+			<TD>116/2854</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>芦川さん</TD>
+			<TD>2:45:14</TD>
+			<TD>340/2854</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>平山(成田MP)さん</TD>
+			<TD>2:55:57</TD>
+			<TD>830/2854</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>熊谷さん</TD>
+			<TD>2:56:15</TD>
+			<TD>860/2854</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>トーリーさん</TD>
+			<TD>2:57:07</TD>
+			<TD>933/2854</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091female">
+			<TD>MEGUさん</TD>
+			<TD>3:31:25</TD>
+			<TD>142/146</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+	</tbody>
+</table>
+
+<a id="2016さかえリバーサイドマラソン"></a>
+<h2>2016さかえリバーサイドマラソン（2016.2.7）</h2>
+<h3>Half</h3>
+
+<table class="type091">
+	<thead>
+	<tr>
+		<th>ランナー</th>
+		<th>グロスタイム</th>
+		<th>種目別順位</th>
+		<th>備考</th>
+	</tr>
+	</thead>
+	<TBODY>
+		<TR class="type091male">
+			<TD>関さん</TD>
+			<TD>1:20:30</TD>
+			<TD>13/127</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>千葉(隆)さん</TD>
+			<TD>1:24:33</TD>
+			<TD>8/205</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>まとばさん</TD>
+			<TD>1:29:40</TD>
+			<TD>2/129</TD>
+			<TD class="type091nyusyo">2位入賞</TD>
+		</TR>
+		<TR class="type091male">
+			<TD>金屋さん</TD>
+			<TD>1:43:40</TD>
+			<TD>48/181</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091female">
+			<TD>市川さん</TD>
+			<TD>1:53:23</TD>
+			<TD>18/50</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091female">
+			<TD>ひしださん</TD>
+			<TD>1:54:44</TD>
+			<TD>1/16</TD>
+			<TD class="type091nyusyo">優勝</TD>
+		</TR>
+	</tbody>
+</table>
+<BR>
+
+<h3>5km</h3>
+
+<table class="type091">
+	<thead>
+	<tr>
+		<th>ランナー</th>
+		<th>グロスタイム</th>
+		<th>種目別順位</th>
+		<th>備考</th>
+	</tr>
+	</thead>
+	<TBODY>
+		<TR class="type091male">
+			<TD>オガワさん</TD>
+			<TD>0:19:47</TD>
+			<TD>9/64</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+	</tbody>
+</table>
+
+<a id="第32回 守谷ハーフマラソン"></a>
+<h2>第32回 守谷ハーフマラソン（2016.2.7）</h2>
+<h3>Half</h3>
+
+<table class="type091">
+	<thead>
+	<tr>
+		<th>ランナー</th>
+		<th>グロスタイム</th>
+		<th>ネットタイム</th>
+		<th>種目別順位</th>
+		<th>備考</th>
+	</tr>
+	</thead>
+	<TBODY>
+		<TR class="type091male">
+			<TD>大倉さん</TD>
+			<TD>1:14:08</TD>
+			<TD>1:14:07</TD>
+			<TD>6/984</TD>
+			<TD class="type091nyusyo">6位入賞</TD>
+		</TR>
+		<TR class="type091male">
+			<TD>千葉(慎)さん</TD>
+			<TD>1:24:50</TD>
+			<TD>1:24:46</TD>
+			<TD>62/984</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>かみむらさん</TD>
+			<TD>1:26:18</TD>
+			<TD>1:26:14</TD>
+			<TD>88/193</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>服部さん</TD>
+			<TD>1:33:12</TD>
+			<TD>1:32:46</TD>
+			<TD>37/539</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>忍さん</TD>
+			<TD>1:34:59</TD>
+			<TD>1:34:51</TD>
+			<TD>8/186</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091female">
+			<TD>石元さん</TD>
+			<TD>1:37:19</TD>
+			<TD>1:36:55</TD>
+			<TD>10/789</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>大西さん</TD>
+			<TD>1:43:03</TD>
+			<TD>1:42:52</TD>
+			<TD>270/984</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091female">
+			<TD>下重さん</TD>
+			<TD>1:48:25</TD>
+			<TD>1:47:19</TD>
+			<TD>31/186</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+	</tbody>
+</table>
+<BR>
+
+<h3>5km</h3>
+
+<table class="type091">
+	<thead>
+	<tr>
+		<th>ランナー</th>
+		<th>グロスタイム</th>
+		<th>種目別順位</th>
+		<th>備考</th>
+	</tr>
+	</thead>
+	<TBODY>
+		<TR class="type091male">
+			<TD>石井(信)さん</TD>
+			<TD>0:18:20</TD>
+			<TD>8/2263</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>両川さん</TD>
+			<TD>0:18:21</TD>
+			<TD>9/226</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+	</tbody>
+</table>
+
+<a id="第64回勝田全国マラソン"></a>
+<h2>第64回勝田全国マラソン （2016.1.31）</h2>
+<h3>Full</h3>
+
+<table class="type091">
+	<thead>
+	<tr>
+		<th>ランナー</th>
+		<th>グロスタイム</th>
+		<th>ネットタイム</th>
+		<th>種目別順位</th>
+		<th>備考</th>
+	</tr>
+	</thead>
+	<TBODY>
+		<TR class="type091male">
+			<TD>千枝さん</TD>
+			<TD>2:53:42</TD>
+			<TD>2:53:22</TD>
+			<TD>7/2188</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>両川さん</TD>
+			<TD>2:54:50</TD>
+			<TD>2:54:30</TD>
+			<TD>86/3284</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>トーリーさん</TD>
+			<TD>2:57:38</TD>
+			<TD>2:57:19</TD>
+			<TD>253/3280</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>綿引さん</TD>
+			<TD>3:08:11</TD>
+			<TD>3:07:39</TD>
+			<TD>311/3284</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>山田(建)さん</TD>
+			<TD>3:10:18</TD>
+			<TD>3:09:47</TD>
+			<TD>420/3280</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>まとばさん</TD>
+			<TD>3:13:00</TD>
+			<TD>3:12:11</TD>
+			<TD>10/789</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>貴戸さん</TD>
+			<TD>3:18:28</TD>
+			<TD>3:18:24</TD>
+			<TD>566/3284</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091female">
+			<TD>MEGUさん</TD>
+			<TD>3:23:54</TD>
+			<TD>3:23:34</TD>
+			<TD>18/450</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>我妻さん</TD>
+			<TD>3:27:23</TD>
+			<TD>3:25:05</TD>
+			<TD>44/789</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>藤崎さん</TD>
+			<TD>3:27:54</TD>
+			<TD>3:25:15</TD>
+			<TD>325/2188</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>本間さん</TD>
+			<TD>3:28:52</TD>
+			<TD>3:26:18</TD>
+			<TD>813/3284</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>高野さん</TD>
+			<TD>3:33:52</TD>
+			<TD>3:32:15</TD>
+			<TD>445/2188</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>佐藤(宏)さん</TD>
+			<TD>3:35:21</TD>
+			<TD>3:33:54</TD>
+			<TD>81/789</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>東海林さん</TD>
+			<TD>3:59:26</TD>
+			<TD>3:57:59</TD>
+			<TD>1330/3280</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>くぼっちさん</TD>
+			<TD>4:08:42</TD>
+			<TD>4:05:13</TD>
+			<TD>1126/2188</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>マツトモさん</TD>
+			<TD>4:14:59</TD>
+			<TD>4:11:40</TD>
+			<TD>1224/2188</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>トシさん</TD>
+			<TD>4:18:41</TD>
+			<TD>4:13:38</TD>
+			<TD>2045/3284</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>佐藤(邦)さん</TD>
+			<TD>4:26:59</TD>
+			<TD>4:21:00</TD>
+			<TD>38/130</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>キイチローさん</TD>
+			<TD>4:54:22</TD>
+			<TD>4:46:07</TD>
+			<TD>67/130</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091female">
+			<TD>みよちゃん</TD>
+			<TD>4:55:08</TD>
+			<TD>4:48:29</TD>
+			<TD>46/85</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>白兼さん</TD>
+			<TD>5:07:36</TD>
+			<TD>4:59:14</TD>
+			<TD>636/789</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+	</tbody>
+</table>
+<BR>
+
+<h3>10km</h3>
+
+<table class="type091">
+	<thead>
+	<tr>
+		<th>ランナー</th>
+		<th>グロスタイム</th>
+		<th>ネットタイム</th>
+		<th>種目別順位</th>
+		<th>備考</th>
+	</tr>
+	</thead>
+	<TBODY>
+		<TR class="type091male">
+			<TD>ノリックさん</TD>
+			<TD>0:34:35</TD>
+			<TD>0:34:33</TD>
+			<TD>48/1469</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+	</tbody>
+</table>
+
+<a id="第40回サンスポ千葉マリンマラソン"></a>
+<h2>第40回サンスポ千葉マリンマラソン（2016.1.24）</h2>
+<h3>Half</h3>
+
+<table class="type091">
+	<thead>
+	<tr>
+		<th>ランナー</th>
+		<th>グロスタイム</th>
+		<th>ネットタイム</th>
+		<th>種目別順位</th>
+		<th>備考</th>
+	</tr>
+	</thead>
+	<TBODY>
+		<TR class="type091male">
+			<TD>池永さん</TD>
+			<TD>1:14:39</TD>
+			<TD>1:14:37</TD>
+			<TD>9/124</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>よっちゃん</TD>
+			<TD>1:15:31</TD>
+			<TD>1:15:29</TD>
+			<TD>2/234</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>芦川さん</TD>
+			<TD>1:18:35</TD>
+			<TD>1:18:33</TD>
+			<TD>1/1425</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>平山(成田MP)さん</TD>
+			<TD>1:25:53</TD>
+			<TD>1:25:48</TD>
+			<TD>42/234</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>トーリーさん</TD>
+			<TD>1:26:43</TD>
+			<TD>1:26:36</TD>
+			<TD>67/124</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>田上さん</TD>
+			<TD>1:27:29</TD>
+			<TD>1:27:22</TD>
+			<TD>65/234</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091female">
+			<TD>あおのさん</TD>
+			<TD>1:30:14</TD>
+			<TD>1:30:02</TD>
+			<TD>4/41</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>上田(剛)さん</TD>
+			<TD>1:32:29</TD>
+			<TD>1:32:21</TD>
+			<TD>61/693</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>清水さん</TD>
+			<TD>1:33:04</TD>
+			<TD>1:32:53</TD>
+			<TD>112/234</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>上田(秀)さん</TD>
+			<TD>1:33:18</TD>
+			<TD>1:33:09</TD>
+			<TD>13/558</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091female">
+			<TD>とよしまさん</TD>
+			<TD>1:36:10</TD>
+			<TD>1:35:56</TD>
+			<TD>10/41</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>忍さん</TD>
+			<TD>1:36:20</TD>
+			<TD>1:35:58</TD>
+			<TD>23/558</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091female">
+			<TD>MEGUさん</TD>
+			<TD>1:37:15</TD>
+			<TD>1:36:56</TD>
+			<TD>15/48</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091female">
+			<TD>YOSSYさん</TD>
+			<TD>1:54:57</TD>
+			<TD>1:52:23</TD>
+			<TD>25/184</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>白兼さん</TD>
+			<TD>2:21:37</TD>
+			<TD>2:13:58</TD>
+			<TD>171/217</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+	</tbody>
+</table>
+<BR>
+
+<h3>10km</h3>
+
+<table class="type091">
+	<thead>
+	<tr>
+		<th>ランナー</th>
+		<th>グロスタイム</th>
+		<th>ネットタイム</th>
+		<th>種目別順位</th>
+		<th>備考</th>
+	</tr>
+	</thead>
+	<TBODY>
+		<TR class="type091male">
+			<TD>両川さん</TD>
+			<TD>0:38:04</TD>
+			<TD>0:38:02</TD>
+			<TD>6/357</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>川島さん</TD>
+			<TD>0:38:07</TD>
+			<TD>0:38:04</TD>
+			<TD>7/357</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>千枝さん</TD>
+			<TD>0:38:34</TD>
+			<TD>0:38:32</TD>
+			<TD>1/247</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>我妻さん</TD>
+			<TD>0:41:41</TD>
+			<TD>0:41:36</TD>
+			<TD>2/138</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+
+	</tbody>
+</table>
+
+<a id="第7回東京・赤羽ハーフマラソン"></a>
+<h2>第7回東京・赤羽ハーフマラソン（2016.1.24）</h2>
+<h3>Half</h3>
+
+<table class="type091">
+	<thead>
+	<tr>
+		<th>ランナー</th>
+		<th>グロスタイム</th>
+		<th>ネットタイム</th>
+		<th>種目別順位</th>
+		<th>備考</th>
+	</tr>
+	</thead>
+	<TBODY>
+		<TR class="type091male">
+			<TD>なべちゃん</TD>
+			<TD>1:26:06</TD>
+			<TD>1:25:50</TD>
+			<TD>33/870</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>くまのさん</TD>
+			<TD>1:28:47</TD>
+			<TD>1:27:05</TD>
+			<TD>46/1108</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+	</tbody>
+</table>
+<BR>
+
+<h3>10km</h3>
+
+<table class="type091">
+	<thead>
+	<tr>
+		<th>ランナー</th>
+		<th>グロスタイム</th>
+		<th>種目別順位</th>
+		<th>備考</th>
+	</tr>
+	</thead>
+	<TBODY>
+		<TR class="type091female">
+			<TD>ひしださん</TD>
+			<TD>0:51:53</TD>
+			<TD>3/11</TD>
+			<TD class="type091nyusyo">3位入賞</TD>
+		</TR>
+		<TR class="type091female">
+			<TD>くるみさん</TD>
+			<TD>0:52:14</TD>
+			<TD>8/42</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+	</tbody>
+</table>
+
+<a id="第28回我孫子新春マラソン"></a>
+<h2>第28回我孫子新春マラソン（2016.1.24）</h2>
+<h3>10km</h3>
+
+<table class="type091">
+	<thead>
+	<tr>
+		<th>ランナー</th>
+		<th>グロスタイム</th>
+		<th>種目別順位</th>
+		<th>備考</th>
+	</tr>
+	</thead>
+	<TBODY>
+		<TR class="type091male">
+			<TD>しまむーさん</TD>
+			<TD>0:38:13</TD>
+			<TD>5/97</TD>
+			<TD class="type091nyusyo">5位入賞</TD>
+		</TR>
+		<TR class="type091male">
+			<TD>かみむらさん</TD>
+			<TD>0:39:42</TD>
+			<TD>12/97</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091female">
+			<TD>しほちゃん</TD>
+			<TD>0:44:57</TD>
+			<TD>1/38</TD>
+			<TD class="type091nyusyo">年代別優勝</TD>
+		</TR>
+		<TR class="type091male">
+			<TD>金屋さん</TD>
+			<TD>0:47:22</TD>
+			<TD>19/54</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+	</tbody>
+</table>
+<BR>
+
+<h3>5km</h3>
+
+<table class="type091">
+	<thead>
+	<tr>
+		<th>ランナー</th>
+		<th>グロスタイム</th>
+		<th>種目別順位</th>
+		<th>備考</th>
+	</tr>
+	</thead>
+	<TBODY>
+		<TR class="type091male">
+			<TD>オガワさん</TD>
+			<TD>0:18:26</TD>
+			<TD>5/27</TD>
+			<TD class="type091nyusyo">5位入賞</TD>
+		</TR>
+		<TR class="type091male">
+			<TD>マツトモさん</TD>
+			<TD>0:23:24</TD>
+			<TD>8/18</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+	</tbody>
+</table>
+
+<a id="第41回鎌ヶ谷新春マラソン"></a>
+<h2>第41回鎌ヶ谷新春マラソン（2016.1.17）</h2>
+<h3>10km</h3>
+
+<table class="type091">
+	<thead>
+	<tr>
+		<th>ランナー</th>
+		<th>グロスタイム</th>
+		<th>種目別順位</th>
+		<th>備考</th>
+	</tr>
+	</thead>
+	<TBODY>
+		<TR class="type091male">
+			<TD>よっちゃん</TD>
+			<TD>0:33:59</TD>
+			<TD>2/277</TD>
+			<TD class="type091nyusyo">2位入賞</TD>
+		</TR>
+		<TR class="type091female">
+			<TD>平賀さん</TD>
+			<TD>0:38:42</TD>
+			<TD>1/145</TD>
+			<TD class="type091nyusyo">年代別優勝</TD>
+		</TR>
+		<TR class="type091male">
+			<TD>柿木さん</TD>
+			<TD>0:50:51</TD>
+			<TD>27/76</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+	</tbody>
+</table>
+
+<a id="第55回柏市民新春マラソン"></a>
+<h2>第55回柏市民新春マラソン（2016.1.17）</h2>
+<h3>10km</h3>
+
+<table class="type091">
+	<thead>
+	<tr>
+		<th>ランナー</th>
+		<th>グロスタイム</th>
+		<th>種目別順位</th>
+		<th>備考</th>
+	</tr>
+	</thead>
+	<TBODY>
+		<TR class="type091male">
+			<TD>長崎さん</TD>
+			<TD>0:33:23</TD>
+			<TD>2/115</TD>
+			<TD class="type091nyusyo">2位入賞</TD>
+		</TR>
+		<TR class="type091male">
+			<TD>ひらやまさん</TD>
+			<TD>0:33:31</TD>
+			<TD>3/115</TD>
+			<TD class="type091nyusyo">3位入賞</TD>
+		</TR>
+		<TR class="type091male">
+			<TD>スギさん</TD>
+			<TD>0:37:181</TD>
+			<TD>7/115</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>熊谷さん</TD>
+			<TD>0:38:00</TD>
+			<TD>3/48</TD>
+			<TD class="type091nyusyo">3位入賞</TD>
+		</TR>
+		<TR class="type091female">
+			<TD>珠ちゃん</TD>
+			<TD>0:41:51</TD>
+			<TD>1/28</TD>
+			<TD class="type091nyusyo">年代別優勝</TD>
+		</TR>
+		<TR class="type091female">
+			<TD>石元さん</TD>
+			<TD>0:43:33</TD>
+			<TD>1/12</TD>
+			<TD class="type091nyusyo">年代別優勝</TD>
+		</TR>
+		<TR class="type091male">
+			<TD>佐藤（邦）さん</TD>
+			<TD>0:48:02</TD>
+			<TD>11/44</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>高橋（希）さん</TD>
+			<TD>0:54:59</TD>
+			<TD>28/44</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+	</tbody>
+</table>
+<BR>
+
+<h3>5km</h3>
+
+<table class="type091">
+	<thead>
+	<tr>
+		<th>ランナー</th>
+		<th>グロスタイム</th>
+		<th>種目別順位</th>
+		<th>備考</th>
+	</tr>
+	</thead>
+	<TBODY>
+		<TR class="type091male">
+			<TD>王子さん</TD>
+			<TD>0:16:56</TD>
+			<TD>3/57</TD>
+			<TD class="type091nyusyo">3位入賞</TD>
+		</TR>
+		<TR class="type091male">
+			<TD>なべちゃん</TD>
+			<TD>0:18:33</TD>
+			<TD>7/57</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>千葉（隆）さん</TD>
+			<TD>0:18:41</TD>
+			<TD>9/57</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091female">
+			<TD>葉子ちゃん</TD>
+			<TD>0:20:34</TD>
+			<TD>1/29</TD>
+			<TD class="type091nyusyo">年代別優勝</TD>
+		</TR>
+		<TR class="type091female">
+			<TD>あっこちゃん</TD>
+			<TD>0:24:29</TD>
+			<TD>5/29</TD>
+			<TD class="type091nyusyo">5位入賞</TD>
+		</TR>
+	</tbody>
+</table>
+
+<a id="第40回牛久シティマラソン"></a>
+<h2>第40回牛久シティマラソン（2016.1.11）</h2>
+<h3>10km</h3>
+
+<table class="type091">
+	<thead>
+	<tr>
+		<th>ランナー</th>
+		<th>グロスタイム</th>
+		<th>種目別順位</th>
+		<th>備考</th>
+	</tr>
+	</thead>
+	<TBODY>
+		<TR class="type091male">
+			<TD>王子さん</TD>
+			<TD>0:36:25</TD>
+			<TD>15/334</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>トーリーさん</TD>
+			<TD>0:37:14</TD>
+			<TD>20/334</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>石井（信）さん</TD>
+			<TD>0:37:28</TD>
+			<TD>18/449</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>しまむーさん</TD>
+			<TD>0:37:36</TD>
+			<TD>20/449</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>熊谷さん</TD>
+			<TD>0:40:09</TD>
+			<TD>10/291</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091female">
+			<TD>MEGUさん</TD>
+			<TD>0:44:14</TD>
+			<TD>4/89</TD>
+			<TD class="type091nyusyo">4位入賞</TD>
+		</TR>
+		<TR class="type091male">
+			<TD>マツトモさん</TD>
+			<TD>0:48:55</TD>
+			<TD>115/291</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+	</tbody>
+</table>
+
+<a id="第58回葛飾柴又ロードレース"></a>
+<h2>第58回葛飾柴又ロードレース（2016.1.10）</h2>
+<h3>10km</h3>
+
+<table class="type091">
+	<thead>
+	<tr>
+		<th>ランナー</th>
+		<th>グロスタイム</th>
+		<th>種目別順位</th>
+		<th>備考</th>
+	</tr>
+	</thead>
+	<TBODY>
+		<TR class="type091male">
+			<TD>オガワさん</TD>
+			<TD>0:38:11</TD>
+			<TD>5/94</TD>
+			<TD class="type091nyusyo">5位入賞</TD>
+		</TR>
+	</tbody>
+</table>
+
+<a id="第61回松戸市七草マラソン"></a>
+<h2>第61回松戸市七草マラソン（2016.1.10）</h2>
+<h3>10km</h3>
+
+<table class="type091">
+	<thead>
+	<tr>
+		<th>ランナー</th>
+		<th>グロスタイム</th>
+		<th>種目別順位</th>
+		<th>備考</th>
+	</tr>
+	</thead>
+	<TBODY>
+		<TR class="type091male">
+			<TD>よっちゃん</TD>
+			<TD>0:34:44</TD>
+			<TD>13/1727</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>芦川さん</TD>
+			<TD>0:35:55</TD>
+			<TD>27/1727</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>トーリーさん</TD>
+			<TD>0:37:24</TD>
+			<TD>49/1727</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>貴戸さん</TD>
+			<TD>0:40:13</TD>
+			<TD>124/1727</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>山田さん</TD>
+			<TD>0:40:37</TD>
+			<TD>136/1727</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091female">
+			<TD>MEGUさん</TD>
+			<TD>0:44:07</TD>
+			<TD>41/413</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>中村さん</TD>
+			<TD>0:46:03</TD>
+			<TD>432/1727</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+		<TR class="type091male">
+			<TD>カシマさん</TD>
+			<TD>0:47:13</TD>
+			<TD>536/1727</TD>
+			<TD class="type091nyusyo"></TD>
+		</TR>
+	</tbody>
+</table>
+<br>
+<h3>5km</h3>
+
+<table class="type091">
+	<thead>
+	<tr>
+		<th>ランナー</th>
+		<th>グロスタイム</th>
+		<th>種目別順位</th>
+		<th>備考</th>
+	</tr>
+	</thead>
+	<TBODY>
+		<TR class="type091male">
+			<TD>大倉さん</TD>
+			<TD>0:16:31</TD>
+			<TD>2/458</TD>
+			<TD class="type091nyusyo">2位入賞</TD>
+		</TR>
+	</tbody>
+</table>
+
+
+<a id="第42回市原高滝湖マラソン"></a>
+<h2>第42回市原高滝湖マラソン（2016.1.9）</h2>
+<h3>Half</h3>
+
+<table class="type091">
+	<thead>
+	<tr>
+		<th>ランナー</th>
+		<th>グロスタイム</th>
+		<th>種目別順位</th>
+		<th>備考</th>
+	</tr>
+	</thead>
+	<TBODY>
+		<TR class="type091female">
+			<TD>MEGUさん</TD>
+			<TD>1:37:05</TD>
+			<TD>1/27</TD>
+			<TD class="type091nyusyo">年代別優勝</TD>
+		</TR>
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+				<div id="subnavi"> </div>
+			</div>
+		</div>
+
+
+
+        <!-- #menuL 右サイドメニュー=========================================== -->
+            <!--#include virtual="/ssi/side.html"  -->
+
+            <!-- フロートが適用されている複数のボックスの外側に親ボックスがある場合、
+            フロートが解除されていないと親ボックスの高さがなくなるため、追加	-->
+            <div style="clear: both"></div>
+
+    	</div>	<!-- #contents-->
+
+    <!-- 下部=============================================================== -->
+    <!--SSI追加。外部ファイル読み出し -->
+        <!--#include virtual="/ssi/footer.html"  -->
+    <!-- フッター終了========================================================= -->
+
+
+<!-- トップへ戻るボタン-->
+<p class="pagetop"><a href="#wrap">先頭へ▲</a></p>
+
+
+</div>	<!-- #page-->
+
+
+
+
+
+
+</body>
+</html>

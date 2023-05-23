@@ -1,0 +1,558 @@
+﻿<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+
+<!-- 個別設定必要-->
+<title>大会結果｜ウィングAC</title>
+<meta name="keywords" content="ウィング・アスリートクラブ, ランニングクラブ, 柏市, 手賀沼">
+<meta name="description" content="本ページは、柏市手賀沼を中心に活動しているランニングクラブであるウィング・アスリートクラブの大会結果のページです。2019年10月～12月の結果です。">
+
+
+<!-- 電話番号にリンクを貼らないように-->
+<meta name="format-detection" content="telephone=no">
+
+<!-- レスポンシブ -->
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<!--[if lt IE 9]>
+  <script src="../js/css3-mediaqueries.js"></script>
+<![endif]-->	<!-- IE8以下の対応 -->
+<!-- IE9未満の対応。外部CSSファイルを指定しているlink要素の前に記述-->
+
+
+<!-- ｊQueryメイン  -->
+<script src="../js/jquery-1.12.3.min.js" type="text/javascript"></script>
+
+<!-- ドロップダウンメニュー、その他を、IE8以下に対応させるためのJS-->
+<script src="../js/html5shiv.js" type="text/javascript"></script>
+
+<!-- ギャラリー
+<script src="../js/galleria/galleria-1.2.9.js" type="text/javascript"></script>
+<script src="../js/gallery_sub.js" type="text/javascript"></script>
+ -->
+
+<!-- JS コードの外部ファイルに移動	-->
+<script src="../js/scripts.js" type="text/javascript"></script>
+
+<!-- cssファイルの読み込み	-->
+<link rel="stylesheet" href="../css/style.css">
+
+<!-- Font Awesome を利用-->
+<link rel="stylesheet" href="../font-awesome-4.6.3/css/font-awesome.min.css">
+
+<!-- アイコン読み出し-->
+<link rel="icon" href="../img/favicon.ico">
+
+</head>
+
+<body>
+<!-- #page ページの整形：中央寄せ -->
+<div id="page">
+
+
+<!-- #header 画面上部のヘッダー==================================== -->
+	<!--SSI追加。ヘッダー外部ファイル読み出し -->
+						<!--#include virtual="/ssi/header.html"  -->
+<!-- #header 画面上部のヘッダー、終了================================ -->
+
+
+  <!-- スライドメニューボタン  -->
+  <div id="menuButton">
+  <div id="menuButtonInner">
+  <span class="slideButton"><i class="fa fa-bars fa-4x"></i> <br>メニュー<br></span>
+  </div>
+  </div>
+
+  <div style="clear:both;"> </div>
+  <div id="layer"> </div>
+
+
+	<!-- #menu 画面上部のメニュー======================================================================== -->
+	<!--SSI追加。グローバルメニュー外部ファイル読み出し -->
+	          <!--#include virtual="/ssi/nav.html"  -->
+	<!-- #menu 画面上部のメニュー、終了================================================================== -->
+
+
+	<div id="contents">
+		<!-- #main 本文スペース -->
+		<div id="main">
+			<div class="contentswrap">
+				<div class="title">
+					<h1><a href="../taikaikekka/index.shtml">大会結果</a>　2019年10月～12月</h1>
+					<p class="subh">大会結果の報告先は吉田さんです。<br>
+					吉田さんのアドレスを知りたい方は、<a href="mailto:wingac2016@gmail.com">wingac2016@gmail.com</a>へおたずねください。
+					</p>
+				</div>
+
+
+
+                <a id="insert-pos"></a>
+<a id="第50回記念防府読売マラソン（2019.12.15）"></a>
+<h2><a href="https://hofu-yomiuri.jp/" target="_blank">第50回記念防府読売マラソン（2019.12.15）</a></h2>
+<h3>フル</h3>
+<table class="type091">
+<thead><tr><th>ランナー</th><th>グロスタイム</th><th>ネットタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>ながいさん</td><td>3:07:19</td><td>3:06:48</td><td>992/2445</td><td class="type091nyusyo"></td></tr></tbody>
+</table>
+
+<a id="第6回東日本マスタｰズロｰドレｰス大会（2019.12.22）"></a>
+<h2><a href="http://tokyomasters.xsrv.jp/2019youkou/eastMR.pdf" target="_blank">第6回東日本マスタｰズロｰドレｰス大会（2019.12.22）</a></h2>
+<h3>ハｰフ</h3>
+<table class="type091">
+	<thead><tr><th>ランナー</th><th>グロスタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>大地さん</td><td>1:24:05</td><td>11/27</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091female"><td>平賀さん</td><td>1:23:28</td><td>1/6</td><td class="type091nyusyo">優勝</td></tr></tbody>
+	<tbody><tr class="type091male"><td>ながいさん</td><td>1:27:51</td><td>11/68</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>西さん</td><td>1:49:12</td><td>1/12</td><td class="type091nyusyo">優勝</td></tr></tbody>
+	<tbody><tr class="type091male"><td>シマさん</td><td>2:07:34</td><td>28/31</td><td class="type091nyusyo"></td></tr></tbody>
+</table>
+
+
+<a id="いちごトレイルラン（2019.12.21）"></a>
+<h2><a href="https://www.motherfarm.co.jp/information/trailrun/" target="_blank">いちごトレイルラン（2019.12.21）</a></h2>
+<h3>20km</h3>
+<table class="type091">
+	<thead><tr><th>ランナー</th><th>グロスタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>コマツさん</td><td>2:02:32</td><td>82/250</td><td class="type091nyusyo"></td></tr></tbody>
+</table>
+
+<a id="第5回さいたま国際マラソン（2019.12.8）"></a>
+<h2><a href="https://saitama-international-marathon.jp/" target="_blank">第5回さいたま国際マラソン（2019.12.8）</a></h2>
+<h3>フル</h3>
+<table class="type091">
+<thead><tr><th>ランナー</th><th>グロスタイム</th><th>ネットタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>クリハラさん</td><td>3:03:43</td><td>3:01:58</td><td>427/11388</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>倫亜さん</td><td>3:29:24</td><td>3:26:44</td><td>1579/11388</td><td class="type091nyusyo"></td></tr></tbody>
+</table>
+
+<a id="第44回千葉マリンマラソン（2019.12.1）"></a>
+<h2><a href="http://www.chibamarathon.jp/" target="_blank">第44回千葉マリンマラソン（2019.12.1）</a></h2>
+<h3>ハｰフ</h3>
+<table class="type091">
+<thead><tr><th>ランナー</th><th>グロスタイム</th><th>ネットタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>よっちゃん</td><td>1:17:34</td><td>1:17:32</td><td>2/35</td><td class="type091nyusyo">準優勝</td></tr></tbody>
+	<tbody><tr class="type091male"><td>我妻さん</td><td>1:34:53</td><td>1:34:36</td><td>5/223</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>西さん</td><td>1:46:17</td><td>1:45:48</td><td>1/23</td><td class="type091nyusyo">優勝</td></tr></tbody>
+</table>
+<h3>10km</h3>
+<table class="type091">
+<thead><tr><th>ランナー</th><th>グロスタイム</th><th>ネットタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091female"><td>あっこちゃん</td><td>0:57:25</td><td>0:56:27</td><td>23/119</td><td class="type091nyusyo"></td></tr></tbody>
+</table>
+
+<a id="第38回川口マラソン（2019.12.1）"></a>
+<h2><a href="http://kawaspo.jp/smarts/index/16/" target="_blank">第38回川口マラソン（2019.12.1）</a></h2>
+<h3>ハｰフ</h3>
+<table class="type091">
+<thead><tr><th>ランナー</th><th>グロスタイム</th><th>ネットタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>ノブさん</td><td>1:17:39</td><td>1:17:36</td><td>2/574</td><td class="type091nyusyo">準優勝</td></tr></tbody>
+</table>
+
+<a id="第73回福岡国際マラソン（2019.12.1）"></a>
+<h2><a href="http://fukuoka-marathon.com/" target="_blank">第73回福岡国際マラソン（2019.12.1）</a></h2>
+<h3>フル</h3>
+<table class="type091">
+	<thead><tr><th>ランナー</th><th>グロスタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>池永さん</td><td>2:35:59</td><td>264/370</td><td class="type091nyusyo"></td></tr></tbody>
+</table>
+
+<a id="第9回神戸マラソン（2019.11.17）"></a>
+<h2><a href="http://kobe-marathon.net/" target="_blank">第9回神戸マラソン（2019.11.17）</a></h2>
+<h3>フル</h3>
+<table class="type091">
+<thead><tr><th>ランナー</th><th>グロスタイム</th><th>ネットタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>西さん</td><td>4:03:30</td><td>3:59:48</td><td>2/37</td><td class="type091nyusyo">準優勝</td></tr></tbody>
+</table>
+
+<a id="いわて盛岡シティマラソン2019（2019.10.27）"></a>
+<h2><a href="https://iwate-morioka-city-marathon.jp/" target="_blank">いわて盛岡シティマラソン2019（2019.10.27）</a></h2>
+<h3>フル</h3>
+<table class="type091">
+<thead><tr><th>ランナー</th><th>グロスタイム</th><th>ネットタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>太田（秀）さん</td><td>4:43:37</td><td>4:41:27</td><td>169/331</td><td class="type091nyusyo"></td></tr></tbody>
+</table>
+
+<a id="第30回所沢シティマラソン（2019.12.1）"></a>
+<h2><a href="http://tokorozawa-marathon.jp/" target="_blank">第30回所沢シティマラソン（2019.12.1）</a></h2>
+<h3>ハｰフ</h3>
+<table class="type091">
+<thead><tr><th>ランナー</th><th>グロスタイム</th><th>ネットタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>ながいさん</td><td>1:28:06</td><td>1:28:01</td><td>10/464</td><td class="type091nyusyo">10位入賞</td></tr></tbody>
+</table>
+
+<a id="第39回つくばマラソン（2019.11.24）"></a>
+<h2><a href="http://www.tsukuba-marathon.com/" target="_blank">第39回つくばマラソン（2019.11.24）</a></h2>
+<h3>フル</h3>
+<table class="type091">
+<thead><tr><th>ランナー</th><th>グロスタイム</th><th>ネットタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>熊谷（修）さん</td><td>2:56:07</td><td>2:55:49</td><td>448/9613</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>ナベちゃん</td><td>2:56:49</td><td>2:56:37</td><td>485/9613</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>コスゲさん</td><td>3:05:12</td><td>3:04:55</td><td>948/9613</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>ながいさん</td><td>3:05:30</td><td>3:05:12</td><td>967/9613</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091female"><td>りえちゃん</td><td>3:12:51</td><td>3:12:49</td><td>75/1848</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091female"><td>しほちゃん</td><td>3:14:30</td><td>3:14:20</td><td>86/1848</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>倫亜さん</td><td>3:21:07</td><td>3:19:33</td><td>1926/9613</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>貴戸さん</td><td>3:27:46</td><td>3:27:31</td><td>2455/9613</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091female"><td>雅子さん</td><td>3:28:49</td><td>3:28:30</td><td>213/1848</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091female"><td>石元さん</td><td>3:28:49</td><td>3:28:39</td><td>214/1848</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091female"><td>まつさん</td><td>3:28:57</td><td>3:28:40</td><td>216/1848</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>上田（剛）さん</td><td>3:31:30</td><td>3:31:06</td><td>2793/9613</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>上田（秀）さん</td><td>3:31:43</td><td>3:31:19</td><td>2805/9613</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>渋谷さん</td><td>3:32:42</td><td>3:31:18</td><td>2875/9613</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>佐藤（宏）さん</td><td>3:35:51</td><td>3:34:53</td><td>3071/9613</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>あべさん</td><td>3:44:38</td><td>3:42:58</td><td>3666/9613</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>コマツさん</td><td>4:17:22</td><td>4:16:19</td><td>6080/9613</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091female"><td>山内さん</td><td>4:23:54</td><td>4:23:22</td><td>980/1848</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>たかぎさん</td><td>4:27:30</td><td>4:25:28</td><td>6643/9613</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>中山さん</td><td>4:34:33</td><td>4:34:09</td><td>7019/9613</td><td class="type091nyusyo"></td></tr></tbody>
+</table>
+<h3>10km</h3>
+<table class="type091">
+<thead><tr><th>ランナー</th><th>グロスタイム</th><th>ネットタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>千枝さん</td><td>0:39:52</td><td>0:39:48</td><td>43/1269</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091female"><td>下重さん</td><td>0:48:25</td><td>0:48:18</td><td>32/733</td><td class="type091nyusyo"></td></tr></tbody>
+</table>
+
+
+<a id="第32回大田原マラソン（2019.11.23）"></a>
+<h2><a href="http://www.ohtawara-marathon.com/" target="_blank">第32回大田原マラソン（2019.11.23）</a></h2>
+<h3>フル</h3>
+<table class="type091">
+<thead><tr><th>ランナー</th><th>グロスタイム</th><th>ネットタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>仁平さん</td><td>3:01:26</td><td>3:01:18</td><td>15/318</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091female"><td>平賀さん</td><td>3:03:20</td><td>3:03:18</td><td>4/13</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>高野さん</td><td>3:25:29</td><td>3:25:01</td><td>16/95</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>まとばさん</td><td>3:33:57</td><td>3:33:23</td><td>28/95</td><td class="type091nyusyo"></td></tr></tbody>
+</table>
+
+<a id="第7回 銚子さんまマラソン（2019.11.17）"></a>
+<h2><a href="http://choshi-sanma-marathon.jp/" target="_blank">第7回 銚子さんまマラソン（2019.11.17）</a></h2>
+<h3>ハｰフ</h3>
+<table class="type091">
+<thead><tr><th>ランナー</th><th>グロスタイム</th><th>ネットタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>コマツさん</td><td>1:45:41</td><td>1:45:17</td><td>63/317</td><td class="type091nyusyo"></td></tr></tbody>
+</table>
+
+<a id="第11回 越谷レイクタウンランニング（2019.11.17）"></a>
+<h2><a href="https://www.victoria.co.jp/koshigaya/2019.html" target="_blank">第11回 越谷レイクタウンランニング（2019.11.17）</a></h2>
+<h3>10マイル</h3>
+<table class="type091">
+	<thead><tr><th>ランナー</th><th>グロスタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>榑松さん</td><td>1:25:50</td><td>171/434</td><td class="type091nyusyo"></td></tr></tbody>
+</table>
+
+<a id="第19回陣馬山トレイルレｰス（2019.11.10）"></a>
+<h2><a href="http://www.k-y-trail.com/jinbayama/index.html" target="_blank">第19回陣馬山トレイルレｰス（2019.11.10）</a></h2>
+<h3>20.82km</h3>
+<table class="type091">
+	<thead><tr><th>ランナー</th><th>グロスタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>我妻さん</td><td>2:54:06</td><td>8/37</td><td class="type091nyusyo"></td></tr></tbody>
+</table>
+
+<a id="2019成田POPラン大会（2019.11.10）"></a>
+<h2><a href="http://www.narita-pop-run.jp/" target="_blank">2019成田POPラン大会（2019.11.10）</a></h2>
+<h3>ハｰフ</h3>
+<table class="type091">
+<thead><tr><th>ランナー</th><th>グロスタイム</th><th>ネットタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>ヒロさん</td><td>1:31:04</td><td>1:30:57</td><td>4/235</td><td class="type091nyusyo">4位入賞</td></tr></tbody>
+	<tbody><tr class="type091male"><td>高野さん</td><td>1:32:53</td><td>1:32:49</td><td>5/235</td><td class="type091nyusyo">5位入賞</td></tr></tbody>
+	<tbody><tr class="type091male"><td>藤崎さん</td><td>1:39:51</td><td>1:39:50</td><td>2/36</td><td class="type091nyusyo">準優勝</td></tr></tbody>
+</table>
+<h3>10km</h3>
+<table class="type091">
+<thead><tr><th>ランナー</th><th>グロスタイム</th><th>ネットタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>千枝さん</td><td>0:39:17</td><td>0:39:16</td><td>1/79</td><td class="type091nyusyo">優勝</td></tr></tbody>
+</table>
+
+<a id="第29回 坂東市いわい将門ハｰフマラソン（2019.11.10）"></a>
+<h2><a href="http://www.masakadomarathon.jp/" target="_blank">第29回 坂東市いわい将門ハｰフマラソン（2019.11.10）</a></h2>
+<h3>ハｰフ</h3>
+<table class="type091">
+<thead><tr><th>ランナー</th><th>グロスタイム</th><th>ネットタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>池永さん</td><td>1:14:40</td><td>1:14:39</td><td>22/602</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>よっちゃん</td><td>1:17:14</td><td>1:17:12</td><td>9/934</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>和田野さん</td><td>1:21:27</td><td>1:21:22</td><td>71/602</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>コスゲさん</td><td>1:24:02</td><td>1:23:53</td><td>22/821</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>千葉（隆）さん</td><td>1:25:40</td><td>1:25:31</td><td>84/934</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>ながいさん</td><td>1:26:30</td><td>1:26:24</td><td>35/821</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>長崎さん</td><td>1:28:38</td><td>1:28:25</td><td>134/934</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091female"><td>雅子さん</td><td>1:35:14</td><td>1:35:07</td><td>12/216</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091female"><td>まつさん</td><td>1:35:27</td><td>1:35:00</td><td>16/186</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>貴戸さん</td><td>1:39:02</td><td>1:38:51</td><td>301/934</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>まとばさん</td><td>1:39:18</td><td>1:38:50</td><td>31/455</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091female"><td>下重さん</td><td>1:43:23</td><td>1:42:56</td><td>34/186</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>オガワさん</td><td>1:46:29</td><td>1:46:16</td><td>436/934</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>ダチさん</td><td>1:48:38</td><td>1:48:30</td><td>276/602</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>田中（英）さん</td><td>2:16:35</td><td>2:13:39</td><td>684/821</td><td class="type091nyusyo"></td></tr></tbody>
+</table>
+
+<a id="第31回 会津若松市鶴ヶ城ハｰフマラソン（2019.10.6）"></a>
+<h2><a href="http://aizu-tsurugajomarathon.jp/" target="_blank">第31回 会津若松市鶴ヶ城ハｰフマラソン（2019.10.6）</a></h2>
+<h3>ハｰフ</h3>
+<table class="type091">
+<thead><tr><th>ランナー</th><th>グロスタイム</th><th>ネットタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>ヒロさん</td><td>1:31:42</td><td>1:31:22</td><td>6/378</td><td class="type091nyusyo">6位入賞</td></tr></tbody>
+</table>
+
+<a id="第103回小松菜マラソン（2019.11.3）"></a>
+<h2><a href="https://www.sportsentry.ne.jp/event/t/80388" target="_blank">第103回小松菜マラソン（2019.11.3）</a></h2>
+<h3>30km</h3>
+<table class="type091">
+	<thead><tr><th>ランナー</th><th>グロスタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>かみむらさん</td><td>2:12:57</td><td>4/21</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091female"><td>しほちゃん</td><td>2:25:22</td><td>1/8</td><td class="type091nyusyo">優勝</td></tr></tbody>
+</table>
+
+<a id="天童ラ･フランス マラソン2019（2019.11.3）"></a>
+<h2><a href="http://www.lafrance-marathon.com/" target="_blank">天童ラ･フランス マラソン2019（2019.11.3）</a></h2>
+<h3>ハｰフ</h3>
+<table class="type091">
+<thead><tr><th>ランナー</th><th>グロスタイム</th><th>ネットタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>両川さん</td><td>1:23:04</td><td>1:23:00</td><td>4/709</td><td class="type091nyusyo"></td></tr></tbody>
+</table>
+
+<a id="第29回ぐんまマラソン（2019.11.3）"></a>
+<h2><a href="https://www.g-marathon.com/" target="_blank">第29回ぐんまマラソン（2019.11.3）</a></h2>
+<h3>10km</h3>
+<table class="type091">
+<thead><tr><th>ランナー</th><th>グロスタイム</th><th>ネットタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091female"><td>胡桃さん</td><td>0:55:36</td><td>0:54:53</td><td>4/67</td><td class="type091nyusyo"></td></tr></tbody>
+</table>
+
+<a id="チャレンジ富士五湖ウルトラマラソン 秋（2019.10.5）"></a>
+<h2><a href="https://www.r-wellness.com/fuji5/autumn/" target="_blank">チャレンジ富士五湖ウルトラマラソン 秋（2019.10.5）</a></h2>
+<h3>100km</h3>
+<table class="type091">
+<thead><tr><th>ランナー</th><th>グロスタイム</th><th>ネットタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>トシさん</td><td>13:59:30</td><td>13:58:27</td><td>429/456</td><td class="type091nyusyo"></td></tr></tbody>
+</table>
+<h3>71km</h3>
+<table class="type091">
+<thead><tr><th>ランナー</th><th>グロスタイム</th><th>ネットタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>玉野さん</td><td>13:59:30</td><td>13:58:27</td><td>141/354</td><td class="type091nyusyo"></td></tr></tbody>
+</table>
+
+<a id="2019フｰドバレｰとかちマラソン（2019.10.27）"></a>
+<h2><a href="http://www.foodvalley-marathon.com/" target="_blank">2019フｰドバレｰとかちマラソン（2019.10.27）</a></h2>
+<h3>ハｰフ</h3>
+<table class="type091">
+	<thead><tr><th>ランナー</th><th>グロスタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>コマツさん</td><td>1:48:23</td><td>194/742</td><td class="type091nyusyo"></td></tr></tbody>
+</table>
+
+<a id="富山マラソン2019（2019.10.27）"></a>
+<h2><a href="http://www.toyamamarathon.com/" target="_blank">富山マラソン2019（2019.10.27）</a></h2>
+<h3>フル</h3>
+<table class="type091">
+<thead><tr><th>ランナー</th><th>グロスタイム</th><th>ネットタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>ながいさん</td><td>3:01:06</td><td>3:01:03</td><td>234/9665</td><td class="type091nyusyo"></td></tr></tbody>
+</table>
+
+<a id="金沢マラソン2019（2019.10.27）"></a>
+<h2><a href="http://www.kanazawa-marathon.jp/" target="_blank">金沢マラソン2019（2019.10.27）</a></h2>
+<h3>フル</h3>
+<table class="type091">
+<thead><tr><th>ランナー</th><th>グロスタイム</th><th>ネットタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>堀米さん</td><td>4:36:20</td><td>4:31:14</td><td>208/973</td><td class="type091nyusyo"></td></tr></tbody>
+</table>
+
+<a id="第4回水戸黄門漫遊マラソン（2019.10.27）"></a>
+<h2><a href="http://www.mitokomon-manyu-marathon.com/" target="_blank">第4回水戸黄門漫遊マラソン（2019.10.27）</a></h2>
+<h3>フル</h3>
+<table class="type091">
+<thead><tr><th>ランナー</th><th>グロスタイム</th><th>ネットタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>ノブさん</td><td>2:55:04</td><td>2:54:59</td><td>57/3048</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>東海林さん</td><td>3:52:37</td><td>3:51:40</td><td>847/3048</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>中山さん</td><td>5:40:00</td><td>5:38:17</td><td>88/116</td><td class="type091nyusyo"></td></tr></tbody>
+</table>
+
+<a id="第25回手賀沼エコマラソン（2019.10.27）"></a>
+<h2><a href="https://teganuma-eco.jp/" target="_blank">第25回手賀沼エコマラソン（2019.10.27）</a></h2>
+<h3>ハｰフ</h3>
+<table class="type091">
+<thead><tr><th>ランナー</th><th>グロスタイム</th><th>ネットタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>王子さん</td><td>1:12:12</td><td>1:12:09</td><td>4/1057</td><td class="type091nyusyo">市民の部3位表彰台</td></tr></tbody>
+	<tbody><tr class="type091male"><td>よっちゃん</td><td>1:14:54</td><td>1:14:52</td><td>3/1309</td><td class="type091nyusyo">3位表彰台</td></tr></tbody>
+	<tbody><tr class="type091male"><td>池永さん</td><td>1:16:46</td><td>1:16:44</td><td>12/684</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>和田野さん</td><td>1:19:16</td><td>1:19:06</td><td>15/684</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>ひらやまさん</td><td>1:19:26</td><td>1:19:21</td><td>22/1057</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>ナベちゃん</td><td>1:22:23</td><td>1:22:16</td><td>35/1057</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>本間さん</td><td>1:23:34</td><td>1:23:30</td><td>16/1268</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>クリハラさん</td><td>1:24:27</td><td>1:24:12</td><td>40/684</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>かみむらさん</td><td>1:24:28</td><td>1:23:52</td><td>52/1309</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>大地さん</td><td>1:25:03</td><td>1:24:49</td><td>42/684</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>千葉（隆）さん</td><td>1:27:17</td><td>1:27:08</td><td>82/1309</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>みたらいさん</td><td>1:27:44</td><td>1:27:29</td><td>89/1309</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>熊谷（修）さん</td><td>1:28:13</td><td>1:28:06</td><td>18/836</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>貴戸さん</td><td>1:29:36</td><td>1:29:23</td><td>121/1309</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>山藤さん</td><td>1:29:37</td><td>1:29:32</td><td>73/684</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>長崎さん</td><td>1:30:10</td><td>1:29:51</td><td>132/1309</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>平山（謙）さん</td><td>1:30:16</td><td>1:30:08</td><td>68/1268</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>加藤さん</td><td>1:30:28</td><td>1:29:30</td><td>124/1309</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>高野さん</td><td>1:31:58</td><td>1:31:37</td><td>14/473</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>しまむーさん</td><td>1:32:17</td><td>1:32:02</td><td>90/1268</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>上田（剛）さん</td><td>1:34:18</td><td>1:33:39</td><td>66/513</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>上田（秀）さん</td><td>1:34:20</td><td>1:33:41</td><td>18/473</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091female"><td>しほちゃん</td><td>1:34:30</td><td>1:34:18</td><td>11/361</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>渋谷さん</td><td>1:35:07</td><td>1:34:33</td><td>196/1309</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091female"><td>りえちゃん</td><td>1:36:02</td><td>1:35:54</td><td>10/219</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091female"><td>まつさん</td><td>1:36:09</td><td>1:36:00</td><td>14/361</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>あべさん</td><td>1:36:26</td><td>1:35:49</td><td>144/1268</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091female"><td>雅子さん</td><td>1:36:44</td><td>1:36:37</td><td>13/347</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>松永さん</td><td>1:37:51</td><td>1:37:05</td><td>167/1268</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>まとばさん</td><td>1:38:03</td><td>1:37:27</td><td>29/473</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>佐藤（宏）さん</td><td>1:38:08</td><td>1:37:34</td><td>10/312</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>松本（寛）さん</td><td>1:39:06</td><td>1:38:14</td><td>213/1057</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>我妻さん</td><td>1:39:24</td><td>1:38:40</td><td>35/473</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>河井さん</td><td>1:40:33</td><td>1:39:34</td><td>218/1268</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>はっちさん</td><td>1:42:37</td><td>1:41:06</td><td>255/1057</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091female"><td>中西さん</td><td>1:43:01</td><td>1:42:03</td><td>8/119</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>藤崎さん</td><td>1:43:10</td><td>1:42:33</td><td>56/473</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>芦川さん</td><td>1:48:16</td><td>1:47:07</td><td>382/1268</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>たかぎさん</td><td>1:49:27</td><td>1:48:02</td><td>203/836</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>清水さん</td><td>1:49:45</td><td>1:48:43</td><td>408/1268</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>西さん</td><td>1:49:50</td><td>1:48:37</td><td>4/74</td><td class="type091nyusyo">4位入賞</td></tr></tbody>
+	<tbody><tr class="type091male"><td>森さん</td><td>1:52:37</td><td>1:51:23</td><td>50/312</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>トシさん</td><td>1:53:00</td><td>1:51:22</td><td>461/1268</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>カシマさん</td><td>1:56:02</td><td>1:53:48</td><td>124/473</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091female"><td>西野さん</td><td>1:58:36</td><td>1:57:29</td><td>61/219</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>上戸さん</td><td>1:59:24</td><td>1:58:10</td><td>7/74</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091female"><td>稲毛さん</td><td>1:59:44</td><td>1:58:03</td><td>99/361</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>三島さん</td><td>2:02:43</td><td>2:00:09</td><td>171/473</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091female"><td>ひしださん</td><td>2:03:11</td><td>2:01:45</td><td>7/47</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091female"><td>川田（明）さん</td><td>2:11:02</td><td>2:08:28</td><td>97/219</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091female"><td>珠ちゃん</td><td>2:11:04</td><td>2:10:48</td><td>172/361</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>延常さん</td><td>2:12:09</td><td>2:09:19</td><td>550/836</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091female"><td>胡桃さん</td><td>2:14:26</td><td>2:12:49</td><td>84/172</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>オガワさん</td><td>2:14:26</td><td>2:12:49</td><td>782/1057</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>マツトモさん</td><td>2:14:26</td><td>2:12:11</td><td>584/836</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>佐藤（邦）さん</td><td>2:15:10</td><td>2:12:13</td><td>19/74</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>高橋（希）さん</td><td>2:30:51</td><td>2:25:26</td><td>37/74</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>柿木さん</td><td>2:36:07</td><td>2:30:43</td><td>43/74</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>佐々木さん</td><td>2:37:25</td><td>2:33:18</td><td>266/312</td><td class="type091nyusyo"></td></tr></tbody>
+</table>
+
+<a id="第44回板橋区･高島平ロｰドレｰス大会（2019.10.20）"></a>
+<h2><a href="http://www.itabashi-taikyo.or.jp/info/pdf/190313_info.pdf" target="_blank">第44回板橋区･高島平ロｰドレｰス大会（2019.10.20）</a></h2>
+<h3>20km</h3>
+<table class="type091">
+	<thead><tr><th>ランナー</th><th>グロスタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>池永さん</td><td>1:10:05</td><td>17/204</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>もっちさん</td><td>1:33:19</td><td>63/87</td><td class="type091nyusyo"></td></tr></tbody>
+</table>
+<h3>10km</h3>
+<table class="type091">
+	<thead><tr><th>ランナー</th><th>グロスタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091female"><td>しほちゃん</td><td>0:42:44</td><td>28/60</td><td class="type091nyusyo"></td></tr></tbody>
+</table>
+
+<a id="第20回記念南陽さわやかワインマラソン（2019.10.14）"></a>
+<h2><a href="http://nanyo-sawayaka-wine-marathon.jp/" target="_blank">第20回記念南陽さわやかワインマラソン（2019.10.14）</a></h2>
+<h3>10km</h3>
+<table class="type091">
+	<thead><tr><th>ランナー</th><th>グロスタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>両川さん</td><td>0:38:10</td><td>2/56</td><td class="type091nyusyo">準優勝</td></tr></tbody>
+</table>
+
+
+<a id="第28回 流山ロｰドレｰス（2019.10.6）"></a>
+<h2><a href="https://www.sportsentry.ne.jp/event/t/79224" target="_blank">第28回 流山ロｰドレｰス（2019.10.6）</a></h2>
+<h3>10km</h3>
+<table class="type091">
+<thead><tr><th>ランナー</th><th>グロスタイム</th><th>ネットタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>よっちゃん</td><td>0:35:23</td><td>0:35:22</td><td>5/835</td><td class="type091nyusyo">5位入賞</td></tr></tbody>
+	<tbody><tr class="type091male"><td>ひらやまさん</td><td>0:36:04</td><td>0:36:01</td><td>7/835</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>クリハラさん</td><td>0:38:58</td><td>0:38:52</td><td>74/781</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>山藤さん</td><td>0:39:43</td><td>0:39:39</td><td>85/781</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>ノリックさん</td><td>0:40:00</td><td>0:39:58</td><td>91/781</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>貴戸さん</td><td>0:40:50</td><td>0:40:41</td><td>74/835</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>しまむーさん</td><td>0:41:13</td><td>0:41:09</td><td>34/653</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091female"><td>珠ちゃん</td><td>0:44:51</td><td>0:44:44</td><td>9/242</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091female"><td>雅子さん</td><td>0:46:30</td><td>0:46:21</td><td>5/173</td><td class="type091nyusyo">5位入賞</td></tr></tbody>
+	<tbody><tr class="type091female"><td>ナカニシさん</td><td>0:47:46</td><td>0:46:40</td><td>20/181</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>たかぎさん</td><td>0:52:27</td><td>0:50:19</td><td>232/653</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091female"><td>ひしださん</td><td>0:52:50</td><td>0:52:04</td><td>5/70</td><td class="type091nyusyo">5位入賞</td></tr></tbody>
+	<tbody><tr class="type091female"><td>胡桃さん</td><td>0:58:39</td><td>0:57:52</td><td>37/173</td><td class="type091nyusyo"></td></tr></tbody>
+</table>
+
+
+<a id="第34回 白井梨マラソン（2019.10.6）"></a>
+<h2><a href="http://www.city.shiroi.chiba.jp/event/sports/1422410602284.html" target="_blank">第34回 白井梨マラソン（2019.10.6）</a></h2>
+<h3>10km</h3>
+<table class="type091">
+	<thead><tr><th>ランナー</th><th>グロスタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>オガワさん</td><td>0:38:09</td><td>27/565</td><td class="type091nyusyo">市民の部準優勝</td></tr></tbody>
+	<tbody><tr class="type091male"><td>かみむらさん</td><td>0:38:18</td><td>30/565</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>平山（謙）さん</td><td>0:40:46</td><td>24/451</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>東海林さん</td><td>0:41:15</td><td>65/565</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>千枝さん</td><td>0:42:00</td><td>34/451</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>藤崎さん</td><td>0:46:57</td><td>69/451</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>芦川さん</td><td>0:47:22</td><td>72/451</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>コマツさん</td><td>0:48:41</td><td>95/451</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>太田（秀）さん</td><td>0:51:58</td><td>140/451</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>くぼっちさん</td><td>0:53:50</td><td>186/451</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091female"><td>真里さん</td><td>1:04:01</td><td>187/298</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>佐々木さん</td><td>1:05:52</td><td>372/451</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091female"><td>佐藤（奈）さん</td><td>1:07:56</td><td>107/158</td><td class="type091nyusyo"></td></tr></tbody>
+</table>
+<h3>5km</h3>
+<table class="type091">
+	<thead><tr><th>ランナー</th><th>グロスタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>王子さん</td><td>0:16:27</td><td>2/199</td><td class="type091nyusyo">準優勝</td></tr></tbody>
+</table>
+
+<a id="第7回山形まるごとマラソン（2019.10.6）"></a>
+<h2><a href="http://yamagata-city-marathon.com/" target="_blank">第7回山形まるごとマラソン（2019.10.6）</a></h2>
+<h3>ハｰフ</h3>
+<table class="type091">
+<thead><tr><th>ランナー</th><th>グロスタイム</th><th>ネットタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>両川さん</td><td>1:21:56</td><td>1:21:53</td><td>4/772</td><td class="type091nyusyo">4位入賞</td></tr></tbody>
+</table>
+
+<a id="第3回 松本マラソン（2019.10.6）"></a>
+<h2><a href="https://www.matsumoto-marathon.jp/" target="_blank">第3回 松本マラソン（2019.10.6）</a></h2>
+<h3>フル</h3>
+<table class="type091">
+<thead><tr><th>ランナー</th><th>グロスタイム</th><th>ネットタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>ながいさん</td><td>3:07:17</td><td>3:07:09</td><td>175/5544</td><td class="type091nyusyo"></td></tr></tbody>
+</table>
+
+
+
+
+
+
+				<div id="subnavi"></div>
+			</div>
+		</div>
+
+
+
+        <!-- #menuL 右サイドメニュー=========================================== -->
+            <!--#include virtual="/ssi/side.html"  -->
+
+            <!-- フロートが適用されている複数のボックスの外側に親ボックスがある場合、
+            フロートが解除されていないと親ボックスの高さがなくなるため、追加	-->
+            <div style="clear: both"></div>
+
+    	</div>	<!-- #contents-->
+
+    <!-- 下部=============================================================== -->
+    <!--SSI追加。外部ファイル読み出し -->
+        <!--#include virtual="/ssi/footer.html"  -->
+    <!-- フッター終了========================================================= -->
+
+
+<!-- トップへ戻るボタン-->
+<p class="pagetop"><a href="#wrap">先頭へ▲</a></p>
+
+
+</div>	<!-- #page-->
+
+
+
+
+
+
+</body>
+</html>

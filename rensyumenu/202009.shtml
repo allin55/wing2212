@@ -1,0 +1,401 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+
+<!-- 個別設定必要-->
+<title>練習メニュー｜ウィングAC</title>
+<meta name="keywords" content="ウィング・アスリートクラブ, ランニングクラブ, 柏市, 手賀沼">
+<meta name="description" content="本ページは、柏市手賀沼を中心に活動しているランニングクラブであるウィング・アスリートクラブの練習メニューのページです。2020年9月～12月の練習メニューです。">
+
+
+<!-- 電話番号にリンクを貼らないように-->
+<meta name="format-detection" content="telephone=no">
+
+<!-- レスポンシブ -->
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<!--[if lt IE 9]>
+  <script src="../js/css3-mediaqueries.js"></script>
+<![endif]-->	<!-- IE8以下の対応 -->
+<!-- IE9未満の対応。外部CSSファイルを指定しているlink要素の前に記述-->
+
+
+<!-- ｊQueryメイン  -->
+<script src="../js/jquery-1.12.3.min.js" type="text/javascript"></script>
+
+<!-- ドロップダウンメニュー、その他を、IE8以下に対応させるためのJS-->
+<script src="../js/html5shiv.js" type="text/javascript"></script>
+
+<!-- ギャラリー
+<script src="../js/galleria/galleria-1.2.9.js" type="text/javascript"></script>
+<script src="../js/gallery_sub.js" type="text/javascript"></script>
+ -->
+
+<!-- JS コードの外部ファイルに移動	-->
+<script src="../js/scripts.js" type="text/javascript"></script>
+
+<!-- cssファイルの読み込み	-->
+<link rel="stylesheet" href="../css/style.css">
+
+<!-- Font Awesome を利用-->
+<link rel="stylesheet" href="../font-awesome-4.6.3/css/font-awesome.min.css">
+
+<!-- アイコン読み出し-->
+<link rel="icon" href="../img/favicon.ico">
+
+</head>
+
+<body>
+<!-- #page ページの整形：中央寄せ -->
+<div id="page">
+
+
+	<!-- #header 画面上部のヘッダー==================================== -->
+		<!--SSI追加。ヘッダー外部ファイル読み出し -->
+							<!--#include virtual="/ssi/header.html"  -->
+	<!-- #header 画面上部のヘッダー、終了================================ -->
+
+
+  <!-- スライドメニューボタン  -->
+  <div id="menuButton">
+  <div id="menuButtonInner">
+  <span class="slideButton"><i class="fa fa-bars fa-4x"></i> <br>メニュー<br></span>
+  </div>
+  </div>
+
+  <div style="clear:both;"> </div>
+  <div id="layer"> </div>
+
+
+
+	<!-- #menu 画面上部のメニュー======================================================================== -->
+
+	<!--SSI追加。グローバルメニュー外部ファイル読み出し -->
+	          <!--#include virtual="/ssi/nav.html"  -->
+
+	<!-- #menu 画面上部のメニュー、終了================================================================== -->
+
+
+
+
+
+
+    <div id="contents">
+        <!-- #main 本文スペース -->
+        <div id="mainFull">
+            <div class="contentswrap">
+
+
+
+
+
+                <a id="insert-pos"></a>
+	<div class="title">
+	<h1>練習メニュー　2020年<a href="#2020年9月"> 9月</a>,<a href="#2020年10月"> 10月</a>,<a href="#2020年11月"> 11月</a>,<a href="#2020年12月"> 12月</a></h1>
+	<p class="subh"><a href="pdf/202009.pdf" target="_blank">PDFファイルはこちらからダウンロードできます</a><br>
+    コロナの影響で練習内容および会場は流動的となりますことを予めご容赦下さい。最新情報は<a href="http://www3.ezbbs.net/08/wingac/">一般掲示板</a>でお知らせ致します。</p>
+	</div>
+	<section>
+	<div class="rensyuWrap">
+	<a id="2020年9月"></a><h2>2020年9月</h2>
+	<dl class="rensyu">
+	<dt>09-06</dt>
+	<dd class="rensyu_name">ビルドアップ走（フィッシングセンター折り返し）
+	<dl class="rensyu_menu">
+	<dt>ドリーム</dt> <dd>20km（6’00”→3’45”/km）</dd>
+	<dt>フューチャー</dt> <dd>18km（6’00”→4’00”/km）</dd>
+	<dt>アミーゴ/Ａ</dt> <dd>18km（6’00”→4’30”/km）</dd>
+	<dt>アミーゴ/Ｂ</dt> <dd>16km（6’00”→5’00”/km）</dd>
+	<dt>チャレンジ</dt> <dd>14km（7’00”→6’00”/km）</dd>
+	</dl>
+	<p class="commentDD">※コースは気象状況により変更有り</p>
+	</dd>
+	<dt>09-13</dt>
+	<dd class="rensyu_name">ペース走
+	<dl class="rensyu_menu">
+	<dt>ドリーム</dt> <dd>16km（3’45”～4’00”/km）+流し</dd>
+	<dt>フューチャー</dt> <dd>16km（4’00”～4’30”/km）</dd>
+	<dt>アミーゴ/Ａ</dt> <dd>14km（4’30”～5’00”/km）</dd>
+	<dt>アミーゴ/Ｂ</dt> <dd>14km（5’00”～5’30”/km）</dd>
+	<dt>チャレンジ</dt> <dd>12km（5’30”～6’00”/km）</dd>
+	</dl>
+	<p class="commentDD">※暑さを考慮し距離を短縮</p>
+	</dd>
+	<dt>09-20</dt>
+	<dd class="rensyu_name">トラック練習（<a href="http://www.city.noda.chiba.jp/shisetsu/kouen/1001068.html" target="_blank">野田</a> or 松戸陸上競技場）
+	<dl class="rensyu_menu">
+	<dt>ドリーム</dt> <dd>400ｍ×（5本×4ｓｅｔ）</dd>
+	<dt>フューチャー</dt> <dd>400ｍ×（5本×4ｓｅｔ）</dd>
+	<dt>アミーゴ/Ａ</dt> <dd>400ｍ×（4本×4ｓｅｔ）</dd>
+	<dt>アミーゴ/Ｂ</dt> <dd>400ｍ×（4本×4ｓｅｔ）</dd>
+	<dt>チャレンジ</dt> <dd>400ｍ×（3本×4ｓｅｔ）</dd>
+	</dl>
+	<p class="commentDD">※本数間のjogもタイム設定をするのが望ましい</p>
+	</dd>
+	<dt>09-27</dt>
+	<dd class="rensyu_name">トラック練習（<a href="http://www.city.noda.chiba.jp/shisetsu/kouen/1001068.html" target="_blank">野田</a> or 松戸陸上競技場）
+	<dl class="rensyu_menu">
+	<dt>ドリーム</dt> <dd>5000ｍ+1000ｍ(T.T)</dd>
+	<dt>フューチャー</dt> <dd>5000ｍ+1000ｍ(T.T)</dd>
+	<dt>アミーゴ/Ａ</dt> <dd>5000ｍ+1000ｍ(T.T)</dd>
+	<dt>アミーゴ/Ｂ</dt> <dd>5000ｍ+1000ｍ(T.T)</dd>
+	<dt>チャレンジ</dt> <dd>5000ｍ+1000ｍ(T.T)</dd>
+	</dl>
+	<p class="commentDD"></p>
+	</dd>
+	</dl><!-- END.rensyu  -->
+	</div><!--  END.rensyuWrap  -->
+	<div class="rensyuWrap">
+	<a id="2020年10月"></a><h2>2020年10月</h2>
+	<dl class="rensyu">
+	<dt>10-04</dt>
+	<dd class="rensyu_name">ビルドアップ走（フィッシングセンター折り返し）
+	<dl class="rensyu_menu">
+	<dt>ドリーム</dt> <dd>20km（6’00”→3’45”/km）</dd>
+	<dt>フューチャー</dt> <dd>18km（6’00”→4’00”/km）</dd>
+	<dt>アミーゴ/Ａ</dt> <dd>18km（6’00”→4’30”/km）</dd>
+	<dt>アミーゴ/Ｂ</dt> <dd>16km（6’00”→5’00”/km）</dd>
+	<dt>チャレンジ</dt> <dd>14km（7’00”→6’00”/km）</dd>
+	</dl>
+	<p class="commentDD">※上半期反省会 → 10/11に変更</p>
+	</dd>
+    <dt>10-11</dt>
+    <dd class="rensyu_name">インターバル走：1000ｍ×10本（柏の葉公園）
+    <dl class="rensyu_menu">
+    <dt>ドリーム</dt> <dd>3’20”（10本）アップ、ダウン各2km</dd>
+    <dt>フューチャー</dt> <dd>3’40”（8本））アップ、ダウン各2km</dd>
+    <dt>アミーゴ/Ａ</dt> <dd>4’00”（6本）アップ、ダウン各2km</dd>
+    <dt>アミーゴ/Ｂ</dt> <dd>4’30”（5本）アップ、ダウン各2km</dd>
+    <dt>チャレンジ</dt> <dd>jog10～15km（Ｌ.Ｓ.Ｄ）</dd>
+    </dl>
+    <p class="commentDD">※上半期反省会（監督、コーチ、幹部）</p>
+    </dd>
+
+	<dt>10-18</dt>
+	<dd class="rensyu_name">ペース走
+	<dl class="rensyu_menu">
+	<dt>ドリーム</dt> <dd>20km（3’45”～4’00”/km）+流し</dd>
+	<dt>フューチャー</dt> <dd>20km（4’00”～4’30”/km）</dd>
+	<dt>アミーゴ/Ａ</dt> <dd>18km（4’30”～5’00”/km）</dd>
+	<dt>アミーゴ/Ｂ</dt> <dd>16km（5’00”～5’30”/km）</dd>
+	<dt>チャレンジ</dt> <dd>14km（5’30”～6’00”/km）</dd>
+	</dl>
+	<p class="commentDD"></p>
+	</dd>
+	<dt>10-25</dt>
+	<dd class="rensyu_name">ウィング手賀沼ハーフマラソン
+	<dl class="rensyu_menu">
+	<dt>ドリーム</dt> <dd>ウィング手賀沼ハーフマラソン</dd>
+	<dt>フューチャー</dt> <dd>ウィング手賀沼ハーフマラソン</dd>
+	<dt>アミーゴ/Ａ</dt> <dd>ウィング手賀沼ハーフマラソン</dd>
+	<dt>アミーゴ/Ｂ</dt> <dd>ウィング手賀沼ハーフマラソン</dd>
+	<dt>チャレンジ</dt> <dd>ウィング手賀沼ハーフマラソン</dd>
+	</dl>
+	<p class="commentDD"></p>
+	</dd>
+	</dl><!-- END.rensyu  -->
+	</div><!--  END.rensyuWrap  -->
+	<div class="float_clear"></div><!--改ページ -->
+	<div class="rensyuWrap">
+	<a id="2020年11月"></a><h2>2020年11月</h2>
+	<dl class="rensyu">
+	<dt>11-01</dt>
+    <dd class="rensyu_name">400mインターバル+1000m（<a href="http://www.city.noda.chiba.jp/shisetsu/kouen/1001068.html" target="_blank">野田</a>）
+    <dl class="rensyu_menu">
+    <dt>ドリーム</dt> <dd>400m×12(200jog)+1000m×2(400jog)</dd>
+    <dt>フューチャー</dt> <dd>同上</dd>
+    <dt>アミーゴ/Ａ</dt> <dd>400m×10(200jog)+1000m×2(400jog)</dd>
+    <dt>アミーゴ/Ｂ</dt> <dd>400m×10(200jog)+1000m×1</dd>
+    <dt>チャレンジ</dt> <dd>400m×8(200w)+1000m×1</dd>
+    </dl>
+    <p class="commentDD"></p>
+    </dd>
+	<dt>11-08</dt>
+	<dd class="rensyu_name">ペース走
+	<dl class="rensyu_menu">
+	<dt>ドリーム</dt> <dd>30km（3’45”～4’00”/km）+流し</dd>
+	<dt>フューチャー</dt> <dd>30km（4’00”～4’30”/km）</dd>
+	<dt>アミーゴ/Ａ</dt> <dd>30km（4’30”～5’00”/km）</dd>
+	<dt>アミーゴ/Ｂ</dt> <dd>30km（5’00”～5’30”/km）</dd>
+	<dt>チャレンジ</dt> <dd>20km（5’30”～6’00”/km）</dd>
+	</dl>
+	<p class="commentDD"></p>
+	</dd>
+	<dt>11-15</dt>
+	<dd class="rensyu_name">ビルドアップ走（フィッシングセンター折り返し）
+	<dl class="rensyu_menu">
+	<dt>ドリーム</dt> <dd>20km（6’00”→3’45”/km）</dd>
+	<dt>フューチャー</dt> <dd>18km（6’00”→4’00”/km）</dd>
+	<dt>アミーゴ/Ａ</dt> <dd>18km（6’00”→4’30”/km）</dd>
+	<dt>アミーゴ/Ｂ</dt> <dd>16km（6’00”→5’00”/km）</dd>
+	<dt>チャレンジ</dt> <dd>14km（7’00”→6’00”/km）</dd>
+	</dl>
+	<p class="commentDD"></p>
+	</dd>
+    <dt>11-22</dt>
+    <dd class="rensyu_name">L.S.D（手賀沼周回／<a href="http://wingac.html.xdomain.jp/teganooka/">手賀の丘</a>）
+	<dl class="rensyu_menu">
+	<dt>ドリーム</dt> <dd>36km（5’00”～6’00”/km）</dd>
+	<dt>フューチャー</dt> <dd>36km（5’00”～6’30”/km）</dd>
+	<dt>アミーゴ/Ａ</dt> <dd>27km（5’30”～6’30”/km）</dd>
+	<dt>アミーゴ/Ｂ</dt> <dd>27km（6’00”～7’00”/km）</dd>
+	<dt>チャレンジ</dt> <dd>jog15～20km</dd>
+	</dl>
+	<p class="commentDD"></p>
+	</dd>
+	<dt>11-29</dt>
+	<dd class="rensyu_name">ビルドアップ走（フィッシングセンター折り返し）
+	<dl class="rensyu_menu">
+	<dt>ドリーム</dt> <dd>20km（6’00”→3’45”/km）</dd>
+	<dt>フューチャー</dt> <dd>18km（6’00”→4’00”/km）</dd>
+	<dt>アミーゴ/Ａ</dt> <dd>18km（6’00”→4’30”/km）</dd>
+	<dt>アミーゴ/Ｂ</dt> <dd>16km（6’00”→5’00”/km）</dd>
+	<dt>チャレンジ</dt> <dd>14km（7’00”→6’00”/km）</dd>
+	</dl>
+	<p class="commentDD"></p>
+	</dd>
+	</dl><!-- END.rensyu  -->
+	</div><!--  END.rensyuWrap  -->
+	<div class="rensyuWrap">
+	<a id="2020年12月"></a><h2>2020年12月</h2>
+	<dl class="rensyu">
+	<dt>12-06</dt>
+	<dd class="rensyu_name">L.S.D（手賀沼周回／<a href="http://wingac.html.xdomain.jp/teganooka/">手賀の丘</a>）
+	<dl class="rensyu_menu">
+	<dt>ドリーム</dt> <dd>36km（5’00”～6’00”/km）</dd>
+	<dt>フューチャー</dt> <dd>36km（5’00”～6’30”/km）</dd>
+	<dt>アミーゴ/Ａ</dt> <dd>27km（5’30”～6’30”/km）</dd>
+	<dt>アミーゴ/Ｂ</dt> <dd>27km（6’00”～7’00”/km）</dd>
+	<dt>チャレンジ</dt> <dd>jog15～20km</dd>
+	</dl>
+	<p class="commentDD"></p>
+	</dd>
+	<dt>12-13</dt>
+    <dd class="rensyu_name">ペース走
+	<dl class="rensyu_menu">
+	<dt>ドリーム</dt> <dd>24km（3’45”～4’00”/km）+流し</dd>
+	<dt>フューチャー</dt> <dd>20km（4’00”～4’30”/km）</dd>
+	<dt>アミーゴ/Ａ</dt> <dd>18km（4’30”～5’00”/km）</dd>
+	<dt>アミーゴ/Ｂ</dt> <dd>16km（5’00”～5’30”/km）</dd>
+	<dt>チャレンジ</dt> <dd>14km（5’30”～6’00”/km）</dd>
+	</dl>
+	<p class="commentDD">※キッズウィングAC</p>
+	</dd>
+	<dt>12-20</dt>
+    <dd class="rensyu_name">チャリィティー（イベント）ラン
+	<dl class="rensyu_menu">
+	<dt>ドリーム</dt> <dd>チャリィティーラン</dd>
+	<dt>フューチャー</dt> <dd>チャリィティーラン</dd>
+	<dt>アミーゴ/Ａ</dt> <dd>チャリィティーラン</dd>
+	<dt>アミーゴ/Ｂ</dt> <dd>チャリィティーラン</dd>
+	<dt>チャレンジ</dt> <dd>チャリィティーラン</dd>
+	</dl>
+	<p class="commentDD">※忘年会（仮）</p>
+	</dd>
+	<dt>12-27</dt>
+	<dd class="rensyu_name">L.S.D（手賀沼チャレンジ）
+	<dl class="rensyu_menu">
+	<dt>ドリーム</dt> <dd>手賀沼チャレンジ40km</dd>
+	<dt>フューチャー</dt> <dd>手賀沼チャレンジ40km</dd>
+	<dt>アミーゴ/Ａ</dt> <dd>手賀沼チャレンジ40km</dd>
+	<dt>アミーゴ/Ｂ</dt> <dd>手賀沼チャレンジ40km</dd>
+	<dt>チャレンジ</dt> <dd>jog15～20km</dd>
+	</dl>
+	<p class="commentDD">※手賀沼チャレンジ（走り納め）</p>
+	</dd>
+	</dl><!-- END.rensyu  -->
+	</div><!--  END.rensyuWrap  -->
+	</section>
+
+
+
+
+
+
+
+
+                <!-- <section>
+                <h2>注意</h2>
+                <p>セット間の間隔は各チームで決める事<br>
+                例　ドリーム　セット間15分(2000mの時）</p>
+            </section> -->
+
+
+
+            <section class="DreamSetteirei">
+                <h2>ドリーム設定例</h2>
+                <h3>ペース走</h3>
+                <dl>
+                    <dt>0～10km</dt><dd>＝4’00”/km</dd>
+                    <dt>10～18km</dt><dd>＝3’45”/km</dd>
+                    <dt>18～ラスト</dt><dd>＝フリー</dd>
+                </dl>
+                <h3>Ｌ.Ｓ.Ｄ（手賀沼周回）</h3>
+                <dl>
+                    <dt>1周目</dt><dd>＝アップのつもりで＝6’00”～5’30”/km</dd>
+                    <dt>2周目</dt><dd>＝楽に＝5’30”～5’00”/km</dd>
+                    <dt>3周目</dt><dd>＝ここからが練習＝5’30”～5’00”/km</dd>
+                    <dt>4周目</dt><dd>＝しっかりと＝5’00”～フリー/km</dd>
+                </dl>
+                <h3>ビルドアップ走（フィッシングセンター折り返し）</h3>
+                <dl>
+                    <dt>0～2km</dt><dd>＝6’00”～5’30”/km（北千葉導水までアップ）</dd>
+                    <dt>2～11km</dt><dd>＝5’30”～5’00”/km（北千葉導水～フィッシングセンター）</dd>
+                    <dt>11～16km</dt><dd>＝4’00”/km（フィッシングセンターから手賀沼大橋まで）</dd>
+                    <dt>16～18km</dt><dd>＝3’45”（手賀沼大橋から鉄塔の間）</dd>
+                    <dt>18～20km</dt><dd>＝フリー/km（大津川の橋の手前の鉄塔からフリー）</dd>
+                </dl>
+            </section>
+
+
+
+
+            <!-- <section>
+            <h2>従来からの主な変更点</h2>
+            <ul>
+            <li>筑波と同じ効果が有るとの事なので、L.S.Dの新コースを選択肢の1つとして入れました。</li>
+            <li>フィッシングセンターへのビルドアップ走、フューチャー組の距離を18㎞から20㎞に増やしました。</li>
+            <li>夏場のビルドアップ走はリスクが高いので、「手賀大橋折り返し」も選択出来るようにしました。</li>
+            <li>8月のキッズWACは柏の葉のトラック練習時（8/13）に開催します。</li>
+        </ul>
+    </section> -->
+
+
+
+
+
+    <!--SSI追加。過去の練習メニュー -->
+    <!--#include virtual="/ssi/pastRensyuMenu.html"  -->
+
+
+
+
+
+
+</div>
+</div>
+
+
+
+
+</div>	<!-- #contents-->
+
+
+
+  <!-- 下部======================================================================== -->
+  <!--SSI追加。外部ファイル読み出し -->
+    <!--#include virtual="/ssi/footer.html"  -->
+  <!-- フッター終了======================================================================================== -->
+
+
+<!-- トップへ戻るボタン-->
+<p class="pagetop"><a href="#wrap">先頭へ▲</a></p>
+
+
+</div>	<!-- #page-->
+
+
+
+
+</body>
+</html>

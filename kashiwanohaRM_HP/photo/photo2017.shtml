@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<!-- レスポンシブ -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+<title>写真集｜柏の葉リレーマラソン</title>
+<meta name="keywords" content="柏の葉リレーマラソン,柏の葉公園,親睦合同練習会">
+<meta name="description" content="柏の葉リレーマラソンはウイング・アスリートクラブの主催ではなく、柏の葉リレーマラソン実行委員会が主催しています。柏の葉リレーマラソンの写真集です。">
+
+<!-- Bootstrap -->
+<link href="../css/bootstrap.min.css" rel="stylesheet">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<link href="../css/style.css" rel="stylesheet">
+
+<!-- アイコン読み出し-->
+<link rel="icon" href="../img/favicon.ico">
+
+</head>
+<body>
+<!-- #page -->
+<div id="page" class="container">
+
+	<!-- #header 画面上部のヘッダー=================================== -->
+	<!--SSI追加。ヘッダー、外部ファイル読み出し -->
+	<!--#include virtual="/kashiwanohaRM_HP/ssi/header.html"  -->
+	<!-- #header 画面上部のヘッダー、終了=============================== -->
+
+	<!-- #menu 画面上部のメニュー====================================== -->
+	<!--SSI追加。グローバルメニュー外部ファイル読み出し -->
+	<!--#include virtual="/kashiwanohaRM_HP/ssi/nav.html"  -->
+	<!-- #menu 画面上部のメニュー、終了================================= -->
+
+
+	<div class="container-fluid back_white">
+		<div class="row">
+			<!-- 本文、中央⇒左 -->
+			<!-- <div class="col-lg-6 col-lg-push-3 col-md-8 col-sm-12"> -->
+			<div class="col-md-12 col-sm-12">
+
+		<!-- #main 本文スペース -->
+
+
+
+		<div class="title">
+			<h1>写真集</h1>
+			<p class="subh"></p>
+		</div>
+
+	<section>
+	  <h3 class="bgPink">第21回 柏の葉リレーマラソン 2017年</h3>
+
+	  <!-- ギャラリー開始	-->
+	  <div id="gallery">
+		<img src="./images/2017/DSC_5916.jpg">
+		<img src="./images/2017/DSC_5925.jpg">
+		<img src="./images/2017/DSC_5942.jpg">
+		<img src="./images/2017/DSC_5945.jpg">
+		<img src="./images/2017/DSC_5965.jpg">
+		<img src="./images/2017/DSC_5976.jpg">
+		<img src="./images/2017/DSC_5982.jpg">
+		<img src="./images/2017/DSC_5991.jpg">
+		<img src="./images/2017/DSC_5998.jpg">
+		<img src="./images/2017/DSC_6002.jpg">
+		<img src="./images/2017/DSC_6006.jpg">
+		<img src="./images/2017/DSC_6009.jpg">
+		<img src="./images/2017/DSC_6013.jpg">
+		<img src="./images/2017/DSC_6015.jpg">
+		<img src="./images/2017/DSC_6021.jpg">
+		<img src="./images/2017/DSC_6027.jpg">
+		<img src="./images/2017/DSC_6031.jpg">
+		<img src="./images/2017/DSC_6040.jpg">
+		<img src="./images/2017/DSC_6044.jpg">
+		<img src="./images/2017/DSC_6049.jpg">
+		<img src="./images/2017/DSC_6056.jpg">
+		<img src="./images/2017/DSC_6058.jpg">
+		<img src="./images/2017/DSC_6065.jpg">
+		<img src="./images/2017/DSC_6066.jpg">
+		<img src="./images/2017/DSC_6067.jpg">
+		<img src="./images/2017/DSC_6068.jpg">
+		<img src="./images/2017/DSC_6069.jpg">
+		<img src="./images/2017/DSC_6070.jpg">
+		<img src="./images/2017/DSC_6071.jpg">
+		<img src="./images/2017/DSC_6072.jpg">
+		<img src="./images/2017/DSC_6073.jpg">
+		<img src="./images/2017/DSC_6074.jpg">
+		<img src="./images/2017/DSC_6075.jpg">
+		<img src="./images/2017/DSC_6076.jpg">
+		<img src="./images/2017/DSC_6078.jpg">
+		<img src="./images/2017/DSC_6079.jpg">
+		<img src="./images/2017/DSC_6081.jpg">
+		<img src="./images/2017/DSC_6082.jpg">
+		<img src="./images/2017/DSC_6083.jpg">
+		<img src="./images/2017/DSC_6084.jpg">
+		<img src="./images/2017/DSC_6085.jpg">
+		<img src="./images/2017/DSC_6086.jpg">
+		<img src="./images/2017/DSC_6087.jpg">
+		<img src="./images/2017/DSC_6088.jpg">
+		<img src="./images/2017/DSC_6089.jpg">
+		<img src="./images/2017/DSC_6090.jpg">
+		<img src="./images/2017/DSC_6091.jpg">
+		<img src="./images/2017/DSC_6092.jpg">
+		<img src="./images/2017/DSC_6093.jpg">
+		<img src="./images/2017/DSC_6094.jpg">
+		<img src="./images/2017/DSC_6095.jpg">
+		<img src="./images/2017/DSC_6096.jpg">
+		<img src="./images/2017/DSC_6097.jpg">
+		<img src="./images/2017/DSC_6098.jpg">
+		<img src="./images/2017/DSC_6099.jpg">
+		<img src="./images/2017/DSC_6100.jpg">
+		<img src="./images/2017/DSC_6102.jpg">
+		<img src="./images/2017/DSC_6103.jpg">
+		<img src="./images/2017/DSC_6104.jpg">
+		<img src="./images/2017/DSC_6105.jpg">
+		<img src="./images/2017/DSC_6106.jpg">
+		<img src="./images/2017/DSC_6107.jpg">
+		<img src="./images/2017/DSC_6108.jpg">
+		<img src="./images/2017/DSC_6109.jpg">
+		<img src="./images/2017/DSC_6110.jpg">
+		<img src="./images/2017/DSC_6112.jpg">
+	  </div><!-- /#gallery -->
+	  <!-- <p><a href="http://yahoo.jp/box/-bCaQO" target="_blank">大会写真のアルバム（他の写真含む）はここをクリックしてください</a></p> -->
+	</section>
+
+
+</div>	<!-- .col-md-8 col-sm-12 -->
+
+
+<!-- その他の写真をSSI使用-->
+	<!--#include virtual="/kashiwanohaRM_HP/ssi/photo_etc.html"  -->
+
+
+
+    <!-- サイドメニュー×2=============================================== -->
+    <!--#include virtual="/kashiwanohaRM_HP/ssi/side1.html"  -->
+    <!--#include virtual="/kashiwanohaRM_HP/ssi/side2.html"  -->
+	<!-- サイドメニュー×2　終了=========================================== -->
+
+
+		</div>	<!-- .row -->
+	</div>	<!-- .container .back_white -->
+
+
+    <!-- 下部=============================================================== -->
+    <!--#include virtual="/kashiwanohaRM_HP/ssi/footer.html"  -->
+    <!-- フッター＋トップへ戻るボタン終了========================================== -->
+
+
+
+</div>	<!-- #page-->
+
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="../js/jquery-1.12.3.min.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="../js/bootstrap.min.js"></script>
+<script>
+	$(function() {
+		$("[data-toggle=tooltip]").tooltip({
+			placement: 'bottom'
+		});
+		$("[data-toggle=popover]").popover();
+	});
+</script>
+
+<!-- ギャラリー -->
+<script src="../js/galleria/galleria-1.2.9.js" type="text/javascript"></script>
+<script src="../js/gallery_sub.js" type="text/javascript"></script>
+
+<!-- JS コードの外部ファイルに移動	-->
+<script src="../js/scripts.js" type="text/javascript"></script>
+
+
+</body>
+</html>

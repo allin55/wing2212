@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+
+<!-- 個別設定必要-->
+<title>ボディケア講習会｜ウィングAC</title>
+<meta name="keywords" content="ウィング・アスリートクラブ, ランニングクラブ, 柏市, 手賀沼">
+<meta name="description" content="本ページは、柏市手賀沼を中心に活動しているランニングクラブであるウィング・アスリートクラブのページです。ボディケア講習会（講師：ファインテン知野亨様）の受講レポート（メモ）と本の紹介です。">
+
+
+<!-- 電話番号にリンクを貼らないように-->
+<meta name="format-detection" content="telephone=no">
+
+<!-- レスポンシブ -->
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<!--[if lt IE 9]>
+  <script src="../js/css3-mediaqueries.js"></script>
+<![endif]-->	<!-- IE8以下の対応 -->
+<!-- IE9未満の対応。外部CSSファイルを指定しているlink要素の前に記述-->
+
+
+<!-- ｊQueryメイン  -->
+<script src="../js/jquery-1.12.3.min.js" type="text/javascript"></script>
+
+<!-- ドロップダウンメニュー、その他を、IE8以下に対応させるためのJS-->
+<script src="../js/html5shiv.js" type="text/javascript"></script>
+
+<!-- ギャラリー
+<script src="../js/galleria/galleria-1.2.9.js" type="text/javascript"></script>
+<script src="../js/gallery_sub.js" type="text/javascript"></script>
+ -->
+
+<!-- JS コードの外部ファイルに移動	-->
+<script src="../js/scripts.js" type="text/javascript"></script>
+
+<!-- cssファイルの読み込み	-->
+<link rel="stylesheet" href="../css/style.css">
+
+<!-- Font Awesome を利用-->
+<link rel="stylesheet" href="../font-awesome-4.6.3/css/font-awesome.min.css">
+
+<!-- アイコン読み出し-->
+<link rel="icon" href="../img/favicon.ico">
+
+</head>
+
+<body>
+<!-- #page ページの整形：中央寄せ -->
+<div id="page">
+
+
+	<!-- #header 画面上部のヘッダー======================================================== -->
+		<!--SSI追加。ヘッダー外部ファイル読み出し -->
+							<!--#include virtual="/ssi/header.html"  -->
+	<!-- #header 画面上部のヘッダー、終了==================================================== -->
+
+  <!-- スライドメニューボタン  -->
+  <div id="menuButton">
+  <div id="menuButtonInner">
+  <span class="slideButton"><i class="fa fa-bars fa-4x"></i> <br>メニュー<br></span>
+  </div>
+  </div>
+
+  <div style="clear:both;"> </div>
+  <div id="layer"> </div>
+
+
+
+<!-- #menu 画面上部のメニュー======================================================================== -->
+
+<!--SSI追加。グローバルメニュー外部ファイル読み出し -->
+          <!--#include virtual="/ssi/nav.html"  -->
+
+<!-- #menu 画面上部のメニュー、終了================================================================== -->
+
+
+
+
+
+
+	<div id="contents">
+		<!-- #main 本文スペース -->
+		<div id="main">
+			<div class="contentswrap">
+				<div class="title">
+					<h1>ボディケア講習会</h1>
+					<p class="subh">ボディケア講習会（講師：ファインテン知野亨様）の受講レポート（メモ）と本の紹介です。</p>
+				</div>
+
+                <h2>講習会は3回開催されています</h2>
+                <ul>
+                    <li>講習会1回目：2015年5月3日　＠教室</li>
+                    <li>講習会2回目：2016年2月11日　＠柏の葉陸上競技場</li>
+                    <li>講習会3回目：2017年8月12日　＠手賀沼</li>
+                </ul>
+
+                <h2>第3回目の講習会</h2>
+                <p>キイチローさんが、講習会の内容をまとめました。知野さんにも確認頂いて、コメントもはいっていますの、ぜひ、ご覧ください。</p>
+				<ul>
+					<li><a href="b3memo.pdf" target="_blank">報告書はこちら</a></li>
+				</ul>
+
+                <h2>第1回目の講習会の時に作成しました</h2>
+                <h3>本文より抜粋。作成者：キイチロー。印刷物をご希望の方は　キイチローさんまで。</h3>
+                <div class="ittaika">
+                    <ul>
+                        <li>本メモは、作成者の覚書をまとめたものです。</li>
+                        <li><a href="bmemo.pdf" target="_blank">受講メモはこちら</a></li>
+                        <li>盛りだくさんの内容でしたので、作成者の関心のある部分のメモを取るのが精いっぱいでした。その為、本内容はあくまで、講習会の一部です。</li>
+                        <li>理解できていなくても、講師が説明したことでメモをとったことは、そのまま書き写しました。</li>
+                        <li>講習会では、「講師の方がやって見せながら、説明する」形式で行われましたので、文字だけではわかりずらい部分がありますが、それを文字にするのはできておりません。それを補足するために、本メモ作成者が同じようにやろうとしてどうだったかを、【 】内に記入しました。そのほか、作成者の理解も、【 】内に表記してあります。</li>
+                        <li>こういう話もあったということをお知らせいただければ、追加いたします。私にわかるようにお知らせください。</li>
+                    </ul>
+                </div>
+
+                <h2>知野さんの本</h2>
+                <h3>2回目の講習会は、本の出版後に行われましたので、詳細はこの本をご覧ください</h3>
+                <ul>
+                    <li><a href="https://www.amazon.co.jp/駅伝の名門大学トレーニングコーチ知野亨が教える-ケガしにくいランニング-タツミムック-知野-亨/dp/4777816524/ref=sr_1_cc_8?s=aps&ie=UTF8&qid=1485745818&sr=1-8-catcorr&keywords=知野" target="_blank">amazonへのリンク</a></li>
+                    <li>題名：駅伝の名門大学トレーニングコーチ知野亨が教える ケガしにくいランニング</li>
+                    <li>出版社: 辰巳出版 (2016/1/29)</li>
+                    <li>監修者：知野亨(ちの・とおる)。ファイテン株式会社所属。早稲田大学駅伝競走部専属トレーナー</li>
+                </ul>
+
+
+
+
+				<div id="subnavi"> </div>
+			</div>
+		</div>
+
+
+        <!-- #menuL 右サイドメニュー=========================================== -->
+            <!--#include virtual="/ssi/side.html"  -->
+
+        <!-- フロートが適用されている複数のボックスの外側に親ボックスがある場合、
+        フロートが解除されていないと親ボックスの高さがなくなるため、追加  -->
+        <div style="clear: both"></div>
+
+	</div>	<!-- #contents-->
+
+    <!-- 下部=============================================================== -->
+    <!--SSI追加。外部ファイル読み出し -->
+        <!--#include virtual="/ssi/footer.html"  -->
+    <!-- フッター終了========================================================= -->
+
+
+<!-- トップへ戻るボタン-->
+<p class="pagetop"><a href="#wrap">先頭へ▲</a></p>
+
+
+</div>	<!-- #page-->
+
+
+
+
+
+</body>
+</html>

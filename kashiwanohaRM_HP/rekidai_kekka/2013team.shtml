@@ -1,0 +1,503 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<!-- レスポンシブ -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+<title>大会の結果｜柏の葉リレーマラソン</title>
+<meta name="keywords" content="柏の葉リレーマラソン,柏の葉公園,親睦合同練習会">
+<meta name="description" content="柏の葉リレーマラソンはウイング・アスリートクラブの主催ではなく、柏の葉リレーマラソン実行委員会が主催しています。柏の葉リレーマラソンの2013年の結果です。">
+
+<!-- Bootstrap -->
+<link href="../css/bootstrap.min.css" rel="stylesheet">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<link href="../css/style.css" rel="stylesheet">
+
+<!-- アイコン読み出し-->
+<link rel="icon" href="../img/favicon.ico">
+
+</head>
+<body>
+<!-- #page -->
+<div id="page" class="container">
+
+	<!-- #header 画面上部のヘッダー=================================== -->
+	<!--SSI追加。ヘッダー、外部ファイル読み出し -->
+	<!--#include virtual="/kashiwanohaRM_HP/ssi/header.html"  -->
+	<!-- #header 画面上部のヘッダー、終了=============================== -->
+
+	<!-- #menu 画面上部のメニュー====================================== -->
+	<!--SSI追加。グローバルメニュー外部ファイル読み出し -->
+	<!--#include virtual="/kashiwanohaRM_HP/ssi/nav.html"  -->
+	<!-- #menu 画面上部のメニュー、終了================================= -->
+
+
+	<div class="container-fluid back_white">
+		<div class="row">
+			<!-- 本文、中央⇒左 -->
+			<!-- <div class="col-lg-6 col-lg-push-3 col-md-8 col-sm-12"> -->
+			<div class="col-md-8 col-sm-12">
+
+		<!-- #main 本文スペース -->
+
+		<div class="title">
+			<h1>2013年の結果</h1>
+		</div>
+
+
+		<section>
+
+			<h3 class="bgPink">第17回柏の葉リレーマラソン結果</h3>
+			<h4 class="leftPink">リレーマラソンチーム成績</h4>
+			<table class="table table-striped table-hover">
+				<thead>
+					<tr>
+						<th>順位</th>
+						<th>チーム名</th>
+						<th>タイム</th>
+					</tr>
+				</thead>
+					<tbody>
+
+						<tr>
+							<td>優勝</td>
+							<td>ＧＡＺＥＬＬＥ</td>
+							<td>2時間10分16秒</td>
+						</tr>
+						<tr>
+							<td>準優勝</td>
+							<td>ウィングＡＣ スーパードリーム</td>
+							<td>2時間14分16秒</td>
+						</tr>
+						<tr>
+							<td>３位</td>
+							<td>ガゼル侍</td>
+							<td>2時間15分15秒</td>
+						</tr>
+						<tr>
+							<td>４位</td>
+							<td>ニッポンランナーズ選抜</td>
+							<td>2時間19分12秒</td>
+						</tr>
+						<tr>
+							<td>５位</td>
+							<td>流山ＣＪ－Ａ</td>
+							<td>2時間20分25秒</td>
+						</tr>
+						<tr>
+							<td>６位</td>
+							<td>ウィングＡＣ ドリーム</td>
+							<td>2時間21分47秒</td>
+						</tr>
+						<tr>
+							<td>７位</td>
+							<td>アトミクラブ</td>
+							<td>2時間23分50秒</td>
+						</tr>
+						<tr>
+							<td>８位</td>
+							<td>ふなっこアスリート</td>
+							<td>2時間23分59秒</td>
+						</tr>
+						<tr>
+							<td>９位</td>
+							<td>布佐走友会</td>
+							<td>2時間25分21秒</td>
+						</tr>
+						<tr>
+							<td>１０位</td>
+							<td>ＲＣ　Ｉ－ＢＡＸ</td>
+							<td>2時間25分22秒</td>
+						</tr>
+						<tr>
+							<td>１１位</td>
+							<td>まるこ陸上部</td>
+							<td>2時間25分37秒</td>
+						</tr>
+						<tr>
+							<td>１２位</td>
+							<td>多摩川クラブ勇</td>
+							<td>2時間26分22秒</td>
+						</tr>
+						<tr>
+							<td>１３位</td>
+							<td>大津が丘中学駅伝部　Ａ</td>
+							<td>2時間26分49秒</td>
+						</tr>
+						<tr>
+							<td>１４位</td>
+							<td>松戸２１ＲＣーＡ</td>
+							<td>2時間31分19秒</td>
+						</tr>
+						<tr>
+							<td>１５位</td>
+							<td>牛久走友会Ａ</td>
+							<td>2時間31分56秒</td>
+						</tr>
+						<tr>
+							<td>１６位</td>
+							<td>カナガワＲＣーＢ</td>
+							<td>2時間33分50秒</td>
+						</tr>
+						<tr>
+							<td>１７位</td>
+							<td>ＧＡＺＥＬＬＥ　ＭＩＸ</td>
+							<td>2時間34分37秒</td>
+						</tr>
+						<tr>
+							<td>１８位</td>
+							<td>カナガワＲＣーＡ</td>
+							<td>2時間36分36秒</td>
+						</tr>
+						<tr>
+							<td>１９位</td>
+							<td>ウィングＡＣ フューチャー</td>
+							<td>2時間37分25秒</td>
+						</tr>
+						<tr>
+							<td>２０位</td>
+							<td>松戸健走会　Ａ</td>
+							<td>2時間39分12秒</td>
+						</tr>
+						<tr>
+							<td>２１位</td>
+							<td>青竹荘</td>
+							<td>2時間39分47秒</td>
+						</tr>
+						<tr>
+							<td>２２位</td>
+							<td>ニッポンランナーズ旭鶴</td>
+							<td>2時間43分09秒</td>
+						</tr>
+						<tr>
+							<td>２３位</td>
+							<td>白井陸友会</td>
+							<td>2時間43分20秒</td>
+						</tr>
+						<tr>
+							<td>２４位</td>
+							<td>小森　夢組</td>
+							<td>2時間44分26秒</td>
+						</tr>
+						<tr>
+							<td>２５位</td>
+							<td>ＮＥＣ我孫子</td>
+							<td>2時間45分11秒</td>
+						</tr>
+						<tr>
+							<td>２６位</td>
+							<td>チーム薬円台</td>
+							<td>2時間46分31秒</td>
+						</tr>
+						<tr>
+							<td>２７位</td>
+							<td>流山ＣＪ－Ｂ</td>
+							<td>2時間48分15秒</td>
+						</tr>
+						<tr>
+							<td>２８位</td>
+							<td>大津が丘中学駅伝部　Ｂ</td>
+							<td>2時間49分38秒</td>
+						</tr>
+						<tr>
+							<td>２９位</td>
+							<td>新三郷楽走会</td>
+							<td>2時間50分14秒</td>
+						</tr>
+						<tr>
+							<td>３０位</td>
+							<td>多摩川クラブ稟</td>
+							<td>2時間51分02秒</td>
+						</tr>
+						<tr>
+							<td>３１位</td>
+							<td>楓ＡＣ（かえでＡＣ）</td>
+							<td>2時間51分59秒</td>
+						</tr>
+						<tr>
+							<td>３２位</td>
+							<td>多摩川クラブ気</td>
+							<td>2時間52分18秒</td>
+						</tr>
+						<tr>
+							<td>３３位</td>
+							<td>ニッポンランナーズ一人娘</td>
+							<td>2時間53分33秒</td>
+						</tr>
+						<tr>
+							<td>３４位</td>
+							<td>我孫子走友会　Ａ</td>
+							<td>2時間53分38秒</td>
+						</tr>
+						<tr>
+							<td>３５位</td>
+							<td>ウィングＡＣ アミーゴ　Ａ</td>
+							<td>2時間54分03秒</td>
+						</tr>
+						<tr>
+							<td>３６位</td>
+							<td>市川ＭＣ-B</td>
+							<td>2時間54分13秒</td>
+						</tr>
+						<tr>
+							<td>３７位</td>
+							<td>不忍池ＡＣ</td>
+							<td>2時間55分22秒</td>
+						</tr>
+						<tr>
+							<td>３８位</td>
+							<td>セントラル南千住　Ａ</td>
+							<td>2時間56分22秒</td>
+						</tr>
+						<tr>
+							<td>３９位</td>
+							<td>市川ＭＣ-A</td>
+							<td>2時間57分18秒</td>
+						</tr>
+						<tr>
+							<td>４０位</td>
+							<td>松戸２１ＲＣーＢ</td>
+							<td>2時間57分27秒</td>
+						</tr>
+						<tr>
+							<td>４１位</td>
+							<td>シックス・ソックス</td>
+							<td>2時間58分28秒</td>
+						</tr>
+						<tr>
+							<td>４２位</td>
+							<td>ふなッこ　Ｒｕｎ　Ｄｅ　Ｓｋｙ　Ｂ</td>
+							<td>2時間59分18秒</td>
+						</tr>
+						<tr>
+							<td>４３位</td>
+							<td>松戸２１ＲＣーＣ</td>
+							<td>2時間59分25秒</td>
+						</tr>
+						<tr>
+							<td>４４位</td>
+							<td>ニッポンランナーズ レデイース</td>
+							<td>3時間01分15秒</td>
+						</tr>
+						<tr>
+							<td>４５位</td>
+							<td>ＮＨランニンググラブ茨城</td>
+							<td>3時間03分39秒</td>
+						</tr>
+						<tr>
+							<td>４６位</td>
+							<td>ウィングＡＣ アミーゴ　Ｃ</td>
+							<td>3時間03分47秒</td>
+						</tr>
+						<tr>
+							<td>４７位</td>
+							<td>チーム旧姓・青山　たまラン</td>
+							<td>3時間04分23秒</td>
+						</tr>
+						<tr>
+							<td>４８位</td>
+							<td>チーム旧姓・青山　ファンラン</td>
+							<td>3時間04分23秒</td>
+						</tr>
+						<tr>
+							<td>４９位</td>
+							<td>ふなッこ　Ｒｕｎ　Ｄｅ　Ｓｋｙ　Ａ</td>
+							<td>3時間04分32秒</td>
+						</tr>
+						<tr>
+							<td>５０位</td>
+							<td>チーム美酒乱</td>
+							<td>3時間05分08秒</td>
+						</tr>
+						<tr>
+							<td>５１位</td>
+							<td>柏ＣＳＣ</td>
+							<td>3時間05分09秒</td>
+						</tr>
+						<tr>
+							<td>５２位</td>
+							<td>横浜金沢走友会</td>
+							<td>3時間06分39秒</td>
+						</tr>
+						<tr>
+							<td>５３位</td>
+							<td>セントラル柏</td>
+							<td>3時間07分09秒</td>
+						</tr>
+						<tr>
+							<td>５４位</td>
+							<td>はちみつレモン</td>
+							<td>3時間07分30秒</td>
+						</tr>
+						<tr>
+							<td>５５位</td>
+							<td>らんらんくらぶ</td>
+							<td>3時間07分41秒</td>
+						</tr>
+						<tr>
+							<td>５６位</td>
+							<td>慎ちゃんチーム</td>
+							<td>3時間08分43秒</td>
+						</tr>
+						<tr>
+							<td>５７位</td>
+							<td>キッコーマン食品加工用チーム</td>
+							<td>3時間09分27秒</td>
+						</tr>
+						<tr>
+							<td>５８位</td>
+							<td>ウィングＡＣ アミーゴ　Ｂ</td>
+							<td>3時間10分31秒</td>
+						</tr>
+						<tr>
+							<td>５９位</td>
+							<td>牛久走友会Ｂ</td>
+							<td>3時間12分21秒</td>
+						</tr>
+						<tr>
+							<td>６０位</td>
+							<td>ゆずわっさん</td>
+							<td>3時間13分37秒</td>
+						</tr>
+						<tr>
+							<td>６１位</td>
+							<td>牛久走友会Ｃ</td>
+							<td>3時間15分30秒</td>
+						</tr>
+						<tr>
+							<td>６２位</td>
+							<td>取手ランナーズ</td>
+							<td>3時間15分41秒</td>
+						</tr>
+						<tr>
+							<td>６３位</td>
+							<td>ふなっこファミリー</td>
+							<td>3時間15分55秒</td>
+						</tr>
+						<tr>
+							<td>６４位</td>
+							<td>コスモス流山</td>
+							<td>3時間15分58秒</td>
+						</tr>
+						<tr>
+							<td>６５位</td>
+							<td>葛飾マイペースクラブみらん</td>
+							<td>3時間16分47秒</td>
+						</tr>
+						<tr>
+							<td>６６位</td>
+							<td>南流山楽走会</td>
+							<td>3時間18分02秒</td>
+						</tr>
+						<tr>
+							<td>６７位</td>
+							<td>松戸健走会　Ｂ</td>
+							<td>3時間20分19秒</td>
+						</tr>
+						<tr>
+							<td>６８位</td>
+							<td>バンバン</td>
+							<td>3時間23分16秒</td>
+						</tr>
+						<tr>
+							<td>６９位</td>
+							<td>呼魂太鼓</td>
+							<td>3時間24分27秒</td>
+						</tr>
+						<tr>
+							<td>７０位</td>
+							<td>葛飾マイペースクラブばるさ</td>
+							<td>3時間26分26秒</td>
+						</tr>
+						<tr>
+							<td>７１位</td>
+							<td>我孫子走友会　Ｂ</td>
+							<td>3時間28分15秒</td>
+						</tr>
+						<tr>
+							<td>７２位</td>
+							<td>ガゼル　なでしこ</td>
+							<td>3時間29分24秒</td>
+						</tr>
+						<tr>
+							<td>７３位</td>
+							<td>セントラル南千住　Ｂ</td>
+							<td>3時間30分50秒</td>
+						</tr>
+						<tr>
+							<td>７４位</td>
+							<td>キッコーマン食品業務用チーム</td>
+							<td>3時間31分16秒</td>
+						</tr>
+						<tr>
+							<td>７５位</td>
+							<td>セントラル南千住　Ｃ</td>
+							<td>3時間32分57秒</td>
+						</tr>
+
+
+
+
+
+
+
+
+
+					</tbody>
+				</table>
+
+
+			</section>
+
+
+
+
+			</div>	<!-- .col-md-8 col-sm-12 -->
+
+
+    <!-- サイドメニュー×2=============================================== -->
+    <!--#include virtual="/kashiwanohaRM_HP/ssi/side1.html"  -->
+    <!--#include virtual="/kashiwanohaRM_HP/ssi/side2.html"  -->
+	<!-- サイドメニュー×2　終了=========================================== -->
+
+
+	</div>	<!-- .row -->
+</div>	<!-- .container .back_white -->
+
+
+    <!-- 下部=============================================================== -->
+    <!--#include virtual="/kashiwanohaRM_HP/ssi/footer.html"  -->
+    <!-- フッター＋トップへ戻るボタン終了========================================== -->
+
+
+
+</div>	<!-- #page-->
+
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="../js/jquery-1.12.3.min.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="../js/bootstrap.min.js"></script>
+<script>
+	$(function() {
+		$("[data-toggle=tooltip]").tooltip({
+			placement: 'bottom'
+		});
+		$("[data-toggle=popover]").popover();
+	});
+</script>
+
+<!-- JS コードの外部ファイルに移動	-->
+<script src="../js/scripts.js" type="text/javascript"></script>
+
+
+</body>
+</html>

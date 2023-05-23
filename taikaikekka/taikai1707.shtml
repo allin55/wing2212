@@ -1,0 +1,278 @@
+﻿<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+
+<!-- 個別設定必要-->
+<title>大会結果｜ウィングAC</title>
+<meta name="keywords" content="ウィング・アスリートクラブ, ランニングクラブ, 柏市, 手賀沼">
+<meta name="description" content="本ページは、柏市手賀沼を中心に活動しているランニングクラブであるウィング・アスリートクラブの大会結果のページです。2017年7月~9月の結果です。">
+
+
+<!-- 電話番号にリンクを貼らないように-->
+<meta name="format-detection" content="telephone=no">
+
+<!-- レスポンシブ -->
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<!--[if lt IE 9]>
+  <script src="../js/css3-mediaqueries.js"></script>
+<![endif]-->	<!-- IE8以下の対応 -->
+<!-- IE9未満の対応。外部CSSファイルを指定しているlink要素の前に記述-->
+
+
+<!-- ｊQueryメイン  -->
+<script src="../js/jquery-1.12.3.min.js" type="text/javascript"></script>
+
+<!-- ドロップダウンメニュー、その他を、IE8以下に対応させるためのJS-->
+<script src="../js/html5shiv.js" type="text/javascript"></script>
+
+<!-- ギャラリー
+<script src="../js/galleria/galleria-1.2.9.js" type="text/javascript"></script>
+<script src="../js/gallery_sub.js" type="text/javascript"></script>
+ -->
+
+<!-- JS コードの外部ファイルに移動	-->
+<script src="../js/scripts.js" type="text/javascript"></script>
+
+<!-- cssファイルの読み込み	-->
+<link rel="stylesheet" href="../css/style.css">
+
+<!-- Font Awesome を利用-->
+<link rel="stylesheet" href="../font-awesome-4.6.3/css/font-awesome.min.css">
+
+<!-- アイコン読み出し-->
+<link rel="icon" href="../img/favicon.ico">
+
+</head>
+
+<body>
+<!-- #page ページの整形：中央寄せ -->
+<div id="page">
+
+
+<!-- #header 画面上部のヘッダー==================================== -->
+	<!--SSI追加。ヘッダー外部ファイル読み出し -->
+						<!--#include virtual="/ssi/header.html"  -->
+<!-- #header 画面上部のヘッダー、終了================================ -->
+
+
+  <!-- スライドメニューボタン  -->
+  <div id="menuButton">
+  <div id="menuButtonInner">
+  <span class="slideButton"><i class="fa fa-bars fa-4x"></i> <br>メニュー<br></span>
+  </div>
+  </div>
+
+  <div style="clear:both;"> </div>
+  <div id="layer"> </div>
+
+
+	<!-- #menu 画面上部のメニュー======================================================================== -->
+	<!--SSI追加。グローバルメニュー外部ファイル読み出し -->
+	          <!--#include virtual="/ssi/nav.html"  -->
+	<!-- #menu 画面上部のメニュー、終了================================================================== -->
+
+
+	<div id="contents">
+		<!-- #main 本文スペース -->
+		<div id="main">
+			<div class="contentswrap">
+				<div class="title">
+					<h1><a href="../taikaikekka/index.shtml">大会結果</a>　2017年7月~9月</h1>
+					<p class="subh">大会結果の報告先は吉田さんです。<br>
+					吉田さんのアドレスを知りたい方は、<a href="mailto:wingac2016@gmail.com">wingac2016@gmail.com</a>へおたずねください。
+					</p>
+				</div>
+
+
+
+                <a id="insert-pos"></a>
+<a id="第27回北緯40°秋田内陸リゾートカップ100キロチャレンジマラソン （2017.9.24）"></a>
+<h2><a href="http://www.kumagera.ne.jp/a100km/" target="_blank">第27回北緯40°秋田内陸リゾートカップ100キロチャレンジマラソン （2017.9.24）</a></h2>
+<h3>50km</h3>
+<table class="type091">
+	<thead><tr><th>ランナー</th><th>グロスタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091female"><td>おぐらさん</td><td>4:53:54</td><td>6/89</td><td class="type091nyusyo">6位入賞</td></tr></tbody>
+</table>
+
+<a id="Ealing Half Marathon2017 （2017.9.24）"></a>
+<h2><a href="http://www.ealinghalfmarathon.com/" target="_blank">Ealing Half Marathon2017 （2017.9.24）</a></h2>
+<h3>ハーフ</h3>
+<table class="type091">
+<thead><tr><th>ランナー</th><th>グロスタイム</th><th>ネットタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>川田（元）さん</td><td>1:39:00</td><td>1:38:40</td><td>124/751</td><td class="type091nyusyo"></td></tr></tbody>
+</table>
+
+<a id="第52回白鷹若鮎マラソン （2017.9.23）"></a>
+<h2><a href="http://www.town.shirataka.lg.jp/1263.html" target="_blank">第52回白鷹若鮎マラソン （2017.9.23）</a></h2>
+<h3>ハーフ</h3>
+<table class="type091">
+	<thead><tr><th>ランナー</th><th>グロスタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>両川さん</td><td>1:21:35</td><td>2/46</td><td class="type091nyusyo">準優勝</td></tr></tbody>
+</table>
+
+<a id="第46回南房総市ロードレース千倉 （2017.9.23）"></a>
+<h2><a href="https://runnet.jp/runtes/raceDetail/top/l159873.html" target="_blank">第46回南房総市ロードレース千倉 （2017.9.23）</a></h2>
+<h3>18.4km</h3>
+<table class="type091">
+	<thead><tr><th>ランナー</th><th>グロスタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>くまのさん</td><td>1:15:16</td><td>19/484</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>平山（謙）さん</td><td>1:16:14</td><td>25/484</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>ながいさん</td><td>1:17:34</td><td>3/222</td><td class="type091nyusyo">3位表彰台</td></tr></tbody>
+</table>
+
+                <a id="第36回一関国際ハーフマラソン （2017.9.17）"></a>
+                <h2><a href="http://ichinoseki-sports.or.jp/halfmarathon2017/index.html" target="_blank">第36回一関国際ハーフマラソン （2017.9.17）</a></h2>
+                <h3>ハーフ</h3>
+                <table class="type091">
+                    <thead><tr><th>ランナー</th><th>グロスタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+                    <tbody><tr class="type091male"><td>ながいさん</td><td>1:28:55</td><td>7/184</td><td class="type091nyusyo"></td></tr></tbody>
+                    <tbody><tr class="type091male"><td>西さん</td><td>1:47:13</td><td>7/39</td><td class="type091nyusyo"></td></tr></tbody>
+                </table>
+
+                <a id="第33回巨峰の丘マラソン（2017.9.17）"></a>
+                <h2><a href="http://kyoho-no-oka-marathon.com/" target="_blank">第33回巨峰の丘マラソン（2017.9.17）</a></h2>
+                <h3>20km</h3>
+                <table class="type091">
+                    <thead><tr><th>ランナー</th><th>グロスタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+                    <tbody><tr class="type091male"><td>オガワさん</td><td>1:17:15</td><td>27/635</td><td class="type091nyusyo"></td></tr></tbody>
+                    <tbody><tr class="type091male"><td>はっとりさん</td><td>1:27:57</td><td>111/635</td><td class="type091nyusyo"></td></tr></tbody>
+                    <tbody><tr class="type091male"><td>カシマさん</td><td>1:42:29</td><td>323/635</td><td class="type091nyusyo"></td></tr></tbody>
+                </table>
+
+                <a id="RunThrough Clapham Common 10k-September 9th 2017（2017.9.9）"></a>
+                <h2><a href="http://www.runthrough.co.uk/?event=clapham-10k-september-2017" target="_blank">RunThrough Clapham Common 10k-September 9th 2017（2017.9.9）</a></h2>
+                <h3>10km</h3>    <table class="type091">
+                    <thead><tr><th>ランナー</th><th>グロスタイム</th><th>グロスタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+                    <tbody><tr class="type091male"><td>川田（元）さん</td><td>0:44:42</td><td>0:44:37</td><td>58/254</td><td class="type091nyusyo"></td></tr></tbody>
+                </table>
+
+                <a id="第6回トレニックワールド in おごせ・ときがわ 50km＆30km（2017.9.3）"></a>
+                <h2><a href="http://race.trainic-world.com/ogose-tokigawa/" target="_blank">第6回トレニックワールド in おごせ・ときがわ 50km＆30km（2017.9.3）</a></h2>
+                <h3>ミドル30km</h3>    <table class="type091">
+                    <thead><tr><th>ランナー</th><th>グロスタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+                    <tbody><tr class="type091male"><td>小松さん</td><td>5:52:52</td><td>71/77</td><td class="type091nyusyo"></td></tr></tbody>
+                </table>
+
+                <a id="北海道マラソン2017（2017.8.27）"></a>
+                <h2><a href="https://hokkaido-marathon.com/2017/" target="_blank">北海道マラソン2017（2017.8.27）</a></h2>
+                <h3>フル</h3>    <table class="type091">
+                    <thead><tr><th>ランナー</th><th>グロスタイム</th><th>ネットタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+                    <tbody><tr class="type091male"><td>ながいさん</td><td>3:07:54</td><td>3:07:41</td><td>385/1786</td><td class="type091nyusyo"></td></tr></tbody>
+                    <tbody><tr class="type091male"><td>かみむらさん</td><td>3:16:11</td><td>3:15:53</td><td>508/1786</td><td class="type091nyusyo"></td></tr></tbody>
+                    <tbody><tr class="type091female"><td>しほちゃん</td><td>3:35:05</td><td>3:34:00</td><td>111/363</td><td class="type091nyusyo"></td></tr></tbody>
+                    <tbody><tr class="type091female"><td>MEGUさん</td><td>3:37:49</td><td>3:36:24</td><td>46/1524</td><td class="type091nyusyo"></td></tr></tbody>
+                </table>
+
+                <a id="RunThrough VeloPark Series-August 26th 2017 （2017.8.26）"></a>
+                <h2><a href="http://www.runthrough.co.uk/?event=lee-valley-velopark-august-2" target="_blank">RunThrough VeloPark Series-August 26th 2017 （2017.8.26）</a></h2>
+                <h3>10km</h3>    <table class="type091">
+                    <thead><tr><th>ランナー</th><th>グロスタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+                    <tbody><tr class="type091male"><td>川田（元）さん</td><td>0:45:40</td><td>25/128</td><td class="type091nyusyo"></td></tr></tbody>
+                </table>
+
+                <a id="第12回日光杉並木マラソン （2017.8.6）"></a>
+                <h2><a href="http://www.sugima.org/" target="_blank">第12回日光杉並木マラソン （2017.8.6）</a></h2>
+                <h3>10km</h3>    <table class="type091">
+                    <thead><tr><th>ランナー</th><th>グロスタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+                    <tbody><tr class="type091male"><td>よっちゃん</td><td>0:36:06</td><td>4/730</td><td class="type091nyusyo">4位入賞</td></tr></tbody>
+                    <tbody><tr class="type091male"><td>ナベちゃん</td><td>0:40:25</td><td>28/730</td><td class="type091nyusyo"></td></tr></tbody>
+                    <tbody><tr class="type091male"><td>はっとりさん</td><td>0:44:10</td><td>88/730</td><td class="type091nyusyo"></td></tr></tbody>
+                    <tbody><tr class="type091female"><td>ひしださん</td><td>0:57:52</td><td>57/183</td><td class="type091nyusyo"></td></tr></tbody>
+                    <tbody><tr class="type091female"><td>胡桃さん</td><td>1:05:30</td><td>119/183</td><td class="type091nyusyo"></td></tr></tbody>
+                </table>
+                <h3>5km</h3>    <table class="type091">
+                    <thead><tr><th>ランナー</th><th>グロスタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+                    <tbody><tr class="type091male"><td>オガワさん</td><td>0:19:32</td><td>20/107</td><td class="type091nyusyo"></td></tr></tbody>
+                    <tbody><tr class="type091male"><td>まとばさん</td><td>0:24:12</td><td>42/146</td><td class="type091nyusyo"></td></tr></tbody>
+                </table>
+
+                <a id="RunThrough VeloPark Series  JULY 29TH 2017（2017.7.29）"></a>
+                <h2><a href="http://www.runthrough.co.uk/?event=lee-valley-velopark-july-2" target="_blank">RunThrough VeloPark Series  JULY 29TH 2017（2017.7.29）</a></h2>
+                <h3>10km</h3>    <table class="type091">
+                    <thead><tr><th>ランナー</th><th>グロスタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+                    <tbody><tr class="type091male"><td>川田（元）さん</td><td>0:47:08</td><td>24/151</td><td class="type091nyusyo"></td></tr></tbody>
+                </table>
+
+                <a id="第70回富士登山競走 （2017.7.28）"></a>
+                <h2><a href="http://www.fujimountainrace.jp/forms/top/top.aspx" target="_blank">第70回富士登山競走 （2017.7.28）</a></h2>
+                <h3>山頂コース</h3>    <table class="type091">
+                    <thead><tr><th>ランナー</th><th>グロスタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+                    <tbody><tr class="type091male"><td>千枝さん</td><td>3:51:33</td><td>310/1159</td><td class="type091nyusyo"></td></tr></tbody>
+                    <tbody><tr class="type091male"><td>くまのさん</td><td>4:14:42</td><td>715/1159</td><td class="type091nyusyo"></td></tr></tbody>
+                    <tbody><tr class="type091male"><td>ながいさん</td><td>4:14:50</td><td>718/1159</td><td class="type091nyusyo"></td></tr></tbody>
+                </table>
+
+                <a id="第2回 みちのく津軽ジャーニーラン （2017.7.16～17）"></a>
+                <h2><a href="http://sportsaid-japan.org/tsugaru-jr/" target="_blank">第2回 みちのく津軽ジャーニーラン （2017.7.16～17）</a></h2>
+                <h3>200km</h3>    <table class="type091">
+                    <thead><tr><th>ランナー</th><th>グロスタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+                    <tbody><tr class="type091male"><td>おおもりさん</td><td>26:31:17</td><td>1/146</td><td class="type091nyusyo">優勝</td></tr></tbody>
+                </table>
+
+                <a id="第５回トレニックワールド in 外秩父５０km ＆ ４３km（2017.7.9）"></a>
+                <h2><a href="https://www.sportsentry.ne.jp/event/t/68751" target="_blank">第５回トレニックワールド in 外秩父５０km ＆ ４３km（2017.7.9）</a></h2>
+                <h3>ロング50km</h3>    <table class="type091">
+                    <thead><tr><th>ランナー</th><th>グロスタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+                    <tbody><tr class="type091male"><td>おおもりさん</td><td> 10:59:01</td><td>238/398</td><td class="type091nyusyo"></td></tr></tbody>
+                </table>
+
+                <a id="第23回所沢8時間耐久レース（2017.7.2）"></a>
+                <h2><a href="https://dosports.yahoo-net.jp/events/69368" target="_blank">第23回所沢8時間耐久レース（2017.7.2）</a></h2>
+                <h3>8時間走</h3>    <table class="type091">
+                    <thead><tr><th>ランナー</th><th>走行距離</th><th>種目別順位</th><th>備考</th></tr></thead>
+                    <tbody><tr class="type091male"><td>おおもりさん</td><td>  81.150ｋｍ</td><td>5/151</td><td class="type091nyusyo"></td></tr></tbody>
+                </table>
+
+                <a id="1st日光100㎞ウルトラマラソン2017（2017.7.2）"></a>
+                <h2><a href="http://www.r-wellness.com/nikko/" target="_blank">1st日光100㎞ウルトラマラソン2017（2017.7.2）</a></h2>
+                <h3>100km</h3>    <table class="type091">
+                    <thead><tr><th>ランナー</th><th>グロスタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+                    <tbody><tr class="type091male"><td>オガワさん</td><td>10:40:14</td><td>116/1017</td><td class="type091nyusyo"></td></tr></tbody>
+                </table>
+
+                <a id="2017函館マラソン （2017.7.2）"></a>
+                <h2><a href="http://hakodate-marathon.jp/" target="_blank">2017函館マラソン （2017.7.2）</a></h2>
+                <h3>フル</h3>    <table class="type091">
+                    <thead><tr><th>ランナー</th><th>グロスタイム</th><th>ネットタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+                    <tbody><tr class="type091female"><td>にしださん</td><td>3:54:32</td><td>3:53:42</td><td>4/24</td><td class="type091nyusyo"></td></tr></tbody>
+                    <tbody><tr class="type091male"><td>松永さん</td><td>4:19:48</td><td>4:19:07</td><td>286/654</td><td class="type091nyusyo"></td></tr></tbody>
+                </table>
+
+
+
+
+				<div id="subnavi"></div>
+			</div>
+		</div>
+
+
+
+        <!-- #menuL 右サイドメニュー=========================================== -->
+            <!--#include virtual="/ssi/side.html"  -->
+
+            <!-- フロートが適用されている複数のボックスの外側に親ボックスがある場合、
+            フロートが解除されていないと親ボックスの高さがなくなるため、追加	-->
+            <div style="clear: both"></div>
+
+    	</div>	<!-- #contents-->
+
+    <!-- 下部=============================================================== -->
+    <!--SSI追加。外部ファイル読み出し -->
+        <!--#include virtual="/ssi/footer.html"  -->
+    <!-- フッター終了========================================================= -->
+
+
+<!-- トップへ戻るボタン-->
+<p class="pagetop"><a href="#wrap">先頭へ▲</a></p>
+
+
+</div>	<!-- #page-->
+
+
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+
+<!-- 個別設定必要-->
+<title>練習メニュー｜ウィングAC</title>
+<meta name="keywords" content="ウィング・アスリートクラブ, ランニングクラブ, 柏市, 手賀沼">
+<meta name="description" content="本ページは、柏市手賀沼を中心に活動しているランニングクラブであるウィング・アスリートクラブの練習メニューのページです。*YEAR+MONTH*の練習メニューです。">
+
+
+<!-- 電話番号にリンクを貼らないように-->
+<meta name="format-detection" content="telephone=no">
+
+<!-- レスポンシブ -->
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<!--[if lt IE 9]>
+  <script src="../js/css3-mediaqueries.js"></script>
+<![endif]-->	<!-- IE8以下の対応 -->
+<!-- IE9未満の対応。外部CSSファイルを指定しているlink要素の前に記述-->
+
+
+<!-- ｊQueryメイン  -->
+<script src="../js/jquery-1.12.3.min.js" type="text/javascript"></script>
+
+<!-- ドロップダウンメニュー、その他を、IE8以下に対応させるためのJS-->
+<script src="../js/html5shiv.js" type="text/javascript"></script>
+
+<!-- ギャラリー
+<script src="../js/galleria/galleria-1.2.9.js" type="text/javascript"></script>
+<script src="../js/gallery_sub.js" type="text/javascript"></script>
+ -->
+
+<!-- JS コードの外部ファイルに移動	-->
+<script src="../js/scripts.js" type="text/javascript"></script>
+
+<!-- cssファイルの読み込み	-->
+<link rel="stylesheet" href="../css/style.css">
+
+<!-- Font Awesome を利用-->
+<link rel="stylesheet" href="../font-awesome-4.6.3/css/font-awesome.min.css">
+
+<!-- アイコン読み出し-->
+<link rel="icon" href="../img/favicon.ico">
+
+</head>
+
+<body>
+<!-- #page ページの整形：中央寄せ -->
+<div id="page">
+
+
+	<!-- #header 画面上部のヘッダー==================================== -->
+		<!--SSI追加。ヘッダー外部ファイル読み出し -->
+							<!--#include virtual="/ssi/header.html"  -->
+	<!-- #header 画面上部のヘッダー、終了================================ -->
+
+
+  <!-- スライドメニューボタン  -->
+  <div id="menuButton">
+  <div id="menuButtonInner">
+  <span class="slideButton"><i class="fa fa-bars fa-4x"></i> <br>メニュー<br></span>
+  </div>
+  </div>
+
+  <div style="clear:both;"> </div>
+  <div id="layer"> </div>
+
+
+
+	<!-- #menu 画面上部のメニュー======================================================================== -->
+
+	<!--SSI追加。グローバルメニュー外部ファイル読み出し -->
+	          <!--#include virtual="/ssi/nav.html"  -->
+
+	<!-- #menu 画面上部のメニュー、終了================================================================== -->
+
+
+
+
+
+
+    <div id="contents">
+        <!-- #main 本文スペース -->
+        <div id="mainFull">
+            <div class="contentswrap">
+
+
+
+
+
+                <a id="insert-pos"></a>
+
+
+
+
+
+
+
+
+                <!-- <section>
+                <h2>注意</h2>
+                <p>セット間の間隔は各チームで決める事<br>
+                例　ドリーム　セット間15分(2000mの時）</p>
+            </section> -->
+
+
+
+            <section class="DreamSetteirei">
+                <h2>ドリーム設定例</h2>
+                <h3>ペース走</h3>
+                <dl>
+                    <dt>0～10km</dt><dd>＝4’00”/km</dd>
+                    <dt>10～18km</dt><dd>＝3’45”/km</dd>
+                    <dt>18～ラスト</dt><dd>＝フリー</dd>
+                </dl>
+                <h3>Ｌ.Ｓ.Ｄ（手賀沼周回）</h3>
+                <dl>
+                    <dt>1周目</dt><dd>＝アップのつもりで＝6’00”～5’30”/km</dd>
+                    <dt>2周目</dt><dd>＝楽に＝5’30”～5’00”/km</dd>
+                    <dt>3周目</dt><dd>＝ここからが練習＝5’30”～5’00”/km</dd>
+                    <dt>4周目</dt><dd>＝しっかりと＝5’00”～フリー/km</dd>
+                </dl>
+                <h3>ビルドアップ走（フィッシングセンター折り返し）</h3>
+                <dl>
+                    <dt>0～2km</dt><dd>＝6’00”～5’30”/km（北千葉導水までアップ）</dd>
+                    <dt>2～11km</dt><dd>＝5’30”～5’00”/km（北千葉導水～フィッシングセンター）</dd>
+                    <dt>11～16km</dt><dd>＝4’00”/km（フィッシングセンターから手賀沼大橋まで）</dd>
+                    <dt>16～18km</dt><dd>＝3’45”（手賀沼大橋から鉄塔の間）</dd>
+                    <dt>18～20km</dt><dd>＝フリー/km（大津川の橋の手前の鉄塔からフリー）</dd>
+                </dl>
+            </section>
+
+
+
+
+            <!-- <section>
+            <h2>従来からの主な変更点</h2>
+            <ul>
+            <li>筑波と同じ効果が有るとの事なので、L.S.Dの新コースを選択肢の1つとして入れました。</li>
+            <li>フィッシングセンターへのビルドアップ走、フューチャー組の距離を18㎞から20㎞に増やしました。</li>
+            <li>夏場のビルドアップ走はリスクが高いので、「手賀大橋折り返し」も選択出来るようにしました。</li>
+            <li>8月のキッズWACは柏の葉のトラック練習時（8/13）に開催します。</li>
+        </ul>
+    </section> -->
+
+
+
+
+
+    <!--SSI追加。過去の練習メニュー -->
+    <!--#include virtual="/ssi/pastRensyuMenu.html"  -->
+
+
+
+
+
+
+</div>
+</div>
+
+
+
+
+</div>	<!-- #contents-->
+
+
+
+  <!-- 下部======================================================================== -->
+  <!--SSI追加。外部ファイル読み出し -->
+    <!--#include virtual="/ssi/footer.html"  -->
+  <!-- フッター終了======================================================================================== -->
+
+
+<!-- トップへ戻るボタン-->
+<p class="pagetop"><a href="#wrap">先頭へ▲</a></p>
+
+
+</div>	<!-- #page-->
+
+
+
+
+</body>
+</html>

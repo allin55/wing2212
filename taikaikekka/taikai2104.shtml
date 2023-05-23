@@ -1,0 +1,210 @@
+﻿<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+
+<!-- 個別設定必要-->
+<title>大会結果｜ウィングAC</title>
+<meta name="keywords" content="ウィング・アスリートクラブ, ランニングクラブ, 柏市, 手賀沼">
+<meta name="description" content="本ページは、柏市手賀沼を中心に活動しているランニングクラブであるウィング・アスリートクラブの大会結果のページです。2021年4月～6月の結果です。">
+
+
+<!-- 電話番号にリンクを貼らないように-->
+<meta name="format-detection" content="telephone=no">
+
+<!-- レスポンシブ -->
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<!--[if lt IE 9]>
+  <script src="../js/css3-mediaqueries.js"></script>
+<![endif]-->	<!-- IE8以下の対応 -->
+<!-- IE9未満の対応。外部CSSファイルを指定しているlink要素の前に記述-->
+
+
+<!-- ｊQueryメイン  -->
+<script src="../js/jquery-1.12.3.min.js" type="text/javascript"></script>
+
+<!-- ドロップダウンメニュー、その他を、IE8以下に対応させるためのJS-->
+<script src="../js/html5shiv.js" type="text/javascript"></script>
+
+<!-- ギャラリー
+<script src="../js/galleria/galleria-1.2.9.js" type="text/javascript"></script>
+<script src="../js/gallery_sub.js" type="text/javascript"></script>
+ -->
+
+<!-- JS コードの外部ファイルに移動	-->
+<script src="../js/scripts.js" type="text/javascript"></script>
+
+<!-- cssファイルの読み込み	-->
+<link rel="stylesheet" href="../css/style.css">
+
+<!-- Font Awesome を利用-->
+<link rel="stylesheet" href="../font-awesome-4.6.3/css/font-awesome.min.css">
+
+<!-- アイコン読み出し-->
+<link rel="icon" href="../img/favicon.ico">
+
+</head>
+
+<body>
+<!-- #page ページの整形：中央寄せ -->
+<div id="page">
+
+
+<!-- #header 画面上部のヘッダー==================================== -->
+	<!--SSI追加。ヘッダー外部ファイル読み出し -->
+						<!--#include virtual="/ssi/header.html"  -->
+<!-- #header 画面上部のヘッダー、終了================================ -->
+
+
+  <!-- スライドメニューボタン  -->
+  <div id="menuButton">
+  <div id="menuButtonInner">
+  <span class="slideButton"><i class="fa fa-bars fa-4x"></i> <br>メニュー<br></span>
+  </div>
+  </div>
+
+  <div style="clear:both;"> </div>
+  <div id="layer"> </div>
+
+
+	<!-- #menu 画面上部のメニュー======================================================================== -->
+	<!--SSI追加。グローバルメニュー外部ファイル読み出し -->
+	          <!--#include virtual="/ssi/nav.html"  -->
+	<!-- #menu 画面上部のメニュー、終了================================================================== -->
+
+
+	<div id="contents">
+		<!-- #main 本文スペース -->
+		<div id="main">
+			<div class="contentswrap">
+				<div class="title">
+					<h1><a href="../taikaikekka/index.shtml">大会結果</a>　2021年4月～6月</h1>
+					<p class="subh">大会結果の報告先は吉田さんです。<br>
+					吉田さんのアドレスを知りたい方は、<a href="mailto:wingac2016@gmail.com">wingac2016@gmail.com</a>へおたずねください。
+					</p>
+				</div>
+
+
+
+                <a id="insert-pos"></a>
+<a id="TODABASHI20K（2021.5.29）"></a>
+<h2><a href="https://todabashi30k.net/" target="_blank">TODABASHI20K（2021.5.29）</a></h2>
+<h3>20km</h3>
+<table class="type091">
+	<thead><tr><th>ランナー</th><th>グロスタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>ながいさん</td><td>1:24:29</td><td>8/64</td><td class="type091nyusyo">8位入賞</td></tr></tbody>
+</table>
+
+<a id="モントレイル戸隠マウンテントレイル（2021.6.5）"></a>
+<h2><a href="http://www.nature-scene.net/tmt/" target="_blank">モントレイル戸隠マウンテントレイル（2021.6.5）</a></h2>
+<h3>ロング(20km)</h3>
+<table class="type091">
+	<thead><tr><th>ランナー</th><th>グロスタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>丸山さん</td><td>2:54:11</td><td>7/38</td><td class="type091nyusyo"></td></tr></tbody>
+</table>
+
+<a id="第1回君津ウルトラマラソン（2021.5.8）"></a>
+<h2><a href="https://kimitsu-iron.jp/" target="_blank">第1回君津ウルトラマラソン（2021.5.8）</a></h2>
+<h3>57km</h3>
+<table class="type091">
+	<thead><tr><th>ランナー</th><th>グロスタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>オガワさん</td><td>5:25:41</td><td>/</td><td class="type091nyusyo"></td></tr></tbody>
+</table>
+
+<a id="第9回柏の葉爽快マラソン（2021.5.3）"></a>
+<h2><a href="https://earthrunclub.net/competition/20210503_kashiwa_08/" target="_blank">第9回柏の葉爽快マラソン（2021.5.3）</a></h2>
+<h3>ハｰフ</h3>
+<table class="type091">
+	<thead><tr><th>ランナー</th><th>グロスタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>王子さん</td><td>1:13:27</td><td>/</td><td class="type091nyusyo">優勝</td></tr></tbody>
+	<tbody><tr class="type091male"><td>たかぎさん</td><td>1:41:27</td><td>/</td><td class="type091nyusyo"></td></tr></tbody>
+</table>
+
+<a id="多摩川ハｰフマラソン（2021.4.25）"></a>
+<h2><a href="https://boost-inc.jp/tama_half/" target="_blank">多摩川ハｰフマラソン（2021.4.25）</a></h2>
+<h3>ハｰフ</h3>
+<table class="type091">
+	<thead><tr><th>ランナー</th><th>グロスタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>倫亜さん</td><td>1:30:00</td><td>70/299</td><td class="type091nyusyo"></td></tr></tbody>
+</table>
+
+<a id="第14回いしおかトレイルラン（2021.4.25）"></a>
+<h2><a href="http://www.teamsportsjapan.jp/ishiokatrail.html" target="_blank">第14回いしおかトレイルラン（2021.4.25）</a></h2>
+<h3>ロング(約27km)</h3>
+<table class="type091">
+	<thead><tr><th>ランナー</th><th>グロスタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>成島さん</td><td>2:17:34</td><td>5/292</td><td class="type091nyusyo">5位入賞</td></tr></tbody>
+</table>
+<h3>ミドル(約15km)</h3>
+<table class="type091">
+	<thead><tr><th>ランナー</th><th>グロスタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>コスゲさん</td><td>1:47:04</td><td>32/253</td><td class="type091nyusyo"></td></tr></tbody>
+</table>
+
+<a id="第11回 葛飾ふ~てんマラソン（2021.4.17）"></a>
+<h2><a href="http://katsushika-marason.net/0417/" target="_blank">第11回 葛飾ふ~てんマラソン（2021.4.17）</a></h2>
+<h3>ハｰフ</h3>
+<table class="type091">
+	<thead><tr><th>ランナー</th><th>グロスタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>よっちゃん</td><td>1:17:06</td><td>1/98</td><td class="type091nyusyo">優勝</td></tr></tbody>
+	<tbody><tr class="type091male"><td>クリハラさん</td><td>1:29:15</td><td>52/228</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091female"><td>まつさん</td><td>1:29:58</td><td>2/36</td><td class="type091nyusyo">準優勝</td></tr></tbody>
+	<tbody><tr class="type091male"><td>佐藤（宏）さん</td><td>1:46:54</td><td>10/32</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091female"><td>堀米さん</td><td>1:57:47</td><td>7/21</td><td class="type091nyusyo"></td></tr></tbody>
+</table>
+
+<a id="第16回戸田･彩湖ウルトラマラソン（2021.4.10）"></a>
+<h2><a href="https://runnet.jp/cgi-bin/?id=271237" target="_blank">第16回戸田･彩湖ウルトラマラソン（2021.4.10）</a></h2>
+<h3>70km</h3>
+<table class="type091">
+	<thead><tr><th>ランナー</th><th>グロスタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>ながいさん</td><td>5:22:07</td><td>6/140</td><td class="type091nyusyo">6位入賞</td></tr></tbody>
+</table>
+
+<a id="渡良瀬 Trial Marathon（2021.4.3）"></a>
+<h2><a href="https://trial-marathon-series.com/watarase/" target="_blank">渡良瀬 Trial Marathon（2021.4.3）</a></h2>
+<h3>フル</h3>
+<table class="type091">
+	<thead><tr><th>ランナー</th><th>グロスタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>ながいさん</td><td>2:59:28</td><td>54/299</td><td class="type091nyusyo"></td></tr></tbody>
+</table>
+
+
+
+
+
+
+				<div id="subnavi"></div>
+			</div>
+		</div>
+
+
+
+        <!-- #menuL 右サイドメニュー=========================================== -->
+            <!--#include virtual="/ssi/side.html"  -->
+
+            <!-- フロートが適用されている複数のボックスの外側に親ボックスがある場合、
+            フロートが解除されていないと親ボックスの高さがなくなるため、追加	-->
+            <div style="clear: both"></div>
+
+    	</div>	<!-- #contents-->
+
+    <!-- 下部=============================================================== -->
+    <!--SSI追加。外部ファイル読み出し -->
+        <!--#include virtual="/ssi/footer.html"  -->
+    <!-- フッター終了========================================================= -->
+
+
+<!-- トップへ戻るボタン-->
+<p class="pagetop"><a href="#wrap">先頭へ▲</a></p>
+
+
+</div>	<!-- #page-->
+
+
+
+
+
+
+</body>
+</html>

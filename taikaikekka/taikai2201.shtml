@@ -1,0 +1,247 @@
+﻿<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+
+<!-- 個別設定必要-->
+<title>大会結果｜ウィングAC</title>
+<meta name="keywords" content="ウィング・アスリートクラブ, ランニングクラブ, 柏市, 手賀沼">
+<meta name="description" content="本ページは、柏市手賀沼を中心に活動しているランニングクラブであるウィング・アスリートクラブの大会結果のページです。2022年1月～3月の結果です。">
+
+
+<!-- 電話番号にリンクを貼らないように-->
+<meta name="format-detection" content="telephone=no">
+
+<!-- レスポンシブ -->
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<!--[if lt IE 9]>
+  <script src="../js/css3-mediaqueries.js"></script>
+<![endif]-->	<!-- IE8以下の対応 -->
+<!-- IE9未満の対応。外部CSSファイルを指定しているlink要素の前に記述-->
+
+
+<!-- ｊQueryメイン  -->
+<script src="../js/jquery-1.12.3.min.js" type="text/javascript"></script>
+
+<!-- ドロップダウンメニュー、その他を、IE8以下に対応させるためのJS-->
+<script src="../js/html5shiv.js" type="text/javascript"></script>
+
+<!-- ギャラリー
+<script src="../js/galleria/galleria-1.2.9.js" type="text/javascript"></script>
+<script src="../js/gallery_sub.js" type="text/javascript"></script>
+ -->
+
+<!-- JS コードの外部ファイルに移動	-->
+<script src="../js/scripts.js" type="text/javascript"></script>
+
+<!-- cssファイルの読み込み	-->
+<link rel="stylesheet" href="../css/style.css">
+
+<!-- Font Awesome を利用-->
+<link rel="stylesheet" href="../font-awesome-4.6.3/css/font-awesome.min.css">
+
+<!-- アイコン読み出し-->
+<link rel="icon" href="../img/favicon.ico">
+
+</head>
+
+<body>
+<!-- #page ページの整形：中央寄せ -->
+<div id="page">
+
+
+<!-- #header 画面上部のヘッダー==================================== -->
+	<!--SSI追加。ヘッダー外部ファイル読み出し -->
+						<!--#include virtual="/ssi/header.html"  -->
+<!-- #header 画面上部のヘッダー、終了================================ -->
+
+
+  <!-- スライドメニューボタン  -->
+  <div id="menuButton">
+  <div id="menuButtonInner">
+  <span class="slideButton"><i class="fa fa-bars fa-4x"></i> <br>メニュー<br></span>
+  </div>
+  </div>
+
+  <div style="clear:both;"> </div>
+  <div id="layer"> </div>
+
+
+	<!-- #menu 画面上部のメニュー======================================================================== -->
+	<!--SSI追加。グローバルメニュー外部ファイル読み出し -->
+	          <!--#include virtual="/ssi/nav.html"  -->
+	<!-- #menu 画面上部のメニュー、終了================================================================== -->
+
+
+	<div id="contents">
+		<!-- #main 本文スペース -->
+		<div id="main">
+			<div class="contentswrap">
+				<div class="title">
+					<h1><a href="../taikaikekka/index.shtml">大会結果</a>　2022年1月～3月</h1>
+					<p class="subh">大会結果の報告先は吉田さんです。<br>
+					吉田さんのアドレスを知りたい方は、<a href="mailto:wingac2016@gmail.com">wingac2016@gmail.com</a>へおたずねください。
+					</p>
+				</div>
+
+
+
+                <a id="insert-pos"></a>
+<a id="渡良瀬遊水地 Trial Marathon（2022.3.21）"></a>
+<h2><a href="https://trial-marathon-series.com/watarase2022/" target="_blank">渡良瀬遊水地 Trial Marathon（2022.3.21）</a></h2>
+<h3>フル</h3>
+<table class="type091">
+<thead><tr><th>ランナー</th><th>グロスタイム</th><th>ネットタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091female"><td>堀米さん</td><td>4:21:55</td><td>4:15:34</td><td>15/23</td><td class="type091nyusyo"></td></tr></tbody>
+</table>
+
+<a id="東京都北区赤羽マラソン（2022.3.12）"></a>
+<h2><a href="https://akabane-marathon.tokyo/list_about/20220312" target="_blank">東京都北区赤羽マラソン（2022.3.12）</a></h2>
+<h3>スリｰクォｰタｰ(31.64625km)</h3>
+<table class="type091">
+<thead><tr><th>ランナー</th><th>グロスタイム</th><th>ネットタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>森川さん</td><td>2:22:03</td><td>2:22:03</td><td>3/26</td><td class="type091nyusyo">3位表彰台</td></tr></tbody>
+</table>
+
+<a id="ランナｰズフルマラソンチャレンジ2022 in 板橋荒川河川敷（2022.3.21）"></a>
+<h2><a href="https://runnet.jp/record/userRaceTopShowAction.do?raceId=293893" target="_blank">ランナｰズフルマラソンチャレンジ2022 in 板橋荒川河川敷（2022.3.21）</a></h2>
+<h3>フル</h3>
+<table class="type091">
+<thead><tr><th>ランナー</th><th>グロスタイム</th><th>ネットタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>よっちゃん</td><td>2:37:41</td><td>2:37:34</td><td>38/417</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>林さん</td><td>2:41:47</td><td>2:41:36</td><td>55/417</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>ノリックさん</td><td>2:49:31</td><td>2:49:23</td><td>103/417</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>熊谷（修）さん</td><td>2:55:45</td><td>2:55:36</td><td>165/417</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>ながいさん</td><td>3:02:27</td><td>3:02:18</td><td>247/417</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>丸山さん</td><td>3:33:29</td><td>3:33:10</td><td>173/239</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>大波多さん</td><td>3:40:19</td><td>3:40:08</td><td>392/417</td><td class="type091nyusyo"></td></tr></tbody>
+</table>
+<h3>ハｰフ</h3>
+<table class="type091">
+<thead><tr><th>ランナー</th><th>グロスタイム</th><th>ネットタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>森川さん</td><td>1:27:20</td><td>1:27:17</td><td>10/20</td><td class="type091nyusyo"></td></tr></tbody>
+</table>
+
+<a id="ランナｰズフルマラソンチャレンジ2022 in 大阪（2022.2.11）"></a>
+<h2><a href="https://runnet.jp/entry/runtes/smp/competitiondetail.do?raceId=292833&div=1" target="_blank">ランナｰズフルマラソンチャレンジ2022 in 大阪（2022.2.11）</a></h2>
+<h3>フル</h3>
+<table class="type091">
+<thead><tr><th>ランナー</th><th>グロスタイム</th><th>ネットタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>ながいさん</td><td>3:00:03</td><td>2:59:56</td><td>149/241</td><td class="type091nyusyo"></td></tr></tbody>
+</table>
+
+<a id="東京マラソン2021（2022.3.6）"></a>
+<h2><a href="https://www.marathon.tokyo/" target="_blank">東京マラソン2021（2022.3.6）</a></h2>
+<h3>フル</h3>
+<table class="type091">
+<thead><tr><th>ランナー</th><th>グロスタイム</th><th>ネットタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>王子さん</td><td>2:36:21</td><td>2:36:29</td><td>174/.15050</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>池永さん</td><td>2:38:00</td><td>2:38:04</td><td>186/15050</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>ノリックさん</td><td>2:47:24</td><td>2:47:30</td><td>332/15050</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>倫亜さん</td><td>2:56:17</td><td>2:56:59</td><td>592/15050</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>ながいさん</td><td>2:59:23</td><td>2:59:37</td><td>747/15050</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091female"><td>鶴谷さん</td><td>3:05:26</td><td>3:05:47</td><td>76/3214</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>コスゲさん</td><td>3:13:05</td><td>3:13:24</td><td>1298/15050</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>山崎さん</td><td>3:16:40</td><td>3:17:44</td><td>1531/15050</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>大東さん</td><td>3:25:49</td><td>3:26:31</td><td>2048/15050</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091female"><td>りえちゃん</td><td>3:26:37</td><td>3:27:07</td><td>191/3214</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>松永さん</td><td>3:26:44</td><td>3:27:58</td><td>2160/15050</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>小鹿さん</td><td>3:52:48</td><td>3:54:33</td><td>4199/15050</td><td class="type091nyusyo"></td></tr></tbody>
+  <tbody><tr class="type091male"><td>上戸さん</td><td>4:49:25</td><td>4:46:09</td><td>9070/15050</td><td class="type091nyusyo"></td></tr></tbody>
+
+</table>
+
+<a id="ランナｰズフルマラソンチャレンジ2022 in 国営昭和記念公園（2022.2.13）"></a>
+<h2><a href="https://runnet.jp/entry/runtes/smp/competitiondetail.do?raceId=288753&div=1" target="_blank">ランナｰズフルマラソンチャレンジ2022 in 国営昭和記念公園（2022.2.13）</a></h2>
+<h3>フル</h3>
+<table class="type091">
+<thead><tr><th>ランナー</th><th>グロスタイム</th><th>ネットタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>大地さん</td><td>3:08:06</td><td>3:08:03</td><td>75/115</td><td class="type091nyusyo"></td></tr></tbody>
+</table>
+
+<a id="Akabane10kチャレンジ（2022.1.16）"></a>
+<h2><a href="https://akabane-marathon.jp/" target="_blank">Akabane10kチャレンジ（2022.1.16）</a></h2>
+<h3>10km</h3>
+<table class="type091">
+<thead><tr><th>ランナー</th><th>グロスタイム</th><th>ネットタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>オガワさん</td><td>0:39:42</td><td>0:39:40</td><td>15/120</td><td class="type091nyusyo"></td></tr></tbody>
+</table>
+<h3>5km</h3>
+<table class="type091">
+<thead><tr><th>ランナー</th><th>グロスタイム</th><th>ネットタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>オガワさん</td><td>0:18:46</td><td>0:18:44</td><td>4/17</td><td class="type091nyusyo">4位入賞</td></tr></tbody>
+</table>
+
+<a id="第64回葛飾柴又ロｰドレｰス（2022.1.10）"></a>
+<h2><a href="https://www.sportsentry.ne.jp/event/t/85914" target="_blank">第64回葛飾柴又ロｰドレｰス（2022.1.10）</a></h2>
+<h3>10km</h3>
+<table class="type091">
+	<thead><tr><th>ランナー</th><th>グロスタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>よっちゃん</td><td>0:35:14</td><td>2/51</td><td class="type091nyusyo">準優勝</td></tr></tbody>
+	<tbody><tr class="type091male"><td>ひらやまさん</td><td>0:35:51</td><td>4/33</td><td class="type091nyusyo">4位入賞</td></tr></tbody>
+	<tbody><tr class="type091male"><td>オガワさん</td><td>0:39:21</td><td>11/33</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091female"><td>珠ちゃん</td><td>0:44:18</td><td>4/15</td><td class="type091nyusyo">4位入賞</td></tr></tbody>
+</table>
+
+<a id="第22回ハイテクハｰフマラソン（2022.1.09）"></a>
+<h2><a href="https://hitech-half-marathon.net/" target="_blank">第22回ハイテクハｰフマラソン（2022.1.09）</a></h2>
+<h3>ハｰフ</h3>
+<table class="type091">
+<thead><tr><th>ランナー</th><th>グロスタイム</th><th>ネットタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>王子さん</td><td>1:13:48</td><td>1:13:42</td><td>215/5007</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>成島さん</td><td>1:18:58</td><td>1:18:47</td><td>475/5007</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>ノリックさん</td><td>1:21:24</td><td>1:21:10</td><td>620/5007</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>熊谷（修）さん</td><td>1:23:10</td><td>1:22:56</td><td>753/5007</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>ながいさん</td><td>1:25:28</td><td>1:25:02</td><td>974/5007</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>大東さん</td><td>1:30:00</td><td>1:29:30</td><td>1416/5007</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091female"><td>まつさん</td><td>1:32:01</td><td>1:31:31</td><td>92/1006</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091female"><td>石元さん</td><td>1:35:49</td><td>1:34:41</td><td>143/1006</td><td class="type091nyusyo"></td></tr></tbody>
+  <tbody><tr class="type091male"><td>大波多さん</td><td>1:36:02</td><td>1:34:32</td><td>1936/5007</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>山上さん</td><td>1:39:01</td><td>1:37:16</td><td>2232/5007</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091female"><td>雅子さん</td><td>1:51:01</td><td>1:50:12</td><td>407/1006</td><td class="type091nyusyo"></td></tr></tbody>
+</table>
+<h3>10km</h3>
+<table class="type091">
+<thead><tr><th>ランナー</th><th>グロスタイム</th><th>ネットタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091female"><td>小室（絵）さん</td><td>0:40:04</td><td>0:40:01</td><td>3/119</td><td class="type091nyusyo">3位表彰台</td></tr></tbody>
+</table>
+
+
+
+
+
+
+				<div id="subnavi"></div>
+			</div>
+		</div>
+
+
+
+        <!-- #menuL 右サイドメニュー=========================================== -->
+            <!--#include virtual="/ssi/side.html"  -->
+
+            <!-- フロートが適用されている複数のボックスの外側に親ボックスがある場合、
+            フロートが解除されていないと親ボックスの高さがなくなるため、追加	-->
+            <div style="clear: both"></div>
+
+    	</div>	<!-- #contents-->
+
+    <!-- 下部=============================================================== -->
+    <!--SSI追加。外部ファイル読み出し -->
+        <!--#include virtual="/ssi/footer.html"  -->
+    <!-- フッター終了========================================================= -->
+
+
+<!-- トップへ戻るボタン-->
+<p class="pagetop"><a href="#wrap">先頭へ▲</a></p>
+
+
+</div>	<!-- #page-->
+
+
+
+
+
+
+</body>
+</html>

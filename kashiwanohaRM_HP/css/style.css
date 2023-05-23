@@ -1,0 +1,358 @@
+/*------------------------------------
+CSS Information
+
+  Site URL: http://example.com/
+  File name: style.css (http://example.com/css/style.css)
+  Summary: common styles
+  Created: 2016-05-26
+  Last update: 2016-06-04
+  Copyright: (c) 2016 Wing Athlete Club
+
+  Order of description
+
+  __Default_style_clear？？？
+  __header (#header)
+  __Main_menu (#menu)
+  __Main_content (#main)
+  __Main_Full_width (#mainFull) メンバー紹介など、１カラム表示に使用
+  __Side_menu (#menuL) 現在は右側に表示
+  __under_navi(#underNavi)
+  __footer (#footer)
+======================================*/
+
+body {
+	/* 斜めにボーダー */
+	/* 上⇒下への白からピンクに変わっていくグラデーションを指定 */
+	/* #fffの後にスペースを開けて50%と指定 */
+	/* 「#fff 50%, #ffc0cb」の間に「#ffc0cb 50%」を挿入 */
+	/*　#d0ffd0, #97FF87, #ffdddd */
+	/* linear-gradient()関数の引数の一番前に「-45deg」と指定 */
+	/* -45度斜めから25%、50%、75%、100%と、ボーダーが交互に色違いとなるように指定 */
+	background-image: linear-gradient(
+		-45deg,
+    #fff 25%,
+    #ffdddd 25%, #ffdddd 50%,
+    #fff 50%, #fff 75%,
+    #ffdddd 75%, #ffdddd
+	);
+  /* 幅50px、高さ50pxで背景画像のサイズを指定 */
+	/* 幅8px、高さ8pxで背景画像のサイズを指定 */
+	background-size: 8px 8px;
+	/*font設定。Nicoよりコピー。*/
+	font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,"Yu Gothic",YuGothic,"ヒラギノ角ゴ ProN W3","Hiragino Kaku Gothic ProN","メイリオ",Meiryo,sans-serif;
+}
+
+#page {
+	/*background: #fff;*/
+}
+
+/* 背景を白に */
+.back_white {
+	background: #fff;
+}
+
+header {
+	position: relative;
+}
+
+#titlelogo {
+	position: absolute; top:10px; left:10px;
+}
+
+#titlelogo img{
+	max-width: 60%;
+}
+
+#titlelogo_sub img {
+	width: 100%;
+	background: #fff;
+}
+
+/*	タイトル	*/
+.title{
+	padding: 0px 0px 0px 10px;
+	margin: 0px 0px 20px;
+	/*border-left: 30px solid #333333;*/
+	border-left: 30px solid #f3d4df;
+}
+
+/*	タイトルの下の、サブタイトル	*/
+.subh {
+	padding: 5px 0px 0px 3px;
+	margin: 0px;
+	/*border-top: 1px dashed #999999;*/
+	border-top: 1px dashed #f3d4df;
+}
+
+.nav li {
+		/*border-right: 1px solid #eee;*/
+		/*margin-right: 0px;*/
+}
+
+.nav li a {
+	/*width: 120px;*/
+}
+
+.navbar {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	min-height: 50px;	/*	スマホで、メニュー表示高さを低く	*/
+}
+
+/*	スマホで、メニュー表示高さを低く	*/
+.navbar-toggle {
+	margin-top: 8px;
+	margin-bottom: 8px;
+}
+
+.navbar-collapse {
+	padding: 0px;
+}
+
+section p, dl {
+	/*margin-left: 5px;*/
+	/*margin-right: 5px;*/
+}
+
+.bgPink {
+	background: #f3d4df;
+	padding: 5px;
+	margin-top: 19px;
+	margin-bottom: 7px;
+}
+
+/* 	最新情報の文字を大きく	181006 */
+.big dd {
+	font-size: 1.2em;
+}
+/*	見出しの頭に、ピンクの四角	*/
+.leftPink {
+	border-left: 10px solid #f3d4df;
+	padding-left: 5px;
+}
+
+.well{
+		margin-bottom: 5px;
+}
+
+.banner img{
+	margin-top: 5px;
+	width: 262.5px;
+}
+
+/*リンク集バナーをマウスオーバーした際に半透明に*/
+.banner img:hover{
+	filter: alpha(opacity=70);	/*IE*/
+	opacity: .7;
+}
+
+/*	協賛のバナー	*/
+.kyosan {
+	border: 1px solid #ccc;
+	border-radius: 1px;
+	margin-bottom: 5px;
+}
+/*	協賛のバナーをマウスオーバーした際に半透明に	*/
+.kyosan img:hover{
+	filter: alpha(opacity=70);	/*IE*/
+	opacity: .7;
+}
+/*	協賛のバナーをマウスオーバーした際に半透明にしない「id」	*/
+#nonlink img:hover {
+	filter: alpha(opacity=100);	/*IE*/
+	opacity: 1;
+}
+
+
+footer {
+	margin-top: 10px;
+	padding-top: 3px;
+}
+
+footer .list-inline {
+	/*width: 150px;*/
+	/*margin: 0 20px 0;*/
+	margin-left: 0;
+}
+
+/* フッターの一段目のリスト */
+footer .first > li > a {
+	border-left: 2px solid #fff;
+	padding-left: 20px;
+	margin-left: 20px;
+}
+
+/* フッターの二段目のリスト */
+footer .second > li > a {
+	padding-left: 20px;
+	margin-left: 40px;
+}
+
+footer a {
+	color: #fff;
+}
+
+.border-top {
+	border-top: 1px solid #f3d4df;
+}
+
+
+.panel {
+	/*width: 250px;*/
+	/*height: 160px;*/
+}
+
+
+
+/*トップへ戻るボタン*/
+.pagetop {
+    display: none;
+    position: fixed;
+    bottom: 30px;
+    right: 15px;
+}
+.pagetop a {
+    display: block;
+    background-color: #ccc;
+    text-align: center;
+    color: #222;
+    font-size: 12px;	font-size: 1.2rem;
+    text-decoration: none;
+    padding: 5px 10px;
+	filter:alpha(opacity=70);
+    -moz-opacity: 0.7;
+    opacity: 0.7;
+}
+.pagetop a:hover {
+    display: block;
+    background-color: #b2d1fb;
+    text-align: center;
+    color: #fff;
+    font-size: 12px;;	font-size: 1.2rem;
+    text-decoration: none;
+    padding:5px 10px;
+	filter:alpha(opacity=50);
+    -moz-opacity: 0.5;
+    opacity: 0.5;
+}
+
+
+/* PDFファイル */
+/*a[href$=".pdf"] {
+	background: url(../img/pdf_20.gif) no-repeat 0% 50%;
+	padding-left: 25px;
+}*/
+
+.align-right {
+	text-align: right;
+}
+
+.underline {
+	text-decoration:underline;
+}
+
+.indent-1 {
+	text-indent: 1em;
+}
+
+.kouzamei {
+	padding-left: 20px;
+}
+
+.kouzamei li {
+	margin-top: 10px;
+}
+
+/*	案内を囲む	*/
+/*.annai {
+	border: 1px solid #ccc;
+	border-radius: 1px;
+	margin-bottom: 5px;
+	padding: 5px;
+}*/
+
+/*====大会要項=====*/
+.yoko dl{
+	overflow: hidden;	/*高さ確保*/
+	margin:1rem 0 1rem 1rem;
+	padding:0;
+}
+.yoko dt{
+	float: left;
+	margin-right: 0;
+	width: 20%;
+}
+.yoko dd{
+	float: left;
+	padding-right:  0;
+	width: 75%;
+}
+.yoko th{
+	width: 20%;
+}
+
+/*	口座名のテーブル	*/
+.kozamei th {
+	min-width: 80px;
+}
+
+/*	facebook埋め込みで、縦横スクロールを表示*/
+.fb-iframe {
+	overflow: scroll;
+}
+
+/* facbookの埋め込みの下にスペース。181007。 */
+.fb-under {
+	margin-bottom: 20px;
+}
+
+/*	写真集、その他の写真	*/
+.galleryArchive {
+	list-style-type: none;
+}
+
+.galleryArchive li {
+	padding-right: 40px;
+	padding-bottom: 3px;
+	font-size: 18px;
+}
+
+
+
+
+/*	幅768px 以上のとき*/
+@media (min-width: 768px) {
+
+	/*	下部メニューを横並びに	*/
+	.underBox {
+		float: left;
+	}
+
+	/*	facebook埋め込みで、領域をはみ出して表示する （初期値）	*/
+	.fb-iframe {
+		overflow: visible;
+	}
+
+
+}
+
+/*	幅768px 以下のとき*/
+@media (max-width: 768px) {
+	/*	文字を小さ目	*/
+	body {
+		font-size: 14px;
+	}
+	h1 {
+		font-size: 26px;
+	}
+	h3 {
+		font-size: 20px;
+	}
+	h4 {
+		font-size: 17px;
+	}
+	.panel-title {
+		font-size: 16px;
+	}
+
+}
